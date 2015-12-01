@@ -1,0 +1,30 @@
+﻿[
+
+			{
+			"attr":"人数",
+			"operator":
+			[
+				{
+					"name":"大于",
+					"operand":"Num",
+					"unit":"人",
+					"ModeID":"19"
+				},
+				{
+					"name":"小于",
+					"operand":"Num",
+					"unit":"人",
+					"ModeID":"20"
+				},
+				{
+					"name":"等于",
+					"operand":"Num",
+					"unit":"人",
+					"ModeID":"21"
+				}
+			
+			]
+			}
+			]
+			
+			

@@ -1,0 +1,53 @@
+html {
+	height: 100%;
+}
+
+body {
+	height: 100%;
+	padding-top: 70px;
+}
+
+body #gs-wrapper {
+	height: 100%;
+}
+
+body #gs-wrapper #gs-content {
+	height: 100%;
+	padding-bottom: 75px;
+}
+
+body #gs-wrapper #gs-content .row {
+	height: 100%;
+}
+
+body #gs-wrapper #gs-content .row #gs-leftbar {
+	height: 100%;
+	border: 1px solid #ddd;
+	min-height: 350px;
+	
+}
+
+body #gs-wrapper #gs-content .row #gs-center {
+	height: 100%;
+	padding: 0px 10px;
+}
+
+body #gs-wrapper #gs-content .row #gs-rightbar {
+	height: 100%;
+	border: 1px solid #ddd;
+	min-height: 350px;
+	margin-top:5px;
+}
+
+footer {
+	position: fixed;
+	width: 100%;
+	bottom: 0px;
+	height: 50px;
+	background-color: #F2F2F2;
+	text-align: center;
+}
+
+footer p{
+	margin-top: 20px;
+}

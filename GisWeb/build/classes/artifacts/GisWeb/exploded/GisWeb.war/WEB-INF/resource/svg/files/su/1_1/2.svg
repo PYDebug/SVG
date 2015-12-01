@@ -1,0 +1,3534 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g>
+  <title>超市</title>
+  <g class="entity" id="svg_1">
+   <image width="20" height="20" x="244.769073" y="1022.767944" xlink:href="/resource/icon/su" id="svg_2"/>
+   <text x="254.769073" y="1047.767944" font-size="1" text-anchor="middle" id="svg_3">嘉联超市</text>
+   <info transform="translate(254.76907348632812,1042.7679443359375) ">
+    <address>上海市闵行区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_4">
+   <image width="20" height="20" x="919.280151" y="591.040405" xlink:href="/resource/icon/su" id="svg_5"/>
+   <text x="929.280151" y="616.040405" font-size="1" text-anchor="middle" id="svg_6">花木超市</text>
+   <info transform="translate(929.2801513671875,611.0404052734375) ">
+    <address>上海市浦东新区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_7">
+   <image width="20" height="20" x="-33.139982" y="1169.741455" xlink:href="/resource/icon/su" id="svg_8"/>
+   <text x="-23.139982" y="1194.741455" font-size="1" text-anchor="middle" id="svg_9">新星超市</text>
+   <info transform="translate(-23.139982223510742,1189.741455078125) ">
+    <address>申港路142</address>
+    <phone>021-67648251</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_10">
+   <image width="20" height="20" x="1052.937134" y="341.439301" xlink:href="/resource/icon/su" id="svg_11"/>
+   <text x="1062.937134" y="366.439301" font-size="1" text-anchor="middle" id="svg_12">教育超市</text>
+   <info transform="translate(1062.9371337890625,361.4393005371094) ">
+    <address>金业路220临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_13">
+   <image width="20" height="20" x="975.713928" y="948.512024" xlink:href="/resource/icon/su" id="svg_14"/>
+   <text x="985.713928" y="973.512024" font-size="1" text-anchor="middle" id="svg_15">联华超市</text>
+   <info transform="translate(985.7139282226562,968.5120239257812) ">
+    <address>康沈路1549</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_16">
+   <image width="20" height="20" x="757.042114" y="2112.231201" xlink:href="/resource/icon/su" id="svg_17"/>
+   <text x="767.042114" y="2137.231201" font-size="1" text-anchor="middle" id="svg_18">闽北超市</text>
+   <info transform="translate(767.0421142578125,2132.231201171875) ">
+    <address>上海市奉贤区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_19">
+   <image width="20" height="20" x="709.601379" y="1207.925293" xlink:href="/resource/icon/su" id="svg_20"/>
+   <text x="719.601379" y="1232.925293" font-size="1" text-anchor="middle" id="svg_21">嘉联超市</text>
+   <info transform="translate(719.6013793945312,1227.92529296875) ">
+    <address>沈杜公路4208号附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_22">
+   <image width="20" height="20" x="973.711426" y="27.094044" xlink:href="/resource/icon/su" id="svg_23"/>
+   <text x="983.711426" y="52.094044" font-size="1" text-anchor="middle" id="svg_24">世纪超市</text>
+   <info transform="translate(983.71142578125,47.09404373168945) ">
+    <address>行南路810号附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_25">
+   <image width="20" height="20" x="-344.872894" y="1223.171509" xlink:href="/resource/icon/su" id="svg_26"/>
+   <text x="-334.872894" y="1248.171509" font-size="1" text-anchor="middle" id="svg_27">大江超市</text>
+   <info transform="translate(-334.8728942871094,1243.1715087890625) ">
+    <address>新庙三路930</address>
+    <phone>13524521640</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_28">
+   <image width="20" height="20" x="1565.319458" y="808.337769" xlink:href="/resource/icon/su" id="svg_29"/>
+   <text x="1575.319458" y="833.337769" font-size="1" text-anchor="middle" id="svg_30">联华超市</text>
+   <info transform="translate(1575.3194580078125,828.3377685546875) ">
+    <address>六陈路721</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_31">
+   <image width="20" height="20" x="203.008072" y="-17.825422" xlink:href="/resource/icon/su" id="svg_32"/>
+   <text x="213.008072" y="7.174578" font-size="1" text-anchor="middle" id="svg_33">国贸超市</text>
+   <info transform="translate(213.00807189941406,2.1745777130126953) ">
+    <address>沪太路4009弄2～12号临附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_34">
+   <image width="20" height="20" x="-438.625763" y="1003.853516" xlink:href="/resource/icon/su" id="svg_35"/>
+   <text x="-428.625763" y="1028.853516" font-size="1" text-anchor="middle" id="svg_36">联华超市</text>
+   <info transform="translate(-428.6257629394531,1023.853515625) ">
+    <address>古楼公路368</address>
+    <phone>021-37789813</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_37">
+   <image width="20" height="20" x="125.748413" y="139.65213" xlink:href="/resource/icon/su" id="svg_38"/>
+   <text x="135.748413" y="164.65213" font-size="1" text-anchor="middle" id="svg_39">世纪超市</text>
+   <info transform="translate(135.7484130859375,159.65213012695312) ">
+    <address>上海市宝山区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_40">
+   <image width="20" height="20" x="190.956726" y="602.491028" xlink:href="/resource/icon/su" id="svg_41"/>
+   <text x="200.956726" y="627.491028" font-size="1" text-anchor="middle" id="svg_42">幸福超市</text>
+   <info transform="translate(200.95672607421875,622.4910278320312) ">
+    <address>黄金城道559临</address>
+    <phone>021-62084321</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_43">
+   <image width="20" height="20" x="218.663895" y="1235.095459" xlink:href="/resource/icon/su" id="svg_44"/>
+   <text x="228.663895" y="1260.095459" font-size="1" text-anchor="middle" id="svg_45">联华超市</text>
+   <info transform="translate(228.6638946533203,1255.095458984375) ">
+    <address>沪闵路3131弄245</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_46">
+   <image width="20" height="20" x="403.329773" y="873.828247" xlink:href="/resource/icon/su" id="svg_47"/>
+   <text x="413.329773" y="898.828247" font-size="1" text-anchor="middle" id="svg_48">老兵超市</text>
+   <info transform="translate(413.32977294921875,893.8282470703125) ">
+    <address>罗秀路79</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_49">
+   <image width="20" height="20" x="-188.496704" y="1208.5625" xlink:href="/resource/icon/su" id="svg_50"/>
+   <text x="-178.496704" y="1233.5625" font-size="1" text-anchor="middle" id="svg_51">苏果超市</text>
+   <info transform="translate(-178.4967041015625,1228.5625) ">
+    <address>新育路123</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_52">
+   <image width="20" height="20" x="43.136639" y="463.363556" xlink:href="/resource/icon/su" id="svg_53"/>
+   <text x="53.136639" y="488.363556" font-size="1" text-anchor="middle" id="svg_54">世纪超市</text>
+   <info transform="translate(53.13663864135742,483.3635559082031) ">
+    <address>云岭西路蔡家浜6</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_55">
+   <image width="20" height="20" x="-62.703999" y="-1762.266357" xlink:href="/resource/icon/su" id="svg_56"/>
+   <text x="-52.703999" y="-1737.266357" font-size="1" text-anchor="middle" id="svg_57">劲力超市</text>
+   <info transform="translate(-52.70399856567383,-1742.266357421875) ">
+    <address>宏海公路1972</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_58">
+   <image width="20" height="20" x="1256.75415" y="596.292419" xlink:href="/resource/icon/su" id="svg_59"/>
+   <text x="1266.75415" y="621.292419" font-size="1" text-anchor="middle" id="svg_60">创新超市</text>
+   <info transform="translate(1266.754150390625,616.2924194335938) ">
+    <address>创新西路975识别</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_61">
+   <image width="20" height="20" x="781.654541" y="1186.079956" xlink:href="/resource/icon/su" id="svg_62"/>
+   <text x="791.654541" y="1211.079956" font-size="1" text-anchor="middle" id="svg_63">联华超市</text>
+   <info transform="translate(791.654541015625,1206.0799560546875) ">
+    <address>谈中路87号</address>
+    <phone>021-64119688</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_64">
+   <image width="20" height="20" x="342.235657" y="1879.532837" xlink:href="/resource/icon/su" id="svg_65"/>
+   <text x="352.235657" y="1904.532837" font-size="1" text-anchor="middle" id="svg_66">欢乐超市</text>
+   <info transform="translate(352.23565673828125,1899.5328369140625) ">
+    <address>华园路11-3临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_67">
+   <image width="20" height="20" x="-185.43837" y="1196.137939" xlink:href="/resource/icon/su" id="svg_68"/>
+   <text x="-175.43837" y="1221.137939" font-size="1" text-anchor="middle" id="svg_69">联华超市</text>
+   <info transform="translate(-175.43836975097656,1216.137939453125) ">
+    <address>新育路400</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_70">
+   <image width="20" height="20" x="-187.550079" y="927.895447" xlink:href="/resource/icon/su" id="svg_71"/>
+   <text x="-177.550079" y="952.895447" font-size="1" text-anchor="middle" id="svg_72">联众超市</text>
+   <info transform="translate(-177.55007934570312,947.8954467773438) ">
+    <address>九新公路302弄60号附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_73">
+   <image width="20" height="20" x="445.127197" y="503.595398" xlink:href="/resource/icon/su" id="svg_74"/>
+   <text x="455.127197" y="528.595398" font-size="1" text-anchor="middle" id="svg_75">城市超市</text>
+   <info transform="translate(455.127197265625,523.5953979492188) ">
+    <address>陕西南路111号B1</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_76">
+   <image width="20" height="20" x="1686.160522" y="1948.664185" xlink:href="/resource/icon/su" id="svg_77"/>
+   <text x="1696.160522" y="1973.664185" font-size="1" text-anchor="middle" id="svg_78">联华超市</text>
+   <info transform="translate(1696.1605224609375,1968.6641845703125) ">
+    <address>四平公路1353</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_79">
+   <image width="20" height="20" x="-422.205383" y="1475.075562" xlink:href="/resource/icon/su" id="svg_80"/>
+   <text x="-412.205383" y="1500.075562" font-size="1" text-anchor="middle" id="svg_81">世纪超市</text>
+   <info transform="translate(-412.20538330078125,1495.0755615234375) ">
+    <address>北松公路7123临</address>
+    <phone>021-57774120</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_82">
+   <image width="20" height="20" x="560.61615" y="1109.439331" xlink:href="/resource/icon/su" id="svg_83"/>
+   <text x="570.61615" y="1134.439331" font-size="1" text-anchor="middle" id="svg_84">家人超市</text>
+   <info transform="translate(570.6161499023438,1129.4393310546875) ">
+    <address>立跃路4403号</address>
+    <phone>13370267620</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_85">
+   <image width="20" height="20" x="459.253845" y="-341.682495" xlink:href="/resource/icon/su" id="svg_86"/>
+   <text x="469.253845" y="-316.682495" font-size="1" text-anchor="middle" id="svg_87">联华超市</text>
+   <info transform="translate(469.25384521484375,-321.6824951171875) ">
+    <address>盘古路927弄26临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_88">
+   <image width="20" height="20" x="817.881409" y="-187.900452" xlink:href="/resource/icon/su" id="svg_89"/>
+   <text x="827.881409" y="-162.900452" font-size="1" text-anchor="middle" id="svg_90">腾飞超市</text>
+   <info transform="translate(827.8814086914062,-167.90045166015625) ">
+    <address>凌环路57号</address>
+    <phone>021-58640190</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_91">
+   <image width="20" height="20" x="591.272461" y="826.087097" xlink:href="/resource/icon/su" id="svg_92"/>
+   <text x="601.272461" y="851.087097" font-size="1" text-anchor="middle" id="svg_93">玲珑超市</text>
+   <info transform="translate(601.2724609375,846.0870971679688) ">
+    <address>上浦路166弄2</address>
+    <phone>021-50844561</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_94">
+   <image width="20" height="20" x="999.343262" y="1850.633301" xlink:href="/resource/icon/su" id="svg_95"/>
+   <text x="1009.343262" y="1875.633301" font-size="1" text-anchor="middle" id="svg_96">华联超市</text>
+   <info transform="translate(1009.34326171875,1870.63330078125) ">
+    <address>姚家村1138</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_97">
+   <image width="20" height="20" x="-197.416885" y="-554.811035" xlink:href="/resource/icon/su" id="svg_98"/>
+   <text x="-187.416885" y="-529.811035" font-size="1" text-anchor="middle" id="svg_99">嘉联超市</text>
+   <info transform="translate(-187.41688537597656,-534.81103515625) ">
+    <address>徐行镇劳动村潘桥303号109室附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_100">
+   <image width="20" height="20" x="187.315842" y="1483.658936" xlink:href="/resource/icon/su" id="svg_101"/>
+   <text x="197.315842" y="1508.658936" font-size="1" text-anchor="middle" id="svg_102">碧江超市</text>
+   <info transform="translate(197.3158416748047,1503.658935546875) ">
+    <address>上海市闵行区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_103">
+   <image width="20" height="20" x="933.006287" y="992.157166" xlink:href="/resource/icon/su" id="svg_104"/>
+   <text x="943.006287" y="1017.157166" font-size="1" text-anchor="middle" id="svg_105">嘉联超市</text>
+   <info transform="translate(943.0062866210938,1012.1571655273438) ">
+    <address>建韵路37-1</address>
+    <phone>021-68066515</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_106">
+   <image width="20" height="20" x="392.261475" y="571.224915" xlink:href="/resource/icon/su" id="svg_107"/>
+   <text x="402.261475" y="596.224915" font-size="1" text-anchor="middle" id="svg_108">联华超市</text>
+   <info transform="translate(402.261474609375,591.2249145507812) ">
+    <address>建国西路615-2临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_109">
+   <image width="20" height="20" x="431.473846" y="1020.019043" xlink:href="/resource/icon/su" id="svg_110"/>
+   <text x="441.473846" y="1045.019043" font-size="1" text-anchor="middle" id="svg_111">福乐超市</text>
+   <info transform="translate(441.4738464355469,1040.01904296875) ">
+    <address>上海市徐汇区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_112">
+   <image width="20" height="20" x="-450.385834" y="1410.449829" xlink:href="/resource/icon/su" id="svg_113"/>
+   <text x="-440.385834" y="1435.449829" font-size="1" text-anchor="middle" id="svg_114">华兴超市</text>
+   <info transform="translate(-440.3858337402344,1430.4498291015625) ">
+    <address>松卫北路1113临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_115">
+   <image width="20" height="20" x="124.000778" y="291.604614" xlink:href="/resource/icon/su" id="svg_116"/>
+   <text x="134.000778" y="316.604614" font-size="1" text-anchor="middle" id="svg_117">联华超市</text>
+   <info transform="translate(134.0007781982422,311.6046142578125) ">
+    <address>清涧路58</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_118">
+   <image width="20" height="20" x="1590.077515" y="949.012634" xlink:href="/resource/icon/su" id="svg_119"/>
+   <text x="1600.077515" y="974.012634" font-size="1" text-anchor="middle" id="svg_120">天成超市</text>
+   <info transform="translate(1600.0775146484375,969.0126342773438) ">
+    <address>周祝公路2708号</address>
+    <phone>021-53160987</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_121">
+   <image width="20" height="20" x="410.502319" y="455.535645" xlink:href="/resource/icon/su" id="svg_122"/>
+   <text x="420.502319" y="480.535645" font-size="1" text-anchor="middle" id="svg_123">城市超市</text>
+   <info transform="translate(420.5023193359375,475.53564453125) ">
+    <address>南京西路1376号上海商城地下1层</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_124">
+   <image width="20" height="20" x="777.285461" y="14.123379" xlink:href="/resource/icon/su" id="svg_125"/>
+   <text x="787.285461" y="39.123379" font-size="1" text-anchor="middle" id="svg_126">折扣超市</text>
+   <info transform="translate(787.2854614257812,34.12337875366211) ">
+    <address>上海市杨浦区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_127">
+   <image width="20" height="20" x="-235.86467" y="917.791992" xlink:href="/resource/icon/su" id="svg_128"/>
+   <text x="-225.86467" y="942.791992" font-size="1" text-anchor="middle" id="svg_129">苏果超市</text>
+   <info transform="translate(-225.8646697998047,937.7919921875) ">
+    <address>龙金路281号</address>
+    <phone>021-37693556</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_130">
+   <image width="20" height="20" x="627.75415" y="1885.494751" xlink:href="/resource/icon/su" id="svg_131"/>
+   <text x="637.75415" y="1910.494751" font-size="1" text-anchor="middle" id="svg_132">天天超市</text>
+   <info transform="translate(637.754150390625,1905.4947509765625) ">
+    <address>光迎路194号</address>
+    <phone>021-61558230</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_133">
+   <image width="20" height="20" x="-70.968819" y="750.993774" xlink:href="/resource/icon/su" id="svg_134"/>
+   <text x="-60.968819" y="775.993774" font-size="1" text-anchor="middle" id="svg_135">联欢超市</text>
+   <info transform="translate(-60.96881866455078,770.9937744140625) ">
+    <address>吴中路2739</address>
+    <phone>021-29088698</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_136">
+   <image width="20" height="20" x="-479.695007" y="2273.249512" xlink:href="/resource/icon/su" id="svg_137"/>
+   <text x="-469.695007" y="2298.249512" font-size="1" text-anchor="middle" id="svg_138">幸福超市</text>
+   <info transform="translate(-469.69500732421875,2293.24951171875) ">
+    <address>干林路2188号</address>
+    <phone>15800971694</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_139">
+   <image width="20" height="20" x="-393.33313" y="1112.807129" xlink:href="/resource/icon/su" id="svg_140"/>
+   <text x="-383.33313" y="1137.807129" font-size="1" text-anchor="middle" id="svg_141">华兴超市</text>
+   <info transform="translate(-383.3331298828125,1132.80712890625) ">
+    <address>长兴路238</address>
+    <phone>021-26501058</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_142">
+   <image width="20" height="20" x="-221.046265" y="2740.284424" xlink:href="/resource/icon/su" id="svg_143"/>
+   <text x="-211.046265" y="2765.284424" font-size="1" text-anchor="middle" id="svg_144">为民超市</text>
+   <info transform="translate(-211.0462646484375,2760.284423828125) ">
+    <address>老卫清路495号</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_145">
+   <image width="20" height="20" x="455.794983" y="1711.141724" xlink:href="/resource/icon/su" id="svg_146"/>
+   <text x="465.794983" y="1736.141724" font-size="1" text-anchor="middle" id="svg_147">福乐超市</text>
+   <info transform="translate(465.79498291015625,1731.1417236328125) ">
+    <address>远东路830临</address>
+    <phone>021-51388438</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_148">
+   <image width="20" height="20" x="205.083374" y="-346.734222" xlink:href="/resource/icon/su" id="svg_149"/>
+   <text x="215.083374" y="-321.734222" font-size="1" text-anchor="middle" id="svg_150">阳光超市</text>
+   <info transform="translate(215.0833740234375,-326.7342224121094) ">
+    <address>上海市宝山区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_151">
+   <image width="20" height="20" x="1226.716797" y="574.319641" xlink:href="/resource/icon/su" id="svg_152"/>
+   <text x="1236.716797" y="599.319641" font-size="1" text-anchor="middle" id="svg_153">盛夏超市</text>
+   <info transform="translate(1236.716796875,594.3196411132812) ">
+    <address>盛夏路912</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_154">
+   <image width="20" height="20" x="253.507202" y="1033.481201" xlink:href="/resource/icon/su" id="svg_155"/>
+   <text x="263.507202" y="1058.481201" font-size="1" text-anchor="middle" id="svg_156">嘉华超市</text>
+   <info transform="translate(263.5072021484375,1053.481201171875) ">
+    <address>银都路2276号</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_157">
+   <image width="20" height="20" x="501.269684" y="1829.880127" xlink:href="/resource/icon/su" id="svg_158"/>
+   <text x="511.269684" y="1854.880127" font-size="1" text-anchor="middle" id="svg_159">德惠超市</text>
+   <info transform="translate(511.2696838378906,1849.880126953125) ">
+    <address>南桥运河路118临</address>
+    <phone>021-57183992</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_160">
+   <image width="20" height="20" x="783.547791" y="654.510193" xlink:href="/resource/icon/su" id="svg_161"/>
+   <text x="793.547791" y="679.510193" font-size="1" text-anchor="middle" id="svg_162">华城超市</text>
+   <info transform="translate(793.5477905273438,674.5101928710938) ">
+    <address>北艾路1204</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_163">
+   <image width="20" height="20" x="1736.696167" y="1977.017578" xlink:href="/resource/icon/su" id="svg_164"/>
+   <text x="1746.696167" y="2002.017578" font-size="1" text-anchor="middle" id="svg_165">海港超市</text>
+   <info transform="translate(1746.6961669921875,1997.017578125) ">
+    <address>海港国际商贸城9幢13号</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_166">
+   <image width="20" height="20" x="1809.040527" y="1237.370972" xlink:href="/resource/icon/su" id="svg_167"/>
+   <text x="1819.040527" y="1262.370972" font-size="1" text-anchor="middle" id="svg_168">永辉超市</text>
+   <info transform="translate(1819.04052734375,1257.3709716796875) ">
+    <address>拱极路3058弄1号104室</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_169">
+   <image width="20" height="20" x="-686.060608" y="1456.780029" xlink:href="/resource/icon/su" id="svg_170"/>
+   <text x="-676.060608" y="1481.780029" font-size="1" text-anchor="middle" id="svg_171">海珠超市</text>
+   <info transform="translate(-676.0606079101562,1476.780029296875) ">
+    <address>中山西路334</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_172">
+   <image width="20" height="20" x="-692.723389" y="521.717896" xlink:href="/resource/icon/su" id="svg_173"/>
+   <text x="-682.723389" y="546.717896" font-size="1" text-anchor="middle" id="svg_174">明辉超市</text>
+   <info transform="translate(-682.723388671875,541.7178955078125) ">
+    <address>中二路158号</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_175">
+   <image width="20" height="20" x="-163.920715" y="-509.955261" xlink:href="/resource/icon/su" id="svg_176"/>
+   <text x="-153.920715" y="-484.955261" font-size="1" text-anchor="middle" id="svg_177">苏皖超市</text>
+   <info transform="translate(-153.92071533203125,-489.95526123046875) ">
+    <address>徐行镇劳动村286号112室附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_178">
+   <image width="20" height="20" x="2374.871094" y="1459.92041" xlink:href="/resource/icon/su" id="svg_179"/>
+   <text x="2384.871094" y="1484.92041" font-size="1" text-anchor="middle" id="svg_180">友谊超市</text>
+   <info transform="translate(2384.87109375,1479.92041015625) ">
+    <address>通源中路67号</address>
+    <phone>021-58058075</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_181">
+   <image width="20" height="20" x="2462.72583" y="2052.593262" xlink:href="/resource/icon/su" id="svg_182"/>
+   <text x="2472.72583" y="2077.593262" font-size="1" text-anchor="middle" id="svg_183">联华超市</text>
+   <info transform="translate(2472.725830078125,2072.59326171875) ">
+    <address>上海市浦东新区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_184">
+   <image width="20" height="20" x="1112.902588" y="124.933838" xlink:href="/resource/icon/su" id="svg_185"/>
+   <text x="1122.902588" y="149.933838" font-size="1" text-anchor="middle" id="svg_186">世纪超市</text>
+   <info transform="translate(1122.902587890625,144.933837890625) ">
+    <address>俱进路75</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_187">
+   <image width="20" height="20" x="1802.450562" y="1525.001221" xlink:href="/resource/icon/su" id="svg_188"/>
+   <text x="1812.450562" y="1550.001221" font-size="1" text-anchor="middle" id="svg_189">天华超市</text>
+   <info transform="translate(1812.4505615234375,1545.001220703125) ">
+    <address>三宣公路350号</address>
+    <phone>021-58232403</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_190">
+   <image width="20" height="20" x="792.504395" y="252.829163" xlink:href="/resource/icon/su" id="svg_191"/>
+   <text x="802.504395" y="277.829163" font-size="1" text-anchor="middle" id="svg_192">世纪超市</text>
+   <info transform="translate(802.50439453125,272.82916259765625) ">
+    <address>上海市杨浦区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_193">
+   <image width="20" height="20" x="-114.950752" y="-115.765335" xlink:href="/resource/icon/su" id="svg_194"/>
+   <text x="-104.950752" y="-90.765335" font-size="1" text-anchor="middle" id="svg_195">世纪超市</text>
+   <info transform="translate(-104.95075225830078,-95.76533508300781) ">
+    <address>宝安公路2400弄198号</address>
+    <phone>13917971921</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_196">
+   <image width="20" height="20" x="-373.41745" y="1460.102417" xlink:href="/resource/icon/su" id="svg_197"/>
+   <text x="-363.41745" y="1485.102417" font-size="1" text-anchor="middle" id="svg_198">联华超市</text>
+   <info transform="translate(-363.4174499511719,1480.1024169921875) ">
+    <address>华阳街254号</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_199">
+   <image width="20" height="20" x="611.406555" y="1971.374268" xlink:href="/resource/icon/su" id="svg_200"/>
+   <text x="621.406555" y="1996.374268" font-size="1" text-anchor="middle" id="svg_201">如意超市</text>
+   <info transform="translate(621.4065551757812,1991.374267578125) ">
+    <address>杨海路271号</address>
+    <phone>13482072923</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_202">
+   <image width="20" height="20" x="410.393097" y="1882.354492" xlink:href="/resource/icon/su" id="svg_203"/>
+   <text x="420.393097" y="1907.354492" font-size="1" text-anchor="middle" id="svg_204">联华超市</text>
+   <info transform="translate(420.3930969238281,1902.3544921875) ">
+    <address>解放西路289</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_205">
+   <image width="20" height="20" x="1363.687012" y="639.01825" xlink:href="/resource/icon/su" id="svg_206"/>
+   <text x="1373.687012" y="664.01825" font-size="1" text-anchor="middle" id="svg_207">跃进超市</text>
+   <info transform="translate(1373.68701171875,659.0182495117188) ">
+    <address>三灶路1475临</address>
+    <phone>021-58371946</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_208">
+   <image width="20" height="20" x="2180.447754" y="-55.372089" xlink:href="/resource/icon/su" id="svg_209"/>
+   <text x="2190.447754" y="-30.372089" font-size="1" text-anchor="middle" id="svg_210">联华超市</text>
+   <info transform="translate(2190.44775390625,-35.37208938598633) ">
+    <address>港镇路520</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_211">
+   <image width="20" height="20" x="2515.737061" y="2026.26062" xlink:href="/resource/icon/su" id="svg_212"/>
+   <text x="2525.737061" y="2051.26062" font-size="1" text-anchor="middle" id="svg_213">联华超市</text>
+   <info transform="translate(2525.737060546875,2046.2606201171875) ">
+    <address>古棕路438弄5</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_214">
+   <image width="20" height="20" x="311.688599" y="1509.572998" xlink:href="/resource/icon/su" id="svg_215"/>
+   <text x="321.688599" y="1534.572998" font-size="1" text-anchor="middle" id="svg_216">联华超市</text>
+   <info transform="translate(321.6885986328125,1529.572998046875) ">
+    <address>沪杭公路5</address>
+    <phone>021-37442041</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_217">
+   <image width="20" height="20" x="1297.641357" y="1867.290283" xlink:href="/resource/icon/su" id="svg_218"/>
+   <text x="1307.641357" y="1892.290283" font-size="1" text-anchor="middle" id="svg_219">联华超市</text>
+   <info transform="translate(1307.641357421875,1887.290283203125) ">
+    <address>奉城东街29</address>
+    <phone>021-37442077</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_220">
+   <image width="20" height="20" x="-344.399567" y="-266.55275" xlink:href="/resource/icon/su" id="svg_221"/>
+   <text x="-334.399567" y="-241.55275" font-size="1" text-anchor="middle" id="svg_222">联华超市</text>
+   <info transform="translate(-334.3995666503906,-246.55274963378906) ">
+    <address>立新路39</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_223">
+   <image width="20" height="20" x="-305.296417" y="1367.760376" xlink:href="/resource/icon/su" id="svg_224"/>
+   <text x="-295.296417" y="1392.760376" font-size="1" text-anchor="middle" id="svg_225">苏果超市</text>
+   <info transform="translate(-295.2964172363281,1387.7603759765625) ">
+    <address>南乐路518号</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_226">
+   <image width="20" height="20" x="446.255859" y="1793.380249" xlink:href="/resource/icon/su" id="svg_227"/>
+   <text x="456.255859" y="1818.380249" font-size="1" text-anchor="middle" id="svg_228">联华超市</text>
+   <info transform="translate(456.255859375,1813.3802490234375) ">
+    <address>国顺路371</address>
+    <phone>021-67106568</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_229">
+   <image width="20" height="20" x="-574.977051" y="1324.342773" xlink:href="/resource/icon/su" id="svg_230"/>
+   <text x="-564.977051" y="1349.342773" font-size="1" text-anchor="middle" id="svg_231">华亭超市</text>
+   <info transform="translate(-564.97705078125,1344.3427734375) ">
+    <address>谷阳北路1572</address>
+    <phone>021-37729796</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_232">
+   <image width="20" height="20" x="730.063171" y="803.968689" xlink:href="/resource/icon/su" id="svg_233"/>
+   <text x="740.063171" y="828.968689" font-size="1" text-anchor="middle" id="svg_234">必成超市</text>
+   <info transform="translate(740.0631713867188,823.9686889648438) ">
+    <address>尚博路651号</address>
+    <phone>021-50130348</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_235">
+   <image width="20" height="20" x="-334.896851" y="532.130859" xlink:href="/resource/icon/su" id="svg_236"/>
+   <text x="-324.896851" y="557.130859" font-size="1" text-anchor="middle" id="svg_237">城市超市</text>
+   <info transform="translate(-324.8968505859375,552.130859375) ">
+    <address>纪翟路550号</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_238">
+   <image width="20" height="20" x="-28.698097" y="-357.784332" xlink:href="/resource/icon/su" id="svg_239"/>
+   <text x="-18.698097" y="-332.784332" font-size="1" text-anchor="middle" id="svg_240">华兴超市</text>
+   <info transform="translate(-18.698097229003906,-337.7843322753906) ">
+    <address>上海市宝山区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_241">
+   <image width="20" height="20" x="512.37439" y="-357.229095" xlink:href="/resource/icon/su" id="svg_242"/>
+   <text x="522.37439" y="-332.229095" font-size="1" text-anchor="middle" id="svg_243">玉兰超市</text>
+   <info transform="translate(522.3743896484375,-337.2290954589844) ">
+    <address>盘古路609临</address>
+    <phone>15921903801</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_244">
+   <image width="20" height="20" x="-400.978973" y="-167.229294" xlink:href="/resource/icon/su" id="svg_245"/>
+   <text x="-390.978973" y="-142.229294" font-size="1" text-anchor="middle" id="svg_246">世纪超市</text>
+   <info transform="translate(-390.9789733886719,-147.2292938232422) ">
+    <address>嘉新公路688-5</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_247">
+   <image width="20" height="20" x="380.028076" y="1783.959473" xlink:href="/resource/icon/su" id="svg_248"/>
+   <text x="390.028076" y="1808.959473" font-size="1" text-anchor="middle" id="svg_249">联成超市</text>
+   <info transform="translate(390.028076171875,1803.95947265625) ">
+    <address>肖南路</address>
+    <phone>18916689081</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_250">
+   <image width="20" height="20" x="901.221313" y="445.159119" xlink:href="/resource/icon/su" id="svg_251"/>
+   <text x="911.221313" y="470.159119" font-size="1" text-anchor="middle" id="svg_252">幸福超市</text>
+   <info transform="translate(911.2213134765625,465.15911865234375) ">
+    <address>丁香路1203号</address>
+    <phone>021-50332500</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_253">
+   <image width="20" height="20" x="319.880615" y="107.466667" xlink:href="/resource/icon/su" id="svg_254"/>
+   <text x="329.880615" y="132.466667" font-size="1" text-anchor="middle" id="svg_255">新民超市</text>
+   <info transform="translate(329.880615234375,127.46666717529297) ">
+    <address>场中路3308弄8-7临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_256">
+   <image width="20" height="20" x="626.916748" y="1079.174438" xlink:href="/resource/icon/su" id="svg_257"/>
+   <text x="636.916748" y="1104.174438" font-size="1" text-anchor="middle" id="svg_258">世纪超市</text>
+   <info transform="translate(636.916748046875,1099.1744384765625) ">
+    <address>陈南路402临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_259">
+   <image width="20" height="20" x="-172.840881" y="373.160522" xlink:href="/resource/icon/su" id="svg_260"/>
+   <text x="-162.840881" y="398.160522" font-size="1" text-anchor="middle" id="svg_261">联华超市</text>
+   <info transform="translate(-162.84088134765625,393.1605224609375) ">
+    <address>鹤望路457</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_262">
+   <image width="20" height="20" x="-97.765762" y="703.744141" xlink:href="/resource/icon/su" id="svg_263"/>
+   <text x="-87.765762" y="728.744141" font-size="1" text-anchor="middle" id="svg_264">华联超市</text>
+   <info transform="translate(-87.76576232910156,723.744140625) ">
+    <address>上海市闵行区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_265">
+   <image width="20" height="20" x="1820.036011" y="1689.341919" xlink:href="/resource/icon/su" id="svg_266"/>
+   <text x="1830.036011" y="1714.341919" font-size="1" text-anchor="middle" id="svg_267">阳光超市</text>
+   <info transform="translate(1830.0360107421875,1709.3419189453125) ">
+    <address>川南奉公路1160</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_268">
+   <image width="20" height="20" x="-222.065704" y="-368.579559" xlink:href="/resource/icon/su" id="svg_269"/>
+   <text x="-212.065704" y="-343.579559" font-size="1" text-anchor="middle" id="svg_270">莲花超市</text>
+   <info transform="translate(-212.06570434570312,-348.5795593261719) ">
+    <address>嘉罗公路2504号</address>
+    <phone>021-29601298</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_271">
+   <image width="20" height="20" x="-234.26268" y="1422.874268" xlink:href="/resource/icon/su" id="svg_272"/>
+   <text x="-224.26268" y="1447.874268" font-size="1" text-anchor="middle" id="svg_273">新华超市</text>
+   <info transform="translate(-224.26268005371094,1442.874267578125) ">
+    <address>北松公路4915弄12</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_274">
+   <image width="20" height="20" x="215.641953" y="1012.318604" xlink:href="/resource/icon/su" id="svg_275"/>
+   <text x="225.641953" y="1037.318604" font-size="1" text-anchor="middle" id="svg_276">春城超市</text>
+   <info transform="translate(225.64195251464844,1032.318603515625) ">
+    <address>莲花南路1188弄29</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_277">
+   <image width="20" height="20" x="-531.68689" y="1477.2146" xlink:href="/resource/icon/su" id="svg_278"/>
+   <text x="-521.68689" y="1502.2146" font-size="1" text-anchor="middle" id="svg_279">县府超市</text>
+   <info transform="translate(-521.6868896484375,1497.214599609375) ">
+    <address>松金公路10082号附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_280">
+   <image width="20" height="20" x="-951.991089" y="-280.879639" xlink:href="/resource/icon/su" id="svg_281"/>
+   <text x="-941.991089" y="-255.879639" font-size="1" text-anchor="middle" id="svg_282">嘉联超市</text>
+   <info transform="translate(-941.9910888671875,-260.879638671875) ">
+    <address>沪宜公路6088号A11～14</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_283">
+   <image width="20" height="20" x="-43.188835" y="217.794708" xlink:href="/resource/icon/su" id="svg_284"/>
+   <text x="-33.188835" y="242.794708" font-size="1" text-anchor="middle" id="svg_285">多得超市</text>
+   <info transform="translate(-33.18883514404297,237.79470825195312) ">
+    <address>白丽路55号</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_286">
+   <image width="20" height="20" x="-334.023041" y="72.059021" xlink:href="/resource/icon/su" id="svg_287"/>
+   <text x="-324.023041" y="97.059021" font-size="1" text-anchor="middle" id="svg_288">联华超市</text>
+   <info transform="translate(-324.0230407714844,92.05902099609375) ">
+    <address>惠亚路611临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_289">
+   <image width="20" height="20" x="-97.401672" y="427.864899" xlink:href="/resource/icon/su" id="svg_290"/>
+   <text x="-87.401672" y="452.864899" font-size="1" text-anchor="middle" id="svg_291">佳美超市</text>
+   <info transform="translate(-87.40167236328125,447.8648986816406) ">
+    <address>北翟路1444弄246号附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_292">
+   <image width="20" height="20" x="1996.80127" y="2115.416992" xlink:href="/resource/icon/su" id="svg_293"/>
+   <text x="2006.80127" y="2140.416992" font-size="1" text-anchor="middle" id="svg_294">联华超市</text>
+   <info transform="translate(2006.80126953125,2135.4169921875) ">
+    <address>上海市浦东新区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_295">
+   <image width="20" height="20" x="-232.806335" y="998.619751" xlink:href="/resource/icon/su" id="svg_296"/>
+   <text x="-222.806335" y="1023.619751" font-size="1" text-anchor="middle" id="svg_297">嘉联超市</text>
+   <info transform="translate(-222.80633544921875,1018.6197509765625) ">
+    <address>同利路170</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_298">
+   <image width="20" height="20" x="65.965012" y="972.54187" xlink:href="/resource/icon/su" id="svg_299"/>
+   <text x="75.965012" y="997.54187" font-size="1" text-anchor="middle" id="svg_300">裕兴超市</text>
+   <info transform="translate(75.96501159667969,992.5418701171875) ">
+    <address>莘沥路11</address>
+    <phone>13916938158</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_301">
+   <image width="20" height="20" x="-160.134186" y="-502.746307" xlink:href="/resource/icon/su" id="svg_302"/>
+   <text x="-150.134186" y="-477.746307" font-size="1" text-anchor="middle" id="svg_303">那家超市</text>
+   <info transform="translate(-150.13418579101562,-482.7463073730469) ">
+    <address>劳动路128号</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_304">
+   <image width="20" height="20" x="-251.26564" y="-560.272339" xlink:href="/resource/icon/su" id="svg_305"/>
+   <text x="-241.26564" y="-535.272339" font-size="1" text-anchor="middle" id="svg_306">金华超市</text>
+   <info transform="translate(-241.26564025878906,-540.2723388671875) ">
+    <address>徐行镇安新村120号103室附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_307">
+   <image width="20" height="20" x="-296.885986" y="-235.860046" xlink:href="/resource/icon/su" id="svg_308"/>
+   <text x="-286.885986" y="-210.860046" font-size="1" text-anchor="middle" id="svg_309">华联超市</text>
+   <info transform="translate(-286.885986328125,-215.86004638671875) ">
+    <address>上海市嘉定区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_310">
+   <image width="20" height="20" x="1594.446533" y="351.151367" xlink:href="/resource/icon/su" id="svg_311"/>
+   <text x="1604.446533" y="376.151367" font-size="1" text-anchor="middle" id="svg_312">华联超市</text>
+   <info transform="translate(1604.446533203125,371.1513671875) ">
+    <address>上海市浦东新区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_313">
+   <image width="20" height="20" x="1778.384277" y="845.374695" xlink:href="/resource/icon/su" id="svg_314"/>
+   <text x="1788.384277" y="870.374695" font-size="1" text-anchor="middle" id="svg_315">联华超市</text>
+   <info transform="translate(1788.38427734375,865.3746948242188) ">
+    <address>上海市浦东新区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_316">
+   <image width="20" height="20" x="136.671082" y="1020.874634" xlink:href="/resource/icon/su" id="svg_317"/>
+   <text x="146.671082" y="1045.874634" font-size="1" text-anchor="middle" id="svg_318">联华超市</text>
+   <info transform="translate(146.67108154296875,1040.8746337890625) ">
+    <address>都市路4690号</address>
+    <phone>021-54158895</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_319">
+   <image width="20" height="20" x="143.515945" y="549.925659" xlink:href="/resource/icon/su" id="svg_320"/>
+   <text x="153.515945" y="574.925659" font-size="1" text-anchor="middle" id="svg_321">华联超市</text>
+   <info transform="translate(153.5159454345703,569.9256591796875) ">
+    <address>仙霞路443</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_322">
+   <image width="20" height="20" x="-47.157406" y="693.64978" xlink:href="/resource/icon/su" id="svg_323"/>
+   <text x="-37.157406" y="718.64978" font-size="1" text-anchor="middle" id="svg_324">联华超市</text>
+   <info transform="translate(-37.157405853271484,713.6497802734375) ">
+    <address>航中路376</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_325">
+   <image width="20" height="20" x="-618.995422" y="662.565674" xlink:href="/resource/icon/su" id="svg_326"/>
+   <text x="-608.995422" y="687.565674" font-size="1" text-anchor="middle" id="svg_327">嘉联超市</text>
+   <info transform="translate(-608.9954223632812,682.565673828125) ">
+    <address>白马塘村149</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_328">
+   <image width="20" height="20" x="44.228909" y="2551.322266" xlink:href="/resource/icon/su" id="svg_329"/>
+   <text x="54.228909" y="2576.322266" font-size="1" text-anchor="middle" id="svg_330">便民超市</text>
+   <info transform="translate(54.22890853881836,2571.322265625) ">
+    <address>山新路98</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_331">
+   <image width="20" height="20" x="76.99691" y="1011.49939" xlink:href="/resource/icon/su" id="svg_332"/>
+   <text x="86.99691" y="1036.49939" font-size="1" text-anchor="middle" id="svg_333">华联超市</text>
+   <info transform="translate(86.99691009521484,1031.4993896484375) ">
+    <address>莘东路25</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_334">
+   <image width="20" height="20" x="663.143616" y="762.462585" xlink:href="/resource/icon/su" id="svg_335"/>
+   <text x="673.143616" y="787.462585" font-size="1" text-anchor="middle" id="svg_336">水果超市</text>
+   <info transform="translate(673.1436157226562,782.4625854492188) ">
+    <address>海阳路1127号</address>
+    <phone>13817549142</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_337">
+   <image width="20" height="20" x="696.530579" y="854.622559" xlink:href="/resource/icon/su" id="svg_338"/>
+   <text x="706.530579" y="879.622559" font-size="1" text-anchor="middle" id="svg_339">全家超市</text>
+   <info transform="translate(706.5305786132812,874.62255859375) ">
+    <address>永泰路499</address>
+    <phone>021-33848381</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_340">
+   <image width="20" height="20" x="1779.112427" y="1304.499878" xlink:href="/resource/icon/su" id="svg_341"/>
+   <text x="1789.112427" y="1329.499878" font-size="1" text-anchor="middle" id="svg_342">广衍超市</text>
+   <info transform="translate(1789.1124267578125,1324.4998779296875) ">
+    <address>广衍路13</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_343">
+   <image width="20" height="20" x="169.329849" y="588.610107" xlink:href="/resource/icon/su" id="svg_344"/>
+   <text x="179.329849" y="613.610107" font-size="1" text-anchor="middle" id="svg_345">品味超市</text>
+   <info transform="translate(179.32984924316406,608.610107421875) ">
+    <address>红宝石路533临御翠豪庭地下1层</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_346">
+   <image width="20" height="20" x="863.246887" y="940.911621" xlink:href="/resource/icon/su" id="svg_347"/>
+   <text x="873.246887" y="965.911621" font-size="1" text-anchor="middle" id="svg_348">华联超市</text>
+   <info transform="translate(873.2468872070312,960.91162109375) ">
+    <address>上南路6489</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_349">
+   <image width="20" height="20" x="116.791824" y="512.060425" xlink:href="/resource/icon/su" id="svg_350"/>
+   <text x="126.791824" y="537.060425" font-size="1" text-anchor="middle" id="svg_351">城市超市</text>
+   <info transform="translate(126.79182434082031,532.0604248046875) ">
+    <address>天山路341号缤谷广场1层</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_352">
+   <image width="20" height="20" x="1285.335083" y="1894.551514" xlink:href="/resource/icon/su" id="svg_353"/>
+   <text x="1295.335083" y="1919.551514" font-size="1" text-anchor="middle" id="svg_354">齐家超市</text>
+   <info transform="translate(1295.3350830078125,1914.551513671875) ">
+    <address>上海市奉贤区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_355">
+   <image width="20" height="20" x="-210.269226" y="732.270508" xlink:href="/resource/icon/su" id="svg_356"/>
+   <text x="-200.269226" y="757.270508" font-size="1" text-anchor="middle" id="svg_357">华联超市</text>
+   <info transform="translate(-200.26922607421875,752.2705078125) ">
+    <address>上海市青浦区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_358">
+   <image width="20" height="20" x="76.924088" y="-414.518463" xlink:href="/resource/icon/su" id="svg_359"/>
+   <text x="86.924088" y="-389.518463" font-size="1" text-anchor="middle" id="svg_360">华联超市</text>
+   <info transform="translate(86.92408752441406,-394.5184631347656) ">
+    <address>上海市宝山区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_361">
+   <image width="20" height="20" x="-48.140446" y="1541.294189" xlink:href="/resource/icon/su" id="svg_362"/>
+   <text x="-38.140446" y="1566.294189" font-size="1" text-anchor="middle" id="svg_363">苏果超市</text>
+   <info transform="translate(-38.140445709228516,1561.294189453125) ">
+    <address>上海市闵行区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_364">
+   <image width="20" height="20" x="-425.081665" y="905.5495" xlink:href="/resource/icon/su" id="svg_365"/>
+   <text x="-415.081665" y="930.5495" font-size="1" text-anchor="middle" id="svg_366">莲花超市</text>
+   <info transform="translate(-415.0816650390625,925.5494995117188) ">
+    <address>赵非公路698弄1～144号附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_367">
+   <image width="20" height="20" x="427.323242" y="1897.782715" xlink:href="/resource/icon/su" id="svg_368"/>
+   <text x="437.323242" y="1922.782715" font-size="1" text-anchor="middle" id="svg_369">齐家超市</text>
+   <info transform="translate(437.3232421875,1917.78271484375) ">
+    <address>南桥南星路371号附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_370">
+   <image width="20" height="20" x="-320.770203" y="297.976166" xlink:href="/resource/icon/su" id="svg_371"/>
+   <text x="-310.770203" y="322.976166" font-size="1" text-anchor="middle" id="svg_372">世纪超市</text>
+   <info transform="translate(-310.77020263671875,317.9761657714844) ">
+    <address>通站路362</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_373">
+   <image width="20" height="20" x="-283.924408" y="163.581863" xlink:href="/resource/icon/su" id="svg_374"/>
+   <text x="-273.924408" y="188.581863" font-size="1" text-anchor="middle" id="svg_375">联华超市</text>
+   <info transform="translate(-273.9244079589844,183.5818634033203) ">
+    <address>上海市嘉定区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_376">
+   <image width="20" height="20" x="563.274048" y="1113.398804" xlink:href="/resource/icon/su" id="svg_377"/>
+   <text x="573.274048" y="1138.398804" font-size="1" text-anchor="middle" id="svg_378">鹏程超市</text>
+   <info transform="translate(573.2740478515625,1133.3988037109375) ">
+    <address>立跃路4395弄59识别</address>
+    <phone>18701815988</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_379">
+   <image width="20" height="20" x="316.931488" y="1318.062256" xlink:href="/resource/icon/su" id="svg_380"/>
+   <text x="326.931488" y="1343.062256" font-size="1" text-anchor="middle" id="svg_381">华润超市</text>
+   <info transform="translate(326.9314880371094,1338.062255859375) ">
+    <address>都会路258弄8</address>
+    <phone>18916252760</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_382">
+   <image width="20" height="20" x="741.022217" y="1166.155273" xlink:href="/resource/icon/su" id="svg_383"/>
+   <text x="751.022217" y="1191.155273" font-size="1" text-anchor="middle" id="svg_384">奇奇超市</text>
+   <info transform="translate(751.022216796875,1186.1552734375) ">
+    <address>竹园路41临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_385">
+   <image width="20" height="20" x="-348.914276" y="1026.199463" xlink:href="/resource/icon/su" id="svg_386"/>
+   <text x="-338.914276" y="1051.199463" font-size="1" text-anchor="middle" id="svg_387">好客超市</text>
+   <info transform="translate(-338.9142761230469,1046.199462890625) ">
+    <address>上海市松江区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_388">
+   <image width="20" height="20" x="152.035629" y="1215.207153" xlink:href="/resource/icon/su" id="svg_389"/>
+   <text x="162.035629" y="1240.207153" font-size="1" text-anchor="middle" id="svg_390">莲花超市</text>
+   <info transform="translate(162.03562927246094,1235.2071533203125) ">
+    <address>新源路3213</address>
+    <phone>15026540736</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_391">
+   <image width="20" height="20" x="398.196136" y="1326.527344" xlink:href="/resource/icon/su" id="svg_392"/>
+   <text x="408.196136" y="1351.527344" font-size="1" text-anchor="middle" id="svg_393">联华超市</text>
+   <info transform="translate(408.1961364746094,1346.52734375) ">
+    <address>上海市闵行区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_394">
+   <image width="20" height="20" x="1763.966309" y="1306.775513" xlink:href="/resource/icon/su" id="svg_395"/>
+   <text x="1773.966309" y="1331.775513" font-size="1" text-anchor="middle" id="svg_396">联华超市</text>
+   <info transform="translate(1773.96630859375,1326.7755126953125) ">
+    <address>城南路168弄3号103室</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_397">
+   <image width="20" height="20" x="-817.787964" y="1613.838989" xlink:href="/resource/icon/su" id="svg_398"/>
+   <text x="-807.787964" y="1638.838989" font-size="1" text-anchor="middle" id="svg_399">苏果超市</text>
+   <info transform="translate(-807.7879638671875,1633.8389892578125) ">
+    <address>唐明路842</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_400">
+   <image width="20" height="20" x="-220.427307" y="1751.100464" xlink:href="/resource/icon/su" id="svg_401"/>
+   <text x="-210.427307" y="1776.100464" font-size="1" text-anchor="middle" id="svg_402">世纪超市</text>
+   <info transform="translate(-210.42730712890625,1771.1004638671875) ">
+    <address>叶政路743弄12临</address>
+    <phone>021-67801766</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_403">
+   <image width="20" height="20" x="148.285507" y="809.748596" xlink:href="/resource/icon/su" id="svg_404"/>
+   <text x="158.285507" y="834.748596" font-size="1" text-anchor="middle" id="svg_405">联华超市</text>
+   <info transform="translate(158.28550720214844,829.7485961914062) ">
+    <address>万源路916</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_406">
+   <image width="20" height="20" x="-346.547699" y="1227.176514" xlink:href="/resource/icon/su" id="svg_407"/>
+   <text x="-336.547699" y="1252.176514" font-size="1" text-anchor="middle" id="svg_408">苏果超市</text>
+   <info transform="translate(-336.5476989746094,1247.176513671875) ">
+    <address>新庙三路873临</address>
+    <phone>021-57680258</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_409">
+   <image width="20" height="20" x="-163.920715" y="-509.955261" xlink:href="/resource/icon/su" id="svg_410"/>
+   <text x="-153.920715" y="-484.955261" font-size="1" text-anchor="middle" id="svg_411">鹏飞超市</text>
+   <info transform="translate(-153.92071533203125,-489.95526123046875) ">
+    <address>上海市嘉定区</address>
+    <phone>021-29637718,021-31259046</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_412">
+   <image width="20" height="20" x="411.631012" y="1214.415161" xlink:href="/resource/icon/su" id="svg_413"/>
+   <text x="421.631012" y="1239.415161" font-size="1" text-anchor="middle" id="svg_414">佳佳超市</text>
+   <info transform="translate(421.6310119628906,1234.4151611328125) ">
+    <address>北吴路362</address>
+    <phone>021-64528414</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_415">
+   <image width="20" height="20" x="-481.733917" y="1457.00769" xlink:href="/resource/icon/su" id="svg_416"/>
+   <text x="-471.733917" y="1482.00769" font-size="1" text-anchor="middle" id="svg_417">江南超市</text>
+   <info transform="translate(-471.7339172363281,1477.0076904296875) ">
+    <address>环城路254</address>
+    <phone>021-57838857</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_418">
+   <image width="20" height="20" x="1227.699829" y="677.402283" xlink:href="/resource/icon/su" id="svg_419"/>
+   <text x="1237.699829" y="702.402283" font-size="1" text-anchor="middle" id="svg_420">军民超市</text>
+   <info transform="translate(1237.6998291015625,697.4022827148438) ">
+    <address>军民路101</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_421">
+   <image width="20" height="20" x="-523.676941" y="532.130859" xlink:href="/resource/icon/su" id="svg_422"/>
+   <text x="-513.676941" y="557.130859" font-size="1" text-anchor="middle" id="svg_423">嘉联超市</text>
+   <info transform="translate(-513.6769409179688,552.130859375) ">
+    <address>北新村北葛166号附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_424">
+   <image width="20" height="20" x="-134.429512" y="771.291748" xlink:href="/resource/icon/su" id="svg_425"/>
+   <text x="-124.429512" y="796.291748" font-size="1" text-anchor="middle" id="svg_426">华星超市</text>
+   <info transform="translate(-124.42951202392578,791.291748046875) ">
+    <address>华宝路522号</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_427">
+   <image width="20" height="20" x="1330.955444" y="984.920898" xlink:href="/resource/icon/su" id="svg_428"/>
+   <text x="1340.955444" y="1009.920898" font-size="1" text-anchor="middle" id="svg_429">金光超市</text>
+   <info transform="translate(1340.9554443359375,1004.9208984375) ">
+    <address>建设路64</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_430">
+   <image width="20" height="20" x="819.519775" y="1181.246704" xlink:href="/resource/icon/su" id="svg_431"/>
+   <text x="829.519775" y="1206.246704" font-size="1" text-anchor="middle" id="svg_432">嘉联超市</text>
+   <info transform="translate(829.519775390625,1201.2467041015625) ">
+    <address>叶家桥东路518号</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_433">
+   <image width="20" height="20" x="443.816467" y="1103.568359" xlink:href="/resource/icon/su" id="svg_434"/>
+   <text x="453.816467" y="1128.568359" font-size="1" text-anchor="middle" id="svg_435">澄江超市</text>
+   <info transform="translate(453.81646728515625,1123.568359375) ">
+    <address>澄江路471</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_436">
+   <image width="20" height="20" x="923.321533" y="441.381683" xlink:href="/resource/icon/su" id="svg_437"/>
+   <text x="933.321533" y="466.381683" font-size="1" text-anchor="middle" id="svg_438">城市超市</text>
+   <info transform="translate(933.321533203125,461.3816833496094) ">
+    <address>丁香路1399弄30号</address>
+    <phone>021-62327070</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_439">
+   <image width="20" height="20" x="309.576874" y="566.218689" xlink:href="/resource/icon/su" id="svg_440"/>
+   <text x="319.576874" y="591.218689" font-size="1" text-anchor="middle" id="svg_441">城市超市</text>
+   <info transform="translate(319.5768737792969,586.2186889648438) ">
+    <address>新华路160号上海影城1楼</address>
+    <phone>021-52303971</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_442">
+   <image width="20" height="20" x="490.747528" y="410.11557" xlink:href="/resource/icon/su" id="svg_443"/>
+   <text x="500.747528" y="435.11557" font-size="1" text-anchor="middle" id="svg_444">木子超市</text>
+   <info transform="translate(500.7475280761719,430.1155700683594) ">
+    <address>黄河路225</address>
+    <phone>15021219086</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_445">
+   <image width="20" height="20" x="557.776306" y="53.326653" xlink:href="/resource/icon/su" id="svg_446"/>
+   <text x="567.776306" y="78.326653" font-size="1" text-anchor="middle" id="svg_447">心怡超市</text>
+   <info transform="translate(567.7763061523438,73.32665252685547) ">
+    <address>逸仙路1258弄1</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_448">
+   <image width="20" height="20" x="-111.491913" y="464.819916" xlink:href="/resource/icon/su" id="svg_449"/>
+   <text x="-101.491913" y="489.819916" font-size="1" text-anchor="middle" id="svg_450">苏果超市</text>
+   <info transform="translate(-101.49191284179688,484.8199157714844) ">
+    <address>北翟路1558号B3</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_451">
+   <image width="20" height="20" x="724.456177" y="634.667358" xlink:href="/resource/icon/su" id="svg_452"/>
+   <text x="734.456177" y="659.667358" font-size="1" text-anchor="middle" id="svg_453">华联超市</text>
+   <info transform="translate(734.4561767578125,654.6673583984375) ">
+    <address>齐恒路120-1临</address>
+    <phone>021-50281375</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_454">
+   <image width="20" height="20" x="374.493927" y="1514.670166" xlink:href="/resource/icon/su" id="svg_455"/>
+   <text x="384.493927" y="1539.670166" font-size="1" text-anchor="middle" id="svg_456">联华超市</text>
+   <info transform="translate(384.4939270019531,1534.670166015625) ">
+    <address>西闸公路1152</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_457">
+   <image width="20" height="20" x="-310.065979" y="284.277344" xlink:href="/resource/icon/su" id="svg_458"/>
+   <text x="-300.065979" y="309.277344" font-size="1" text-anchor="middle" id="svg_459">嘉联超市</text>
+   <info transform="translate(-300.06597900390625,304.27734375) ">
+    <address>通站路261号3幢附近</address>
+    <phone>13918783198</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_460">
+   <image width="20" height="20" x="1240.879883" y="196.75946" xlink:href="/resource/icon/su" id="svg_461"/>
+   <text x="1250.879883" y="221.75946" font-size="1" text-anchor="middle" id="svg_462">努力超市</text>
+   <info transform="translate(1250.8798828125,216.75946044921875) ">
+    <address>上海市浦东新区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_463">
+   <image width="20" height="20" x="676.578491" y="1523.317383" xlink:href="/resource/icon/su" id="svg_464"/>
+   <text x="686.578491" y="1548.317383" font-size="1" text-anchor="middle" id="svg_465">福乐超市</text>
+   <info transform="translate(686.5784912109375,1543.3173828125) ">
+    <address>金汇工业路1338号</address>
+    <phone>021-57481679</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_466">
+   <image width="20" height="20" x="-58.953884" y="-102.776459" xlink:href="/resource/icon/su" id="svg_467"/>
+   <text x="-48.953884" y="-77.776459" font-size="1" text-anchor="middle" id="svg_468">众人超市</text>
+   <info transform="translate(-48.95388412475586,-82.77645874023438) ">
+    <address>宝安公路2145临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_469">
+   <image width="20" height="20" x="733.376343" y="990.382202" xlink:href="/resource/icon/su" id="svg_470"/>
+   <text x="743.376343" y="1015.382202" font-size="1" text-anchor="middle" id="svg_471">世纪超市</text>
+   <info transform="translate(743.3763427734375,1010.3822021484375) ">
+    <address>知新村二组57号附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_472">
+   <image width="20" height="20" x="624.659424" y="1877.302734" xlink:href="/resource/icon/su" id="svg_473"/>
+   <text x="634.659424" y="1902.302734" font-size="1" text-anchor="middle" id="svg_474">华联超市</text>
+   <info transform="translate(634.659423828125,1897.302734375) ">
+    <address>光迎路308号附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_475">
+   <image width="20" height="20" x="-583.86084" y="1310.325317" xlink:href="/resource/icon/su" id="svg_476"/>
+   <text x="-573.86084" y="1335.325317" font-size="1" text-anchor="middle" id="svg_477">联华超市</text>
+   <info transform="translate(-573.86083984375,1330.3253173828125) ">
+    <address>新松江路267</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_478">
+   <image width="20" height="20" x="366.119904" y="613.004089" xlink:href="/resource/icon/su" id="svg_479"/>
+   <text x="376.119904" y="638.004089" font-size="1" text-anchor="middle" id="svg_480">城市超市</text>
+   <info transform="translate(376.1199035644531,633.0040893554688) ">
+    <address>天钥桥路131号永新坊地下1层08A</address>
+    <phone>021-62327070</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_481">
+   <image width="20" height="20" x="-821.902161" y="2260.233154" xlink:href="/resource/icon/su" id="svg_482"/>
+   <text x="-811.902161" y="2285.233154" font-size="1" text-anchor="middle" id="svg_483">华兴超市</text>
+   <info transform="translate(-811.9021606445312,2280.233154296875) ">
+    <address>康兴路156</address>
+    <phone>021-57375335</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_484">
+   <image width="20" height="20" x="11.752178" y="-90.961777" xlink:href="/resource/icon/su" id="svg_485"/>
+   <text x="21.752178" y="-65.961777" font-size="1" text-anchor="middle" id="svg_486">联华超市</text>
+   <info transform="translate(21.752178192138672,-70.96177673339844) ">
+    <address>菊联路213号</address>
+    <phone>021-36312506</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_487">
+   <image width="20" height="20" x="331.021729" y="221.244446" xlink:href="/resource/icon/su" id="svg_488"/>
+   <text x="341.021729" y="246.244446" font-size="1" text-anchor="middle" id="svg_489">灵石超市</text>
+   <info transform="translate(341.021728515625,241.24444580078125) ">
+    <address>灵石路828-2临</address>
+    <phone>021-56373734</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_490">
+   <image width="20" height="20" x="1762.291504" y="754.589172" xlink:href="/resource/icon/su" id="svg_491"/>
+   <text x="1772.291504" y="779.589172" font-size="1" text-anchor="middle" id="svg_492">媛媛超市</text>
+   <info transform="translate(1772.29150390625,774.5891723632812) ">
+    <address>川六公路2755</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_493">
+   <image width="20" height="20" x="-208.594421" y="172.183472" xlink:href="/resource/icon/su" id="svg_494"/>
+   <text x="-198.594421" y="197.183472" font-size="1" text-anchor="middle" id="svg_495">国中超市</text>
+   <info transform="translate(-198.59442138671875,192.1834716796875) ">
+    <address>古猗园路169号附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_496">
+   <image width="20" height="20" x="-569.188049" y="1441.215332" xlink:href="/resource/icon/su" id="svg_497"/>
+   <text x="-559.188049" y="1466.215332" font-size="1" text-anchor="middle" id="svg_498">好客超市</text>
+   <info transform="translate(-559.1880493164062,1461.21533203125) ">
+    <address>谷阳北路38号-4</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_499">
+   <image width="20" height="20" x="393.062469" y="989.289978" xlink:href="/resource/icon/su" id="svg_500"/>
+   <text x="403.062469" y="1014.289978" font-size="1" text-anchor="middle" id="svg_501">嘉联超市</text>
+   <info transform="translate(403.0624694824219,1009.2899780273438) ">
+    <address>上海市闵行区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_502">
+   <image width="20" height="20" x="-228.182404" y="714.721436" xlink:href="/resource/icon/su" id="svg_503"/>
+   <text x="-218.182404" y="739.721436" font-size="1" text-anchor="middle" id="svg_504">惠民超市</text>
+   <info transform="translate(-218.18240356445312,734.721435546875) ">
+    <address>上海市青浦区</address>
+    <phone>021-59769805</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_505">
+   <image width="20" height="20" x="-232.915558" y="711.854248" xlink:href="/resource/icon/su" id="svg_506"/>
+   <text x="-222.915558" y="736.854248" font-size="1" text-anchor="middle" id="svg_507">长兴超市</text>
+   <info transform="translate(-222.91555786132812,731.854248046875) ">
+    <address>诸光路856弄</address>
+    <phone>13641681951</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_508">
+   <image width="20" height="20" x="1139.080566" y="117.115021" xlink:href="/resource/icon/su" id="svg_509"/>
+   <text x="1149.080566" y="142.115021" font-size="1" text-anchor="middle" id="svg_510">华兴超市</text>
+   <info transform="translate(1149.08056640625,137.11502075195312) ">
+    <address>新行路119</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_511">
+   <image width="20" height="20" x="338.594788" y="-1366.228638" xlink:href="/resource/icon/su" id="svg_512"/>
+   <text x="348.594788" y="-1341.228638" font-size="1" text-anchor="middle" id="svg_513">华联超市</text>
+   <info transform="translate(348.59478759765625,-1346.2286376953125) ">
+    <address>绿梅路496</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_514">
+   <image width="20" height="20" x="1077.804443" y="-1312.297974" xlink:href="/resource/icon/su" id="svg_515"/>
+   <text x="1087.804443" y="-1287.297974" font-size="1" text-anchor="middle" id="svg_516">国强超市</text>
+   <info transform="translate(1087.804443359375,-1292.2979736328125) ">
+    <address>富民路5临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_517">
+   <image width="20" height="20" x="1426.965698" y="-302.133331" xlink:href="/resource/icon/su" id="svg_518"/>
+   <text x="1436.965698" y="-277.133331" font-size="1" text-anchor="middle" id="svg_519">振华超市</text>
+   <info transform="translate(1436.9656982421875,-282.1333312988281) ">
+    <address>凤滨路419</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_520">
+   <image width="20" height="20" x="-129.514313" y="839.376343" xlink:href="/resource/icon/su" id="svg_521"/>
+   <text x="-119.514313" y="864.376343" font-size="1" text-anchor="middle" id="svg_522">居家超市</text>
+   <info transform="translate(-119.51431274414062,859.3763427734375) ">
+    <address>涞亭南路101弄2号</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_523">
+   <image width="20" height="20" x="397.504364" y="-1633.924927" xlink:href="/resource/icon/su" id="svg_524"/>
+   <text x="407.504364" y="-1608.924927" font-size="1" text-anchor="middle" id="svg_525">华联超市</text>
+   <info transform="translate(407.5043640136719,-1613.9249267578125) ">
+    <address>上海市崇明县</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_526">
+   <image width="20" height="20" x="-24.438258" y="-149.489059" xlink:href="/resource/icon/su" id="svg_527"/>
+   <text x="-14.438258" y="-124.489059" font-size="1" text-anchor="middle" id="svg_528">华联超市</text>
+   <info transform="translate(-14.438258171081543,-129.4890594482422) ">
+    <address>上海市宝山区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_529">
+   <image width="20" height="20" x="575.725891" y="941.412292" xlink:href="/resource/icon/su" id="svg_530"/>
+   <text x="585.725891" y="966.412292" font-size="1" text-anchor="middle" id="svg_531">便民超市</text>
+   <info transform="translate(585.7258911132812,961.4122924804688) ">
+    <address>上海市闵行区</address>
+    <phone>021-64293468</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_532">
+   <image width="20" height="20" x="516.925537" y="952.516968" xlink:href="/resource/icon/su" id="svg_533"/>
+   <text x="526.925537" y="977.516968" font-size="1" text-anchor="middle" id="svg_534">建华超市</text>
+   <info transform="translate(526.925537109375,972.5169677734375) ">
+    <address>上海市浦东新区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_535">
+   <image width="20" height="20" x="216.843445" y="1414.181641" xlink:href="/resource/icon/su" id="svg_536"/>
+   <text x="226.843445" y="1439.181641" font-size="1" text-anchor="middle" id="svg_537">江南超市</text>
+   <info transform="translate(226.84344482421875,1434.181640625) ">
+    <address>金平路518</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_538">
+   <image width="20" height="20" x="1886.19104" y="1345.596436" xlink:href="/resource/icon/su" id="svg_539"/>
+   <text x="1896.19104" y="1370.596436" font-size="1" text-anchor="middle" id="svg_540">友谊超市</text>
+   <info transform="translate(1896.1910400390625,1365.596435546875) ">
+    <address>黄路村友谊310</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_541">
+   <image width="20" height="20" x="1470.110229" y="589.702393" xlink:href="/resource/icon/su" id="svg_542"/>
+   <text x="1480.110229" y="614.702393" font-size="1" text-anchor="middle" id="svg_543">联华超市</text>
+   <info transform="translate(1480.1102294921875,609.702392578125) ">
+    <address>青厦路200弄3号101室</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_544">
+   <image width="20" height="20" x="1349.815308" y="232.80426" xlink:href="/resource/icon/su" id="svg_545"/>
+   <text x="1359.815308" y="257.80426" font-size="1" text-anchor="middle" id="svg_546">吉祥超市</text>
+   <info transform="translate(1359.8153076171875,252.80426025390625) ">
+    <address>民雪路</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_547">
+   <image width="20" height="20" x="-893.40918" y="633.620605" xlink:href="/resource/icon/su" id="svg_548"/>
+   <text x="-883.40918" y="658.620605" font-size="1" text-anchor="middle" id="svg_549">南洋超市</text>
+   <info transform="translate(-883.4091796875,653.62060546875) ">
+    <address>上海市青浦区</address>
+    <phone>021-59868411</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_550">
+   <image width="20" height="20" x="-663.814758" y="100.457954" xlink:href="/resource/icon/su" id="svg_551"/>
+   <text x="-653.814758" y="125.457954" font-size="1" text-anchor="middle" id="svg_552">先锋超市</text>
+   <info transform="translate(-653.8147583007812,120.45795440673828) ">
+    <address>上海市嘉定区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_553">
+   <image width="20" height="20" x="1651.244385" y="806.790405" xlink:href="/resource/icon/su" id="svg_554"/>
+   <text x="1661.244385" y="831.790405" font-size="1" text-anchor="middle" id="svg_555">长桥超市</text>
+   <info transform="translate(1661.244384765625,826.7904052734375) ">
+    <address>上海市浦东新区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_556">
+   <image width="20" height="20" x="33.779556" y="1466.564941" xlink:href="/resource/icon/su" id="svg_557"/>
+   <text x="43.779556" y="1491.564941" font-size="1" text-anchor="middle" id="svg_558">大家超市</text>
+   <info transform="translate(43.77955627441406,1486.56494140625) ">
+    <address>上海市闵行区</address>
+    <phone>15800910169</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_559">
+   <image width="20" height="20" x="-432.727539" y="21.086578" xlink:href="/resource/icon/su" id="svg_560"/>
+   <text x="-422.727539" y="46.086578" font-size="1" text-anchor="middle" id="svg_561">向阳超市</text>
+   <info transform="translate(-422.7275390625,41.086578369140625) ">
+    <address>上海市嘉定区</address>
+    <phone>13482096083</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_562">
+   <image width="20" height="20" x="315.657166" y="1510.119141" xlink:href="/resource/icon/su" id="svg_563"/>
+   <text x="325.657166" y="1535.119141" font-size="1" text-anchor="middle" id="svg_564">苏果超市</text>
+   <info transform="translate(325.65716552734375,1530.119140625) ">
+    <address>上海市奉贤区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_565">
+   <image width="20" height="20" x="710.001831" y="986.468262" xlink:href="/resource/icon/su" id="svg_566"/>
+   <text x="720.001831" y="1011.468262" font-size="1" text-anchor="middle" id="svg_567">晨光超市</text>
+   <info transform="translate(720.0018310546875,1006.46826171875) ">
+    <address>上海市闵行区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_568">
+   <image width="20" height="20" x="699.479675" y="993.112915" xlink:href="/resource/icon/su" id="svg_569"/>
+   <text x="709.479675" y="1018.112915" font-size="1" text-anchor="middle" id="svg_570">新新超市</text>
+   <info transform="translate(709.4796752929688,1013.1129150390625) ">
+    <address>上海市闵行区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_571">
+   <image width="20" height="20" x="-24.36544" y="-149.489059" xlink:href="/resource/icon/su" id="svg_572"/>
+   <text x="-14.36544" y="-124.489059" font-size="1" text-anchor="middle" id="svg_573">购物超市</text>
+   <info transform="translate(-14.365440368652344,-129.4890594482422) ">
+    <address>上海市宝山区</address>
+    <phone>13701725552</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_574">
+   <image width="20" height="20" x="387.564728" y="749.127808" xlink:href="/resource/icon/su" id="svg_575"/>
+   <text x="397.564728" y="774.127808" font-size="1" text-anchor="middle" id="svg_576">世纪超市</text>
+   <info transform="translate(397.5647277832031,769.1278076171875) ">
+    <address>龙吴路269</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_577">
+   <image width="20" height="20" x="822.141235" y="1065.475586" xlink:href="/resource/icon/su" id="svg_578"/>
+   <text x="832.141235" y="1090.475586" font-size="1" text-anchor="middle" id="svg_579">惠民超市</text>
+   <info transform="translate(832.1412353515625,1085.4755859375) ">
+    <address>上海市闵行区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_580">
+   <image width="20" height="20" x="999.015625" y="732.925842" xlink:href="/resource/icon/su" id="svg_581"/>
+   <text x="1009.015625" y="757.925842" font-size="1" text-anchor="middle" id="svg_582">苏果超市</text>
+   <info transform="translate(1009.015625,752.9258422851562) ">
+    <address>华夏西路5780号</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_583">
+   <image width="20" height="20" x="-251.62973" y="-147.668625" xlink:href="/resource/icon/su" id="svg_584"/>
+   <text x="-241.62973" y="-122.668625" font-size="1" text-anchor="middle" id="svg_585">实惠超市</text>
+   <info transform="translate(-241.62973022460938,-127.66862487792969) ">
+    <address>丰饶路110</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_586">
+   <image width="20" height="20" x="111.148445" y="141.053864" xlink:href="/resource/icon/su" id="svg_587"/>
+   <text x="121.148445" y="166.053864" font-size="1" text-anchor="middle" id="svg_588">嘉联超市</text>
+   <info transform="translate(121.14844512939453,161.05386352539062) ">
+    <address>上海市宝山区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_589">
+   <image width="20" height="20" x="1569.324463" y="642.904907" xlink:href="/resource/icon/su" id="svg_590"/>
+   <text x="1579.324463" y="667.904907" font-size="1" text-anchor="middle" id="svg_591">联华超市</text>
+   <info transform="translate(1579.324462890625,662.9049072265625) ">
+    <address>川周路8766</address>
+    <phone>021-33908639</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_592">
+   <image width="20" height="20" x="703.48468" y="720.319275" xlink:href="/resource/icon/su" id="svg_593"/>
+   <text x="713.48468" y="745.319275" font-size="1" text-anchor="middle" id="svg_594">南江超市</text>
+   <info transform="translate(713.4846801757812,740.3192749023438) ">
+    <address>上海市浦东新区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_595">
+   <image width="20" height="20" x="691.105652" y="1005.67395" xlink:href="/resource/icon/su" id="svg_596"/>
+   <text x="701.105652" y="1030.67395" font-size="1" text-anchor="middle" id="svg_597">惠民超市</text>
+   <info transform="translate(701.1056518554688,1025.6739501953125) ">
+    <address>上海市闵行区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_598">
+   <image width="20" height="20" x="910.978943" y="1003.352905" xlink:href="/resource/icon/su" id="svg_599"/>
+   <text x="920.978943" y="1028.352905" font-size="1" text-anchor="middle" id="svg_600">乐乐超市</text>
+   <info transform="translate(920.9789428710938,1023.3529052734375) ">
+    <address>横桥路401号</address>
+    <phone>13636642145</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_601">
+   <image width="20" height="20" x="780.088989" y="994.432739" xlink:href="/resource/icon/su" id="svg_602"/>
+   <text x="790.088989" y="1019.432739" font-size="1" text-anchor="middle" id="svg_603">联益超市</text>
+   <info transform="translate(790.0889892578125,1014.4327392578125) ">
+    <address>陈行公路1159临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_604">
+   <image width="20" height="20" x="142.532913" y="1370.445557" xlink:href="/resource/icon/su" id="svg_605"/>
+   <text x="152.532913" y="1395.445557" font-size="1" text-anchor="middle" id="svg_606">苏果超市</text>
+   <info transform="translate(152.5329132080078,1390.445556640625) ">
+    <address>银春路1955弄71</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_607">
+   <image width="20" height="20" x="304.516052" y="-91.553421" xlink:href="/resource/icon/su" id="svg_608"/>
+   <text x="314.516052" y="-66.553421" font-size="1" text-anchor="middle" id="svg_609">忠信超市</text>
+   <info transform="translate(314.51605224609375,-71.55342102050781) ">
+    <address>联泰路152临</address>
+    <phone>021-33706402</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_610">
+   <image width="20" height="20" x="1032.985107" y="-4.126577" xlink:href="/resource/icon/su" id="svg_611"/>
+   <text x="1042.985107" y="20.873423" font-size="1" text-anchor="middle" id="svg_612">联华超市</text>
+   <info transform="translate(1042.985107421875,15.873422622680664) ">
+    <address>行南路701号(临)</address>
+    <phone>13918535351</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_613">
+   <image width="20" height="20" x="123.199783" y="-267.544891" xlink:href="/resource/icon/su" id="svg_614"/>
+   <text x="133.199783" y="-242.544891" font-size="1" text-anchor="middle" id="svg_615">积福超市</text>
+   <info transform="translate(133.1997833251953,-247.54489135742188) ">
+    <address>潘泾路197弄115临</address>
+    <phone>021-66015069</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_616">
+   <image width="20" height="20" x="404.130768" y="-3.525831" xlink:href="/resource/icon/su" id="svg_617"/>
+   <text x="414.130768" y="21.474169" font-size="1" text-anchor="middle" id="svg_618">元华超市</text>
+   <info transform="translate(414.1307678222656,16.47416877746582) ">
+    <address>通河路107-13临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_619">
+   <image width="20" height="20" x="2091.500732" y="1616.906372" xlink:href="/resource/icon/su" id="svg_620"/>
+   <text x="2101.500732" y="1641.906372" font-size="1" text-anchor="middle" id="svg_621">华联超市</text>
+   <info transform="translate(2101.500732421875,1636.9063720703125) ">
+    <address>上海市浦东新区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_622">
+   <image width="20" height="20" x="226.928711" y="110.725266" xlink:href="/resource/icon/su" id="svg_623"/>
+   <text x="236.928711" y="135.725266" font-size="1" text-anchor="middle" id="svg_624">联华超市</text>
+   <info transform="translate(236.9287109375,130.7252655029297) ">
+    <address>洛场路98</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_625">
+   <image width="20" height="20" x="1609.738281" y="1336.039063" xlink:href="/resource/icon/su" id="svg_626"/>
+   <text x="1619.738281" y="1361.039063" font-size="1" text-anchor="middle" id="svg_627">世纪超市</text>
+   <info transform="translate(1619.73828125,1356.0390625) ">
+    <address>南芦公路818号</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_628">
+   <image width="20" height="20" x="465.443329" y="252.601593" xlink:href="/resource/icon/su" id="svg_629"/>
+   <text x="475.443329" y="277.601593" font-size="1" text-anchor="middle" id="svg_630">华联超市</text>
+   <info transform="translate(475.4433288574219,272.6015930175781) ">
+    <address>洛川东路224临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_631">
+   <image width="20" height="20" x="187.752747" y="1362.344482" xlink:href="/resource/icon/su" id="svg_632"/>
+   <text x="197.752747" y="1387.344482" font-size="1" text-anchor="middle" id="svg_633">世纪超市</text>
+   <info transform="translate(197.75274658203125,1382.344482421875) ">
+    <address>中春路258号</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_634">
+   <image width="20" height="20" x="-803.734131" y="647.228455" xlink:href="/resource/icon/su" id="svg_635"/>
+   <text x="-793.734131" y="672.228455" font-size="1" text-anchor="middle" id="svg_636">华联超市</text>
+   <info transform="translate(-793.734130859375,667.2284545898438) ">
+    <address>上海市青浦区</address>
+    <phone>13641601186</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_637">
+   <image width="20" height="20" x="696.566956" y="401.923553" xlink:href="/resource/icon/su" id="svg_638"/>
+   <text x="706.566956" y="426.923553" font-size="1" text-anchor="middle" id="svg_639">民生超市</text>
+   <info transform="translate(706.5669555664062,421.9235534667969) ">
+    <address>上海市浦东新区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_640">
+   <image width="20" height="20" x="21.254898" y="-199.960892" xlink:href="/resource/icon/su" id="svg_641"/>
+   <text x="31.254898" y="-174.960892" font-size="1" text-anchor="middle" id="svg_642">世纪超市</text>
+   <info transform="translate(31.254898071289062,-179.9608917236328) ">
+    <address>上海市宝山区</address>
+    <phone>021-56020944</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_643">
+   <image width="20" height="20" x="-782.289307" y="1252.981323" xlink:href="/resource/icon/su" id="svg_644"/>
+   <text x="-772.289307" y="1277.981323" font-size="1" text-anchor="middle" id="svg_645">园区超市</text>
+   <info transform="translate(-772.289306640625,1272.9813232421875) ">
+    <address>上海市松江区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_646">
+   <image width="20" height="20" x="365.974243" y="2216.861084" xlink:href="/resource/icon/su" id="svg_647"/>
+   <text x="375.974243" y="2241.861084" font-size="1" text-anchor="middle" id="svg_648">嘉联超市</text>
+   <info transform="translate(375.9742431640625,2236.861083984375) ">
+    <address>上海市奉贤区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_649">
+   <image width="20" height="20" x="1299.534546" y="1706.818115" xlink:href="/resource/icon/su" id="svg_650"/>
+   <text x="1309.534546" y="1731.818115" font-size="1" text-anchor="middle" id="svg_651">吉祥超市</text>
+   <info transform="translate(1309.5345458984375,1726.818115234375) ">
+    <address>奉联路29号</address>
+    <phone>15021270965</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_652">
+   <image width="20" height="20" x="840.564148" y="267.301697" xlink:href="/resource/icon/su" id="svg_653"/>
+   <text x="850.564148" y="292.301697" font-size="1" text-anchor="middle" id="svg_654">嘉联超市</text>
+   <info transform="translate(850.5641479492188,287.30169677734375) ">
+    <address>杭州路881</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_655">
+   <image width="20" height="20" x="1266.511719" y="141.144882" xlink:href="/resource/icon/su" id="svg_656"/>
+   <text x="1276.511719" y="166.144882" font-size="1" text-anchor="middle" id="svg_657">宜家超市</text>
+   <info transform="translate(1276.51171875,161.14488220214844) ">
+    <address>顾高公路1306</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_658">
+   <image width="20" height="20" x="281.796906" y="348.4935" xlink:href="/resource/icon/su" id="svg_659"/>
+   <text x="291.796906" y="373.4935" font-size="1" text-anchor="middle" id="svg_660">元华超市</text>
+   <info transform="translate(291.7969055175781,368.4934997558594) ">
+    <address>岚皋路239临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_661">
+   <image width="20" height="20" x="-576.979553" y="1198.777588" xlink:href="/resource/icon/su" id="svg_662"/>
+   <text x="-566.979553" y="1223.777588" font-size="1" text-anchor="middle" id="svg_663">联华超市</text>
+   <info transform="translate(-566.9795532226562,1218.777587890625) ">
+    <address>广富林路1188弄181-101</address>
+    <phone>13601755768</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_664">
+   <image width="20" height="20" x="-786.185059" y="1242.058716" xlink:href="/resource/icon/su" id="svg_665"/>
+   <text x="-776.185059" y="1267.058716" font-size="1" text-anchor="middle" id="svg_666">联华超市</text>
+   <info transform="translate(-776.18505859375,1262.0587158203125) ">
+    <address>广富林路3477临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_667">
+   <image width="20" height="20" x="20.344675" y="2567.979492" xlink:href="/resource/icon/su" id="svg_668"/>
+   <text x="30.344675" y="2592.979492" font-size="1" text-anchor="middle" id="svg_669">滨海超市</text>
+   <info transform="translate(30.344675064086914,2587.9794921875) ">
+    <address>滨海花苑6-1</address>
+    <phone>18321675718</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_670">
+   <image width="20" height="20" x="-621.835327" y="389.817596" xlink:href="/resource/icon/su" id="svg_671"/>
+   <text x="-611.835327" y="414.817596" font-size="1" text-anchor="middle" id="svg_672">联华超市</text>
+   <info transform="translate(-611.8353271484375,409.8175964355469) ">
+    <address>上海市青浦区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_673">
+   <image width="20" height="20" x="687.50116" y="1534.23999" xlink:href="/resource/icon/su" id="svg_674"/>
+   <text x="697.50116" y="1559.23999" font-size="1" text-anchor="middle" id="svg_675">宜家超市</text>
+   <info transform="translate(697.5011596679688,1554.239990234375) ">
+    <address>金星村407号附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_676">
+   <image width="20" height="20" x="-67.109474" y="282.411377" xlink:href="/resource/icon/su" id="svg_677"/>
+   <text x="-57.109474" y="307.411377" font-size="1" text-anchor="middle" id="svg_678">华联超市</text>
+   <info transform="translate(-57.109474182128906,302.411376953125) ">
+    <address>嘉怡路333弄65嘉尚坊146</address>
+    <phone>021-69006510</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_679">
+   <image width="20" height="20" x="-152.779587" y="826.951843" xlink:href="/resource/icon/su" id="svg_680"/>
+   <text x="-142.779587" y="851.951843" font-size="1" text-anchor="middle" id="svg_681">花园超市</text>
+   <info transform="translate(-142.7795867919922,846.9518432617188) ">
+    <address>沪松公路1142</address>
+    <phone>021-67699716</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_682">
+   <image width="20" height="20" x="973.383728" y="-163.734039" xlink:href="/resource/icon/su" id="svg_683"/>
+   <text x="983.383728" y="-138.734039" font-size="1" text-anchor="middle" id="svg_684">海天超市</text>
+   <info transform="translate(983.3837280273438,-143.73403930664062) ">
+    <address>上海市浦东新区</address>
+    <phone>13524113829</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_685">
+   <image width="20" height="20" x="-402.835846" y="209.184006" xlink:href="/resource/icon/su" id="svg_686"/>
+   <text x="-392.835846" y="234.184006" font-size="1" text-anchor="middle" id="svg_687">圆圆超市</text>
+   <info transform="translate(-392.8358459472656,229.1840057373047) ">
+    <address>上海市嘉定区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_688">
+   <image width="20" height="20" x="-343.270905" y="-540.383972" xlink:href="/resource/icon/su" id="svg_689"/>
+   <text x="-333.270905" y="-515.383972" font-size="1" text-anchor="middle" id="svg_690">金鑫超市</text>
+   <info transform="translate(-333.2709045410156,-520.3839721679688) ">
+    <address>浏翔公路5909号</address>
+    <phone>13482752947</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_691">
+   <image width="20" height="20" x="-607.344543" y="1407.992188" xlink:href="/resource/icon/su" id="svg_692"/>
+   <text x="-597.344543" y="1432.992188" font-size="1" text-anchor="middle" id="svg_693">佳美超市</text>
+   <info transform="translate(-597.3445434570312,1427.9921875) ">
+    <address>荣乐中路206</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_754">
+   <image width="20" height="20" x="1071.505737" y="-1317.440674" xlink:href="/resource/icon/su" id="svg_755"/>
+   <text x="1081.505737" y="-1292.440674" font-size="1" text-anchor="middle" id="svg_756">chendu超市</text>
+   <info transform="translate(1081.5057373046875,-1297.440673828125) ">
+    <address>上海市崇明县</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_757">
+   <image width="20" height="20" x="693.035278" y="2224.55249" xlink:href="/resource/icon/su" id="svg_758"/>
+   <text x="703.035278" y="2249.55249" font-size="1" text-anchor="middle" id="svg_759">华联超市1659</text>
+   <info transform="translate(703.0352783203125,2244.552490234375) ">
+    <address>海湾镇海思路上海师范大学华联超市</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_760">
+   <image width="20" height="20" x="614.756226" y="1239.182373" xlink:href="/resource/icon/su" id="svg_761"/>
+   <text x="624.756226" y="1264.182373" font-size="1" text-anchor="middle" id="svg_762">浩盛超市</text>
+   <info transform="translate(624.7562255859375,1259.182373046875) ">
+    <address>杜行镇后马路65乙</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_763">
+   <image width="20" height="20" x="1890.560059" y="-63.427555" xlink:href="/resource/icon/su" id="svg_764"/>
+   <text x="1900.560059" y="-38.427555" font-size="1" text-anchor="middle" id="svg_765">久琴超市</text>
+   <info transform="translate(1900.56005859375,-43.427555084228516) ">
+    <address>上海市崇明县</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_766">
+   <image width="20" height="20" x="690.523071" y="1524.682617" xlink:href="/resource/icon/su" id="svg_767"/>
+   <text x="700.523071" y="1549.682617" font-size="1" text-anchor="middle" id="svg_768">慧杰超市</text>
+   <info transform="translate(700.5230712890625,1544.6826171875) ">
+    <address>金汇工业路1111号</address>
+    <phone>021-57480927</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_769">
+   <image width="20" height="20" x="719.61377" y="722.185242" xlink:href="/resource/icon/su" id="svg_770"/>
+   <text x="729.61377" y="747.185242" font-size="1" text-anchor="middle" id="svg_771">荣发超市</text>
+   <info transform="translate(729.61376953125,742.1852416992188) ">
+    <address>杨高南路3336临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_772">
+   <image width="20" height="20" x="899.947021" y="639.218506" xlink:href="/resource/icon/su" id="svg_773"/>
+   <text x="909.947021" y="664.218506" font-size="1" text-anchor="middle" id="svg_774">莲园超市</text>
+   <info transform="translate(909.947021484375,659.218505859375) ">
+    <address>莲园路553</address>
+    <phone>021-68920913</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_775">
+   <image width="20" height="20" x="-479.36731" y="1457.508301" xlink:href="/resource/icon/su" id="svg_776"/>
+   <text x="-469.36731" y="1482.508301" font-size="1" text-anchor="middle" id="svg_777">茸联超市</text>
+   <info transform="translate(-469.3673095703125,1477.50830078125) ">
+    <address>环城路256弄26</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_778">
+   <image width="20" height="20" x="1378.177734" y="151.430405" xlink:href="/resource/icon/su" id="svg_779"/>
+   <text x="1388.177734" y="176.430405" font-size="1" text-anchor="middle" id="svg_780">工苑超市</text>
+   <info transform="translate(1388.177734375,171.43040466308594) ">
+    <address>上海市浦东新区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_781">
+   <image width="20" height="20" x="-740.746765" y="796.140808" xlink:href="/resource/icon/su" id="svg_782"/>
+   <text x="-730.746765" y="821.140808" font-size="1" text-anchor="middle" id="svg_783">虹梅超市</text>
+   <info transform="translate(-730.7467651367188,816.1408081054688) ">
+    <address>赵华路445号</address>
+    <phone>021-59751226</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_784">
+   <image width="20" height="20" x="-215.87619" y="994.287048" xlink:href="/resource/icon/su" id="svg_785"/>
+   <text x="-205.87619" y="1019.287048" font-size="1" text-anchor="middle" id="svg_786">恩华超市</text>
+   <info transform="translate(-205.87619018554688,1014.2870483398438) ">
+    <address>同利路97</address>
+    <phone>021-67627027</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_787">
+   <image width="20" height="20" x="-721.668457" y="1259.079834" xlink:href="/resource/icon/su" id="svg_788"/>
+   <text x="-711.668457" y="1284.079834" font-size="1" text-anchor="middle" id="svg_789">登灵超市</text>
+   <info transform="translate(-711.66845703125,1279.079833984375) ">
+    <address>文汇路818-7</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_790">
+   <image width="20" height="20" x="-517.815125" y="1401.893677" xlink:href="/resource/icon/su" id="svg_791"/>
+   <text x="-507.815125" y="1426.893677" font-size="1" text-anchor="middle" id="svg_792">夏联超市</text>
+   <info transform="translate(-507.81512451171875,1421.8936767578125) ">
+    <address>方塔北路551临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_793">
+   <image width="20" height="20" x="1258.028442" y="799.37207" xlink:href="/resource/icon/su" id="svg_794"/>
+   <text x="1268.028442" y="824.37207" font-size="1" text-anchor="middle" id="svg_795">萍萍超市</text>
+   <info transform="translate(1268.0284423828125,819.3720703125) ">
+    <address>老横沔镇川周公路上2645号</address>
+    <phone>021-68183736</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_796">
+   <image width="20" height="20" x="1883.824463" y="683.273254" xlink:href="/resource/icon/su" id="svg_797"/>
+   <text x="1893.824463" y="708.273254" font-size="1" text-anchor="middle" id="svg_798">嘉莲超市</text>
+   <info transform="translate(1893.824462890625,703.2732543945312) ">
+    <address>上海市浦东新区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_799">
+   <image width="20" height="20" x="-554.879333" y="1651.613159" xlink:href="/resource/icon/su" id="svg_800"/>
+   <text x="-544.879333" y="1676.613159" font-size="1" text-anchor="middle" id="svg_801">莲都超市</text>
+   <info transform="translate(-544.8793334960938,1671.6131591796875) ">
+    <address>上海市松江区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_802">
+   <image width="20" height="20" x="659.357056" y="1123.547729" xlink:href="/resource/icon/su" id="svg_803"/>
+   <text x="669.357056" y="1148.547729" font-size="1" text-anchor="middle" id="svg_804">添莹超市</text>
+   <info transform="translate(669.3570556640625,1143.5477294921875) ">
+    <address>南江燕路61</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_805">
+   <image width="20" height="20" x="669.733643" y="-200.416" xlink:href="/resource/icon/su" id="svg_806"/>
+   <text x="679.733643" y="-175.416" font-size="1" text-anchor="middle" id="svg_807">三港超市</text>
+   <info transform="translate(679.733642578125,-180.41600036621094) ">
+    <address>江东路6号</address>
+    <phone>021-58646544</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_808">
+   <image width="20" height="20" x="697.513611" y="750.083557" xlink:href="/resource/icon/su" id="svg_809"/>
+   <text x="707.513611" y="775.083557" font-size="1" text-anchor="middle" id="svg_810">永丰超市</text>
+   <info transform="translate(707.5136108398438,770.0835571289062) ">
+    <address>胡巷村胡巷宅207临</address>
+    <phone>021-58422824</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_811">
+   <image width="20" height="20" x="-477.76532" y="1463.37915" xlink:href="/resource/icon/su" id="svg_812"/>
+   <text x="-467.76532" y="1488.37915" font-size="1" text-anchor="middle" id="svg_813">欧德超市</text>
+   <info transform="translate(-467.76531982421875,1483.379150390625) ">
+    <address>环城路204弄52</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_814">
+   <image width="20" height="20" x="-130.42453" y="-533.375305" xlink:href="/resource/icon/su" id="svg_815"/>
+   <text x="-120.42453" y="-508.375305" font-size="1" text-anchor="middle" id="svg_816">俊联超市</text>
+   <info transform="translate(-120.42453002929688,-513.3753051757812) ">
+    <address>沪太路8179-4临</address>
+    <phone>18604969456</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_817">
+   <image width="20" height="20" x="1180.987183" y="-944.88678" xlink:href="/resource/icon/su" id="svg_818"/>
+   <text x="1190.987183" y="-919.88678" font-size="1" text-anchor="middle" id="svg_819">辰都超市</text>
+   <info transform="translate(1190.9871826171875,-924.8867797851562) ">
+    <address>上海市崇明县</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_820">
+   <image width="20" height="20" x="941.271118" y="1660.351318" xlink:href="/resource/icon/su" id="svg_821"/>
+   <text x="951.271118" y="1685.351318" font-size="1" text-anchor="middle" id="svg_822">佳康超市</text>
+   <info transform="translate(951.2711181640625,1680.351318359375) ">
+    <address>上海市奉贤区</address>
+    <phone>021-57586409</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_823">
+   <image width="20" height="20" x="-394.898712" y="152.431641" xlink:href="/resource/icon/su" id="svg_824"/>
+   <text x="-384.898712" y="177.431641" font-size="1" text-anchor="middle" id="svg_825">启文超市</text>
+   <info transform="translate(-384.8987121582031,172.431640625) ">
+    <address>胜辛南路185-10号附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_826">
+   <image width="20" height="20" x="1020.569702" y="942.049438" xlink:href="/resource/icon/su" id="svg_827"/>
+   <text x="1030.569702" y="967.049438" font-size="1" text-anchor="middle" id="svg_828">海荻超市</text>
+   <info transform="translate(1030.5697021484375,962.0494384765625) ">
+    <address>关岳路108号</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_829">
+   <image width="20" height="20" x="-871.272583" y="-275.099731" xlink:href="/resource/icon/su" id="svg_830"/>
+   <text x="-861.272583" y="-250.099731" font-size="1" text-anchor="middle" id="svg_831">如海超市</text>
+   <info transform="translate(-861.2725830078125,-255.0997314453125) ">
+    <address>汇德路545</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_832">
+   <image width="20" height="20" x="-188.423889" y="276.358398" xlink:href="/resource/icon/su" id="svg_833"/>
+   <text x="-178.423889" y="301.358398" font-size="1" text-anchor="middle" id="svg_834">京洲超市</text>
+   <info transform="translate(-178.42388916015625,296.3583984375) ">
+    <address>上海市嘉定区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_835">
+   <image width="20" height="20" x="-27.824284" y="-357.620483" xlink:href="/resource/icon/su" id="svg_836"/>
+   <text x="-17.824284" y="-332.620483" font-size="1" text-anchor="middle" id="svg_837">顺驰超市</text>
+   <info transform="translate(-17.824283599853516,-337.6204833984375) ">
+    <address>罗迎路558弄1～120号</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_838">
+   <image width="20" height="20" x="1117.126099" y="260.292969" xlink:href="/resource/icon/su" id="svg_839"/>
+   <text x="1127.126099" y="285.292969" font-size="1" text-anchor="middle" id="svg_840">紫盛超市</text>
+   <info transform="translate(1127.1260986328125,280.29296875) ">
+    <address>佳林路78-1临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_841">
+   <image width="20" height="20" x="711.094116" y="-215.662216" xlink:href="/resource/icon/su" id="svg_842"/>
+   <text x="721.094116" y="-190.662216" font-size="1" text-anchor="middle" id="svg_843">陆家超市</text>
+   <info transform="translate(721.0941162109375,-195.66221618652344) ">
+    <address>江东路667号识别附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_844">
+   <image width="20" height="20" x="799.276428" y="410.570679" xlink:href="/resource/icon/su" id="svg_845"/>
+   <text x="809.276428" y="435.570679" font-size="1" text-anchor="middle" id="svg_846">文森超市</text>
+   <info transform="translate(809.2764282226562,430.5706787109375) ">
+    <address>桃林路451-2临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_847">
+   <image width="20" height="20" x="1653.756714" y="-201.917862" xlink:href="/resource/icon/su" id="svg_848"/>
+   <text x="1663.756714" y="-176.917862" font-size="1" text-anchor="middle" id="svg_849">乐家超市</text>
+   <info transform="translate(1663.7567138671875,-181.91786193847656) ">
+    <address>上海市崇明县</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_850">
+   <image width="20" height="20" x="1700.359985" y="1334.26416" xlink:href="/resource/icon/su" id="svg_851"/>
+   <text x="1710.359985" y="1359.26416" font-size="1" text-anchor="middle" id="svg_852">志宇超市</text>
+   <info transform="translate(1710.3599853515625,1354.26416015625) ">
+    <address>大川公路2483</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_853">
+   <image width="20" height="20" x="23.038933" y="-8.040533" xlink:href="/resource/icon/su" id="svg_854"/>
+   <text x="33.038933" y="16.959467" font-size="1" text-anchor="middle" id="svg_855">俊联超市</text>
+   <info transform="translate(33.03893280029297,11.959466934204102) ">
+    <address>顾陈路1115-8临</address>
+    <phone>021-56183055</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_856">
+   <image width="20" height="20" x="-1381.179077" y="1142.252808" xlink:href="/resource/icon/su" id="svg_857"/>
+   <text x="-1371.179077" y="1167.252808" font-size="1" text-anchor="middle" id="svg_858">芝宜超市</text>
+   <info transform="translate(-1371.1790771484375,1162.2528076171875) ">
+    <address>上海市青浦区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_859">
+   <image width="20" height="20" x="695.802368" y="1522.498169" xlink:href="/resource/icon/su" id="svg_860"/>
+   <text x="705.802368" y="1547.498169" font-size="1" text-anchor="middle" id="svg_861">闽联超市</text>
+   <info transform="translate(705.8023681640625,1542.4981689453125) ">
+    <address>金星村201号附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_862">
+   <image width="20" height="20" x="-998.558105" y="919.384888" xlink:href="/resource/icon/su" id="svg_863"/>
+   <text x="-988.558105" y="944.384888" font-size="1" text-anchor="middle" id="svg_864">联购超市</text>
+   <info transform="translate(-988.55810546875,939.3848876953125) ">
+    <address>西庆路204号临附近</address>
+    <phone>021-69219003</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_865">
+   <image width="20" height="20" x="-586.919189" y="549.279419" xlink:href="/resource/icon/su" id="svg_866"/>
+   <text x="-576.919189" y="574.279419" font-size="1" text-anchor="middle" id="svg_867">祥凤超市</text>
+   <info transform="translate(-576.919189453125,569.2794189453125) ">
+    <address>凤星路1062号附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_868">
+   <image width="20" height="20" x="185.677444" y="813.116455" xlink:href="/resource/icon/su" id="svg_869"/>
+   <text x="195.677444" y="838.116455" font-size="1" text-anchor="middle" id="svg_870">欧原超市</text>
+   <info transform="translate(195.6774444580078,833.116455078125) ">
+    <address>古龙路287弄新时代景庭</address>
+    <phone>021-34223334</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_871">
+   <image width="20" height="20" x="379.882446" y="1780.182007" xlink:href="/resource/icon/su" id="svg_872"/>
+   <text x="389.882446" y="1805.182007" font-size="1" text-anchor="middle" id="svg_873">强旺超市</text>
+   <info transform="translate(389.8824462890625,1800.1820068359375) ">
+    <address>肖南路1138号</address>
+    <phone>021-33658553</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_874">
+   <image width="20" height="20" x="719.977905" y="899.815125" xlink:href="/resource/icon/su" id="svg_875"/>
+   <text x="729.977905" y="924.815125" font-size="1" text-anchor="middle" id="svg_876">寿春超市</text>
+   <info transform="translate(729.9779052734375,919.8151245117188) ">
+    <address>上南路5234</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_877">
+   <image width="20" height="20" x="-1515.382202" y="1595.315918" xlink:href="/resource/icon/su" id="svg_878"/>
+   <text x="-1505.382202" y="1620.315918" font-size="1" text-anchor="middle" id="svg_879">便利超市</text>
+   <info transform="translate(-1505.3822021484375,1615.31591796875) ">
+    <address>蒸裕路53</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_880">
+   <image width="20" height="20" x="1332.557495" y="998.619751" xlink:href="/resource/icon/su" id="svg_881"/>
+   <text x="1342.557495" y="1023.619751" font-size="1" text-anchor="middle" id="svg_882">韩陈超市</text>
+   <info transform="translate(1342.5574951171875,1018.6197509765625) ">
+    <address>建设路35</address>
+    <phone>13501657969</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_883">
+   <image width="20" height="20" x="890.407898" y="138.632675" xlink:href="/resource/icon/su" id="svg_884"/>
+   <text x="900.407898" y="163.632675" font-size="1" text-anchor="middle" id="svg_885">理信超市</text>
+   <info transform="translate(900.4078979492188,158.63267517089844) ">
+    <address>上海市杨浦区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_886">
+   <image width="20" height="20" x="49.326153" y="155.389862" xlink:href="/resource/icon/su" id="svg_887"/>
+   <text x="59.326153" y="180.389862" font-size="1" text-anchor="middle" id="svg_888">乐客超市</text>
+   <info transform="translate(59.32615280151367,175.38986206054688) ">
+    <address>祁骆路159-7临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_889">
+   <image width="20" height="20" x="195.54425" y="524.985596" xlink:href="/resource/icon/su" id="svg_890"/>
+   <text x="205.54425" y="549.985596" font-size="1" text-anchor="middle" id="svg_891">汇金超市</text>
+   <info transform="translate(205.54425048828125,544.985595703125) ">
+    <address>天山路900号汇金百货虹桥店B2层</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_892">
+   <image width="20" height="20" x="612.7901" y="327.41275" xlink:href="/resource/icon/su" id="svg_893"/>
+   <text x="622.7901" y="352.41275" font-size="1" text-anchor="middle" id="svg_894">易多超市</text>
+   <info transform="translate(622.7901000976562,347.4127502441406) ">
+    <address>周家嘴路371号</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_895">
+   <image width="20" height="20" x="640.388062" y="1835.332397" xlink:href="/resource/icon/su" id="svg_896"/>
+   <text x="650.388062" y="1860.332397" font-size="1" text-anchor="middle" id="svg_897">民购超市</text>
+   <info transform="translate(650.3880615234375,1855.3323974609375) ">
+    <address>上海市奉贤区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_898">
+   <image width="20" height="20" x="534.219727" y="1871.841431" xlink:href="/resource/icon/su" id="svg_899"/>
+   <text x="544.219727" y="1896.841431" font-size="1" text-anchor="middle" id="svg_900">丽众超市</text>
+   <info transform="translate(544.2197265625,1891.8414306640625) ">
+    <address>南奉公路8797弄10</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_901">
+   <image width="20" height="20" x="-1297.584229" y="2078.41626" xlink:href="/resource/icon/su" id="svg_902"/>
+   <text x="-1287.584229" y="2103.41626" font-size="1" text-anchor="middle" id="svg_903">光林超市</text>
+   <info transform="translate(-1287.584228515625,2098.416259765625) ">
+    <address>强兴路63</address>
+    <phone>021-57360792</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_904">
+   <image width="20" height="20" x="25.114239" y="-6.766222" xlink:href="/resource/icon/su" id="svg_905"/>
+   <text x="35.114239" y="18.233778" font-size="1" text-anchor="middle" id="svg_906">宏兴超市</text>
+   <info transform="translate(35.11423873901367,13.23377799987793) ">
+    <address>顾陈路1100-26临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_907">
+   <image width="20" height="20" x="1013.943237" y="1093.737915" xlink:href="/resource/icon/su" id="svg_908"/>
+   <text x="1023.943237" y="1118.737915" font-size="1" text-anchor="middle" id="svg_909">沈庄超市</text>
+   <info transform="translate(1023.9432373046875,1113.7379150390625) ">
+    <address>沈庄西街24</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_910">
+   <image width="20" height="20" x="586.867004" y="1975.288208" xlink:href="/resource/icon/su" id="svg_911"/>
+   <text x="596.867004" y="2000.288208" font-size="1" text-anchor="middle" id="svg_912">呈丰超市</text>
+   <info transform="translate(596.8670043945312,1995.2882080078125) ">
+    <address>杨海路633号</address>
+    <phone>021-33617043</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_913">
+   <image width="20" height="20" x="1180.768799" y="488.940796" xlink:href="/resource/icon/su" id="svg_914"/>
+   <text x="1190.768799" y="513.940796" font-size="1" text-anchor="middle" id="svg_915">芯欣超市</text>
+   <info transform="translate(1190.768798828125,508.9407958984375) ">
+    <address>青桐路179号</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_916">
+   <image width="20" height="20" x="286.602875" y="1403.805176" xlink:href="/resource/icon/su" id="svg_917"/>
+   <text x="296.602875" y="1428.805176" font-size="1" text-anchor="middle" id="svg_918">欣居超市</text>
+   <info transform="translate(296.6028747558594,1423.80517578125) ">
+    <address>景谷东路99弄20</address>
+    <phone>021-34053230</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_919">
+   <image width="20" height="20" x="324.977844" y="949.513245" xlink:href="/resource/icon/su" id="svg_920"/>
+   <text x="334.977844" y="974.513245" font-size="1" text-anchor="middle" id="svg_921">行南超市</text>
+   <info transform="translate(334.97784423828125,969.5132446289062) ">
+    <address>虹梅南路1526弄18</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_922">
+   <image width="20" height="20" x="-861.842712" y="1584.211182" xlink:href="/resource/icon/su" id="svg_923"/>
+   <text x="-851.842712" y="1609.211182" font-size="1" text-anchor="middle" id="svg_924">磊氏超市</text>
+   <info transform="translate(-851.8427124023438,1604.211181640625) ">
+    <address>闵塔路1751弄12-112</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_925">
+   <image width="20" height="20" x="440.758118" y="316.681244" xlink:href="/resource/icon/su" id="svg_926"/>
+   <text x="450.758118" y="341.681244" font-size="1" text-anchor="middle" id="svg_927">汇金超市</text>
+   <info transform="translate(450.75811767578125,336.6812438964844) ">
+    <address>芷江西路375</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_928">
+   <image width="20" height="20" x="-506.419128" y="392.229675" xlink:href="/resource/icon/su" id="svg_929"/>
+   <text x="-496.419128" y="417.229675" font-size="1" text-anchor="middle" id="svg_930">一红超市</text>
+   <info transform="translate(-496.41912841796875,412.22967529296875) ">
+    <address>纪鹤路839弄66</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_931">
+   <image width="20" height="20" x="446.874817" y="96.953598" xlink:href="/resource/icon/su" id="svg_932"/>
+   <text x="456.874817" y="121.953598" font-size="1" text-anchor="middle" id="svg_933">闽缘超市</text>
+   <info transform="translate(456.87481689453125,116.95359802246094) ">
+    <address>场中路1300临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_934">
+   <image width="20" height="20" x="1011.358215" y="913.10437" xlink:href="/resource/icon/su" id="svg_935"/>
+   <text x="1021.358215" y="938.10437" font-size="1" text-anchor="middle" id="svg_936">联友超市</text>
+   <info transform="translate(1021.3582153320312,933.1043701171875) ">
+    <address>周东路782弄52</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_937">
+   <image width="20" height="20" x="-517.123352" y="1411.815063" xlink:href="/resource/icon/su" id="svg_938"/>
+   <text x="-507.123352" y="1436.815063" font-size="1" text-anchor="middle" id="svg_939">聚缘超市</text>
+   <info transform="translate(-507.12335205078125,1431.8150634765625) ">
+    <address>方塔北路505号附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_940">
+   <image width="20" height="20" x="-47.230221" y="1025.289185" xlink:href="/resource/icon/su" id="svg_941"/>
+   <text x="-37.230221" y="1050.289185" font-size="1" text-anchor="middle" id="svg_942">康发超市</text>
+   <info transform="translate(-37.230220794677734,1045.2891845703125) ">
+    <address>莘松路958弄瀑布湾道74号附近</address>
+    <phone>021-31360081</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_943">
+   <image width="20" height="20" x="634.781067" y="1935.966553" xlink:href="/resource/icon/su" id="svg_944"/>
+   <text x="644.781067" y="1960.966553" font-size="1" text-anchor="middle" id="svg_945">杨王超市</text>
+   <info transform="translate(644.7810668945312,1955.966552734375) ">
+    <address>金海公路2898弄19</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_946">
+   <image width="20" height="20" x="723.691589" y="903.000916" xlink:href="/resource/icon/su" id="svg_947"/>
+   <text x="733.691589" y="928.000916" font-size="1" text-anchor="middle" id="svg_948">农良超市</text>
+   <info transform="translate(733.6915893554688,923.0009155273438) ">
+    <address>上南路5249临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_949">
+   <image width="20" height="20" x="1340.676636" y="563.305969" xlink:href="/resource/icon/su" id="svg_950"/>
+   <text x="1350.676636" y="588.305969" font-size="1" text-anchor="middle" id="svg_951">慧峰超市</text>
+   <info transform="translate(1350.6766357421875,583.3059692382812) ">
+    <address>唐安路1099</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_952">
+   <image width="20" height="20" x="1152.151367" y="1175.839966" xlink:href="/resource/icon/su" id="svg_953"/>
+   <text x="1162.151367" y="1200.839966" font-size="1" text-anchor="middle" id="svg_954">利群超市</text>
+   <info transform="translate(1162.1513671875,1195.8399658203125) ">
+    <address>储墙路128号附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_955">
+   <image width="20" height="20" x="2191.370361" y="1553.536743" xlink:href="/resource/icon/su" id="svg_956"/>
+   <text x="2201.370361" y="1578.536743" font-size="1" text-anchor="middle" id="svg_957">乐农超市</text>
+   <info transform="translate(2201.370361328125,1573.5367431640625) ">
+    <address>余姚村和平358-2号附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_958">
+   <image width="20" height="20" x="1099.540527" y="342.622589" xlink:href="/resource/icon/su" id="svg_959"/>
+   <text x="1109.540527" y="367.622589" font-size="1" text-anchor="middle" id="svg_960">鑫园超市</text>
+   <info transform="translate(1109.54052734375,362.6225891113281) ">
+    <address>新金桥路814识别</address>
+    <phone>021-58545809</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_961">
+   <image width="20" height="20" x="1541.981323" y="953.79126" xlink:href="/resource/icon/su" id="svg_962"/>
+   <text x="1551.981323" y="978.79126" font-size="1" text-anchor="middle" id="svg_963">新佳超市</text>
+   <info transform="translate(1551.9813232421875,973.791259765625) ">
+    <address>周祝公路2393</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_964">
+   <image width="20" height="20" x="-2027.43689" y="950.878601" xlink:href="/resource/icon/su" id="svg_965"/>
+   <text x="-2017.43689" y="975.878601" font-size="1" text-anchor="middle" id="svg_966">亮的超市</text>
+   <info transform="translate(-2017.4368896484375,970.8786010742188) ">
+    <address>商周公路285弄1号附近</address>
+    <phone>021-59283796</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_967">
+   <image width="20" height="20" x="27.844906" y="-99.836441" xlink:href="/resource/icon/su" id="svg_968"/>
+   <text x="37.844906" y="-74.836441" font-size="1" text-anchor="middle" id="svg_969">菊联超市</text>
+   <info transform="translate(37.844905853271484,-79.83644104003906) ">
+    <address>菊联路74号</address>
+    <phone>021-36312801</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_970">
+   <image width="20" height="20" x="-614.37146" y="1374.678101" xlink:href="/resource/icon/su" id="svg_971"/>
+   <text x="-604.37146" y="1399.678101" font-size="1" text-anchor="middle" id="svg_972">兴地超市</text>
+   <info transform="translate(-604.3714599609375,1394.6781005859375) ">
+    <address>南期昌路448</address>
+    <phone>021-57700555</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_973">
+   <image width="20" height="20" x="1662.749634" y="1752.693359" xlink:href="/resource/icon/su" id="svg_974"/>
+   <text x="1672.749634" y="1777.693359" font-size="1" text-anchor="middle" id="svg_975">天鹏超市</text>
+   <info transform="translate(1672.7496337890625,1772.693359375) ">
+    <address>鹏贸街181号</address>
+    <phone>021-57533576</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_976">
+   <image width="20" height="20" x="1795.277954" y="950.104858" xlink:href="/resource/icon/su" id="svg_977"/>
+   <text x="1805.277954" y="975.104858" font-size="1" text-anchor="middle" id="svg_978">兴达超市</text>
+   <info transform="translate(1805.2779541015625,970.1048583984375) ">
+    <address>南北大街2号1室</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_979">
+   <image width="20" height="20" x="-8.054258" y="986.468262" xlink:href="/resource/icon/su" id="svg_980"/>
+   <text x="1.945742" y="1011.468262" font-size="1" text-anchor="middle" id="svg_981">繁嘉超市</text>
+   <info transform="translate(1.9457422494888306,1006.46826171875) ">
+    <address>莘北路668弄10临</address>
+    <phone>021-54941275</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_982">
+   <image width="20" height="20" x="164.15979" y="972.241516" xlink:href="/resource/icon/su" id="svg_983"/>
+   <text x="174.15979" y="997.241516" font-size="1" text-anchor="middle" id="svg_984">百安超市</text>
+   <info transform="translate(174.1597900390625,992.2415161132812) ">
+    <address>莘朱路796临</address>
+    <phone>021-54384415,13564450713</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_985">
+   <image width="20" height="20" x="74.19342" y="540.686951" xlink:href="/resource/icon/su" id="svg_986"/>
+   <text x="84.19342" y="565.686951" font-size="1" text-anchor="middle" id="svg_987">泰华超市</text>
+   <info transform="translate(84.19342041015625,560.6869506835938) ">
+    <address>仙霞西路1015号</address>
+    <phone>021-62919201</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_988">
+   <image width="20" height="20" x="456.85083" y="333.429321" xlink:href="/resource/icon/su" id="svg_989"/>
+   <text x="466.85083" y="358.429321" font-size="1" text-anchor="middle" id="svg_990">执强超市</text>
+   <info transform="translate(466.850830078125,353.4293212890625) ">
+    <address>中华新路616</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_991">
+   <image width="20" height="20" x="174.718369" y="2565.339844" xlink:href="/resource/icon/su" id="svg_992"/>
+   <text x="184.718369" y="2590.339844" font-size="1" text-anchor="middle" id="svg_993">惠多超市</text>
+   <info transform="translate(184.71836853027344,2585.33984375) ">
+    <address>上海市金山区</address>
+    <phone>021-28033490</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_994">
+   <image width="20" height="20" x="860.625427" y="1838.345215" xlink:href="/resource/icon/su" id="svg_995"/>
+   <text x="870.625427" y="1863.345215" font-size="1" text-anchor="middle" id="svg_996">公平超市</text>
+   <info transform="translate(870.6254272460938,1858.34521484375) ">
+    <address>朱店村1436</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_997">
+   <image width="20" height="20" x="312.307556" y="1292.12085" xlink:href="/resource/icon/su" id="svg_998"/>
+   <text x="322.307556" y="1317.12085" font-size="1" text-anchor="middle" id="svg_999">翔辉超市</text>
+   <info transform="translate(322.30755615234375,1312.120849609375) ">
+    <address>吴河路351号附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1000">
+   <image width="20" height="20" x="479.642822" y="384.074097" xlink:href="/resource/icon/su" id="svg_1001"/>
+   <text x="489.642822" y="409.074097" font-size="1" text-anchor="middle" id="svg_1002">感利超市</text>
+   <info transform="translate(489.642822265625,404.0740966796875) ">
+    <address>乌镇路118</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1003">
+   <image width="20" height="20" x="-504.016144" y="-481.583649" xlink:href="/resource/icon/su" id="svg_1004"/>
+   <text x="-494.016144" y="-456.583649" font-size="1" text-anchor="middle" id="svg_1005">贤超超市</text>
+   <info transform="translate(-494.0161437988281,-461.5836486816406) ">
+    <address>嘉行公路1699号</address>
+    <phone>13761509702</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1006">
+   <image width="20" height="20" x="421.206543" y="364.968536" xlink:href="/resource/icon/su" id="svg_1007"/>
+   <text x="431.206543" y="389.968536" font-size="1" text-anchor="middle" id="svg_1008">熊城超市</text>
+   <info transform="translate(431.20654296875,384.9685363769531) ">
+    <address>天目西路285号101-1室</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1009">
+   <image width="20" height="20" x="1471.530151" y="317.864532" xlink:href="/resource/icon/su" id="svg_1010"/>
+   <text x="1481.530151" y="342.864532" font-size="1" text-anchor="middle" id="svg_1011">梁琪超市</text>
+   <info transform="translate(1481.5301513671875,337.8645324707031) ">
+    <address>龚丰路161临</address>
+    <phone>021-58564420</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1012">
+   <image width="20" height="20" x="1162.746338" y="1920.583862" xlink:href="/resource/icon/su" id="svg_1013"/>
+   <text x="1172.746338" y="1945.583862" font-size="1" text-anchor="middle" id="svg_1014">双联超市</text>
+   <info transform="translate(1172.746337890625,1940.5838623046875) ">
+    <address>紫苑路220号</address>
+    <phone>021-57175507</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1015">
+   <image width="20" height="20" x="2079.813477" y="1615.886963" xlink:href="/resource/icon/su" id="svg_1016"/>
+   <text x="2089.813477" y="1640.886963" font-size="1" text-anchor="middle" id="svg_1017">星开超市</text>
+   <info transform="translate(2089.8134765625,1635.886962890625) ">
+    <address>上海市浦东新区</address>
+    <phone>021-58043013</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1018">
+   <image width="20" height="20" x="163.031113" y="-97.060265" xlink:href="/resource/icon/su" id="svg_1019"/>
+   <text x="173.031113" y="-72.060265" font-size="1" text-anchor="middle" id="svg_1020">星地超市</text>
+   <info transform="translate(173.03111267089844,-77.06026458740234) ">
+    <address>顾太路360号附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1021">
+   <image width="20" height="20" x="616.43103" y="-5.082311" xlink:href="/resource/icon/su" id="svg_1022"/>
+   <text x="626.43103" y="19.917689" font-size="1" text-anchor="middle" id="svg_1023">和佳超市</text>
+   <info transform="translate(626.4310302734375,14.917689323425293) ">
+    <address>国权北路829弄2号</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1024">
+   <image width="20" height="20" x="-815.457764" y="1613.338257" xlink:href="/resource/icon/su" id="svg_1025"/>
+   <text x="-805.457764" y="1638.338257" font-size="1" text-anchor="middle" id="svg_1026">玉佳超市</text>
+   <info transform="translate(-805.457763671875,1633.3382568359375) ">
+    <address>唐明路792～794号</address>
+    <phone>021-57841231</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1027">
+   <image width="20" height="20" x="1856.080811" y="1284.384033" xlink:href="/resource/icon/su" id="svg_1028"/>
+   <text x="1866.080811" y="1309.384033" font-size="1" text-anchor="middle" id="svg_1029">惠东超市</text>
+   <info transform="translate(1866.080810546875,1304.384033203125) ">
+    <address>惠东路365临</address>
+    <phone>13671578926</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1030">
+   <image width="20" height="20" x="427.323242" y="1897.837402" xlink:href="/resource/icon/su" id="svg_1031"/>
+   <text x="437.323242" y="1922.837402" font-size="1" text-anchor="middle" id="svg_1032">子熠超市</text>
+   <info transform="translate(437.3232421875,1917.83740234375) ">
+    <address>上海市奉贤区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1033">
+   <image width="20" height="20" x="-647.030273" y="51.03289" xlink:href="/resource/icon/su" id="svg_1034"/>
+   <text x="-637.030273" y="76.03289" font-size="1" text-anchor="middle" id="svg_1035">莲华超市</text>
+   <info transform="translate(-637.0302734375,71.03289031982422) ">
+    <address>泰顺路76</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1036">
+   <image width="20" height="20" x="746.519958" y="919.885498" xlink:href="/resource/icon/su" id="svg_1037"/>
+   <text x="756.519958" y="944.885498" font-size="1" text-anchor="middle" id="svg_1038">莲都超市</text>
+   <info transform="translate(756.5199584960938,939.885498046875) ">
+    <address>陈行公路101临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1039">
+   <image width="20" height="20" x="315.72998" y="1089.778442" xlink:href="/resource/icon/su" id="svg_1040"/>
+   <text x="325.72998" y="1114.778442" font-size="1" text-anchor="middle" id="svg_1041">华丰超市</text>
+   <info transform="translate(325.72998046875,1109.7784423828125) ">
+    <address>双柏路1340临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1042">
+   <image width="20" height="20" x="-604.249817" y="1471.552979" xlink:href="/resource/icon/su" id="svg_1043"/>
+   <text x="-594.249817" y="1496.552979" font-size="1" text-anchor="middle" id="svg_1044">金集超市</text>
+   <info transform="translate(-594.2498168945312,1491.552978515625) ">
+    <address>人民南路39-13</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1045">
+   <image width="20" height="20" x="880.104187" y="1801.390259" xlink:href="/resource/icon/su" id="svg_1046"/>
+   <text x="890.104187" y="1826.390259" font-size="1" text-anchor="middle" id="svg_1047">联城超市</text>
+   <info transform="translate(890.1041870117188,1821.3902587890625) ">
+    <address>沿钱公路</address>
+    <phone>021-57563895</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1048">
+   <image width="20" height="20" x="-276.497009" y="188.494644" xlink:href="/resource/icon/su" id="svg_1049"/>
+   <text x="-266.497009" y="213.494644" font-size="1" text-anchor="middle" id="svg_1050">莲丰超市</text>
+   <info transform="translate(-266.49700927734375,208.49464416503906) ">
+    <address>上海市嘉定区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1051">
+   <image width="20" height="20" x="2213.871094" y="1360.751587" xlink:href="/resource/icon/su" id="svg_1052"/>
+   <text x="2223.871094" y="1385.751587" font-size="1" text-anchor="middle" id="svg_1053">勇军超市</text>
+   <info transform="translate(2223.87109375,1380.7515869140625) ">
+    <address>建港村港北381</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1054">
+   <image width="20" height="20" x="-101.661514" y="1148.04187" xlink:href="/resource/icon/su" id="svg_1055"/>
+   <text x="-91.661514" y="1173.04187" font-size="1" text-anchor="middle" id="svg_1056">本讯超市</text>
+   <info transform="translate(-91.66151428222656,1168.0418701171875) ">
+    <address>陈春公路702号附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1057">
+   <image width="20" height="20" x="-214.711105" y="2717.346924" xlink:href="/resource/icon/su" id="svg_1058"/>
+   <text x="-204.711105" y="2742.346924" font-size="1" text-anchor="middle" id="svg_1059">家有超市</text>
+   <info transform="translate(-204.7111053466797,2737.346923828125) ">
+    <address>北泰路338</address>
+    <phone>021-57261070</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1060">
+   <image width="20" height="20" x="1990.611694" y="1908.150146" xlink:href="/resource/icon/su" id="svg_1061"/>
+   <text x="2000.611694" y="1933.150146" font-size="1" text-anchor="middle" id="svg_1062">家缘超市</text>
+   <info transform="translate(2000.6116943359375,1928.150146484375) ">
+    <address>龙汇路300号新都汇1楼</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1063">
+   <image width="20" height="20" x="1323.200317" y="650.323181" xlink:href="/resource/icon/su" id="svg_1064"/>
+   <text x="1333.200317" y="675.323181" font-size="1" text-anchor="middle" id="svg_1065">杰盛超市</text>
+   <info transform="translate(1333.2003173828125,670.3231811523438) ">
+    <address>桥弄孙家宅23号附近</address>
+    <phone>021-58577455</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1066">
+   <image width="20" height="20" x="1183.171753" y="776.206909" xlink:href="/resource/icon/su" id="svg_1067"/>
+   <text x="1193.171753" y="801.206909" font-size="1" text-anchor="middle" id="svg_1068">仙霞超市</text>
+   <info transform="translate(1193.1717529296875,796.2069091796875) ">
+    <address>康桥东路921号</address>
+    <phone>021-58131005</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1069">
+   <image width="20" height="20" x="-1490.769897" y="907.552002" xlink:href="/resource/icon/su" id="svg_1070"/>
+   <text x="-1480.769897" y="932.552002" font-size="1" text-anchor="middle" id="svg_1071">阿藤超市</text>
+   <info transform="translate(-1480.7698974609375,927.552001953125) ">
+    <address>石家浜路162</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1072">
+   <image width="20" height="20" x="1398.31189" y="-309.142059" xlink:href="/resource/icon/su" id="svg_1073"/>
+   <text x="1408.31189" y="-284.142059" font-size="1" text-anchor="middle" id="svg_1074">佳睦超市</text>
+   <info transform="translate(1408.3118896484375,-289.1420593261719) ">
+    <address>凤滨路983弄107</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1075">
+   <image width="20" height="20" x="2338.498535" y="-904.381897" xlink:href="/resource/icon/su" id="svg_1076"/>
+   <text x="2348.498535" y="-879.381897" font-size="1" text-anchor="middle" id="svg_1077">辰都超市</text>
+   <info transform="translate(2348.49853515625,-884.3818969726562) ">
+    <address>前哨公路42弄51</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1078">
+   <image width="20" height="20" x="332.332458" y="-295.807281" xlink:href="/resource/icon/su" id="svg_1079"/>
+   <text x="342.332458" y="-270.807281" font-size="1" text-anchor="middle" id="svg_1080">闽联超市</text>
+   <info transform="translate(342.33245849609375,-275.8072814941406) ">
+    <address>富杨路369临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1081">
+   <image width="20" height="20" x="79.618347" y="2405.959717" xlink:href="/resource/icon/su" id="svg_1082"/>
+   <text x="89.618347" y="2430.959717" font-size="1" text-anchor="middle" id="svg_1083">丽众超市</text>
+   <info transform="translate(89.61834716796875,2425.959716796875) ">
+    <address>上海市金山区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1084">
+   <image width="20" height="20" x="79.763985" y="164.856171" xlink:href="/resource/icon/su" id="svg_1085"/>
+   <text x="89.763985" y="189.856171" font-size="1" text-anchor="middle" id="svg_1086">鲁粤超市</text>
+   <info transform="translate(89.76398468017578,184.85617065429688) ">
+    <address>祁连山路1268号附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1087">
+   <image width="20" height="20" x="-683.038635" y="1345.2323" xlink:href="/resource/icon/su" id="svg_1088"/>
+   <text x="-673.038635" y="1370.2323" font-size="1" text-anchor="middle" id="svg_1089">万嘉超市</text>
+   <info transform="translate(-673.0386352539062,1365.2322998046875) ">
+    <address>江学路381弄8</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1090">
+   <image width="20" height="20" x="420.187103" y="528.216919" xlink:href="/resource/icon/su" id="svg_1091"/>
+   <text x="430.187103" y="553.216919" font-size="1" text-anchor="middle" id="svg_1092">孔记超市</text>
+   <info transform="translate(430.1871032714844,548.2169189453125) ">
+    <address>汾阳路77-3临</address>
+    <phone>021-54657800</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1093">
+   <image width="20" height="20" x="1244.047485" y="140.107239" xlink:href="/resource/icon/su" id="svg_1094"/>
+   <text x="1254.047485" y="165.107239" font-size="1" text-anchor="middle" id="svg_1095">浩男超市</text>
+   <info transform="translate(1254.0474853515625,160.10723876953125) ">
+    <address>志伟路88号附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1096">
+   <image width="20" height="20" x="-235.136505" y="1204.575684" xlink:href="/resource/icon/su" id="svg_1097"/>
+   <text x="-225.136505" y="1229.575684" font-size="1" text-anchor="middle" id="svg_1098">申昕超市</text>
+   <info transform="translate(-225.13650512695312,1224.57568359375) ">
+    <address>新南街595</address>
+    <phone>021-67689818</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1099">
+   <image width="20" height="20" x="418.949188" y="-240.766144" xlink:href="/resource/icon/su" id="svg_1100"/>
+   <text x="428.949188" y="-215.766144" font-size="1" text-anchor="middle" id="svg_1101">富隆超市</text>
+   <info transform="translate(428.9491882324219,-220.76614379882812) ">
+    <address>上海市宝山区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1102">
+   <image width="20" height="20" x="-180.595978" y="-10.743894" xlink:href="/resource/icon/su" id="svg_1103"/>
+   <text x="-170.595978" y="14.256106" font-size="1" text-anchor="middle" id="svg_1104">驿磊超市</text>
+   <info transform="translate(-170.59597778320312,9.25610637664795) ">
+    <address>上海市嘉定区</address>
+    <phone>15021021058</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1105">
+   <image width="20" height="20" x="378.863007" y="1780.910278" xlink:href="/resource/icon/su" id="svg_1106"/>
+   <text x="388.863007" y="1805.910278" font-size="1" text-anchor="middle" id="svg_1107">瑞明超市</text>
+   <info transform="translate(388.8630065917969,1800.9102783203125) ">
+    <address>肖南路1119号</address>
+    <phone>021-33658731</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1108">
+   <image width="20" height="20" x="1489.516113" y="584.78717" xlink:href="/resource/icon/su" id="svg_1109"/>
+   <text x="1499.516113" y="609.78717" font-size="1" text-anchor="middle" id="svg_1110">申利超市</text>
+   <info transform="translate(1499.51611328125,604.7871704101562) ">
+    <address>妙境路70</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1111">
+   <image width="20" height="20" x="517.835754" y="950.787537" xlink:href="/resource/icon/su" id="svg_1112"/>
+   <text x="527.835754" y="975.787537" font-size="1" text-anchor="middle" id="svg_1113">联勇超市</text>
+   <info transform="translate(527.8357543945312,970.7875366210938) ">
+    <address>临江村周南队周家宅49号附近</address>
+    <phone>021-50843589</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1114">
+   <image width="20" height="20" x="907.884155" y="162.198334" xlink:href="/resource/icon/su" id="svg_1115"/>
+   <text x="917.884155" y="187.198334" font-size="1" text-anchor="middle" id="svg_1116">闽兴超市</text>
+   <info transform="translate(917.8841552734375,182.19833374023438) ">
+    <address>共青路457号</address>
+    <phone>021-51264110</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1117">
+   <image width="20" height="20" x="-323.318817" y="508.738159" xlink:href="/resource/icon/su" id="svg_1118"/>
+   <text x="-313.318817" y="533.738159" font-size="1" text-anchor="middle" id="svg_1119">雨晴超市</text>
+   <info transform="translate(-313.3188171386719,528.7381591796875) ">
+    <address>陈家角村南张队9号附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1120">
+   <image width="20" height="20" x="589.925354" y="1974.605469" xlink:href="/resource/icon/su" id="svg_1121"/>
+   <text x="599.925354" y="1999.605469" font-size="1" text-anchor="middle" id="svg_1122">亮亮超市</text>
+   <info transform="translate(599.9253540039062,1994.60546875) ">
+    <address>杨海路615号附近</address>
+    <phone>021-57474436</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1123">
+   <image width="20" height="20" x="-1233.468262" y="506.280518" xlink:href="/resource/icon/su" id="svg_1124"/>
+   <text x="-1223.468262" y="531.280518" font-size="1" text-anchor="middle" id="svg_1125">繁嘉超市</text>
+   <info transform="translate(-1223.46826171875,526.280517578125) ">
+    <address>青赵公路5677号-8号</address>
+    <phone>13917171121</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1126">
+   <image width="20" height="20" x="-964.843445" y="1955.945923" xlink:href="/resource/icon/su" id="svg_1127"/>
+   <text x="-954.843445" y="1980.945923" font-size="1" text-anchor="middle" id="svg_1128">万丰超市</text>
+   <info transform="translate(-954.8434448242188,1975.9459228515625) ">
+    <address>上海市金山区</address>
+    <phone>021-57312417</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1129">
+   <image width="20" height="20" x="-856.490601" y="-176.977783" xlink:href="/resource/icon/su" id="svg_1130"/>
+   <text x="-846.490601" y="-151.977783" font-size="1" text-anchor="middle" id="svg_1131">好乐超市</text>
+   <info transform="translate(-846.4906005859375,-156.977783203125) ">
+    <address>祁昌路350弄106临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1132">
+   <image width="20" height="20" x="753.000732" y="878.652466" xlink:href="/resource/icon/su" id="svg_1133"/>
+   <text x="763.000732" y="903.652466" font-size="1" text-anchor="middle" id="svg_1134">好的超市</text>
+   <info transform="translate(763.000732421875,898.6524658203125) ">
+    <address>林鸣路298临</address>
+    <phone>15026863339</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1135">
+   <image width="20" height="20" x="511.172913" y="842.425598" xlink:href="/resource/icon/su" id="svg_1136"/>
+   <text x="521.172913" y="867.425598" font-size="1" text-anchor="middle" id="svg_1137">美华超市</text>
+   <info transform="translate(521.1729125976562,862.4255981445312) ">
+    <address>上浦西路524临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1138">
+   <image width="20" height="20" x="-1005.439331" y="344.989166" xlink:href="/resource/icon/su" id="svg_1139"/>
+   <text x="-995.439331" y="369.989166" font-size="1" text-anchor="middle" id="svg_1140">联都超市</text>
+   <info transform="translate(-995.4393310546875,364.9891662597656) ">
+    <address>盈联路58号</address>
+    <phone>021-59743497</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1141">
+   <image width="20" height="20" x="-517.196167" y="2502.989502" xlink:href="/resource/icon/su" id="svg_1142"/>
+   <text x="-507.196167" y="2527.989502" font-size="1" text-anchor="middle" id="svg_1143">彬杉超市</text>
+   <info transform="translate(-507.1961669921875,2522.989501953125) ">
+    <address>建圩路105</address>
+    <phone>021-57292335</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1144">
+   <image width="20" height="20" x="-121.431541" y="-619.027222" xlink:href="/resource/icon/su" id="svg_1145"/>
+   <text x="-111.431541" y="-594.027222" font-size="1" text-anchor="middle" id="svg_1146">飞云超市</text>
+   <info transform="translate(-111.4315414428711,-599.0272216796875) ">
+    <address>长川路205</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1147">
+   <image width="20" height="20" x="546.890015" y="703.480164" xlink:href="/resource/icon/su" id="svg_1148"/>
+   <text x="556.890015" y="728.480164" font-size="1" text-anchor="middle" id="svg_1149">乐客超市</text>
+   <info transform="translate(556.8900146484375,723.4801635742188) ">
+    <address>耀华路528-3临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1150">
+   <image width="20" height="20" x="-602.866272" y="1473.710205" xlink:href="/resource/icon/su" id="svg_1151"/>
+   <text x="-592.866272" y="1498.710205" font-size="1" text-anchor="middle" id="svg_1152">欣涛超市</text>
+   <info transform="translate(-592.8662719726562,1493.710205078125) ">
+    <address>人民南路66-3</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1153">
+   <image width="20" height="20" x="-133.919785" y="-396.969391" xlink:href="/resource/icon/su" id="svg_1154"/>
+   <text x="-123.919785" y="-371.969391" font-size="1" text-anchor="middle" id="svg_1155">金港超市</text>
+   <info transform="translate(-123.91978454589844,-376.9693908691406) ">
+    <address>嘉罗公路2718-33号附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1156">
+   <image width="20" height="20" x="-147.318253" y="-96.559647" xlink:href="/resource/icon/su" id="svg_1157"/>
+   <text x="-137.318253" y="-71.559647" font-size="1" text-anchor="middle" id="svg_1158">源成超市</text>
+   <info transform="translate(-137.31825256347656,-76.55964660644531) ">
+    <address>陈宝路12</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1159">
+   <image width="20" height="20" x="749.287048" y="828.908813" xlink:href="/resource/icon/su" id="svg_1160"/>
+   <text x="759.287048" y="853.908813" font-size="1" text-anchor="middle" id="svg_1161">联夏超市</text>
+   <info transform="translate(759.2870483398438,848.9088134765625) ">
+    <address>安盛街259</address>
+    <phone>021-50852374</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1162">
+   <image width="20" height="20" x="313.763916" y="1513.168335" xlink:href="/resource/icon/su" id="svg_1163"/>
+   <text x="323.763916" y="1538.168335" font-size="1" text-anchor="middle" id="svg_1164">惠家超市</text>
+   <info transform="translate(323.763916015625,1533.1683349609375) ">
+    <address>上海市奉贤区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1165">
+   <image width="20" height="20" x="-237.029755" y="973.634155" xlink:href="/resource/icon/su" id="svg_1166"/>
+   <text x="-227.029755" y="998.634155" font-size="1" text-anchor="middle" id="svg_1167">盛龙超市</text>
+   <info transform="translate(-227.02975463867188,993.6341552734375) ">
+    <address>上海市松江区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1168">
+   <image width="20" height="20" x="138.892014" y="-1342.42627" xlink:href="/resource/icon/su" id="svg_1169"/>
+   <text x="148.892014" y="-1317.42627" font-size="1" text-anchor="middle" id="svg_1170">辰都超市</text>
+   <info transform="translate(148.8920135498047,-1322.42626953125) ">
+    <address>西门路109</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1171">
+   <image width="20" height="20" x="-671.242188" y="-117.358223" xlink:href="/resource/icon/su" id="svg_1172"/>
+   <text x="-661.242188" y="-92.358223" font-size="1" text-anchor="middle" id="svg_1173">华隆超市</text>
+   <info transform="translate(-661.2421875,-97.35822296142578) ">
+    <address>六里村131号110室附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1174">
+   <image width="20" height="20" x="-398.466766" y="523.192444" xlink:href="/resource/icon/su" id="svg_1175"/>
+   <text x="-388.466766" y="548.192444" font-size="1" text-anchor="middle" id="svg_1176">金辉超市</text>
+   <info transform="translate(-388.4667663574219,543.1924438476562) ">
+    <address>金辉路730临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1177">
+   <image width="20" height="20" x="-186.931122" y="-378.09137" xlink:href="/resource/icon/su" id="svg_1178"/>
+   <text x="-176.931122" y="-353.09137" font-size="1" text-anchor="middle" id="svg_1179">日升超市</text>
+   <info transform="translate(-176.93112182617188,-358.09136962890625) ">
+    <address>嘉罗公路2552-19临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1180">
+   <image width="20" height="20" x="532.399292" y="2057.572266" xlink:href="/resource/icon/su" id="svg_1181"/>
+   <text x="542.399292" y="2082.572266" font-size="1" text-anchor="middle" id="svg_1182">康联超市</text>
+   <info transform="translate(542.3992919921875,2077.572265625) ">
+    <address>上海市奉贤区</address>
+    <phone>021-26390218</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1183">
+   <image width="20" height="20" x="1405.484497" y="528.216919" xlink:href="/resource/icon/su" id="svg_1184"/>
+   <text x="1415.484497" y="553.216919" font-size="1" text-anchor="middle" id="svg_1185">丽丽超市</text>
+   <info transform="translate(1415.4844970703125,548.2169189453125) ">
+    <address>创新中路651临</address>
+    <phone>021-58967965</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1186">
+   <image width="20" height="20" x="184.87645" y="476.6073" xlink:href="/resource/icon/su" id="svg_1187"/>
+   <text x="194.87645" y="501.6073" font-size="1" text-anchor="middle" id="svg_1188">易购超市</text>
+   <info transform="translate(194.87644958496094,496.6072998046875) ">
+    <address>枣阳路899</address>
+    <phone>021-62603733</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1189">
+   <image width="20" height="20" x="-920.424622" y="986.395447" xlink:href="/resource/icon/su" id="svg_1190"/>
+   <text x="-910.424622" y="1011.395447" font-size="1" text-anchor="middle" id="svg_1191">惠平超市</text>
+   <info transform="translate(-910.4246215820312,1006.3954467773438) ">
+    <address>上海市青浦区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1192">
+   <image width="20" height="20" x="1310.566528" y="1510.483154" xlink:href="/resource/icon/su" id="svg_1193"/>
+   <text x="1320.566528" y="1535.483154" font-size="1" text-anchor="middle" id="svg_1194">如海超市</text>
+   <info transform="translate(1320.5665283203125,1530.483154296875) ">
+    <address>上海市浦东新区</address>
+    <phone>021-29417352</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1195">
+   <image width="20" height="20" x="938.504028" y="1828.696899" xlink:href="/resource/icon/su" id="svg_1196"/>
+   <text x="948.504028" y="1853.696899" font-size="1" text-anchor="middle" id="svg_1197">欧惠超市</text>
+   <info transform="translate(948.5040283203125,1848.6968994140625) ">
+    <address>南奉公路3499号</address>
+    <phone>021-57562498</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1198">
+   <image width="20" height="20" x="1577.771362" y="612.913086" xlink:href="/resource/icon/su" id="svg_1199"/>
+   <text x="1587.771362" y="637.913086" font-size="1" text-anchor="middle" id="svg_1200">浦龙超市</text>
+   <info transform="translate(1587.7713623046875,632.9130859375) ">
+    <address>南桥路174临</address>
+    <phone>021-58925327</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1201">
+   <image width="20" height="20" x="1272.956055" y="137.731552" xlink:href="/resource/icon/su" id="svg_1202"/>
+   <text x="1282.956055" y="162.731552" font-size="1" text-anchor="middle" id="svg_1203">如海超市</text>
+   <info transform="translate(1282.9560546875,157.73155212402344) ">
+    <address>顾高公路1381</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1204">
+   <image width="20" height="20" x="521.403809" y="908.371216" xlink:href="/resource/icon/su" id="svg_1205"/>
+   <text x="531.403809" y="933.371216" font-size="1" text-anchor="middle" id="svg_1206">迎联超市</text>
+   <info transform="translate(531.40380859375,928.3712158203125) ">
+    <address>林浦路1226号</address>
+    <phone>021-50846589</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1207">
+   <image width="20" height="20" x="1030.654907" y="1830.471802" xlink:href="/resource/icon/su" id="svg_1208"/>
+   <text x="1040.654907" y="1855.471802" font-size="1" text-anchor="middle" id="svg_1209">琦崎超市</text>
+   <info transform="translate(1040.6549072265625,1850.4718017578125) ">
+    <address>南奉公路2526临</address>
+    <phone>021-29078953</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1210">
+   <image width="20" height="20" x="1526.143555" y="247.91394" xlink:href="/resource/icon/su" id="svg_1211"/>
+   <text x="1536.143555" y="272.91394" font-size="1" text-anchor="middle" id="svg_1212">百盛超市</text>
+   <info transform="translate(1536.1435546875,267.9139404296875) ">
+    <address>秦家港路2348识别</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1213">
+   <image width="20" height="20" x="1484.418945" y="444.203369" xlink:href="/resource/icon/su" id="svg_1214"/>
+   <text x="1494.418945" y="469.203369" font-size="1" text-anchor="middle" id="svg_1215">华园超市</text>
+   <info transform="translate(1494.4189453125,464.203369140625) ">
+    <address>川沙路2971</address>
+    <phone>021-58584183</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1216">
+   <image width="20" height="20" x="-789.20697" y="12.667023" xlink:href="/resource/icon/su" id="svg_1217"/>
+   <text x="-779.20697" y="37.667023" font-size="1" text-anchor="middle" id="svg_1218">园大超市</text>
+   <info transform="translate(-779.2069702148438,32.667022705078125) ">
+    <address>园大路920</address>
+    <phone>021-69574198</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1219">
+   <image width="20" height="20" x="-247.733978" y="936.315002" xlink:href="/resource/icon/su" id="svg_1220"/>
+   <text x="-237.733978" y="961.315002" font-size="1" text-anchor="middle" id="svg_1221">畅购超市</text>
+   <info transform="translate(-237.73397827148438,956.3150024414062) ">
+    <address>久富路651</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1222">
+   <image width="20" height="20" x="-178.629898" y="358.851837" xlink:href="/resource/icon/su" id="svg_1223"/>
+   <text x="-168.629898" y="383.851837" font-size="1" text-anchor="middle" id="svg_1224">华欣超市</text>
+   <info transform="translate(-168.62989807128906,378.8518371582031) ">
+    <address>江桥镇五四村大宅282</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1225">
+   <image width="20" height="20" x="-227.636261" y="1197.275757" xlink:href="/resource/icon/su" id="svg_1226"/>
+   <text x="-217.636261" y="1222.275757" font-size="1" text-anchor="middle" id="svg_1227">联民超市</text>
+   <info transform="translate(-217.63626098632812,1217.2757568359375) ">
+    <address>新中街119弄5号附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1228">
+   <image width="20" height="20" x="-147.20903" y="322.625" xlink:href="/resource/icon/su" id="svg_1229"/>
+   <text x="-137.20903" y="347.625" font-size="1" text-anchor="middle" id="svg_1230">汇丰超市</text>
+   <info transform="translate(-137.2090301513672,342.625) ">
+    <address>临洮路265</address>
+    <phone>13564837945</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1231">
+   <image width="20" height="20" x="-145.861908" y="490.670227" xlink:href="/resource/icon/su" id="svg_1232"/>
+   <text x="-135.861908" y="515.670227" font-size="1" text-anchor="middle" id="svg_1233">美联超市</text>
+   <info transform="translate(-135.86190795898438,510.67022705078125) ">
+    <address>中华美路59临</address>
+    <phone>021-62201587</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1234">
+   <image width="20" height="20" x="918.042236" y="1579.296021" xlink:href="/resource/icon/su" id="svg_1235"/>
+   <text x="928.042236" y="1604.296021" font-size="1" text-anchor="middle" id="svg_1236">泰昌超市</text>
+   <info transform="translate(928.042236328125,1599.2960205078125) ">
+    <address>大昌南路1号</address>
+    <phone>021-57583122</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1237">
+   <image width="20" height="20" x="803.936768" y="265.026123" xlink:href="/resource/icon/su" id="svg_1238"/>
+   <text x="813.936768" y="290.026123" font-size="1" text-anchor="middle" id="svg_1239">麦家超市</text>
+   <info transform="translate(813.936767578125,285.026123046875) ">
+    <address>临青路537-1</address>
+    <phone>021-55808697</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1240">
+   <image width="20" height="20" x="-148.738205" y="753.223816" xlink:href="/resource/icon/su" id="svg_1241"/>
+   <text x="-138.738205" y="778.223816" font-size="1" text-anchor="middle" id="svg_1242">佳辉超市</text>
+   <info transform="translate(-138.7382049560547,773.2238159179688) ">
+    <address>上海市闵行区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1243">
+   <image width="20" height="20" x="720.9245" y="843.290283" xlink:href="/resource/icon/su" id="svg_1244"/>
+   <text x="730.9245" y="868.290283" font-size="1" text-anchor="middle" id="svg_1245">夏联超市</text>
+   <info transform="translate(730.9244995117188,863.290283203125) ">
+    <address>永泰路793</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1246">
+   <image width="20" height="20" x="17.832462" y="-198.459015" xlink:href="/resource/icon/su" id="svg_1247"/>
+   <text x="27.832462" y="-173.459015" font-size="1" text-anchor="middle" id="svg_1248">如海超市</text>
+   <info transform="translate(27.832462310791016,-178.45901489257812) ">
+    <address>老安北毛44号</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1249">
+   <image width="20" height="20" x="949.572327" y="-46.087822" xlink:href="/resource/icon/su" id="svg_1250"/>
+   <text x="959.572327" y="-21.087822" font-size="1" text-anchor="middle" id="svg_1251">如海超市</text>
+   <info transform="translate(959.5723266601562,-26.08782196044922) ">
+    <address>浦东北路3876弄24号附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1252">
+   <image width="20" height="20" x="1689.036865" y="-260.263107" xlink:href="/resource/icon/su" id="svg_1253"/>
+   <text x="1699.036865" y="-235.263107" font-size="1" text-anchor="middle" id="svg_1254">如海超市</text>
+   <info transform="translate(1699.036865234375,-240.2631072998047) ">
+    <address>上海市崇明县</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1255">
+   <image width="20" height="20" x="-532.342285" y="1482.539429" xlink:href="/resource/icon/su" id="svg_1256"/>
+   <text x="-522.342285" y="1507.539429" font-size="1" text-anchor="middle" id="svg_1257">松金超市</text>
+   <info transform="translate(-522.34228515625,1502.5394287109375) ">
+    <address>松金公路10058</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1258">
+   <image width="20" height="20" x="1384.804199" y="599.805847" xlink:href="/resource/icon/su" id="svg_1259"/>
+   <text x="1394.804199" y="624.805847" font-size="1" text-anchor="middle" id="svg_1260">联捷超市</text>
+   <info transform="translate(1394.80419921875,619.8058471679688) ">
+    <address>华夏东路866</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1261">
+   <image width="20" height="20" x="1227.190063" y="587.972961" xlink:href="/resource/icon/su" id="svg_1262"/>
+   <text x="1237.190063" y="612.972961" font-size="1" text-anchor="middle" id="svg_1263">益丰超市</text>
+   <info transform="translate(1237.1900634765625,607.9729614257812) ">
+    <address>益江路299弄30</address>
+    <phone>021-33923292</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1264">
+   <image width="20" height="20" x="1566.084106" y="497.997498" xlink:href="/resource/icon/su" id="svg_1265"/>
+   <text x="1576.084106" y="522.997498" font-size="1" text-anchor="middle" id="svg_1266">杨记超市</text>
+   <info transform="translate(1576.0841064453125,517.9974975585938) ">
+    <address>益华路92临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1267">
+   <image width="20" height="20" x="674.575989" y="1890.81958" xlink:href="/resource/icon/su" id="svg_1268"/>
+   <text x="684.575989" y="1915.81958" font-size="1" text-anchor="middle" id="svg_1269">佳惠超市</text>
+   <info transform="translate(684.5759887695312,1910.819580078125) ">
+    <address>光钱路306</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1270">
+   <image width="20" height="20" x="-116.18866" y="37.552498" xlink:href="/resource/icon/su" id="svg_1271"/>
+   <text x="-106.18866" y="62.552498" font-size="1" text-anchor="middle" id="svg_1272">惠客超市</text>
+   <info transform="translate(-106.18865966796875,57.55249786376953) ">
+    <address>静唐路</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1273">
+   <image width="20" height="20" x="286.457245" y="722.958923" xlink:href="/resource/icon/su" id="svg_1274"/>
+   <text x="296.457245" y="747.958923" font-size="1" text-anchor="middle" id="svg_1275">颐欣超市</text>
+   <info transform="translate(296.4572448730469,742.9589233398438) ">
+    <address>漕宝路111</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1276">
+   <image width="20" height="20" x="1154.408691" y="48.575287" xlink:href="/resource/icon/su" id="svg_1277"/>
+   <text x="1164.408691" y="73.575287" font-size="1" text-anchor="middle" id="svg_1278">易罗超市</text>
+   <info transform="translate(1164.40869140625,68.57528686523438) ">
+    <address>港澳路239号兴江国贸大楼1层</address>
+    <phone>021-50480859</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1279">
+   <image width="20" height="20" x="424.993073" y="-24.024035" xlink:href="/resource/icon/su" id="svg_1280"/>
+   <text x="434.993073" y="0.975965" font-size="1" text-anchor="middle" id="svg_1281">华怡超市</text>
+   <info transform="translate(434.9930725097656,-4.024035453796387) ">
+    <address>爱辉路201-1</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1282">
+   <image width="20" height="20" x="168.820129" y="1007.494385" xlink:href="/resource/icon/su" id="svg_1283"/>
+   <text x="178.820129" y="1032.494385" font-size="1" text-anchor="middle" id="svg_1284">珍乐超市</text>
+   <info transform="translate(178.82012939453125,1027.494384765625) ">
+    <address>春申路2950-2临</address>
+    <phone>021-54377441</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1285">
+   <image width="20" height="20" x="132.957367" y="920.88678" xlink:href="/resource/icon/su" id="svg_1286"/>
+   <text x="142.957367" y="945.88678" font-size="1" text-anchor="middle" id="svg_1287">铭兴超市</text>
+   <info transform="translate(142.95736694335938,940.8867797851562) ">
+    <address>龙茗路128号附近</address>
+    <phone>021-26850780</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1288">
+   <image width="20" height="20" x="942.035706" y="458.857941" xlink:href="/resource/icon/su" id="svg_1289"/>
+   <text x="952.035706" y="483.857941" font-size="1" text-anchor="middle" id="svg_1290">夏丽超市</text>
+   <info transform="translate(952.0357055664062,478.8579406738281) ">
+    <address>锦绣路53临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1291">
+   <image width="20" height="20" x="-564.600525" y="216.60231" xlink:href="/resource/icon/su" id="svg_1292"/>
+   <text x="-554.600525" y="241.60231" font-size="1" text-anchor="middle" id="svg_1293">华取超市</text>
+   <info transform="translate(-554.6005249023438,236.60231018066406) ">
+    <address>星塔路261号</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1294">
+   <image width="20" height="20" x="-1289.392334" y="1541.976929" xlink:href="/resource/icon/su" id="svg_1295"/>
+   <text x="-1279.392334" y="1566.976929" font-size="1" text-anchor="middle" id="svg_1296">华蒸超市</text>
+   <info transform="translate(-1279.392333984375,1561.9769287109375) ">
+    <address>共喜路230</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1297">
+   <image width="20" height="20" x="-695.017151" y="1466.519409" xlink:href="/resource/icon/su" id="svg_1298"/>
+   <text x="-685.017151" y="1491.519409" font-size="1" text-anchor="middle" id="svg_1299">乐家超市</text>
+   <info transform="translate(-685.0171508789062,1486.5194091796875) ">
+    <address>玉树路2287号</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1300">
+   <image width="20" height="20" x="371.25354" y="1239.282471" xlink:href="/resource/icon/su" id="svg_1301"/>
+   <text x="381.25354" y="1264.282471" font-size="1" text-anchor="middle" id="svg_1302">塘湾超市</text>
+   <info transform="translate(381.2535400390625,1259.282470703125) ">
+    <address>三新街117临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1303">
+   <image width="20" height="20" x="735.560913" y="578.552185" xlink:href="/resource/icon/su" id="svg_1304"/>
+   <text x="745.560913" y="603.552185" font-size="1" text-anchor="middle" id="svg_1305">佳瑞超市</text>
+   <info transform="translate(745.5609130859375,598.5521850585938) ">
+    <address>龙阳路588</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1306">
+   <image width="20" height="20" x="-571.845886" y="373.388092" xlink:href="/resource/icon/su" id="svg_1307"/>
+   <text x="-561.845886" y="398.388092" font-size="1" text-anchor="middle" id="svg_1308">华灿超市</text>
+   <info transform="translate(-561.8458862304688,393.3880920410156) ">
+    <address>纪鹤公路1688</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1309">
+   <image width="20" height="20" x="882.106689" y="68.782219" xlink:href="/resource/icon/su" id="svg_1310"/>
+   <text x="892.106689" y="93.782219" font-size="1" text-anchor="middle" id="svg_1311">如海超市</text>
+   <info transform="translate(892.106689453125,88.78221893310547) ">
+    <address>民星路87临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1312">
+   <image width="20" height="20" x="1510.924561" y="-301.450653" xlink:href="/resource/icon/su" id="svg_1313"/>
+   <text x="1520.924561" y="-276.450653" font-size="1" text-anchor="middle" id="svg_1314">华祥超市</text>
+   <info transform="translate(1520.924560546875,-281.4506530761719) ">
+    <address>上海市崇明县</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1315">
+   <image width="20" height="20" x="1222.930298" y="37.215717" xlink:href="/resource/icon/su" id="svg_1316"/>
+   <text x="1232.930298" y="62.215717" font-size="1" text-anchor="middle" id="svg_1317">俭荣超市</text>
+   <info transform="translate(1232.9302978515625,57.21571731567383) ">
+    <address>园恒路148号</address>
+    <phone>021-68480336</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1318">
+   <image width="20" height="20" x="2046.098877" y="1063.336548" xlink:href="/resource/icon/su" id="svg_1319"/>
+   <text x="2056.098877" y="1088.336548" font-size="1" text-anchor="middle" id="svg_1320">明利超市</text>
+   <info transform="translate(2056.098876953125,1083.3365478515625) ">
+    <address>东海大街41</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1321">
+   <image width="20" height="20" x="126.622223" y="112.563904" xlink:href="/resource/icon/su" id="svg_1322"/>
+   <text x="136.622223" y="137.563904" font-size="1" text-anchor="middle" id="svg_1323">可购超市</text>
+   <info transform="translate(136.62222290039062,132.56390380859375) ">
+    <address>南大路370弄20</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1324">
+   <image width="20" height="20" x="1880.329224" y="1196.866089" xlink:href="/resource/icon/su" id="svg_1325"/>
+   <text x="1890.329224" y="1221.866089" font-size="1" text-anchor="middle" id="svg_1326">家乐超市</text>
+   <info transform="translate(1890.3292236328125,1216.8660888671875) ">
+    <address>红光村315号</address>
+    <phone>021-20915833</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1327">
+   <image width="20" height="20" x="129.534927" y="1371.674316" xlink:href="/resource/icon/su" id="svg_1328"/>
+   <text x="139.534927" y="1396.674316" font-size="1" text-anchor="middle" id="svg_1329">如海超市</text>
+   <info transform="translate(139.53492736816406,1391.67431640625) ">
+    <address>华宁路1459号2楼</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1330">
+   <image width="20" height="20" x="-522.657471" y="417.488342" xlink:href="/resource/icon/su" id="svg_1331"/>
+   <text x="-512.657471" y="442.488342" font-size="1" text-anchor="middle" id="svg_1332">联福超市</text>
+   <info transform="translate(-512.657470703125,437.48834228515625) ">
+    <address>华徐公路4638弄470号附近</address>
+    <phone>021-51517698</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1333">
+   <image width="20" height="20" x="-63.650631" y="314.041595" xlink:href="/resource/icon/su" id="svg_1334"/>
+   <text x="-53.650631" y="339.041595" font-size="1" text-anchor="middle" id="svg_1335">加联超市</text>
+   <info transform="translate(-53.650630950927734,334.0415954589844) ">
+    <address>江桥二村商业街25号</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1336">
+   <image width="20" height="20" x="-399.122131" y="377.893677" xlink:href="/resource/icon/su" id="svg_1337"/>
+   <text x="-389.122131" y="402.893677" font-size="1" text-anchor="middle" id="svg_1338">君怡超市</text>
+   <info transform="translate(-389.12213134765625,397.8936767578125) ">
+    <address>纪王大街1号</address>
+    <phone>13501691475</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1339">
+   <image width="20" height="20" x="-220.572937" y="2740.147949" xlink:href="/resource/icon/su" id="svg_1340"/>
+   <text x="-210.572937" y="2765.147949" font-size="1" text-anchor="middle" id="svg_1341">雨梅超市</text>
+   <info transform="translate(-210.57293701171875,2760.14794921875) ">
+    <address>老卫清路485</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1342">
+   <image width="20" height="20" x="215.605545" y="1105.616333" xlink:href="/resource/icon/su" id="svg_1343"/>
+   <text x="225.605545" y="1130.616333" font-size="1" text-anchor="middle" id="svg_1344">君莲超市</text>
+   <info transform="translate(225.6055450439453,1125.6163330078125) ">
+    <address>上海市闵行区</address>
+    <phone>15316951821</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1345">
+   <image width="20" height="20" x="193.614578" y="640.356262" xlink:href="/resource/icon/su" id="svg_1346"/>
+   <text x="203.614578" y="665.356262" font-size="1" text-anchor="middle" id="svg_1347">优e超市</text>
+   <info transform="translate(203.6145782470703,660.3562622070312) ">
+    <address>古北路1881</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1348">
+   <image width="20" height="20" x="1394.780273" y="533.405151" xlink:href="/resource/icon/su" id="svg_1349"/>
+   <text x="1404.780273" y="558.405151" font-size="1" text-anchor="middle" id="svg_1350">铭升超市</text>
+   <info transform="translate(1404.7802734375,553.4051513671875) ">
+    <address>顾唐路2900弄3</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1351">
+   <image width="20" height="20" x="1524.140991" y="247.185791" xlink:href="/resource/icon/su" id="svg_1352"/>
+   <text x="1534.140991" y="272.185791" font-size="1" text-anchor="middle" id="svg_1353">前峰超市</text>
+   <info transform="translate(1534.1409912109375,267.185791015625) ">
+    <address>秦家港路2337识别</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1354">
+   <image width="20" height="20" x="1482.999023" y="302.618317" xlink:href="/resource/icon/su" id="svg_1355"/>
+   <text x="1492.999023" y="327.618317" font-size="1" text-anchor="middle" id="svg_1356">众源超市</text>
+   <info transform="translate(1492.9990234375,322.6183166503906) ">
+    <address>龚华路427</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1357">
+   <image width="20" height="20" x="105.323021" y="-203.374222" xlink:href="/resource/icon/su" id="svg_1358"/>
+   <text x="115.323021" y="-178.374222" font-size="1" text-anchor="middle" id="svg_1359">华海超市</text>
+   <info transform="translate(115.3230209350586,-183.3742218017578) ">
+    <address>潘广路489号</address>
+    <phone>15000498439</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1360">
+   <image width="20" height="20" x="-32.484623" y="2762.903564" xlink:href="/resource/icon/su" id="svg_1361"/>
+   <text x="-22.484623" y="2787.903564" font-size="1" text-anchor="middle" id="svg_1362">良群超市</text>
+   <info transform="translate(-22.484622955322266,2782.903564453125) ">
+    <address>隆安东路485识别</address>
+    <phone>021-33694745</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1363">
+   <image width="20" height="20" x="-123.688889" y="2781.972656" xlink:href="/resource/icon/su" id="svg_1364"/>
+   <text x="-113.688889" y="2806.972656" font-size="1" text-anchor="middle" id="svg_1365">隆利超市</text>
+   <info transform="translate(-113.68888854980469,2801.97265625) ">
+    <address>卫零路120弄36</address>
+    <phone>15214377991</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1366">
+   <image width="20" height="20" x="849.375061" y="1142.935425" xlink:href="/resource/icon/su" id="svg_1367"/>
+   <text x="859.375061" y="1167.935425" font-size="1" text-anchor="middle" id="svg_1368">华欣超市</text>
+   <info transform="translate(859.3750610351562,1162.9354248046875) ">
+    <address>上海市闵行区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1369">
+   <image width="20" height="20" x="-1164.728271" y="516.811829" xlink:href="/resource/icon/su" id="svg_1370"/>
+   <text x="-1154.728271" y="541.811829" font-size="1" text-anchor="middle" id="svg_1371">惠侬超市</text>
+   <info transform="translate(-1154.728271484375,536.8118286132812) ">
+    <address>新桥路625号附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1372">
+   <image width="20" height="20" x="592.910889" y="114.156799" xlink:href="/resource/icon/su" id="svg_1373"/>
+   <text x="602.910889" y="139.156799" font-size="1" text-anchor="middle" id="svg_1374">惠乐超市</text>
+   <info transform="translate(602.910888671875,134.15679931640625) ">
+    <address>学府街123号</address>
+    <phone>021-55397128</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1375">
+   <image width="20" height="20" x="345.039154" y="292.46933" xlink:href="/resource/icon/su" id="svg_1376"/>
+   <text x="355.039154" y="317.46933" font-size="1" text-anchor="middle" id="svg_1377">优客超市</text>
+   <info transform="translate(355.0391540527344,312.4693298339844) ">
+    <address>宜川路310号</address>
+    <phone>13501780405</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1378">
+   <image width="20" height="20" x="925.615295" y="1983.753296" xlink:href="/resource/icon/su" id="svg_1379"/>
+   <text x="935.615295" y="2008.753296" font-size="1" text-anchor="middle" id="svg_1380">申隆超市</text>
+   <info transform="translate(935.6152954101562,2003.7532958984375) ">
+    <address>上海市奉贤区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1381">
+   <image width="20" height="20" x="1063.422974" y="490.897766" xlink:href="/resource/icon/su" id="svg_1382"/>
+   <text x="1073.422974" y="515.897766" font-size="1" text-anchor="middle" id="svg_1383">夏丽超市</text>
+   <info transform="translate(1073.4229736328125,510.89776611328125) ">
+    <address>龙三路98弄2幢8号</address>
+    <phone>021-58558357</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1384">
+   <image width="20" height="20" x="208.250946" y="3.428267" xlink:href="/resource/icon/su" id="svg_1385"/>
+   <text x="218.250946" y="28.428267" font-size="1" text-anchor="middle" id="svg_1386">如海超市</text>
+   <info transform="translate(218.25094604492188,23.428266525268555) ">
+    <address>沪太路3633-102</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1387">
+   <image width="20" height="20" x="-115.314842" y="-93.191826" xlink:href="/resource/icon/su" id="svg_1388"/>
+   <text x="-105.314842" y="-68.191826" font-size="1" text-anchor="middle" id="svg_1389">海联超市</text>
+   <info transform="translate(-105.3148422241211,-73.19182586669922) ">
+    <address>宝安公路2335-14临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1390">
+   <image width="20" height="20" x="1448.264893" y="1816.408936" xlink:href="/resource/icon/su" id="svg_1391"/>
+   <text x="1458.264893" y="1841.408936" font-size="1" text-anchor="middle" id="svg_1392">洪庙超市</text>
+   <info transform="translate(1458.264892578125,1836.408935546875) ">
+    <address>上海市奉贤区</address>
+    <phone>13162100057</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1393">
+   <image width="20" height="20" x="587.631592" y="1154.358765" xlink:href="/resource/icon/su" id="svg_1394"/>
+   <text x="597.631592" y="1179.358765" font-size="1" text-anchor="middle" id="svg_1395">元良超市</text>
+   <info transform="translate(597.631591796875,1174.3587646484375) ">
+    <address>江园路877</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1396">
+   <image width="20" height="20" x="907.95697" y="1289.845337" xlink:href="/resource/icon/su" id="svg_1397"/>
+   <text x="917.95697" y="1314.845337" font-size="1" text-anchor="middle" id="svg_1398">佳惠超市</text>
+   <info transform="translate(917.9569702148438,1309.8453369140625) ">
+    <address>先新路288号</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1399">
+   <image width="20" height="20" x="-459.014771" y="255.514313" xlink:href="/resource/icon/su" id="svg_1400"/>
+   <text x="-449.014771" y="280.514313" font-size="1" text-anchor="middle" id="svg_1401">钱家超市</text>
+   <info transform="translate(-449.0147705078125,275.5143127441406) ">
+    <address>曹联支路18-5</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1402">
+   <image width="20" height="20" x="-398.430359" y="386.222229" xlink:href="/resource/icon/su" id="svg_1403"/>
+   <text x="-388.430359" y="411.222229" font-size="1" text-anchor="middle" id="svg_1404">花联超市</text>
+   <info transform="translate(-388.43035888671875,406.22222900390625) ">
+    <address>纪中路</address>
+    <phone>15921346906</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1405">
+   <image width="20" height="20" x="-2045.714111" y="912.512695" xlink:href="/resource/icon/su" id="svg_1406"/>
+   <text x="-2035.714111" y="937.512695" font-size="1" text-anchor="middle" id="svg_1407">港溇超市</text>
+   <info transform="translate(-2035.714111328125,932.5126953125) ">
+    <address>王港村港溇1234号附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1408">
+   <image width="20" height="20" x="995.338318" y="980.870422" xlink:href="/resource/icon/su" id="svg_1409"/>
+   <text x="1005.338318" y="1005.870422" font-size="1" text-anchor="middle" id="svg_1410">乐鑫超市</text>
+   <info transform="translate(1005.3383178710938,1000.8704223632812) ">
+    <address>康沈路1915</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1411">
+   <image width="20" height="20" x="-559.248413" y="1010.343384" xlink:href="/resource/icon/su" id="svg_1412"/>
+   <text x="-549.248413" y="1035.343384" font-size="1" text-anchor="middle" id="svg_1413">亿家超市</text>
+   <info transform="translate(-549.2484130859375,1030.3433837890625) ">
+    <address>古楼路1558</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1414">
+   <image width="20" height="20" x="-514.82959" y="1436.846191" xlink:href="/resource/icon/su" id="svg_1415"/>
+   <text x="-504.82959" y="1461.846191" font-size="1" text-anchor="middle" id="svg_1416">信宇超市</text>
+   <info transform="translate(-504.82958984375,1456.84619140625) ">
+    <address>上海市松江区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1417">
+   <image width="20" height="20" x="-122.159714" y="781.941345" xlink:href="/resource/icon/su" id="svg_1418"/>
+   <text x="-112.159714" y="806.941345" font-size="1" text-anchor="middle" id="svg_1419">新园超市</text>
+   <info transform="translate(-112.15971374511719,801.9413452148438) ">
+    <address>上海市闵行区</address>
+    <phone>13564507588</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1420">
+   <image width="20" height="20" x="-687.553345" y="1292.530518" xlink:href="/resource/icon/su" id="svg_1421"/>
+   <text x="-677.553345" y="1317.530518" font-size="1" text-anchor="middle" id="svg_1422">快购超市</text>
+   <info transform="translate(-677.5533447265625,1312.530517578125) ">
+    <address>新松江路1292弄157</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1423">
+   <image width="20" height="20" x="-682.456116" y="1294.760498" xlink:href="/resource/icon/su" id="svg_1424"/>
+   <text x="-672.456116" y="1319.760498" font-size="1" text-anchor="middle" id="svg_1425">华榕超市</text>
+   <info transform="translate(-672.4561157226562,1314.760498046875) ">
+    <address>江学路925</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1426">
+   <image width="20" height="20" x="621.746704" y="-146.075737" xlink:href="/resource/icon/su" id="svg_1427"/>
+   <text x="631.746704" y="-121.075737" font-size="1" text-anchor="middle" id="svg_1428">群跃超市</text>
+   <info transform="translate(631.7467041015625,-126.07573699951172) ">
+    <address>上海市宝山区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1429">
+   <image width="20" height="20" x="310.814789" y="321.4599" xlink:href="/resource/icon/su" id="svg_1430"/>
+   <text x="320.814789" y="346.4599" font-size="1" text-anchor="middle" id="svg_1431">翔森超市</text>
+   <info transform="translate(320.8147888183594,341.45989990234375) ">
+    <address>华池路17</address>
+    <phone>021-62591388</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1432">
+   <image width="20" height="20" x="-762.664917" y="2452.0625" xlink:href="/resource/icon/su" id="svg_1433"/>
+   <text x="-752.664917" y="2477.0625" font-size="1" text-anchor="middle" id="svg_1434">海廊超市</text>
+   <info transform="translate(-752.6649169921875,2472.0625) ">
+    <address>漕廊公路7905</address>
+    <phone>021-57391180</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1435">
+   <image width="20" height="20" x="-346.547699" y="1243.970093" xlink:href="/resource/icon/su" id="svg_1436"/>
+   <text x="-336.547699" y="1268.970093" font-size="1" text-anchor="middle" id="svg_1437">佳德超市</text>
+   <info transform="translate(-336.5476989746094,1263.9700927734375) ">
+    <address>新庙三路652临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1438">
+   <image width="20" height="20" x="1072.379517" y="599.10498" xlink:href="/resource/icon/su" id="svg_1439"/>
+   <text x="1082.379517" y="624.10498" font-size="1" text-anchor="middle" id="svg_1440">莘欣超市</text>
+   <info transform="translate(1082.3795166015625,619.10498046875) ">
+    <address>上海市浦东新区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1441">
+   <image width="20" height="20" x="-542.682373" y="1548.849121" xlink:href="/resource/icon/su" id="svg_1442"/>
+   <text x="-532.682373" y="1573.849121" font-size="1" text-anchor="middle" id="svg_1443">惠源超市</text>
+   <info transform="translate(-532.682373046875,1568.84912109375) ">
+    <address>上海市松江区</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1444">
+   <image width="20" height="20" x="1357.02417" y="753.769958" xlink:href="/resource/icon/su" id="svg_1445"/>
+   <text x="1367.02417" y="778.769958" font-size="1" text-anchor="middle" id="svg_1446">莲都超市</text>
+   <info transform="translate(1367.024169921875,773.7699584960938) ">
+    <address>黄楼村华家宅34</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1447">
+   <image width="20" height="20" x="458.489258" y="1699.308838" xlink:href="/resource/icon/su" id="svg_1448"/>
+   <text x="468.489258" y="1724.308838" font-size="1" text-anchor="middle" id="svg_1449">地通超市</text>
+   <info transform="translate(468.4892578125,1719.308837890625) ">
+    <address>远东路777弄8号</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1450">
+   <image width="20" height="20" x="86.681671" y="1298.719971" xlink:href="/resource/icon/su" id="svg_1451"/>
+   <text x="96.681671" y="1323.719971" font-size="1" text-anchor="middle" id="svg_1452">元祥超市</text>
+   <info transform="translate(96.68167114257812,1318.719970703125) ">
+    <address>上海市闵行区</address>
+    <phone>021-24287570</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1453">
+   <image width="20" height="20" x="1682.15564" y="1608.969238" xlink:href="/resource/icon/su" id="svg_1454"/>
+   <text x="1692.15564" y="1633.969238" font-size="1" text-anchor="middle" id="svg_1455">德源超市</text>
+   <info transform="translate(1692.1556396484375,1628.96923828125) ">
+    <address>南芦公路789弄7号附近</address>
+    <phone>13764850564</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1456">
+   <image width="20" height="20" x="-257.964874" y="303.847107" xlink:href="/resource/icon/su" id="svg_1457"/>
+   <text x="-247.964874" y="328.847107" font-size="1" text-anchor="middle" id="svg_1458">星华超市</text>
+   <info transform="translate(-247.96487426757812,323.84710693359375) ">
+    <address>星华公路981号</address>
+    <phone>13127639618</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1459">
+   <image width="20" height="20" x="692.634827" y="1879.532837" xlink:href="/resource/icon/su" id="svg_1460"/>
+   <text x="702.634827" y="1904.532837" font-size="1" text-anchor="middle" id="svg_1461">顺发超市</text>
+   <info transform="translate(702.6348266601562,1899.5328369140625) ">
+    <address>金钱公路3495号</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1462">
+   <image width="20" height="20" x="763.268066" y="403.197876" xlink:href="/resource/icon/su" id="svg_1463"/>
+   <text x="773.268066" y="428.197876" font-size="1" text-anchor="middle" id="svg_1464">开波超市</text>
+   <info transform="translate(773.26806640625,423.1978759765625) ">
+    <address>乳山路210临</address>
+    <phone>021-68766169</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1465">
+   <image width="20" height="20" x="698.205383" y="928.914917" xlink:href="/resource/icon/su" id="svg_1466"/>
+   <text x="708.205383" y="953.914917" font-size="1" text-anchor="middle" id="svg_1467">博华超市</text>
+   <info transform="translate(708.2053833007812,948.9149169921875) ">
+    <address>林恒路920临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1468">
+   <image width="20" height="20" x="820.466431" y="857.762817" xlink:href="/resource/icon/su" id="svg_1469"/>
+   <text x="830.466431" y="882.762817" font-size="1" text-anchor="middle" id="svg_1470">连都超市</text>
+   <info transform="translate(830.4664306640625,877.7628173828125) ">
+    <address>同济村果园队果园143临</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1471">
+   <image width="20" height="20" x="-746.827026" y="1260.763794" xlink:href="/resource/icon/su" id="svg_1472"/>
+   <text x="-736.827026" y="1285.763794" font-size="1" text-anchor="middle" id="svg_1473">文荟超市</text>
+   <info transform="translate(-736.8270263671875,1280.7637939453125) ">
+    <address>文汇路1088-2</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1474">
+   <image width="20" height="20" x="-256.108017" y="-462.37796" xlink:href="/resource/icon/su" id="svg_1475"/>
+   <text x="-246.108017" y="-437.37796" font-size="1" text-anchor="middle" id="svg_1476">嘉好超市</text>
+   <info transform="translate(-246.10801696777344,-442.3779602050781) ">
+    <address>新建一路205</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1477">
+   <image width="20" height="20" x="592.619568" y="771.473755" xlink:href="/resource/icon/su" id="svg_1478"/>
+   <text x="602.619568" y="796.473755" font-size="1" text-anchor="middle" id="svg_1479">凤强超市</text>
+   <info transform="translate(602.6195678710938,791.4737548828125) ">
+    <address>板泉路145识别</address>
+    <phone>021-58425371</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1480">
+   <image width="20" height="20" x="205.265427" y="909.736511" xlink:href="/resource/icon/su" id="svg_1481"/>
+   <text x="215.265427" y="934.736511" font-size="1" text-anchor="middle" id="svg_1482">汇金超市</text>
+   <info transform="translate(215.2654266357422,929.7365112304688) ">
+    <address>罗秀路1825弄2幢</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1483">
+   <image width="20" height="20" x="499.303619" y="2107.315918" xlink:href="/resource/icon/su" id="svg_1484"/>
+   <text x="509.303619" y="2132.315918" font-size="1" text-anchor="middle" id="svg_1485">宏春超市</text>
+   <info transform="translate(509.3036193847656,2127.31591796875) ">
+    <address>新寺镇寺中路1696号</address>
+    <phone>021-57493792</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1486">
+   <image width="20" height="20" x="-233.498093" y="-72.711823" xlink:href="/resource/icon/su" id="svg_1487"/>
+   <text x="-223.498093" y="-47.711823" font-size="1" text-anchor="middle" id="svg_1488">澄欣超市</text>
+   <info transform="translate(-223.4980926513672,-52.711822509765625) ">
+    <address>博学路89号10～11</address>
+    <phone>021-69150260</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1489">
+   <image width="20" height="20" x="2028.003662" y="1661.944214" xlink:href="/resource/icon/su" id="svg_1490"/>
+   <text x="2038.003662" y="1686.944214" font-size="1" text-anchor="middle" id="svg_1491">乐农超市</text>
+   <info transform="translate(2038.003662109375,1681.9442138671875) ">
+    <address>万隆村万三202号附近</address>
+   </info>
+  </g>
+  <g class="entity" id="svg_1492">
+   <image width="20" height="20" x="1470.692749" y="624.336365" xlink:href="/resource/icon/su" id="svg_1493"/>
+   <text x="1480.692749" y="649.336365" font-size="1" text-anchor="middle" id="svg_1494">可丰超市</text>
+   <info transform="translate(1480.6927490234375,644.3363647460938) ">
+    <address>城丰路296</address>
+    <phone>021-58373894</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1495">
+   <image width="20" height="20" x="-154.818481" y="-430.884277" xlink:href="/resource/icon/su" id="svg_1496"/>
+   <text x="-144.818481" y="-405.884277" font-size="1" text-anchor="middle" id="svg_1497">嘉滔超市</text>
+   <info transform="translate(-144.8184814453125,-410.88427734375) ">
+    <address>和桥路469号</address>
+    <phone>021-39971014</phone>
+   </info>
+  </g>
+  <g class="entity" id="svg_1498">
+   <image width="20" height="20" x="419.895813" y="1836.342773" xlink:href="/resource/icon/su" id="svg_1499"/>
+   <text x="429.895813" y="1861.342773" font-size="1" text-anchor="middle" id="svg_1500">易购超市</text>
+   <info transform="translate(429.89581298828125,1856.3427734375) ">
+    <address>南桥路675</address>
+   </info>
+  </g>
+ </g>
+</svg>

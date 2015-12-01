@@ -1,0 +1,16 @@
+
+<iframe id="editorFrame" src="./resources/vgeEdit/svg-editor.html" width="100%" height="800px" onload="addRefresh()"></iframe>
+<script>
+var addRefresh = function(){
+	//document.getElementsByTagName('iframe')[0].contentWindow.document.getElementById('tool_save').addEventListener('click',refreshWindow);
+	//alert('event added');
+	document.getElementsByTagName('iframe')[0].contentWindow.svgEditor.saveSuccessCallback = refreshWindow;
+}
+
+var refreshWindow = function(){
+	alert ("保存成功！");
+	refresh();
+	refreshCompare();
+} 
+
+</script>

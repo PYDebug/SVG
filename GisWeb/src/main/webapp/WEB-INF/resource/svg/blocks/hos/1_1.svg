@@ -1,0 +1,4400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<g>
+  <g class="entity" transform="translate(764.8211911064209, 97.611377776866)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海长海医院</text>
+    <info>
+      <address>长海路168号</address>
+      <phone>021-31166666</phone>
+      <satisfaction>26</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(492.30065777283016, 450.59555555462794)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海长征医院</text>
+    <info>
+      <address>凤阳路415</address>
+      <phone>021-81886999</phone>
+      <satisfaction>68</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(325.65717332854547, 296.8135111101674)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">同济大学附属同济医院</text>
+    <info>
+      <address>新村路389</address>
+      <phone>021-52735823</phone>
+      <satisfaction>81</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(373.8261333284754, 509.7144888879484)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">复旦大学附属华东医院</text>
+    <info>
+      <address>延安西路221号</address>
+      <phone>021-62483180</phone>
+      <satisfaction>50</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(696.2996622174614, 423.4345244434735)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市东方医院</text>
+    <info>
+      <address>即墨路150号</address>
+      <phone>021-38804518</phone>
+      <satisfaction>6</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(433.6095288839715, 608.5191111101722)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">复旦大学附属中山医院</text>
+    <info>
+      <address>枫林路180号</address>
+      <phone>021-64041990</phone>
+      <satisfaction>10</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(384.1298488841858, 522.5941333324045)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">复旦大学附属华山医院</text>
+    <info>
+      <address>乌鲁木齐中路12</address>
+      <phone>021-52919963,021-52889999</phone>
+      <satisfaction>89</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(410.16220443980274, 654.4853333324227)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海中医药大学附属龙华医院</text>
+    <info>
+      <address>宛平南路725号</address>
+      <phone>021-64398310</phone>
+      <satisfaction>29</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(541.4890666621432, 493.2394666657274)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海中医药大学附属曙光医院</text>
+    <info>
+      <address>普安路187</address>
+      <phone>021-53821650</phone>
+      <satisfaction>63</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1061.4808177730083, 652.6648888879663)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海中医药大学附属曙光医院</text>
+    <info>
+      <address>张衡路528号</address>
+      <phone>021-20256117</phone>
+      <satisfaction>57</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(430.11427555065893, 273.08401777686413)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市第十人民医院</text>
+    <info>
+      <address>延长中路301号</address>
+      <phone>021-66300588</phone>
+      <satisfaction>18</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(294.0906666619412, 694.1255111101782)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市第六人民医院</text>
+    <info>
+      <address>宜山路600号</address>
+      <phone>021-64369181</phone>
+      <satisfaction>77</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(508.7574755507376, 325.12142222130933)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海中医药大学附属市中医医院</text>
+    <info>
+      <address>芷江中路274</address>
+      <phone>021-56639828</phone>
+      <satisfaction>28</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(484.25429332855856, 543.6202666657209)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海交通大学医学院附属瑞金医院</text>
+    <info>
+      <address>瑞金二路197号</address>
+      <phone>021-64370045</phone>
+      <satisfaction>75</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(591.7333333285569, 356.7971555546137)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海交通大学附属第一人民医院</text>
+    <info>
+      <address>海宁路100号</address>
+      <phone>021-63240090</phone>
+      <satisfaction>41</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(572.8007111063562, 583.9886222212954)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海交通大学医学院附属第九医院</text>
+    <info>
+      <address>制造局路639号</address>
+      <phone>021-23271699</phone>
+      <satisfaction>59</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(593.5537777731952, 194.68657777683802)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海中医药大学附属岳阳中西医结合医院</text>
+    <info>
+      <address>东体育会路1060</address>
+      <phone>021-65161782</phone>
+      <satisfaction>47</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(754.1897955507011, 563.3720888879452)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海交通大学医学院附属仁济医院东部</text>
+    <info>
+      <address>东方路1630号</address>
+      <phone>021-58752345</phone>
+      <satisfaction>23</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(407.50435555091826, 652.0277333323975)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市精神卫生中心</text>
+    <info>
+      <address>宛平南路600号</address>
+      <phone>021-34289888</phone>
+      <satisfaction>33</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(453.4887822173914, 2132.6407111101616)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">新寺医院</text>
+    <info>
+      <address>沪杭公路2491</address>
+      <phone>021-57491261</phone>
+      <satisfaction>2</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(633.3122844398531, 340.2311111101426)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">长江医院</text>
+    <info>
+      <address>周家嘴路515</address>
+      <phone>021-65018999</phone>
+      <satisfaction>61</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-448.7234844491468, -252.02318222313806)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">塔城医院</text>
+    <info>
+      <address>塔城路5号</address>
+      <phone>021-59992648</phone>
+      <satisfaction>54</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(240.60600888406043, 641.1778844435048)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">南亚医院</text>
+    <info>
+      <address>张虹路123号</address>
+      <phone>021-64680620</phone>
+      <satisfaction>21</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(395.0525155507421, 1681.7621333323586)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">西渡医院</text>
+    <info>
+      <address>吴塘路480临</address>
+      <phone>021-57434426</phone>
+      <satisfaction>9</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(585.1069155507503, 190.58147555460891)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">岳阳医院</text>
+    <info>
+      <address>甘河路110号</address>
+      <phone>021-65161782</phone>
+      <satisfaction>60</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(485.20092443959584, 540.5801244435224)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">瑞金医院</text>
+    <info>
+      <address>上海市黄浦区</address>
+      <satisfaction>41</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(325.4387199953271, 294.31039999908535)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">同济医院</text>
+    <info>
+      <address>上海市普陀区</address>
+      <satisfaction>27</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1440.720071115902, 925.2036266657342)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">朱家角医院</text>
+    <info>
+      <address>上海市青浦区</address>
+      <satisfaction>52</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(43.08778666181752, 363.8422755546344)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">沪西医院</text>
+    <info>
+      <address>曹安公路1583号</address>
+      <phone>021-69196666</phone>
+      <satisfaction>14</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(419.48287999530294, 1948.4572444435344)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">惠爱医院</text>
+    <info>
+      <address>环城南路1028</address>
+      <phone>021-57198999</phone>
+      <satisfaction>61</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-89.36775111578754, 486.6676622213163)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">同康医院</text>
+    <info>
+      <address>北翟路1552</address>
+      <phone>021-52235785</phone>
+      <satisfaction>55</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-594.2134044491468, 1492.07182222126)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">安真医院</text>
+    <info>
+      <address>人民南路39-12</address>
+      <phone>021-57819999</phone>
+      <satisfaction>90</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1034.392604439745, -44.15573333426437)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">新侨医院</text>
+    <info>
+      <address>季景路9号</address>
+      <phone>021-58627066</phone>
+      <satisfaction>56</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-347.7252266715368, 1358.9973333323996)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">东开医院</text>
+    <info>
+      <address>锦昔路180弄138号</address>
+      <satisfaction>75</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(632.9481955508527, 176.24547555465142)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">海光医院</text>
+    <info>
+      <address>松花江路2610号</address>
+      <phone>021-65559904</phone>
+      <satisfaction>55</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(329.7349688842587, 533.6351288879541)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">辰新医院</text>
+    <info>
+      <address>延安西路937号</address>
+      <phone>021-62253456</phone>
+      <satisfaction>50</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-54.23317333788873, 765.7144888879429)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">中潭医院</text>
+    <info>
+      <address>吴中路2728临</address>
+      <phone>021-54796669</phone>
+      <satisfaction>31</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(9.227519995329203, 578.1449955546577)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">南山医院</text>
+    <info>
+      <address>新泾路118号</address>
+      <phone>021-62389666</phone>
+      <satisfaction>20</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(643.2155022173902, -235.97596444537885)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">海淞医院</text>
+    <info>
+      <address>淞宝路196号</address>
+      <phone>021-56561030</phone>
+      <satisfaction>62</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(286.5904355508974, 1513.2162844435243)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">沪闵医院</text>
+    <info>
+      <address>建设路40</address>
+      <phone>021-64355529</phone>
+      <satisfaction>77</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(939.6566755507592, 806.6744888879384)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">御康医院</text>
+    <info>
+      <address>沪南路441号</address>
+      <phone>021-28890878</phone>
+      <satisfaction>57</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-386.46428444917547, 996.810808887949)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">泗泾医院</text>
+    <info>
+      <address>江川北路108号</address>
+      <phone>021-57610536</phone>
+      <satisfaction>46</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(240.60600888406043, 641.1778844435048)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">尊然医院</text>
+    <info>
+      <address>张虹路123号</address>
+      <phone>021-64686125</phone>
+      <satisfaction>93</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-379.1460977827228, 743.0863644435249)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">京汇医院</text>
+    <info>
+      <address>京华路59</address>
+      <phone>021-69762299</phone>
+      <satisfaction>53</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(484.65479110636807, 543.5201422212685)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">广慈医院</text>
+    <info>
+      <address>瑞金二路197号</address>
+      <phone>021-64378700</phone>
+      <satisfaction>49</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(119.43722666183021, 215.53976888799298)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">德济医院</text>
+    <info>
+      <address>上海市普陀区</address>
+      <satisfaction>31</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-941.26293333793, 134.3388444435277)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海嘉园医院</text>
+    <info>
+      <address>新源路941</address>
+      <phone>021-69570033</phone>
+      <satisfaction>78</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(776.5084444396052, 257.43729777682347)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海江城医院</text>
+    <info>
+      <address>黄兴路286号</address>
+      <phone>021-65191999</phone>
+      <satisfaction>85</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(704.382435550724, 157.23093333240286)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海黄兴医院</text>
+    <info>
+      <address>四平路2328-1</address>
+      <phone>021-55052367</phone>
+      <satisfaction>40</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(764.2386488840202, 2288.9713777768065)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">奉贤海湾医院</text>
+    <info>
+      <address>奉炮公路1180弄1号</address>
+      <phone>021-57120431</phone>
+      <satisfaction>94</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1095.7458488936027, 829.2024888879496)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海玛丽医院</text>
+    <info>
+      <address>公园路380号</address>
+      <phone>021-69726299</phone>
+      <satisfaction>39</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(65.87975110633124, 636.007822221336)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海申德医院</text>
+    <info>
+      <address>虹桥路2281号</address>
+      <phone>021-62688811</phone>
+      <satisfaction>45</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(74.69070221759466, 1014.9333333324194)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">瑞金医院集团闵行医院</text>
+    <info>
+      <address>莘松路170</address>
+      <phone>021-64923400</phone>
+      <satisfaction>89</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-589.1161600045962, 1479.419733332361)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">博大医院</text>
+    <info>
+      <address>阔街55号</address>
+      <phone>021-57818599</phone>
+      <satisfaction>59</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(591.3328355507474, 89.78346666572179)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">安泰医院</text>
+    <info>
+      <address>三门路550</address>
+      <phone>021-65910066</phone>
+      <satisfaction>2</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(426.54620443972817, 511.48942222130245)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海育宝医院</text>
+    <info>
+      <address>长乐路666</address>
+      <phone>021-54670678</phone>
+      <satisfaction>47</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(604.804124439579, -242.6752000009401)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海海滨医院</text>
+    <info>
+      <address>水产路687</address>
+      <phone>021-56562888</phone>
+      <satisfaction>16</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(632.1471999952337, 784.1282844435227)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海明珠医院</text>
+    <info>
+      <address>上南路3300号</address>
+      <phone>021-51333333</phone>
+      <satisfaction>24</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-515.8250666712775, 253.1774577768374)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海曹安医院</text>
+    <info>
+      <address>曹安公路4312号</address>
+      <phone>021-69591188</phone>
+      <satisfaction>9</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-506.17671111576783, 2541.184853332379)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海钱圩医院</text>
+    <info>
+      <address>吕张公路1285弄9号</address>
+      <phone>021-57291028</phone>
+      <satisfaction>52</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(497.43431110655365, 546.0323555545983)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">广慈纪念医院</text>
+    <info>
+      <address>思南路72</address>
+      <phone>021-64370045</phone>
+      <satisfaction>4</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1247.6394666618944, -414.75271111203256)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海庆德医院</text>
+    <info>
+      <address>潘园路3008号</address>
+      <phone>021-66853776</phone>
+      <satisfaction>1</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(382.3822222173476, 522.5941333324045)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海华顺医院</text>
+    <info>
+      <address>乌鲁木齐中路12</address>
+      <phone>021-52919963</phone>
+      <satisfaction>16</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(433.6095288839715, 608.5191111101722)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海逸仙医院</text>
+    <info>
+      <address>医学院路111号6层</address>
+      <phone>021-64037187</phone>
+      <satisfaction>91</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1038.6888533286765, 1254.5948444435453)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海沪金医院</text>
+    <info>
+      <address>沪南公路5100号旁</address>
+      <phone>021-60979333</phone>
+      <satisfaction>27</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-651.3025422271312, 69.21244444351942)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海欣安医院</text>
+    <info>
+      <address>宝安公路4539号</address>
+      <phone>021-59508000</phone>
+      <satisfaction>12</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(235.2539022174824, 519.9999999990723)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海新科医院</text>
+    <info>
+      <address>长宁路1355号</address>
+      <phone>021-52739999</phone>
+      <satisfaction>17</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1128.2911288841206, 923.0463999990661)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海惠元医院</text>
+    <info>
+      <address>秀浦路2500弄4号</address>
+      <phone>021-61183567</phone>
+      <satisfaction>89</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(429.7865955506495, 1902.2725688879746)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">南桥地段医院</text>
+    <info>
+      <address>南中路260</address>
+      <phone>021-57102241</phone>
+      <satisfaction>14</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-626.6901333379792, 1455.4808888879506)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海茸城医院</text>
+    <info>
+      <address>西林北路351号</address>
+      <phone>021-57727676</phone>
+      <satisfaction>61</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(500.0921599954381, 113.72231111017754)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海复大医院</text>
+    <info>
+      <address>场中路628</address>
+      <phone>021-55522226</phone>
+      <satisfaction>99</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(467.9431111064332, 265.36533333242005)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海健桥医院</text>
+    <info>
+      <address>平型关路453</address>
+      <phone>021-56659999</phone>
+      <satisfaction>32</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1112.0206222271008, 779.1402666657177)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海青城医院</text>
+    <info>
+      <address>盈港路468号</address>
+      <phone>021-69725010</phone>
+      <satisfaction>19</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(478.0647822173705, 221.12853333242128)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海华肤医院</text>
+    <info>
+      <address>广粤路95号</address>
+      <phone>021-65922299</phone>
+      <satisfaction>97</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(298.60536888409115, 237.5580444434945)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海申江医院</text>
+    <info>
+      <address>沪太路1238号</address>
+      <phone>021-66399999</phone>
+      <satisfaction>44</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(745.8521599952292, 38.474239999095516)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海华佳医院</text>
+    <info>
+      <address>民京路902</address>
+      <phone>021-65881919</phone>
+      <satisfaction>50</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(225.8604088841821, 700.305919999073)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海辰新医院</text>
+    <info>
+      <address>钦江路102号</address>
+      <phone>021-62253456</phone>
+      <satisfaction>9</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1074.1147022175937, 416.29838222129365)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海国际医院</text>
+    <info>
+      <address>红枫路525号</address>
+      <phone>021-50301999</phone>
+      <satisfaction>50</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1455.7890844394933, 319.5235555546333)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海尚德医院</text>
+    <info>
+      <address>川沙路1295号</address>
+      <phone>021-50681999</phone>
+      <satisfaction>32</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1088.896711106463, 1388.1244444435197)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海南航医院</text>
+    <info>
+      <address>沪南公路5996号</address>
+      <phone>021-58222777</phone>
+      <satisfaction>6</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(285.3161244396688, 643.7083022212846)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海伽玛医院</text>
+    <info>
+      <address>吴中东路518</address>
+      <phone>021-64385336</phone>
+      <satisfaction>63</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-489.6470755604241, -186.56000000091808)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海圣爱医院</text>
+    <info>
+      <address>群裕路60号</address>
+      <phone>021-69524999</phone>
+      <satisfaction>6</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-564.9770666714176, -191.111111112059)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海中亚医院</text>
+    <info>
+      <address>沪宜公路3888号</address>
+      <phone>021-59525020,021-66370799</phone>
+      <satisfaction>28</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(57.76056888407766, 677.5594666657526)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海中汇医院</text>
+    <info>
+      <address>红松路152</address>
+      <phone>021-64021860</phone>
+      <satisfaction>3</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(423.8519466618527, 57.1064888879846)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海同安医院</text>
+    <info>
+      <address>共和新路4701号</address>
+      <phone>021-66821899</phone>
+      <satisfaction>92</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(478.46527999518, 359.709866665753)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海健桥医院</text>
+    <info>
+      <address>中兴路1122号</address>
+      <phone>13761698588</phone>
+      <satisfaction>75</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-176.9311288937388, 970.2869333324088)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海华裕医院</text>
+    <info>
+      <address>九新公路528号</address>
+      <phone>021-67625999</phone>
+      <satisfaction>71</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1038.7980799952857, 1254.6403555546021)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海御申医院</text>
+    <info>
+      <address>上海市浦东新区</address>
+      <phone>021-58140616</phone>
+      <satisfaction>21</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(225.8604088841821, 702.8181333324028)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海禾新医院</text>
+    <info>
+      <address>钦江路102</address>
+      <satisfaction>30</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(271.3351111064185, 637.9739022213016)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海南洋医院</text>
+    <info>
+      <address>中山西路1440</address>
+      <phone>021-32096092</phone>
+      <satisfaction>79</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(173.17674666192033, 584.4437333324095)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海新虹桥医院</text>
+    <info>
+      <address>虹古路85号</address>
+      <phone>021-62092255</phone>
+      <satisfaction>47</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(810.6235733284848, 58.97244444354328)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海我立德医院</text>
+    <info>
+      <address>市光一村106号</address>
+      <phone>021-61179900</phone>
+      <satisfaction>67</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(462.8094577730735, 646.8394666657332)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海送子宝医院</text>
+    <info>
+      <address>上海市徐汇区</address>
+      <phone>021-33800999</phone>
+      <satisfaction>96</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(475.9166577730866, 306.1887999990631)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">长征医院诊疗分部</text>
+    <info>
+      <address>和田路64临</address>
+      <phone>021-66540109</phone>
+      <satisfaction>98</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(893.5630222176769, 397.9847111102117)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">浦东慈善医院(旧)</text>
+    <info>
+      <address>建平路15号</address>
+      <phone>021-58524343</phone>
+      <satisfaction>27</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(973.0436266618199, 472.34986666576333)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">瑞东医院瑞金医院浦东分院</text>
+    <info>
+      <address>锦绣东路120号</address>
+      <phone>021-58339595</phone>
+      <satisfaction>98</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(246.46783999523905, 293.9463111101759)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">龙华中医医院集团普陀医院</text>
+    <info>
+      <address>新村路1317号</address>
+      <phone>021-63253370</phone>
+      <satisfaction>58</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(386.6784711062792, 556.936817776841)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">博爱医院</text>
+    <info>
+      <address>淮海中路1590弄1</address>
+      <phone>021-64333999</phone>
+      <satisfaction>84</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1189.4944711064454, -947.4329600009241)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">堡镇人民医院</text>
+    <info>
+      <address>堡镇中路223号</address>
+      <phone>021-59428261</phone>
+      <satisfaction>62</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(81.42634666201047, 367.355733332397)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海城市医院</text>
+    <info>
+      <address>曹安路1352号</address>
+      <phone>021-51092999</phone>
+      <satisfaction>55</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(278.65329777287116, 645.701688887948)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海万众医院</text>
+    <info>
+      <address>吴中路2-1临</address>
+      <phone>021-64389999</phone>
+      <satisfaction>5</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1789.1488711064085, 1285.496888887974)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海国正医院</text>
+    <info>
+      <address>人民西路99</address>
+      <phone>021-58009999</phone>
+      <satisfaction>64</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(342.4416711064623, 507.57546666573035)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">同仁医院南区</text>
+    <info>
+      <address>愚园路749弄22号</address>
+      <phone>021-62524259</phone>
+      <satisfaction>84</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(242.68131555072614, 107.80586666573981)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海沪太医院</text>
+    <info>
+      <address>沪太路2513临</address>
+      <phone>021-66518120</phone>
+      <satisfaction>37</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(75.45528888404078, 559.3215999990662)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海和睦家医院</text>
+    <info>
+      <address>仙霞路1139</address>
+      <phone>021-51331900</phone>
+      <satisfaction>45</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(920.5784177729583, 472.4863999990703)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海联洋地段医院</text>
+    <info>
+      <address>紫槐路120</address>
+      <phone>021-58337654</phone>
+      <satisfaction>47</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1378.3880533383126, 1010.1546666657214)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">青浦区朱家角医院</text>
+    <info>
+      <address>新风路167号</address>
+      <phone>021-59241927</phone>
+      <satisfaction>50</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(497.07022221755324, 114.26844444349626)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海复大医院西楼</text>
+    <info>
+      <address>上海市虹口区</address>
+      <satisfaction>34</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(464.44785777312063, 352.24604444351826)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海长征医院闸北分院</text>
+    <info>
+      <address>中华新路619号</address>
+      <phone>021-56628584</phone>
+      <satisfaction>49</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(569.7423644396622, -343.7553777787343)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">宝山中医医院</text>
+    <info>
+      <address>团结路28</address>
+      <phone>021-56601100</phone>
+      <satisfaction>45</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-492.4141511159178, -256.06456888981484)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">嘉定区中医院</text>
+    <info>
+      <address>上海市嘉定区</address>
+      <satisfaction>46</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(557.3633422172861, -1720.7941688898245)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">东风农场医院</text>
+    <info>
+      <address>东风公路</address>
+      <phone>021-59641240</phone>
+      <satisfaction>20</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-510.76423111589975, 1362.365155554653)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海安贞医院</text>
+    <info>
+      <address>茸梅路208</address>
+      <phone>021-57814482</phone>
+      <satisfaction>65</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(182.38819555081136, -1303.1296000009206)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">崇明县中心医院</text>
+    <info>
+      <address>南门路25</address>
+      <phone>021-69692702</phone>
+      <satisfaction>43</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(466.41393777299527, 1908.2891377768192)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">奉贤区中心医院</text>
+    <info>
+      <address>南奉公路9588号</address>
+      <phone>021-57420702</phone>
+      <satisfaction>40</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(451.0129777729162, 520.1365333323793)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市淮海医院</text>
+    <info>
+      <address>淮海中路966号</address>
+      <phone>021-54037810</phone>
+      <satisfaction>22</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(542.5085155506167, 565.1925333324016)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市中德医院</text>
+    <info>
+      <address>丽园路712</address>
+      <satisfaction>60</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(188.21361777318089, 608.3825777768197)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海天坛普华医院</text>
+    <info>
+      <address>红宝石路388</address>
+      <phone>021-62705300</phone>
+      <satisfaction>38</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(878.1256533286069, 447.0456888879653)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海浦东慈善医院</text>
+    <info>
+      <address>灵山路885号</address>
+      <satisfaction>86</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-530.4614400047285, 1206.307555554622)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海养志康复医院</text>
+    <info>
+      <address>光星路2209号</address>
+      <satisfaction>36</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(333.1209955507802, -372.33635555649016)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海中冶医院北门</text>
+    <info>
+      <address>上海市宝山区</address>
+      <phone>021-56649536</phone>
+      <satisfaction>3</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(2034.4355555509537, -766.6446222231571)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">堡镇医院陈家镇分院</text>
+    <info>
+      <address>陈彷公路250</address>
+      <phone>021-59431335</phone>
+      <satisfaction>3</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(2140.094151106314, 1962.5201777768325)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">光明中医医院泥城分院</text>
+    <info>
+      <address>南芦公路1843</address>
+      <phone>021-68019069</phone>
+      <satisfaction>33</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(466.3775288840043, 1908.3619555546193)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海第六医院奉贤分院</text>
+    <info>
+      <address>南奉公路9588号</address>
+      <phone>021-57412833</phone>
+      <satisfaction>29</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-497.3293511158772, 1484.5351822212706)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">松江区华江医院</text>
+    <info>
+      <address>迎宾路2号</address>
+      <phone>021-57835522</phone>
+      <satisfaction>17</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(373.7533155506753, 389.0190222212823)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市纺一医院</text>
+    <info>
+      <address>江宁路1291号</address>
+      <phone>021-32274550</phone>
+      <satisfaction>14</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1697.580515550726, 1979.2682666657129)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">奉贤区平安医院</text>
+    <info>
+      <address>四平公路1471号</address>
+      <phone>021-57546006</phone>
+      <satisfaction>50</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-56.09002667133609, -355.86133333426915)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海仁铭康复医院</text>
+    <info>
+      <address>张桥路13号</address>
+      <phone>021-66866969</phone>
+      <satisfaction>97</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(82.44579555084783, 561.1875555546249)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">长宁区红十字医院</text>
+    <info>
+      <address>仙霞路1111号</address>
+      <phone>021-62909911</phone>
+      <satisfaction>30</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(214.31879110623413, 424.3811555546017)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">曹杨红十字地段医院</text>
+    <info>
+      <address>兰溪路121号</address>
+      <phone>021-62970751</phone>
+      <satisfaction>49</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1328.7948799952574, 1905.1306666657183)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">奉贤区奉城医院分院</text>
+    <info>
+      <address>川南奉公路9672</address>
+      <phone>021-57512426</phone>
+      <satisfaction>74</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1928.15800888402, 1362.7747555546193)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">光明中医院惠南分院</text>
+    <info>
+      <address>观海路259号</address>
+      <phone>021-58271851</phone>
+      <satisfaction>15</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-487.1712711159489, 1473.639822221321)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海曙光医院松江分院</text>
+    <info>
+      <address>中山东路39</address>
+      <phone>021-57836193</phone>
+      <satisfaction>0</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-109.57468444903498, 2818.1017599990355)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">复旦大学附属金山医院</text>
+    <info>
+      <address>石化金一路391号</address>
+      <phone>021-57949999</phone>
+      <satisfaction>15</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-498.1667555603053, -304.8888888898091)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">嘉定区菊园新区地段医院</text>
+    <info>
+      <address>平城路785号</address>
+      <phone>021-69991623</phone>
+      <satisfaction>29</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1378.3880533383126, 1010.1546666657214)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海仁济医疗集团青浦医院</text>
+    <info>
+      <address>新风路167</address>
+      <phone>021-59232003</phone>
+      <satisfaction>82</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-914.8300800046854, 1990.5459199990673)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">金山区中心医院</text>
+    <info>
+      <address>健康路147号</address>
+      <phone>021-57317312</phone>
+      <satisfaction>90</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(591.7333333285569, 356.7971555546137)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市红十字医院</text>
+    <info>
+      <address>海宁路100号</address>
+      <phone>021-63240090</phone>
+      <satisfaction>68</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(278.25279999506165, -364.00782222312955)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海金惠康复医院</text>
+    <info>
+      <address>蕰川路3739号</address>
+      <phone>021-56649794</phone>
+      <satisfaction>94</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-47.715982227055065, -1749.9121777786968)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">崇明县庙镇人民医院</text>
+    <info>
+      <address>合作公路66临</address>
+      <phone>021-59361194</phone>
+      <satisfaction>12</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-41.45365333824884, 2819.312355554621)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">金山区石化地段医院</text>
+    <info>
+      <address>象州路12</address>
+      <phone>021-57970129</phone>
+      <satisfaction>43</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-541.4933333380759, -259.059200000911)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">嘉定区红十字会医院</text>
+    <info>
+      <address>环城路2202</address>
+      <phone>021-69987008</phone>
+      <satisfaction>39</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(74.69070221759466, 1014.8605155546193)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市闵行区中医医院</text>
+    <info>
+      <address>莘松路170</address>
+      <phone>021-64823400</phone>
+      <satisfaction>6</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1186.5453511063606, 976.2033777768465)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市质子重离子医院</text>
+    <info>
+      <address>建新公路4365号</address>
+      <satisfaction>14</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(153.66158221731894, 867.1587555546012)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">闵行区中心医院古美分院</text>
+    <info>
+      <address>顾戴路805</address>
+      <phone>021-54934001</phone>
+      <satisfaction>62</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(621.1517155508773, 552.0853333323885)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市第二人民医院(黄浦区中心医院)</text>
+    <info>
+      <address>普育东路38号</address>
+      <satisfaction>68</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(404.95573332864296, 465.51409777684967)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市儿童医院</text>
+    <info>
+      <address>北京西路1400弄24号</address>
+      <phone>021-62474880</phone>
+      <satisfaction>59</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(772.7947377730743, 94.42559999911282)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">东方肝胆外科医院</text>
+    <info>
+      <address>长海路225号</address>
+      <phone>021-65564166</phone>
+      <satisfaction>38</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(577.8979555509068, -357.81831111203246)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">宝山区中心医院北区</text>
+    <info>
+      <address>友谊支路301号</address>
+      <phone>021-56601383</phone>
+      <satisfaction>58</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-608.9225955603979, 1328.2045155546257)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市第一医院南院</text>
+    <info>
+      <address>上海市松江区</address>
+      <satisfaction>57</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(295.8382933285975, 410.7278222212699)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">普陀区东新地段医院</text>
+    <info>
+      <address>东新路230弄20号</address>
+      <phone>021-52901743</phone>
+      <satisfaction>40</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-864.0760888936711, 2000.6129777768365)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">金山区朱泾地段医院</text>
+    <info>
+      <address>罗星南路608</address>
+      <phone>021-57326535</phone>
+      <satisfaction>68</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-582.7810133381718, 1444.512711110201)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">松江区中心医院分院</text>
+    <info>
+      <address>乐都路279号</address>
+      <satisfaction>99</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(816.7038577728817, 318.44039111015263)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市杨浦区复兴医院</text>
+    <info>
+      <address>杭州路349</address>
+      <phone>021-65432021</phone>
+      <satisfaction>83</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(388.46250666192645, 73.71804444351255)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市红十字遵义医院</text>
+    <info>
+      <address>保德路1278</address>
+      <phone>021-61833100</phone>
+      <satisfaction>74</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(559.0745599953152, 562.097777776853)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市卢湾区顺昌医院</text>
+    <info>
+      <address>丽园路490</address>
+      <phone>021-63288255</phone>
+      <satisfaction>6</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(306.105599995135, 536.0199111101792)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市遵义红十字医院</text>
+    <info>
+      <address>武夷路196</address>
+      <satisfaction>53</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(382.3822222173476, 522.5941333324045)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">中国红十字会华山医院</text>
+    <info>
+      <address>乌鲁木齐中路12</address>
+      <phone>021-52889999</phone>
+      <satisfaction>64</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(754.2990222173103, 1189.3319111101846)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">第五人民医院浦江分院</text>
+    <info>
+      <address>三鲁公路2689号</address>
+      <phone>021-64110433</phone>
+      <satisfaction>49</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(870.1885155507625, 187.26826666575107)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">安图医院公共卫生分院</text>
+    <info>
+      <address>控江路小洋浜32号</address>
+      <satisfaction>69</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(723.8611911063344, 2213.7415111101745)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市奉贤区海湾医院</text>
+    <info>
+      <address>上海市奉贤区</address>
+      <satisfaction>92</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1527.587413328547, 1332.355128887957)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">南汇区中心医院宣桥分院</text>
+    <info>
+      <address>沪南公路8719号</address>
+      <phone>021-58181221</phone>
+      <satisfaction>30</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(199.31832888414647, 410.5002666657583)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海中医药大学附属普陀医院</text>
+    <info>
+      <address>兰溪路164号</address>
+      <phone>021-62572723</phone>
+      <satisfaction>44</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-926.7357866716338, 1162.844444443499)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">中山医院天马山分部</text>
+    <info>
+      <address>刘家山村456</address>
+      <phone>021-57668163</phone>
+      <satisfaction>2</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(785.537848884087, 679.1068444435041)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">蓝十字锦绣康复医院</text>
+    <info>
+      <address>上海市浦东新区</address>
+      <satisfaction>94</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-221.13152000474656, 182.06179555463677)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市嘉定区南翔医院</text>
+    <info>
+      <address>民主街144号</address>
+      <phone>021-59177997</phone>
+      <satisfaction>42</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(570.36131555069, 417.7820444435383)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市黄浦区中医医院</text>
+    <info>
+      <address>宁波路109</address>
+      <phone>021-63212582</phone>
+      <satisfaction>89</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1010.1121422268989, 806.9475555546433)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市青浦区中心医院</text>
+    <info>
+      <address>公园东路1158号</address>
+      <phone>021-69719190</phone>
+      <satisfaction>12</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(634.2225066617175, 700.9976888879919)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市黄浦区洪山医院</text>
+    <info>
+      <address>洪山路160号</address>
+      <phone>021-58834446</phone>
+      <satisfaction>85</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-188.94606222693255, 1784.5262222213023)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">松江中心医院叶榭分院</text>
+    <info>
+      <address>叶权路210号</address>
+      <phone>021-57801180</phone>
+      <satisfaction>31</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1169.8336711064258, 866.0209777768614)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">南汇区周浦医院康桥分院</text>
+    <info>
+      <address>上海市浦东新区</address>
+      <satisfaction>89</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(617.2559644397552, -211.28163555649735)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市第一医院宝山分院</text>
+    <info>
+      <address>上海市宝山区</address>
+      <satisfaction>76</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1073.6777955507932, 416.3256888879914)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">复旦大学附属华山医院东院</text>
+    <info>
+      <address>红枫路525号</address>
+      <phone>021-62498110,021-50301999</phone>
+      <satisfaction>58</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1721.6831999950955, 1245.6746666657182)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">复旦大学附属华山医院南汇分院</text>
+    <info>
+      <address>拱为路2800</address>
+      <phone>021-52919963,021-58022995</phone>
+      <satisfaction>98</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(82.44579555084783, 561.1875555546249)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市长宁区中心医院</text>
+    <info>
+      <address>仙霞路1111号</address>
+      <phone>021-62909911</phone>
+      <satisfaction>62</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(434.26488888417225, 608.2733511101651)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市中山红十字医院</text>
+    <info>
+      <address>枫林路180号</address>
+      <satisfaction>32</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1533.271466671431, 1998.2919111102092)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">金山区中心医院枫泾分院</text>
+    <info>
+      <address>白牛路219</address>
+      <phone>021-57351428</phone>
+      <satisfaction>44</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(450.9765688841071, 520.182044443527)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市徐汇区红十字医院</text>
+    <info>
+      <address>淮海中路966号</address>
+      <phone>021-54037810</phone>
+      <satisfaction>44</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-181.33660444927955, 912.3967999990782)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">松江区中心医院九亭分院</text>
+    <info>
+      <address>九新公路155</address>
+      <phone>021-57635959</phone>
+      <satisfaction>43</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-541.4933333380759, -259.059200000911)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海医药高等专科学校附属医院</text>
+    <info>
+      <address>环城路2202</address>
+      <phone>021-69987008</phone>
+      <satisfaction>81</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(765.9134577730583, 27.296711110193428)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">同济大学医学院附属杨浦医院(筹)</text>
+    <info>
+      <address>开鲁路500号</address>
+      <phone>021-65051896</phone>
+      <satisfaction>81</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(212.42552888415958, 461.8823111101847)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华东师范大学校医院</text>
+    <info>
+      <address>中山北路3663号华东师范大学中山北路校区内</address>
+      <phone>021-62232375</phone>
+      <satisfaction>7</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-915.1213511158858, 1990.555022221315)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市金山区中医医院</text>
+    <info>
+      <address>健康路147</address>
+      <phone>021-57319883</phone>
+      <satisfaction>90</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-559.4065066714393, 1455.1167999990412)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市松江区谷阳医院</text>
+    <info>
+      <address>谷阳北路46号</address>
+      <phone>021-57712222</phone>
+      <satisfaction>91</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(785.537848884087, 678.1966222212759)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海蓝十字锦绣康复医院</text>
+    <info>
+      <address>锦尊路1195号</address>
+      <satisfaction>70</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(660.0364088841161, 549.445688887954)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市第二人民医院南区</text>
+    <info>
+      <address>上海市黄浦区</address>
+      <satisfaction>71</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1000.3867022174745, -56.89884444541349)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市浦东中西医结合医院</text>
+    <info>
+      <address>大同路358</address>
+      <satisfaction>22</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(411.83701332847704, 456.51199999906567)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">复旦大学附属华山医院静安分院</text>
+    <info>
+      <address>西康路259</address>
+      <phone>021-62474530</phone>
+      <satisfaction>54</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(745.8157511064201, 38.49244444350006)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">长海医院临床神经医学中心康复中心</text>
+    <info>
+      <address>民京路902</address>
+      <phone>021-65881919</phone>
+      <satisfaction>22</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1461.4688711064446, 289.89582222125136)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海中医药大学附属曙光医院曹路分院</text>
+    <info>
+      <address>秦家港路1569临</address>
+      <phone>021-58926724</phone>
+      <satisfaction>63</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(569.7423644396622, -343.7553777787343)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海中医药大学附属曙光医院宝山分院</text>
+    <info>
+      <address>团结路28</address>
+      <phone>021-56601100</phone>
+      <satisfaction>26</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(689.3091555508363, 333.5864888879769)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海中西医结合医院感染性疾病科</text>
+    <info>
+      <address>保定路230边门</address>
+      <phone>021-35100012</phone>
+      <satisfaction>68</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(532.7509333284979, -351.08266666761665)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海交通大学医学院附属第三医院西区</text>
+    <info>
+      <address>樟岭路48</address>
+      <phone>021-56691101</phone>
+      <satisfaction>88</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(441.54666666181583, 66.06307555462081)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市闸北区市北医院保德路分院</text>
+    <info>
+      <address>保德路545号</address>
+      <phone>021-56888333</phone>
+      <satisfaction>42</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(664.7331555506753, 1865.900088887929)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海交通大学附属第六人民医院南院</text>
+    <info>
+      <address>上海市奉贤区</address>
+      <satisfaction>13</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(875.2857599951312, 448.0469333323981)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海交通大学医学院附属仁济医院北院</text>
+    <info>
+      <address>灵山路845</address>
+      <satisfaction>21</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(650.3152355509883, 137.1150222212691)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">同济大学附属上海市肺科医院</text>
+    <info>
+      <address>政民路507号</address>
+      <phone>021-65115006</phone>
+      <satisfaction>63</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(10.793102217394335, 556.9914311101911)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">神州医院</text>
+    <info>
+      <address>仙霞西路601</address>
+      <phone>021-52201272</phone>
+      <satisfaction>25</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(344.37134221752785, 901.701688887988)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">大华医院</text>
+    <info>
+      <address>老沪闵路901～903号</address>
+      <phone>021-64535555</phone>
+      <satisfaction>10</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(742.6117688841259, 468.2083555546342)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">长航医院</text>
+    <info>
+      <address>崂山路523号</address>
+      <phone>021-58354870</phone>
+      <satisfaction>64</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(481.0503111064463, 398.53084444348497)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">北站医院</text>
+    <info>
+      <address>南星路29号</address>
+      <phone>021-63549199</phone>
+      <satisfaction>60</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1156.0753777826903, 772.7687111101659)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">同德医院</text>
+    <info>
+      <address>盈港路1006</address>
+      <phone>021-69220999</phone>
+      <satisfaction>94</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(599.3427911063918, 236.6478222213118)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">曲阳医院</text>
+    <info>
+      <address>玉田路333号</address>
+      <phone>021-65558555</phone>
+      <satisfaction>19</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(492.1186133286028, 1315.8527999990838)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">吴泾医院</text>
+    <info>
+      <address>龙吴路5559号</address>
+      <phone>021-64502371</phone>
+      <satisfaction>64</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1026.892373328701, 961.5943111101842)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">周浦医院</text>
+    <info>
+      <address>关岳路135</address>
+      <phone>021-68135590</phone>
+      <satisfaction>38</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(335.56039110644633, -369.2416000009416)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">中冶医院</text>
+    <info>
+      <address>春雷路456号</address>
+      <phone>021-56649536</phone>
+      <satisfaction>6</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(545.2027733286741, 131.0165333324221)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">海江医院</text>
+    <info>
+      <address>池沟路80</address>
+      <phone>021-65178099</phone>
+      <satisfaction>84</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-48.735431115892425, -371.7811200009237)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">罗店医院</text>
+    <info>
+      <address>罗溪路121号</address>
+      <phone>021-56861995</phone>
+      <satisfaction>66</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(562.3513599952275, 90.05653333238115)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">蓝鹰医院</text>
+    <info>
+      <address>三门路726号</address>
+      <phone>021-65608162</phone>
+      <satisfaction>18</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-205.14801778244873, 2032.5981866657457)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">亭林医院</text>
+    <info>
+      <address>寺平北路80号</address>
+      <phone>021-57232481</phone>
+      <satisfaction>79</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(361.5563377732542, 121.16792888796226)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">海鹰医院</text>
+    <info>
+      <address>场中路2888号</address>
+      <phone>021-56432937</phone>
+      <satisfaction>81</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(909.9834311064114, 335.6891022212949)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">申诚医院</text>
+    <info>
+      <address>上海市浦东新区</address>
+      <satisfaction>90</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(374.55431110629434, 1098.6737777768667)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">同康医院</text>
+    <info>
+      <address>双柏路888号</address>
+      <phone>021-62207919</phone>
+      <satisfaction>61</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(819.3617066617662, 151.86062222132932)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海新光医院</text>
+    <info>
+      <address>佳木斯路258临</address>
+      <phone>021-65483393</phone>
+      <satisfaction>54</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(564.8271644397028, 213.16408888797014)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海建工医院</text>
+    <info>
+      <address>中山北一路666号</address>
+      <phone>021-65366688</phone>
+      <satisfaction>12</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-567.562097782502, -208.0412444453941)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海嘉华医院</text>
+    <info>
+      <address>清河路450号</address>
+      <phone>021-69916666</phone>
+      <satisfaction>23</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(550.4092444394701, 263.6359111101683)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海赤峰医院</text>
+    <info>
+      <address>东体育会支路41-1临</address>
+      <phone>021-65367559</phone>
+      <satisfaction>95</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1763.2257422175826, 1324.2268444435012)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海福华医院</text>
+    <info>
+      <address>城南路98</address>
+      <phone>021-51961999</phone>
+      <satisfaction>84</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(427.3836088841563, 513.4008888879634)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海邮电医院</text>
+    <info>
+      <address>长乐路666</address>
+      <phone>021-54047060</phone>
+      <satisfaction>41</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(190.90787555087445, 603.6949333323719)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">民航上海医院</text>
+    <info>
+      <address>虹桥路1448号</address>
+      <phone>021-62758030</phone>
+      <satisfaction>91</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(328.8611555506577, 532.6975999990736)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海电力医院</text>
+    <info>
+      <address>延安西路937</address>
+      <phone>021-62261191</phone>
+      <satisfaction>73</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(31.910257772869954, 611.295288887959)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海一0八医院</text>
+    <info>
+      <address>哈密路1713号</address>
+      <phone>021-81816202</phone>
+      <satisfaction>7</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(182.35178666182037, -1302.9475555564659)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">新华医院(崇明)</text>
+    <info>
+      <address>南门路25</address>
+      <phone>021-69692702</phone>
+      <satisfaction>85</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(339.23768888416816, 554.7704888879252)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">臻景医疗</text>
+    <info>
+      <address>兴国路78号兴国宾馆5号楼</address>
+      <phone>021-62100060</phone>
+      <satisfaction>30</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(800.064995550747, -1305.6782222231504)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">娄式中医</text>
+    <info>
+      <address>新晨路147</address>
+      <satisfaction>5</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(817.1771733284913, 105.21173333240768)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海寓医馆</text>
+    <info>
+      <address>包头路62</address>
+      <phone>021-65389616</phone>
+      <satisfaction>52</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(541.2342044397519, 417.82755555464064)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">亚宸健康园</text>
+    <info>
+      <address>北京东路668号上海科技京城东楼6层</address>
+      <satisfaction>36</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(314.77091555079824, 603.8314666657243)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">俏佳人国际</text>
+    <info>
+      <address>番禺路752号</address>
+      <satisfaction>83</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-529.4419911158911, 1207.1722666657479)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海阳光康复中心</text>
+    <info>
+      <address>光星路2209</address>
+      <phone>021-37730011</phone>
+      <satisfaction>66</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1284.849351106277, 1908.7260444435287)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">交大九院奉城分院</text>
+    <info>
+      <address>川南奉公路9983号</address>
+      <phone>021-57522565</phone>
+      <satisfaction>26</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(873.5381333286568, 446.1627733323894)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市人类精子库</text>
+    <info>
+      <address>灵山路845</address>
+      <phone>021-20284528</phone>
+      <satisfaction>98</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(723.0966044397064, 583.8975999990907)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市聋儿康复中心</text>
+    <info>
+      <address>临沂北路265</address>
+      <phone>021-58733212</phone>
+      <satisfaction>31</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-195.5724800047392, 2722.2735644435033)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">金山区精神卫生中心</text>
+    <info>
+      <address>金山大道3528</address>
+      <phone>021-57930999</phone>
+      <satisfaction>12</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(601.0904177730481, 508.3491555546061)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">黄浦区牙病防治分所</text>
+    <info>
+      <address>净土路77号</address>
+      <phone>021-63676070</phone>
+      <satisfaction>14</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(718.1449955509379, 520.9102222213005)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">黄浦区精神卫生分中心</text>
+    <info>
+      <address>张家浜路39弄5</address>
+      <phone>021-68760630</phone>
+      <satisfaction>22</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(894.8373333285417, 460.0618666657283)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市癌症康复俱乐部</text>
+    <info>
+      <address>杨高中路2795</address>
+      <phone>021-56639993</phone>
+      <satisfaction>51</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-81.9039288935528, 2452.128711110163)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海公共卫生临床中心</text>
+    <info>
+      <address>漕廊公路2901号</address>
+      <phone>021-37990333</phone>
+      <satisfaction>20</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(357.07804443973146, 457.1036444435322)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">静安区残疾人康复中心</text>
+    <info>
+      <address>康定路995号</address>
+      <satisfaction>47</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-571.9675733380427, 587.2654222212986)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海华新残疾儿童康育院</text>
+    <info>
+      <address>新凤南路150</address>
+      <phone>021-59770326</phone>
+      <satisfaction>34</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(66.09820443973149, 924.9578666657271)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市闵行区医疗急救站</text>
+    <info>
+      <address>水清路1099</address>
+      <satisfaction>77</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-887.3777777826035, 2007.9857777768211)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市金山区医疗救护站</text>
+    <info>
+      <address>卫生路46</address>
+      <satisfaction>74</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(21.934222217532806, 604.0135111102245)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海国际旅行卫生保健中心</text>
+    <info>
+      <address>金浜路15</address>
+      <phone>021-62686171</phone>
+      <satisfaction>91</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(394.2879288841141, 1682.5813333323822)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">奉贤区医疗救护站西渡分站</text>
+    <info>
+      <address>吴塘路486号</address>
+      <satisfaction>68</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(216.5397333285, 606.2435555546472)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市(红十字)血液中心</text>
+    <info>
+      <address>虹桥路1191号</address>
+      <phone>021-62758257</phone>
+      <satisfaction>62</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(491.2812088843566, 1317.127111110176)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">闵行区医疗急救站吴泾分站</text>
+    <info>
+      <address>剑川路159</address>
+      <satisfaction>71</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(612.8504888842144, -258.6040888898424)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">宝山区残疾人康复培训中心</text>
+    <info>
+      <address>永清二村126号</address>
+      <satisfaction>0</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1174.2755555507756, 865.2017777768378)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">南汇区医疗救助站康桥分站</text>
+    <info>
+      <address>上海市浦东新区</address>
+      <satisfaction>90</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(723.0966044397064, 583.8975999990907)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市脑瘫儿童康复资源中心</text>
+    <info>
+      <address>临沂北路265</address>
+      <phone>021-50940282</phone>
+      <satisfaction>0</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(502.8592355507499, 265.0922666657152)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">复旦大学附属公共卫生临床中心</text>
+    <info>
+      <address>同心路921号</address>
+      <phone>021-63062125</phone>
+      <satisfaction>56</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(585.1069155507503, 191.40977777688022)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海中医药大学岳阳临床医学院</text>
+    <info>
+      <address>甘河路110号</address>
+      <phone>021-65161782</phone>
+      <satisfaction>29</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-540.5831111158477, -254.96320000092965)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海交通大学医学院仁济嘉定分院</text>
+    <info>
+      <address>环城路2202</address>
+      <phone>021-69987008</phone>
+      <satisfaction>88</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-137.20903111588996, 749.0938311101672)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市慈善基金会众仁儿童康复中心</text>
+    <info>
+      <address>中春路9977</address>
+      <phone>021-54470795</phone>
+      <satisfaction>2</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(561.5139555507994, 542.8920888879929)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">中美合作上海集爱遗传与不育诊疗中心</text>
+    <info>
+      <address>方斜路588号</address>
+      <phone>021-63459977</phone>
+      <satisfaction>15</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(207.54673777300923, 1246.2207999990824)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海交通大学医学院附属精神卫生中心闵行院区</text>
+    <info>
+      <address>沪闵路3210</address>
+      <phone>021-64901737</phone>
+      <satisfaction>75</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(540.3239822175237, 141.75715555461466)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">东华医院</text>
+    <info>
+      <address>奎照路405</address>
+      <phone>021-65603492</phone>
+      <satisfaction>22</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(836.7651555507109, 184.58311111016883)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">安图医院</text>
+    <info>
+      <address>延吉东路200号</address>
+      <phone>021-55829845</phone>
+      <satisfaction>99</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(490.8078933285651, 1873.5914666657663)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海奉浦医院</text>
+    <info>
+      <address>南桥环城东路1148</address>
+      <phone>021-57426666</phone>
+      <satisfaction>57</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1128.5866666716174, 823.741155554626)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海仁博医院</text>
+    <info>
+      <address>城中北路205号</address>
+      <phone>021-69711599</phone>
+      <satisfaction>56</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(123.87911110636196, 281.24871111022003)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海九洲医院</text>
+    <info>
+      <address>真南路685号</address>
+      <phone>021-66266666</phone>
+      <satisfaction>76</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(161.56231110653607, 711.1466666657634)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海虹桥医院</text>
+    <info>
+      <address>虹梅路2181号</address>
+      <phone>021-64659999</phone>
+      <satisfaction>61</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(636.3342222173742, 754.3367111101816)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海杨思医院</text>
+    <info>
+      <address>杨新东路28号</address>
+      <phone>021-68325999</phone>
+      <satisfaction>83</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(184.09941332865856, 787.5143111101806)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海古美医院</text>
+    <info>
+      <address>古美路1388号</address>
+      <phone>021-64957919</phone>
+      <satisfaction>55</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-393.34556444919144, 434.9852444434873)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海华泰医院</text>
+    <info>
+      <address>纪翟路1688号</address>
+      <phone>021-54470111</phone>
+      <satisfaction>12</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(773.6321422175024, 657.0794666657093)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海申东医院</text>
+    <info>
+      <address>严桥路306号</address>
+      <phone>021-58759999</phone>
+      <satisfaction>44</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1832.7303111063884, 1296.4104533323734)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">光明中医医院</text>
+    <info>
+      <address>东门大街339号</address>
+      <phone>021-68019069</phone>
+      <satisfaction>85</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-99.63505778268882, 2745.6753777768427)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海建国医院</text>
+    <info>
+      <address>卫清西路767</address>
+      <phone>021-57961117</phone>
+      <satisfaction>83</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(173.03111110650207, 341.4599111101779)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海宏康医院</text>
+    <info>
+      <address>大渡河路1933号</address>
+      <phone>021-52836692</phone>
+      <satisfaction>77</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(347.39327999523084, 708.6435555546359)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海仁爱医院</text>
+    <info>
+      <address>漕溪路133</address>
+      <phone>021-64688888</phone>
+      <satisfaction>62</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(684.430364439504, 608.1641244435559)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">浦南医院西院</text>
+    <info>
+      <address>浦东南路2400号</address>
+      <phone>021-20302000</phone>
+      <satisfaction>68</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-261.83665778244176, 122.32391111019751)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海同翔医院</text>
+    <info>
+      <address>陈翔公路2399号</address>
+      <phone>021-69124185</phone>
+      <satisfaction>28</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(506.2088533284623, 183.29059555462663)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海天伦医院</text>
+    <info>
+      <address>凉城路545号</address>
+      <phone>021-65259999</phone>
+      <satisfaction>69</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1008.1417955509096, 275.1047111101798)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海沪东医院</text>
+    <info>
+      <address>沪东路238</address>
+      <phone>021-58711047</phone>
+      <satisfaction>32</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1177.8072177730792, 865.6568888879519)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海亲和源医院</text>
+    <info>
+      <address>秀沿路2999弄</address>
+      <phone>021-38256329</phone>
+      <satisfaction>73</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(412.4195555508777, 628.5439999990558)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海计生所医院</text>
+    <info>
+      <address>斜土路2120号</address>
+      <phone>021-64169999</phone>
+      <satisfaction>6</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(689.1271111062451, 627.4972444435207)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">浦南医院(东院)</text>
+    <info>
+      <address>南码头路529临</address>
+      <phone>021-58892700</phone>
+      <satisfaction>13</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(510.7963733285942, 514.6296888879533)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">瑞金医院卢湾分院</text>
+    <info>
+      <address>重庆南路149</address>
+      <phone>021-63864050</phone>
+      <satisfaction>19</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(435.4299733284279, 542.5279999990835)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海邮电医院南部</text>
+    <info>
+      <address>复兴中路1315号</address>
+      <phone>021-54662778</phone>
+      <satisfaction>81</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-33.40728889361344, 338.22862222127696)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">安国医院</text>
+    <info>
+      <address>曹安公路1991号</address>
+      <phone>021-69117120</phone>
+      <satisfaction>56</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(220.47189332843118, 1480.6485333323963)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海道培医院</text>
+    <info>
+      <address>瑞丽路128</address>
+      <phone>021-54750088</phone>
+      <satisfaction>15</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1661.9362133284085, -270.48248888982016)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海兴岛医院</text>
+    <info>
+      <address>前卫支路161</address>
+      <phone>021-33801111</phone>
+      <satisfaction>75</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(636.5162666619653, 1137.2671999990416)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">仁济医院南院</text>
+    <info>
+      <address>江月路2000号</address>
+      <satisfaction>34</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(399.16671999508253, 1243.808711110205)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海振国医院</text>
+    <info>
+      <address>虹梅南路4855号</address>
+      <phone>021-64523001</phone>
+      <satisfaction>52</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(119.4736355508212, 216.12231111016627)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海德济医院</text>
+    <info>
+      <address>古浪路378号</address>
+      <satisfaction>23</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1022.9602133284061, 940.0220444435035)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海国龙医院</text>
+    <info>
+      <address>川周公路4128</address>
+      <satisfaction>64</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(781.4600533285557, 435.8044444435109)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海海员医院分部</text>
+    <info>
+      <address>源深路348弄4号</address>
+      <phone>021-58791216</phone>
+      <satisfaction>58</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(805.6355555507253, 324.0746666657287)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">杨浦中医医院北部</text>
+    <info>
+      <address>眉州路185号</address>
+      <satisfaction>59</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(794.3487999951685, 156.90325333239343)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">市东医院营口分院</text>
+    <info>
+      <address>营口路760号</address>
+      <satisfaction>37</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(315.3534577728351, 596.8682666657514)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海港华医院</text>
+    <info>
+      <address>淮海西路282号</address>
+      <phone>021-62807733</phone>
+      <satisfaction>84</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(634.0768711062992, 349.0147555546173)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海康平医院</text>
+    <info>
+      <address>通州路35号</address>
+      <phone>021-65350452</phone>
+      <satisfaction>82</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(872.7735466618469, 640.1857422213197)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海安达医院</text>
+    <info>
+      <address>沪南路468</address>
+      <phone>021-58918622</phone>
+      <satisfaction>87</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1534.2866488839718, 585.3084444435353)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海安平医院</text>
+    <info>
+      <address>川沙路4425弄8号</address>
+      <phone>021-58981111</phone>
+      <satisfaction>16</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-902.8515555601189, 162.6922666657265)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">嘉定区安亭医院</text>
+    <info>
+      <address>昌吉路204</address>
+      <phone>021-59579914</phone>
+      <satisfaction>76</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(204.6704355507245, 405.1299555546393)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">普陀区中心医院</text>
+    <info>
+      <address>梅岭北路409</address>
+      <phone>021-62572723</phone>
+      <satisfaction>61</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(300.0617244395471, 142.62186666574053)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市大场医院</text>
+    <info>
+      <address>少年村路218</address>
+      <phone>021-56680490</phone>
+      <satisfaction>50</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-543.0589155603229, -256.59249777868354)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">嘉定区中心医院</text>
+    <info>
+      <address>环城路2200</address>
+      <phone>021-69987008</phone>
+      <satisfaction>87</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(447.9910399952132, 1920.1129244435378)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">奉贤区中医医院</text>
+    <info>
+      <address>江海路338号</address>
+      <phone>021-57420861</phone>
+      <satisfaction>83</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-403.6856888937109, -218.41777777872267)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">嘉定区迎园医院</text>
+    <info>
+      <address>墅沟路400～420号</address>
+      <phone>021-59995539</phone>
+      <satisfaction>75</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(450.9765688841071, 520.182044443527)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">徐汇区中心医院</text>
+    <info>
+      <address>淮海中路966号</address>
+      <phone>021-31270810</phone>
+      <satisfaction>96</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1284.849351106277, 1908.7260444435287)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">奉贤区奉城医院</text>
+    <info>
+      <address>川南奉公路9983号</address>
+      <phone>021-57522565</phone>
+      <satisfaction>35</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1105.3942044491123, 823.6956444435236)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">青浦区中医医院</text>
+    <info>
+      <address>青安路95</address>
+      <phone>021-59733892</phone>
+      <satisfaction>13</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(589.9128888841005, 440.674133332368)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">黄浦区中心医院</text>
+    <info>
+      <address>四川中路109</address>
+      <phone>021-63212487</phone>
+      <satisfaction>36</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-492.45056000472687, -256.55608888982897)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">嘉定区中医医院</text>
+    <info>
+      <address>博乐路222号</address>
+      <phone>021-39921068</phone>
+      <satisfaction>15</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1802.3652977730308, 1252.8927288879459)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">浦东新区南华医院</text>
+    <info>
+      <address>北门路71号</address>
+      <phone>021-58020135</phone>
+      <satisfaction>65</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(677.2942222174606, 839.2149333323687)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海徐浦中医医院</text>
+    <info>
+      <address>上南路4091号</address>
+      <phone>021-66855555</phone>
+      <satisfaction>76</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(267.111679995287, 267.4588444435358)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">同济医院大华门诊部</text>
+    <info>
+      <address>新沪路950</address>
+      <phone>021-66344400</phone>
+      <satisfaction>63</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(425.34471110629966, 640.9685333323978)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市肿瘤医院</text>
+    <info>
+      <address>零陵路399</address>
+      <phone>021-64175590</phone>
+      <satisfaction>76</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(425.30830221749056, 275.05919999907746)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">同济大学附属口腔医院</text>
+    <info>
+      <address>延长中路399号</address>
+      <phone>021-66315500</phone>
+      <satisfaction>62</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1207.0435555508084, -900.765866667598)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">新华医院集团崇明县第二人民医院</text>
+    <info>
+      <address>上海市崇明县</address>
+      <satisfaction>5</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(520.0078222174852, 602.1475555546203)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">卢湾区东南医院</text>
+    <info>
+      <address>瞿溪路1100</address>
+      <phone>021-63037638</phone>
+      <satisfaction>16</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(550.2271999952427, 106.98666666576173)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市江湾医院</text>
+    <info>
+      <address>场中路22号</address>
+      <phone>021-65422593</phone>
+      <satisfaction>39</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(462.408959995264, 463.475199999084)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市公惠医院</text>
+    <info>
+      <address>石门一路315弄6号</address>
+      <phone>021-62539995</phone>
+      <satisfaction>23</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(378.5228799952165, 0.03555555463208293)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华山医院宝山分院</text>
+    <info>
+      <address>长江西路1999</address>
+      <phone>021-52919963</phone>
+      <satisfaction>43</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(855.260871106475, 401.94417777684066)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">浦东新区公利医院</text>
+    <info>
+      <address>苗圃路219号</address>
+      <phone>021-58858730</phone>
+      <satisfaction>28</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(671.1047111062726, 541.8453333324123)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市强生职工医院</text>
+    <info>
+      <address>外马路984</address>
+      <phone>021-63185566</phone>
+      <satisfaction>14</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(794.4944355505868, 87.4168888879467)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">杨浦区民星地段医院</text>
+    <info>
+      <address>民星路574号</address>
+      <phone>021-55780749</phone>
+      <satisfaction>46</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-134.66040889379656, 2617.8346666657035)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">复旦大学附属金山医院</text>
+    <info>
+      <address>龙航路1508</address>
+      <satisfaction>94</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(643.7252266618088, 230.3217777768623)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">同济大学附属同济医院分院</text>
+    <info>
+      <address>赤峰路40号</address>
+      <phone>021-65982238</phone>
+      <satisfaction>95</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(573.0919822175565, -60.17564444537129)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">宝山区一钢医院</text>
+    <info>
+      <address>长江路860弄111</address>
+      <phone>021-56821995</phone>
+      <satisfaction>17</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-181.33660444927955, 912.3512888879759)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">松江区九亭医院</text>
+    <info>
+      <address>上海市松江区</address>
+      <satisfaction>71</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-582.7810133381718, 1444.512711110201)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">松江区乐都医院</text>
+    <info>
+      <address>乐都路279号</address>
+      <phone>021-57814758</phone>
+      <satisfaction>38</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-487.1712711159489, 1473.639822221321)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">松江方塔中医医院</text>
+    <info>
+      <address>中山东路39</address>
+      <phone>021-57836193</phone>
+      <satisfaction>71</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(144.81422221742832, 538.6595555546137)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">天山中医院医疗点</text>
+    <info>
+      <address>水城路689号4层402</address>
+      <satisfaction>51</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(372.5882311064197, 744.0511999990576)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海一康康复医院</text>
+    <info>
+      <address>龙漕路200弄乙字1号</address>
+      <phone>021-62733666</phone>
+      <satisfaction>8</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(93.51409777318622, 698.9951999990808)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市闵行区中医医院</text>
+    <info>
+      <address>合川路3071号</address>
+      <phone>021-51876888</phone>
+      <satisfaction>3</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1712.107662217386, 1236.8910222213344)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">浦东新区南汇中心医院</text>
+    <info>
+      <address>拱为路2800</address>
+      <phone>021-58022995</phone>
+      <satisfaction>3</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(74.72711110640375, 1014.851413332417)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市闵行区中心医院</text>
+    <info>
+      <address>莘松路170</address>
+      <phone>021-64923400</phone>
+      <satisfaction>87</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1440.7564800047112, 925.2309333323865)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">青浦区朱家角人民医院</text>
+    <info>
+      <address>石家浜东路99号</address>
+      <satisfaction>75</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(488.04081777307147, 526.5991111101812)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">卢湾区香山中医医院</text>
+    <info>
+      <address>复兴中路528号</address>
+      <phone>021-53061730</phone>
+      <satisfaction>17</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(812.4804266619321, 43.18008888794793)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市杨浦区市东医院</text>
+    <info>
+      <address>市光路999号</address>
+      <phone>021-65882999</phone>
+      <satisfaction>72</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(614.743751106289, 522.7306666657114)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">黄浦区中西医结合医院</text>
+    <info>
+      <address>黄家路163号</address>
+      <phone>021-63774871</phone>
+      <satisfaction>33</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(454.25336888420134, -342.79964444535835)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海中冶医院富锦路分院</text>
+    <info>
+      <address>富锦路900号</address>
+      <phone>021-36213946</phone>
+      <satisfaction>60</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(771.9937422174553, 27.078257776838655)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">杨浦区中心医院中原分院</text>
+    <info>
+      <address>开鲁路500号</address>
+      <phone>021-65051896</phone>
+      <satisfaction>71</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(580.9198933284279, 435.8499555546132)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华东医院市府大厦门诊部</text>
+    <info>
+      <address>江西中路187</address>
+      <phone>021-63218996</phone>
+      <satisfaction>53</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(285.89866666188755, 555.9537777768583)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">复旦大学附属中山医院分部</text>
+    <info>
+      <address>延安西路1474</address>
+      <phone>021-64041990</phone>
+      <satisfaction>0</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(336.72547555070196, 540.9806222212865)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">复旦大学附属华山医院(分部)</text>
+    <info>
+      <address>江苏路796</address>
+      <phone>021-52353960</phone>
+      <satisfaction>71</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(166.9508266619232, 873.7032533324054)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">复旦大学附属儿科医院</text>
+    <info>
+      <address>万源路379号</address>
+      <phone>021-64931990</phone>
+      <satisfaction>21</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(218.97912888416613, 377.77777777682786)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市普陀区中医医院</text>
+    <info>
+      <address>曹杨路1261号</address>
+      <phone>021-62602922</phone>
+      <satisfaction>18</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(464.44785777312063, 352.24604444351826)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市闸北区中心医院</text>
+    <info>
+      <address>中华新路619号</address>
+      <phone>021-56628584</phone>
+      <satisfaction>20</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(623.7367466619617, 528.6015999990923)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">市二医院中华路门诊部</text>
+    <info>
+      <address>中华路706</address>
+      <satisfaction>60</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(116.4881066619273, 322.25422222127236)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市普陀区利群医院</text>
+    <info>
+      <address>桃浦路910</address>
+      <phone>021-52780030</phone>
+      <satisfaction>9</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(456.9840355508859, 211.1615999991045)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市闸北区彭江医院</text>
+    <info>
+      <address>彭江路51号</address>
+      <phone>021-56771013</phone>
+      <satisfaction>54</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(432.8449422173435, 273.7848888879853)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市闸北区中医医院</text>
+    <info>
+      <address>延长中路288号</address>
+      <phone>021-56035568</phone>
+      <satisfaction>95</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(781.2415999951554, 219.89973333243142)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市杨浦区控江医院</text>
+    <info>
+      <address>双阳路480-1临</address>
+      <phone>021-65433625</phone>
+      <satisfaction>51</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(491.42684443977487, 1901.3532444434986)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市奉贤区古华医院</text>
+    <info>
+      <address>南奉公路9220</address>
+      <phone>021-57411902</phone>
+      <satisfaction>85</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-164.5521066713627, 177.38325333239118)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市嘉定区南翔医院</text>
+    <info>
+      <address>众和路495号</address>
+      <phone>021-31274114</phone>
+      <satisfaction>5</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(691.7485511063205, 335.90755555464966)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市中西医结合医院</text>
+    <info>
+      <address>保定路184</address>
+      <phone>021-65415910</phone>
+      <satisfaction>93</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(664.7331555506753, 1865.900088887929)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市奉贤区中心医院</text>
+    <info>
+      <address>上海市奉贤区</address>
+      <satisfaction>58</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1141.9808711063524, 229.320533332384)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海金高中西医结合医院</text>
+    <info>
+      <address>金高路1115号</address>
+      <phone>021-68682008</phone>
+      <satisfaction>35</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-915.1213511158858, 1990.555022221315)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市第六医院金山分院</text>
+    <info>
+      <address>健康路146号2号楼</address>
+      <phone>021-57317312</phone>
+      <satisfaction>98</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(702.9260799952681, 830.8408888879512)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市东方医院(南院)</text>
+    <info>
+      <address>云台路1800号</address>
+      <phone>021-38804518</phone>
+      <satisfaction>49</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(205.79911110635294, 529.3297777768203)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">龙华中医集团天山中医医院</text>
+    <info>
+      <address>娄山关路868</address>
+      <phone>021-62418056</phone>
+      <satisfaction>73</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(870.8074666617904, 272.3285333323929)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">同济大学医学院附属杨浦医院</text>
+    <info>
+      <address>腾越路450号</address>
+      <phone>021-65690520</phone>
+      <satisfaction>62</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1010.1121422268989, 806.9475555546433)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">复旦大学附属中山医院青浦分院</text>
+    <info>
+      <address>公园东路1158号</address>
+      <phone>021-69719190</phone>
+      <satisfaction>24</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(329.11601777304895, 170.15608888796123)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">复旦大学附属华山医院永和分院</text>
+    <info>
+      <address>交城路100临</address>
+      <phone>021-52353960,021-56505528</phone>
+      <satisfaction>74</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(59.47178666192485, -65.40942222313788)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">复旦大学附属华山医院(北院)</text>
+    <info>
+      <address>陆翔路108号</address>
+      <satisfaction>32</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(332.90254221756186, 742.0942222212943)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市第八人民医院</text>
+    <info>
+      <address>漕宝路8</address>
+      <phone>021-34284588</phone>
+      <satisfaction>2</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(664.3690666620387, 550.765511110194)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市第二人民医院</text>
+    <info>
+      <address>多稼路1号</address>
+      <phone>021-33760126</phone>
+      <satisfaction>68</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1000.3502933286654, -56.907946667570286)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市第七人民医院</text>
+    <info>
+      <address>大同路358号</address>
+      <phone>021-58670561</phone>
+      <satisfaction>17</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(468.27079110644263, 481.9527111102161)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市中医医院门诊部</text>
+    <info>
+      <address>石门一路67弄1号</address>
+      <phone>021-62588203</phone>
+      <satisfaction>14</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(411.83701332847704, 456.51199999906567)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市静安区中心医院</text>
+    <info>
+      <address>西康路259</address>
+      <phone>021-61578000</phone>
+      <satisfaction>62</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(373.7533155506753, 389.0190222212823)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市普陀区人民医院</text>
+    <info>
+      <address>江宁路1291号</address>
+      <phone>021-32274550</phone>
+      <satisfaction>10</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(577.8979555509068, -357.81831111203246)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">宝山区中西医结合医院</text>
+    <info>
+      <address>友谊支路301号</address>
+      <satisfaction>72</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1528.6068622173843, 684.0675555546568)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市浦东新区中医医院</text>
+    <info>
+      <address>绣川路340临</address>
+      <phone>021-58909293</phone>
+      <satisfaction>10</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(290.813866661847, 2444.118755554655)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">金山区中心医院漕泾分院</text>
+    <info>
+      <address>中一东路99号</address>
+      <phone>021-57255886</phone>
+      <satisfaction>49</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(570.36131555069, 417.7820444435383)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">黄浦区中心医院中医门诊部</text>
+    <info>
+      <address>宁波路109</address>
+      <phone>021-63212582</phone>
+      <satisfaction>40</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(903.0293333285954, 366.26346666575955)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">浦东新区中医医院罗山分院</text>
+    <info>
+      <address>万德路49号</address>
+      <phone>021-58219977</phone>
+      <satisfaction>93</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1071.4204444395364, 300.54542222128475)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">浦东新区公利医院金桥门诊部</text>
+    <info>
+      <address>荷泽路582-1临</address>
+      <phone>021-68518686</phone>
+      <satisfaction>82</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-476.46705778242904, -205.656462223169)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">嘉定区中医医院南门中医门诊部</text>
+    <info>
+      <address>南大街6号</address>
+      <phone>021-39921068,021-39921920</phone>
+      <satisfaction>64</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(426.8010666619375, 552.3583999990478)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">复旦大学附属眼耳鼻喉科医院</text>
+    <info>
+      <address>汾阳路83</address>
+      <phone>021-64377134</phone>
+      <satisfaction>4</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-626.9085866715614, 1475.1416888879248)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市松江区中心医院</text>
+    <info>
+      <address>中山中路748号</address>
+      <phone>021-67720001</phone>
+      <satisfaction>96</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(401.67893332854874, 79.45244444349555)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市闸北区市北医院</text>
+    <info>
+      <address>共和新路4500</address>
+      <phone>021-36538899</phone>
+      <satisfaction>23</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-477.7777777824667, 960.319999999092)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市松江区泗泾医院</text>
+    <info>
+      <address>泗通路389号</address>
+      <phone>021-57610546</phone>
+      <satisfaction>6</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1567.9648711062327, 649.4335999990653)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市浦东新区人民医院</text>
+    <info>
+      <address>川环南路490号</address>
+      <phone>021-58981990</phone>
+      <satisfaction>45</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(567.0845155507777, 318.2037333323933)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市第一人民医院分院</text>
+    <info>
+      <address>四川北路1878号</address>
+      <phone>021-56663031</phone>
+      <satisfaction>43</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(513.2721777730694, 361.39377777685695)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市第十人民医院分院</text>
+    <info>
+      <address>虬江路1057-1</address>
+      <satisfaction>16</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(613.94275555067, 711.1011555546156)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海中医药大学附属龙华医院浦东分院</text>
+    <info>
+      <address>上南路1000弄上钢二村45号</address>
+      <phone>021-58835753</phone>
+      <satisfaction>48</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(346.08255999519315, 425.5189333324324)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">长寿医院</text>
+    <info>
+      <address>长寿路505弄3号</address>
+      <phone>021-62997981</phone>
+      <satisfaction>65</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-608.9225955603979, 1328.231822221278)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市第一人民医院南院</text>
+    <info>
+      <address>新松江路650</address>
+      <phone>021-63240090</phone>
+      <satisfaction>4</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(2564.1848888841196, 2026.1902222212939)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市第六人民医院东院</text>
+    <info>
+      <address>环湖西三路222</address>
+      <satisfaction>44</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(626.7586844398465, -216.77937777872103)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市第一人民医院宝山分院</text>
+    <info>
+      <address>牡丹江路216号</address>
+      <phone>021-56567072</phone>
+      <satisfaction>46</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(222.5471999952788, 1479.055644443497)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">复旦大学附属上海市第五人民医院</text>
+    <info>
+      <address>瑞丽路128</address>
+      <phone>021-64308151</phone>
+      <satisfaction>41</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(621.8070755507142, 480.5418666657715)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">黄浦区中西医结合医院中医门诊部</text>
+    <info>
+      <address>方浜中路59</address>
+      <satisfaction>1</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(510.21383110637544, 567.1950222213127)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海交通大学医学院附属瑞金医院分部</text>
+    <info>
+      <address>徐家汇路573号</address>
+      <phone>021-64370045</phone>
+      <satisfaction>84</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-458.7723377824659, -14.07288888981384)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海交通大学医学院附属瑞金医院北院</text>
+    <info>
+      <address>双丁路888号</address>
+      <phone>021-67888999</phone>
+      <satisfaction>35</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(427.96615110655694, 529.9669333323891)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海交通大学医学院附属瑞金医院远洋分院</text>
+    <info>
+      <address>淮海中路1174号</address>
+      <phone>021-64717398</phone>
+      <satisfaction>22</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(2564.1848888841196, 2026.1902222212939)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海交通大学附属第六人民医院东院</text>
+    <info>
+      <address>环湖西三路222</address>
+      <satisfaction>93</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(339.23768888416816, 503.5249777768513)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海交通大学医学院附属仁济医院长宁分院</text>
+    <info>
+      <address>愚园路786</address>
+      <phone>021-62524259</phone>
+      <satisfaction>92</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(475.73461332867737, 458.104888887965)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海中医药大学附属岳阳中西医结合医院门诊部</text>
+    <info>
+      <address>青海路44号</address>
+      <phone>021-62536300</phone>
+      <satisfaction>81</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(780.5862399953185, 633.2316444435037)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海交通大学医学院附属第九人民医院浦东分院</text>
+    <info>
+      <address>严镇路166号</address>
+      <phone>021-58702208</phone>
+      <satisfaction>6</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(341.9683555506708, 901.5651555545901)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">大华医院-急诊</text>
+    <info>
+      <address>老沪闵路903号大华医院</address>
+      <satisfaction>22</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(740.9005511064606, 468.16284444353187)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">长航医院-急诊</text>
+    <info>
+      <address>崂山路523号长航医院</address>
+      <satisfaction>30</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(599.7432888842013, 238.46826666576817)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">曲阳医院-急诊</text>
+    <info>
+      <address>玉田路333号曲阳医院2号楼</address>
+      <satisfaction>67</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(484.72760888435005, 540.0703999990583)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">瑞金医院-急救</text>
+    <info>
+      <address>瑞金二路197号瑞金医院内</address>
+      <satisfaction>57</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(586.6724977729973, 192.09244444350588)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">岳阳医院-急诊</text>
+    <info>
+      <address>甘河路110号岳阳医院6号楼</address>
+      <satisfaction>31</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(323.8367288840891, 294.993066665711)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">同济医院-急诊</text>
+    <info>
+      <address>新村路389号上海市同济医院内</address>
+      <satisfaction>25</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(321.97987555082364, 293.40017777685716)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">同济医院西门</text>
+    <info>
+      <address>志丹路318号</address>
+      <phone>021-56051080</phone>
+      <satisfaction>15</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(973.2620799952201, 382.10133333241174)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">金杨地段医院</text>
+    <info>
+      <address>金杨路121</address>
+      <phone>021-50754611</phone>
+      <satisfaction>40</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1029.2953599951943, 346.6936888879445)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">金杨地段医院</text>
+    <info>
+      <address>金桥路1240号</address>
+      <phone>021-58991562</phone>
+      <satisfaction>35</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(587.0729955508068, 194.04942222131467)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">岳阳医院南门</text>
+    <info>
+      <address>上海市虹口区</address>
+      <satisfaction>39</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(10.756693328585243, 556.9823288879888)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">神州医院-急诊</text>
+    <info>
+      <address>仙霞西路601</address>
+      <satisfaction>33</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(484.9460622175684, 541.2991999990936)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">瑞金医院-急诊</text>
+    <info>
+      <address>瑞金二路197号</address>
+      <phone>021-64370045</phone>
+      <satisfaction>70</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(481.0503111064463, 398.53084444348497)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">北站医院-急诊</text>
+    <info>
+      <address>南星路29号</address>
+      <phone>021-63549199</phone>
+      <satisfaction>93</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(759.7239466618703, 99.20426666571984)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海长海医院-急诊</text>
+    <info>
+      <address>长海路168号上海长海医院内</address>
+      <satisfaction>46</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(565.810204439731, 212.66346666570826)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海建工医院-急诊</text>
+    <info>
+      <address>中山北一路666号上海建工医院2号楼</address>
+      <satisfaction>28</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(501.0387911064754, 548.5354666657258)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">瑞金医院后门</text>
+    <info>
+      <address>思南路72</address>
+      <phone>021-64370045</phone>
+      <satisfaction>51</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(368.07352888408786, 510.67022222132437)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华东医院急诊</text>
+    <info>
+      <address>延安西路257</address>
+      <phone>021-62483180</phone>
+      <satisfaction>50</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(423.23299555064295, 105.14801777685534)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">彭浦地段医院</text>
+    <info>
+      <address>平顺路15号</address>
+      <phone>021-56911113</phone>
+      <satisfaction>27</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1087.258311106416, 243.29244444352298)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">浦兴地段医院</text>
+    <info>
+      <address>归昌路250</address>
+      <phone>021-68712195</phone>
+      <satisfaction>37</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(847.9062755508494, 408.4067555546426)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">公利医院西门</text>
+    <info>
+      <address>巨野路207号</address>
+      <phone>021-58858730</phone>
+      <satisfaction>44</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(113.72103110643366, 319.5235555546333)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">利群医院西门</text>
+    <info>
+      <address>上海市普陀区</address>
+      <satisfaction>55</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-48.88106667131069, -369.1960888897938)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">罗店医院南门</text>
+    <info>
+      <address>上海市宝山区</address>
+      <phone>021-56861995</phone>
+      <satisfaction>84</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-48.516977782674076, -370.106311112022)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">罗店医院-急诊</text>
+    <info>
+      <address>罗溪路121号</address>
+      <satisfaction>40</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-219.96643556030904, 179.15818666574523)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">南翔医院-急诊</text>
+    <info>
+      <address>民主街144号</address>
+      <satisfaction>53</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-205.18442667143972, 2034.382222221302)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">亭林医院-急诊</text>
+    <info>
+      <address>亭林镇寺平北路80号</address>
+      <satisfaction>97</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(492.1186133286028, 1315.8527999990838)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">吴泾医院-急诊</text>
+    <info>
+      <address>剑川路155号</address>
+      <phone>021-64502371</phone>
+      <satisfaction>54</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(333.37585777298955, -370.1973333342721)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">中冶医院-急诊</text>
+    <info>
+      <address>春雷路456号</address>
+      <satisfaction>73</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-386.3914666713754, 995.3635555546043)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">泗泾医院-急诊</text>
+    <info>
+      <address>江川北路108号</address>
+      <satisfaction>31</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1024.1617066618346, 960.456533332399)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">周浦医院-急诊</text>
+    <info>
+      <address>关岳路135</address>
+      <satisfaction>56</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(374.55431110629434, 1097.262933332422)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">同康医院-急诊</text>
+    <info>
+      <address>双柏路888号</address>
+      <phone>021-62207919</phone>
+      <satisfaction>30</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(44.47132443965529, 363.6238222212796)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">沪西医院-急诊</text>
+    <info>
+      <address>曹安公路1583号</address>
+      <phone>021-69196666</phone>
+      <satisfaction>73</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(569.4875022176348, 207.83928888795344)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海建工医院北门</text>
+    <info>
+      <address>中山北二路2199号</address>
+      <phone>021-65366688</phone>
+      <satisfaction>8</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(189.66997332863684, 608.5646222212745)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">民航上海医院南门</text>
+    <info>
+      <address>红宝石路388</address>
+      <satisfaction>1</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(492.00938666181173, 454.8280888879617)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海长征医院南门</text>
+    <info>
+      <address>凤阳路415号</address>
+      <phone>021-81886999</phone>
+      <satisfaction>47</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(490.0068977729461, 449.0026666657286)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海长征医院西门</text>
+    <info>
+      <address>凤阳路415号</address>
+      <phone>021-81886999</phone>
+      <satisfaction>26</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(428.0389688839932, 512.9457777768494)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海邮电医院-急诊</text>
+    <info>
+      <address>长乐路666-2</address>
+      <phone>021-54047060</phone>
+      <satisfaction>20</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(328.8611555506577, 532.6975999990736)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海电力医院-急诊</text>
+    <info>
+      <address>延安西路937</address>
+      <phone>021-62512188</phone>
+      <satisfaction>26</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(583.5777422174942, 214.8935111101764)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">赤峰医院门诊部</text>
+    <info>
+      <address>东体育会路860-3临</address>
+      <phone>021-65367559</phone>
+      <satisfaction>58</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(512.8352711064508, 562.2798222213078)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海泰坤堂中医医院</text>
+    <info>
+      <address>斜徐路553</address>
+      <phone>021-63019191</phone>
+      <satisfaction>34</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(76.54755555086012, 1009.7905777768119)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">瑞金医院集团闵行医院东门</text>
+    <info>
+      <address>莘东路285</address>
+      <phone>021-64923400</phone>
+      <satisfaction>83</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(496.4876799951526, 540.5255111101724)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">瑞金医院-九舍急诊</text>
+    <info>
+      <address>瑞金二路197瑞金医院</address>
+      <satisfaction>42</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1834.2594844396444, 1295.3272888879837)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">光明中医医院-急诊</text>
+    <info>
+      <address>东门大街339号光明中医医院</address>
+      <satisfaction>61</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(87.97994666201703, 698.9951999990808)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">闵行区中医医院-急诊</text>
+    <info>
+      <address>合川路3071号上海市闵行区中医医院</address>
+      <satisfaction>47</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(497.7619911063812, 336.09870222130667)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">宝山地段医院</text>
+    <info>
+      <address>天通庵路51号</address>
+      <phone>021-56629856</phone>
+      <satisfaction>58</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(988.1169066618895, 975.7937777768348)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海康沈医院</text>
+    <info>
+      <address>康沈路1628</address>
+      <phone>021-58115599</phone>
+      <satisfaction>51</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(438.92522666174045, 68.0928711101842)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">市北医院西门</text>
+    <info>
+      <address>岭南路620</address>
+      <phone>021-56426340</phone>
+      <satisfaction>31</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(360.3548444398257, 608.1186133324081)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">漕北地段医院</text>
+    <info>
+      <address>天平路252弄3</address>
+      <satisfaction>64</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(612.2315377730047, 383.2391111101515)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海金典医院</text>
+    <info>
+      <address>塘沽路29号</address>
+      <phone>021-63937999</phone>
+      <satisfaction>14</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(371.2046933287638, 391.29457777685275)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">普陀区医院南门</text>
+    <info>
+      <address>普陀路200</address>
+      <phone>021-32274550</phone>
+      <satisfaction>26</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(341.05813332844264, 503.0698666657372)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">同仁医院-急诊</text>
+    <info>
+      <address>愚园路786-1</address>
+      <satisfaction>13</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(683.5929599952578, 699.4047999990471)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">周家渡地段医院</text>
+    <info>
+      <address>昌里东路239边门</address>
+      <phone>021-38830313</phone>
+      <satisfaction>44</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(836.3646577729014, 183.80942222129306)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">安图医院-急诊</text>
+    <info>
+      <address>延吉东路200号</address>
+      <satisfaction>30</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(593.5537777731952, 194.68657777683802)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">岳阳医院3号门</text>
+    <info>
+      <address>东体育会路1060</address>
+      <phone>021-65161782</phone>
+      <satisfaction>19</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(726.6282666618281, 262.7256888879856)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">新华医院东北门</text>
+    <info>
+      <address>上海市杨浦区</address>
+      <satisfaction>88</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(236.56462221752008, -1957.8979555564729)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">长征农场职工医院</text>
+    <info>
+      <address>上海市崇明县</address>
+      <satisfaction>26</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1721.6831999950955, 1245.6746666657182)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">南汇中心医院南门</text>
+    <info>
+      <address>拱为路2800</address>
+      <phone>021-58022995</phone>
+      <satisfaction>89</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(681.2263822173918, 610.2030222212761)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">浦南医院西院西门</text>
+    <info>
+      <address>南码头路247临</address>
+      <phone>021-51353399</phone>
+      <satisfaction>85</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1711.379484439749, 1231.748266665727)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">南汇中心医院北门</text>
+    <info>
+      <address>拱为路2800</address>
+      <phone>021-58022995</phone>
+      <satisfaction>79</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1007.0859377728993, 275.0136888879297)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海沪东医院急诊</text>
+    <info>
+      <address>沪东路238</address>
+      <satisfaction>0</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(548.9528888840141, 494.01315555460314)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">曙光医院发热门诊</text>
+    <info>
+      <address>崇德路2弄1～15号附近</address>
+      <satisfaction>33</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(626.358186662037, 364.5340444435078)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海海员医院西门</text>
+    <info>
+      <address>商丘路250号</address>
+      <satisfaction>55</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(683.4473244396577, 608.8831999990816)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">浦南医院西院-急诊</text>
+    <info>
+      <address>浦东南路2400号</address>
+      <satisfaction>72</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-393.38197333800053, 434.9852444434873)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海华泰医院-急诊</text>
+    <info>
+      <address>纪翟路1688号</address>
+      <satisfaction>49</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1714.401422217452, 1236.8455111101866)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">南汇中心医院-急诊</text>
+    <info>
+      <address>拱为路2800</address>
+      <satisfaction>91</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(485.52860443960526, 542.0728888879694)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">瑞金医院-儿科急诊</text>
+    <info>
+      <address>瑞金二路197号</address>
+      <phone>021-64370045</phone>
+      <satisfaction>82</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(637.2444444397843, 753.289955554601)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海杨思医院-急诊</text>
+    <info>
+      <address>杨新东路28号</address>
+      <satisfaction>38</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(65.77052443972207, 1019.6209777768672)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">闵行区中心医院南门</text>
+    <info>
+      <address>上海市闵行区</address>
+      <satisfaction>15</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(286.5904355508974, 1513.2344888879743)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海沪闵医院-急诊</text>
+    <info>
+      <address>建设路40</address>
+      <phone>021-64355529</phone>
+      <satisfaction>82</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(772.3578311062738, 658.581333332404)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海申东医院-急诊</text>
+    <info>
+      <address>严桥路306号</address>
+      <phone>021-58759999</phone>
+      <satisfaction>60</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(489.78844443972775, 1316.4444444435048)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">闵行区吴泾医院北门</text>
+    <info>
+      <address>剑川路159</address>
+      <satisfaction>18</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1455.7890844394933, 319.5235555546333)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海尚德医院-急诊</text>
+    <info>
+      <address>川沙路1295号</address>
+      <phone>021-50681999</phone>
+      <satisfaction>32</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(542.108017773171, 493.8766222212962)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">曙光医院名医诊疗中心</text>
+    <info>
+      <address>普安路189</address>
+      <phone>021-53821650</phone>
+      <satisfaction>74</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(75.63733332863194, 1010.3822222212784)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">闵行区中心医院-急诊</text>
+    <info>
+      <address>莘东路285</address>
+      <satisfaction>68</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(689.1999288840452, 624.311466665722)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">浦南医院(东院)北门</text>
+    <info>
+      <address>临沂路219</address>
+      <phone>021-58892700</phone>
+      <satisfaction>87</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(514.4372622176888, 509.0318222213227)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">瑞金医院卢湾分院北门</text>
+    <info>
+      <address>兴业路243</address>
+      <satisfaction>15</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(512.2163199952411, 513.628444443475)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">瑞金医院卢湾分院-急诊</text>
+    <info>
+      <address>重庆南路149</address>
+      <satisfaction>50</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(375.5737599951317, 735.4040888879808)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海远大心胸医院-急诊</text>
+    <info>
+      <address>龙漕路218号</address>
+      <satisfaction>5</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(871.1715555507908, 370.45048888794554)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海国医馆</text>
+    <info>
+      <address>浦东大道2188-2</address>
+      <phone>021-61623022</phone>
+      <satisfaction>39</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1717.2049066619365, 1228.2894222213145)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">南汇精神卫生中心</text>
+    <info>
+      <address>大川公路拱乐路交界处向东1500米</address>
+      <phone>021-68036130</phone>
+      <satisfaction>73</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(320.30506666196743, 291.44319999909385)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">普陀区精神卫生中心</text>
+    <info>
+      <address>志丹路211</address>
+      <phone>021-56053041</phone>
+      <satisfaction>53</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(300.4622222173566, 189.3617777768668)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">闸北区精神卫生中心</text>
+    <info>
+      <address>平遥路80</address>
+      <phone>021-66510225</phone>
+      <satisfaction>46</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-820.0577422268907, 1652.9080888879434)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">松江区精神卫生中心</text>
+    <info>
+      <address>塔汇路209</address>
+      <phone>021-57842941</phone>
+      <satisfaction>81</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(811.9342933287044, 1415.8862222212974)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">闵行区精神卫生中心</text>
+    <info>
+      <address>闸航路2500</address>
+      <phone>021-54840696</phone>
+      <satisfaction>92</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(399.676444439865, 718.0188444434862)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">徐汇区精神卫生中心</text>
+    <info>
+      <address>龙华西路249</address>
+      <phone>021-64560088</phone>
+      <satisfaction>14</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(518.0053333284377, 603.0850844435008)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">卢湾区精神卫生中心</text>
+    <info>
+      <address>瞿溪路1162</address>
+      <phone>021-53010724</phone>
+      <satisfaction>34</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-966.0209777825003, -71.23484444537098)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">嘉定区精神卫生中心</text>
+    <info>
+      <address>望安路701号</address>
+      <phone>021-59935000</phone>
+      <satisfaction>58</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(575.9318755508502, -358.0458666675895)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">宝山区精神卫生中心</text>
+    <info>
+      <address>友谊支路312</address>
+      <phone>021-36071593</phone>
+      <satisfaction>92</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1161.5367111158776, 811.544177776841)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">青浦区精神卫生中心</text>
+    <info>
+      <address>淀湖路10</address>
+      <phone>021-59207462</phone>
+      <satisfaction>31</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-19.936000004781818, 537.6127999990786)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">长宁区精神卫生中心</text>
+    <info>
+      <address>协和路299号</address>
+      <phone>021-52192911</phone>
+      <satisfaction>23</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(536.0277333285921, 291.30666666574143)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">虹口区精神卫生中心</text>
+    <info>
+      <address>同心路159</address>
+      <phone>021-56662531</phone>
+      <satisfaction>64</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(507.55598221730907, 429.38737777685674)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">黄浦区精神卫生中心</text>
+    <info>
+      <address>北京西路130</address>
+      <phone>021-63277700</phone>
+      <satisfaction>62</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(877.1062044397695, 221.99324444350168)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">杨浦区精神卫生中心</text>
+    <info>
+      <address>周家嘴路4214弄16</address>
+      <phone>021-65691919</phone>
+      <satisfaction>74</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-492.6690133379452, 2538.5087999990446)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">金山区精神卫生中心</text>
+    <info>
+      <address>金石南路1949</address>
+      <phone>021-57930999</phone>
+      <satisfaction>83</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(371.3503288841821, 454.05439999908594)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">静安区精神卫生中心</text>
+    <info>
+      <address>康定路834</address>
+      <phone>021-62584019</phone>
+      <satisfaction>86</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(107.53151999524562, -1332.2112000009383)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">崇明县精神卫生中心</text>
+    <info>
+      <address>三沙洪路19</address>
+      <phone>021-59623917</phone>
+      <satisfaction>48</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(764.4206933286114, 2286.9233777768386)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">奉贤区精神卫生中心</text>
+    <info>
+      <address>奉炮公路87号</address>
+      <satisfaction>5</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(618.1297777729924, 882.9511111101965)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">浦东新区精神卫生中心</text>
+    <info>
+      <address>三林路165</address>
+      <phone>021-58318875</phone>
+      <satisfaction>51</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-142.70677333806816, 743.8236444435006)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海民政第一精神卫生中心</text>
+    <info>
+      <address>中春路9999号</address>
+      <phone>021-64201320</phone>
+      <satisfaction>91</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(483.48970666174864, 553.9057777768448)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市中医文献馆中医门诊部</text>
+    <info>
+      <address>瑞金二路156</address>
+      <phone>021-64371505</phone>
+      <satisfaction>50</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(798.8999111064913, 457.42222222129385)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市浦东新区精神卫生中心</text>
+    <info>
+      <address>源深路624</address>
+      <phone>021-58318875</phone>
+      <satisfaction>58</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(441.2189866619883, 103.07271111018963)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市民政第三精神卫生中心</text>
+    <info>
+      <address>闻喜路590号</address>
+      <phone>021-66974610</phone>
+      <satisfaction>38</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1187.8560711063983, -946.6410666675984)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">堡镇人民医院-急诊</text>
+    <info>
+      <address>堡镇中路223号堡镇人民医院</address>
+      <satisfaction>46</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(754.954382217511, 99.20426666571984)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">长海医院-生殖医学中心</text>
+    <info>
+      <address>长海路168号上海长海医院门诊5层</address>
+      <phone>021-65561133</phone>
+      <satisfaction>84</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(815.2839111064168, 317.2479999990628)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">杨浦区复兴医院-急诊</text>
+    <info>
+      <address>杭州路349号上海市第一康复医院9号楼</address>
+      <satisfaction>4</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-44.51200000494282, -371.24408888980724)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">罗店医院东门</text>
+    <info>
+      <address>永顺路88</address>
+      <phone>021-56861995</phone>
+      <satisfaction>98</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-36.32000000488915, 338.9112888879936)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">安国医院-急诊</text>
+    <info>
+      <address>曹安公路1991号</address>
+      <satisfaction>58</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1067.6703288840145, 1301.8444799990448)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">周浦医院航头分院</text>
+    <info>
+      <address>沪南公路</address>
+      <satisfaction>50</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(67.26328888398712, 632.0028444435138)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海申德医院东门</text>
+    <info>
+      <address>虹桥路2281边门</address>
+      <satisfaction>26</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(626.9407288840739, 1135.62879999904)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">仁济医院南院西门</text>
+    <info>
+      <address>上海市闵行区</address>
+      <satisfaction>53</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(633.3486933286622, 1130.349511110171)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">仁济医院南院北门</text>
+    <info>
+      <address>上海市闵行区</address>
+      <satisfaction>73</satisfaction>
+    </info>
+  </g>
+  <g class="entity" transform="translate(639.9387022174778, -237.12284444536635)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/hos"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海海淞医院西门</text>
+    <info>
+      <address>上海市宝山区</address>
+      <satisfaction>39</satisfaction>
+    </info>
+  </g>
+</g>

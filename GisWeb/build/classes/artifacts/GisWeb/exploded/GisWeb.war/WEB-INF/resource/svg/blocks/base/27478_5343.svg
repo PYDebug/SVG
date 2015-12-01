@@ -1,0 +1,17 @@
+<svg width="256" height="256" xmlns="http://www.w3.org/2000/svg"><script> 
+var tempColor;
+function hoverPath(evt){
+obj = evt.target;
+tempColor = obj.getAttribute("fill");
+obj.setAttribute("fill","red");
+//alert(tempColor);
+//obj.setAttribute("stroke","red");}
+function recoverPath(evt){
+obj = evt.target;
+obj.setAttribute("fill", tempColor);
+//obj.setAttribute("stroke", tempColor);
+}</script><path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(244,243,236)" d="M  0,1l 0,39 29,0 1,1 43,0 1,1 44,0 1,1 44,0 1,1 43,0 1,1 44,0 1,1 2,0 0,-46 -254,0 -1,1Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(244,243,236)" d="M  0,46l 0,77 16,0 1,-1 39,0 1,-1 40,0 1,-1 30,0 1,-1 9,0 1,-1 9,0 1,-1 9,0 1,-1 8,0 1,-1 9,0 1,-1 9,0 1,-1 9,0 1,-1 9,0 1,-1 9,0 1,-1 9,0 1,-1 8,0 1,-1 9,0 1,-1 8,0 0,-57 -10,0 -1,-1 -43,0 -1,-1 -44,0 -1,-1 -44,0 -1,-1 -44,0 -1,-1 -43,0 -1,-1 -21,0Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(171,198,238)" d="M  0,126l 0,129 255,0 0,-146 -7,0 -1,1 -9,0 -1,1 -8,0 -1,1 -9,0 -1,1 -9,0 -1,1 -9,0 -1,1 -9,0 -1,1 -9,0 -1,1 -9,0 -1,1 -8,0 -1,1 -9,0 -1,1 -9,0 -1,1 -9,0 -1,1 -30,0 -1,1 -40,0 -1,1 -39,0 -1,1 -16,0 -1,1Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(254,254,254)" d="M  207,47l 0,0 -1,-1 -43,0 -1,-1 -44,0 -1,-1 -44,0 -1,-1 -43,0 -1,-1 -28,0 23,1 5,0 39,1 5,0 40,1 5,0 40,1 5,0 40,1 43,0 1,1 9,0 -4,-1Z"/>
+</svg>

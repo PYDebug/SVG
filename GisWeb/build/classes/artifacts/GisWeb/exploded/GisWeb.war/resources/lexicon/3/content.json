@@ -1,0 +1,30 @@
+﻿[
+
+			{
+			"attr":"星级",
+			"operator":
+			[
+				{
+					"name":"大于",
+					"operand":"Num",
+					"unit":"星",
+					"ModeID":"13"
+				},
+				{
+					"name":"小于",
+					"operand":"Num",
+					"unit":"星",
+					"ModeID":"14"
+				},
+				{
+					"name":"等于",
+					"operand":"Num",
+					"unit":"星",
+					"ModeID":"15"
+				}
+			
+			]
+			}
+			]
+			
+			

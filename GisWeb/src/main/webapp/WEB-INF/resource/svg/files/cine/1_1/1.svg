@@ -1,0 +1,1942 @@
+<g>
+  <g class="entity" transform="translate(369.45706666174374, 609.3838222212526)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">衡山电影院</text>
+    <info>
+      <address>衡山路838</address>
+      <phone>021-64377418</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(211.33326221734023, 421.04974222129385)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">曹杨影城</text>
+    <info>
+      <address>兰溪路125</address>
+      <phone>021-52668755</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(458.03989332853234, 535.4009599990604)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海电影院</text>
+    <info>
+      <address>复兴中路1186</address>
+      <phone>021-64738554</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-566.9795555601013, 1474.0494222212874)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">人民电影院</text>
+    <info>
+      <address>中山中路150号</address>
+      <phone>021-57812018</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(305.1953777729068, 462.33742222129877)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">沪西电影院</text>
+    <info>
+      <address>万航渡后路19</address>
+      <phone>021-62112976</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(547.8606222175586, 451.0415644434943)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">浙江电影院</text>
+    <info>
+      <address>浙江中路123号</address>
+      <phone>021-63226008</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(713.1569777729965, 425.15484444352296)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">东昌电影院</text>
+    <info>
+      <address>南泉北路150</address>
+      <phone>15221412545</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(707.6228266620092, 476.30933333239227)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">兰馨电影院</text>
+    <info>
+      <address>张杨路400号</address>
+      <phone>021-58827611</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-339.6788622269014, 2403.158755554614)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">张堰电影院</text>
+    <info>
+      <address>花贤路23</address>
+      <phone>021-57213210</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(450.79452443951595, 286.0364799990748)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">沪北电影院</text>
+    <info>
+      <address>洛川东路500号</address>
+      <phone>021-56980611</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1125.5283200049234, 810.8524088879676)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">青溪电影院</text>
+    <info>
+      <address>青浦区少年宫旁</address>
+      <phone>021-69203744</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-712.8699733380927, 1280.4451555546166)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">天鑫电影院</text>
+    <info>
+      <address>文汇路818号</address>
+      <phone>021-67799028</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(209.731271106466, -541.8197333342505)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">盛桥电影院</text>
+    <info>
+      <address>古莲路192</address>
+      <phone>021-56150284</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(745.1603911064012, 338.58360888798416)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">沪东电影院</text>
+    <info>
+      <address>平凉路525</address>
+      <phone>021-65418239</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-389.5954488938514, 993.5431111101934)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">泗泾电影院</text>
+    <info>
+      <address>泗泾江川北路135</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(177.9463111064615, 1188.8950044435205)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">颛桥电影院</text>
+    <info>
+      <address>颛建路53临</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(471.3291377731366, 616.1649777768616)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">日晖电影院</text>
+    <info>
+      <address>大木桥路461号</address>
+      <phone>021-64047744</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(445.8793244395565, -33.6426666675834)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">泗塘电影院</text>
+    <info>
+      <address>虎林路501</address>
+      <phone>021-56752544</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(431.4249955506966, 1889.5294577768254)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">南桥电影院</text>
+    <info>
+      <address>南桥路333号</address>
+      <phone>021-57412136</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-90.02311111598829, 1103.998577776838)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">大光明电影院</text>
+    <info>
+      <address>新南路989弄绿地金御广场4层</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-673.0386488938166, 1288.3640888879654)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">天骄数字电影院</text>
+    <info>
+      <address>龙腾路58弄32</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(463.17354666189203, 514.9482666657605)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">国泰电影院</text>
+    <info>
+      <address>淮海中路870号</address>
+      <phone>021-54040415,021-54042095</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(508.42979555091006, 446.2628977768418)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">大光明电影院</text>
+    <info>
+      <address>南京西路216号</address>
+      <phone>021-63274260</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(644.0164977730092, 252.57671111016862)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">四平电影院</text>
+    <info>
+      <address>四平路901号</address>
+      <phone>021-65543245</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(201.10236443979375, 544.6670222213015)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">天山电影院</text>
+    <info>
+      <address>天山路888号</address>
+      <phone>021-62598717</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1801.4550755508026, 1283.4488888879605)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">东方电影院</text>
+    <info>
+      <address>人民西路2号</address>
+      <phone>021-58022472</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-24.268657782522496, 814.6389333323896)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">5D电影院</text>
+    <info>
+      <address>上海市闵行区</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(808.8031288840284, 275.6508444434985)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">红树林电影院</text>
+    <info>
+      <address>长阳路1750号欧尚超市长阳店3层</address>
+      <phone>021-65011299</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(522.2651733285602, 432.70968888796233)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">世纪大上海电影院</text>
+    <info>
+      <address>西藏中路500号第一百货商店新楼8楼</address>
+      <phone>021-63616078,021-63611758</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(296.49365332843445, 722.5972622212794)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海联和电影院线</text>
+    <info>
+      <address>田林东路588号</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1089.7341155508911, 635.0065777768577)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">复旦大学张江校区数字电影院</text>
+    <info>
+      <address>上海市浦东新区</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(350.4152177731157, 894.7748977768242)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">西南影城</text>
+    <info>
+      <address>罗香路237</address>
+      <phone>021-54416166</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(773.8505955507208, 289.3769955546304)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">海运影都</text>
+    <info>
+      <address>长阳路1427号</address>
+      <phone>021-65702571</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(545.6396799952927, 366.2270577768595)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">永泰影都</text>
+    <info>
+      <address>东新民路115号</address>
+      <phone>021-63241852</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(529.9474488841952, 447.1276088879222)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">和平影都</text>
+    <info>
+      <address>西藏中路290号</address>
+      <phone>021-63225252</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(319.39484443973924, 586.2823822212704)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海影城</text>
+    <info>
+      <address>新华路160号</address>
+      <phone>021-62806088,021-62810413</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(352.78179555079987, 417.68191999908595)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">星光影城</text>
+    <info>
+      <address>长寿路401号4楼</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1105.5398400045306, 836.3204266657249)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">永乐影城</text>
+    <info>
+      <address>青松路37号</address>
+      <phone>021-59733368</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-172.99896889380761, 418.78328888797114)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">万达影城</text>
+    <info>
+      <address>金沙江西路1075弄49号万达广场3层</address>
+      <phone>021-31275666</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(188.94179555081791, 487.1409777768349)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">动感影院</text>
+    <info>
+      <address>上海市普陀区</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1172.4229688936248, 894.9660444435267)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">青浦影城</text>
+    <info>
+      <address>沪青平公路5669弄(金域广场)63栋22号</address>
+      <phone>021-39270000</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-197.02883556037705, 1223.4197333324119)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">5D风暴</text>
+    <info>
+      <address>新南街350弄14</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(398.839039995255, 30.61902222129902)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">万达影城</text>
+    <info>
+      <address>一二八纪念路968号上海宝山万达广场5楼</address>
+      <phone>021-31150880</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(827.4808888840198, 514.1290666657369)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">球幕影院</text>
+    <info>
+      <address>世纪大道2000号B楼</address>
+      <phone>021-68542000</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(491.8273422175844, 558.4568888879403)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">尤根空间</text>
+    <info>
+      <address>建国中路169号TAIKANG TERRACE2层206</address>
+      <phone>021-54071398</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(115.28661332849879, 74.62826666574074)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">5D动感</text>
+    <info>
+      <address>上海市宝山区</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-691.643591115826, 1461.2607999990814)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">大地影院</text>
+    <info>
+      <address>玉树路2575上海飞航广场2层</address>
+      <phone>021-67655770</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-676.0241777825286, 1320.085333332372)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">云豹影城</text>
+    <info>
+      <address>上海市松江区</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(676.3475911064234, 125.46417777684837)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">午后时光</text>
+    <info>
+      <address>大学路272号302室</address>
+      <phone>15000777190</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-416.61084444913286, 20.515555554629827)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">美亚影城</text>
+    <info>
+      <address>宝安公路3718号永润星辰休闲广场3层</address>
+      <phone>021-31118585</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(196.40561777305265, 901.6561777768402)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">万幕电影</text>
+    <info>
+      <address>沪闵路7866号莲花国际广场3层</address>
+      <phone>021-64808007</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(659.5630933286884, 1074.5528888879562)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">太禾影城</text>
+    <info>
+      <address>陈行公路2688号OMALL华侨城商业中心4层</address>
+      <phone>021-80101648</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(543.1274666620084, 443.35928888795024)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">蜗居时代</text>
+    <info>
+      <address>广西北路248号百米香榭商业街3层303室</address>
+      <phone>021-53520301</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(736.2038044397195, 467.52568888796304)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">壹家影吧</text>
+    <info>
+      <address>张杨路628弄3-临东明广场3号楼16层B座</address>
+      <phone>13761922604</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(356.0950044397032, 314.4718222213214)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">新上海影都</text>
+    <info>
+      <address>宜川路300号</address>
+      <phone>021-56617260</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(532.3140266618793, 429.0232888879473)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">新光影艺苑</text>
+    <info>
+      <address>宁波路586</address>
+      <phone>021-63511055</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(270.97102221741807, 877.6263111101798)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">梅文电影厅</text>
+    <info>
+      <address>梅陇路415号2层</address>
+      <phone>021-64542461</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-80.41116444928775, 754.4277333323862)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">大光明影城</text>
+    <info>
+      <address>七莘路3655号凯德七宝购物广场3楼</address>
+      <phone>021-64932228</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-878.7852800049222, 1978.0849777768253)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">大光明影城</text>
+    <info>
+      <address>人民路160弄12号5层</address>
+      <phone>021-37210858</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(520.2626844396946, 433.8929777768499)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">新世界影城</text>
+    <info>
+      <address>西藏中路399号新世界城12层</address>
+      <phone>021-63596048</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(653.7012622173279, 434.3935999990663)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">百丽宫影城</text>
+    <info>
+      <address>世纪大道8号上海国金中心商场地下1层</address>
+      <phone>021-31267833</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(440.12671999516897, 463.9485155546481)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">环艺电影城</text>
+    <info>
+      <address>南京西路1038号梅龙镇广场10楼</address>
+      <phone>021-62187109</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-643.1469511158866, 1330.7258311102032)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">地中海影城</text>
+    <info>
+      <address>新松江路927弄开元地中海广场</address>
+      <phone>021-37793999</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(350.9977599951526, 623.6105955546464)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">永华电影城</text>
+    <info>
+      <address>虹桥路1号港汇恒隆广场6楼</address>
+      <phone>021-64076622</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-87.25603556031274, 2813.2775822212807)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">新滨海影院</text>
+    <info>
+      <address>新城路318号</address>
+      <phone>021-57932960</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(259.3201777730428, 711.4197333324228)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">微空间影吧</text>
+    <info>
+      <address>宜山路706-9号新宜街3楼</address>
+      <phone>021-64838877</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(722.1135644396782, 463.20213333242464)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">大光明影城</text>
+    <info>
+      <address>南泉北路528号新大陆广场(北楼)4层</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(71.26826666190027, 268.14151111016145)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">横店电影城</text>
+    <info>
+      <address>真南路1228号康健商务广场3层</address>
+      <phone>021-66971119</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(642.8150044395807, -224.47075555646734)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">横店影视城</text>
+    <info>
+      <address>淞宝路155弄71号星月国际商务广场C1座</address>
+      <phone>021-36500127</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-623.0856533380575, 196.87111111020386)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">横店电影城</text>
+    <info>
+      <address>嘉松北路6130弄嘉实生活广场3层</address>
+      <phone>021-59557951</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(543.1274666620084, 443.35928888795024)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">甜甜之方糖</text>
+    <info>
+      <address>广西北路248号百米香榭商业街2层259室</address>
+      <phone>021-53520301</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(912.2407822174864, 474.16120888797195)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">影酷数字影院</text>
+    <info>
+      <address>芳甸路199弄大拇指广场33号2～3楼</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(520.2262755508855, 438.74446222130246)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">新世界电影城</text>
+    <info>
+      <address>南京西路2～68号新世界城12楼</address>
+      <phone>021-63596810</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(365.96181332843116, 627.9523555546348)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">柯达电影世界</text>
+    <info>
+      <address>肇嘉浜路1111号美罗城5楼</address>
+      <phone>021-64268181</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-568.9456355603397, 1485.3088711101464)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">左岸国际影城</text>
+    <info>
+      <address>松汇中路568号鹿都沃尔玛广场4楼</address>
+      <phone>021-57826399</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-479.1249066713135, 1458.4846222212946)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">星美国际影城</text>
+    <info>
+      <address>环城路515～555号玩库3楼</address>
+      <phone>021-37770608</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1545.282133328692, 671.005866665746)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">中影国际影城</text>
+    <info>
+      <address>川沙路5558号绿地东海岸国际广场6号楼3层</address>
+      <phone>021-38683900</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(641.2494222175155, 427.88551111016204)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">星美国际影城</text>
+    <info>
+      <address>陆家嘴西路168号正大广场8楼</address>
+      <phone>021-50495055</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(182.53383110622963, 910.2304711101624)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">世纪友谊影城</text>
+    <info>
+      <address>沪闵路7250号9楼</address>
+      <phone>021-64120260</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(541.998791106198, 484.8199111102076)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">万裕国际影城</text>
+    <info>
+      <address>淮海中路99号大上海时代广场6楼</address>
+      <phone>021-63910755</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1807.3169066617993, 1317.1544177768737)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">大地数字影院</text>
+    <info>
+      <address>城南路469号5层</address>
+      <phone>021-58012413</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(241.9895466617163, 1065.1775999990605)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">大地数字影院</text>
+    <info>
+      <address>莲花南路1500弄D区2楼</address>
+      <phone>021-33582631,021-33582630</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-29.03822222688177, 806.1283555546197)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">4D动感旅程</text>
+    <info>
+      <address>青年路243</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(576.1503288842505, 364.8708266657195)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">星美国际影城</text>
+    <info>
+      <address>海宁路330号</address>
+      <phone>021-63240778</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(534.4621511063451, 274.9226666657705)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">金逸国际影城</text>
+    <info>
+      <address>西江湾路388号凯德龙之梦虹口B座6层</address>
+      <phone>021-36538850</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-74.14883556029963, 793.521777776823)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">东方百姓影院</text>
+    <info>
+      <address>七莘路3333号万科城市花园6区</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(259.2837688840518, 1131.9879111101727)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">17.5影院</text>
+    <info>
+      <address>春都路233号3楼</address>
+      <phone>021-62969890</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(672.4154311063103, 516.1770666657503)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华大电影会所</text>
+    <info>
+      <address>外马路601号老码头沃弗3号库3楼3A</address>
+      <phone>021-63301555</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(153.66158221731894, 1530.6652444435258)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">东方百姓影院</text>
+    <info>
+      <address>临沧路85-1</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(270.7889777731907, 1495.530666665718)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">东方百姓影院</text>
+    <info>
+      <address>兰坪路190弄25号</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(234.01599999524478, 454.41848888794993)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">海上国际影城</text>
+    <info>
+      <address>中山北路3300号上海环球港4层L4039</address>
+      <phone>021-60670960</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(916.6462577730272, 378.5969777768514)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">5D动感影院</text>
+    <info>
+      <address>博山东路78博达生活广场2层</address>
+      <phone>13764398507</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(197.4978844396901, 875.4417777768595)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">东方百姓影院</text>
+    <info>
+      <address>望族新城1</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(353.25511110622756, 418.464711110164)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">4D暴风骑士</text>
+    <info>
+      <address>长寿路401号亚新生活广场2层</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(139.49852443965938, 877.2804266657204)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">东方百姓影院</text>
+    <info>
+      <address>古美西路316弄23号</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-488.66403556021396, -244.90524444536277)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">4D动感旅程</text>
+    <info>
+      <address>东大街463-3</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1349.875626661924, 278.74559999904704)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">子轩立体影院</text>
+    <info>
+      <address>上海市浦东新区</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-894.1862400048194, 196.4159999990443)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">希界国际影城</text>
+    <info>
+      <address>墨玉南路1055号嘉亭荟城市生活广场3楼</address>
+      <phone>021-69503456</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(408.05048888414603, 25.112177776873068)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">5D动感影院</text>
+    <info>
+      <address>一二八纪念路827</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(366.47153777284984, -0.4195555564820097)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">4D动感旅程</text>
+    <info>
+      <address>长江西路2211号1楼</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(600.3622399952292, -281.49617777871754)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">宝山国际影城</text>
+    <info>
+      <address>永清路700号</address>
+      <phone>021-31151155</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(52.22641777290846, 558.1201066657286)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">世纪仙霞影城</text>
+    <info>
+      <address>仙霞西路88号</address>
+      <phone>021-62397873</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(332.6476799951706, 47.367111110179394)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">6D动感影视</text>
+    <info>
+      <address>上海市宝山区</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(40.83043555074255, 553.5416888879809)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">5D动感影院</text>
+    <info>
+      <address>剑河路551号</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1145.2212622176376, 170.33813333241596)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">大地数字影院</text>
+    <info>
+      <address>东靖路1881号万嘉商业广场4层</address>
+      <phone>021-68369607</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(740.427235550851, 66.89137777684664)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">博纳国际影城</text>
+    <info>
+      <address>国和路777号中原城市广场2号楼4层2401</address>
+      <phone>021-35367020</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-919.963733338227, 113.67679999907523)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">17.5影城</text>
+    <info>
+      <address>民丰路818号</address>
+      <phone>021-59553878</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-373.1750400047531, 996.6833777768443)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">5D动感影院</text>
+    <info>
+      <address>开江中路130号</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-49.31797333792929, 799.8933333323748)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">万裕国际影城</text>
+    <info>
+      <address>漕宝路3509号汇宝购物广场8层</address>
+      <phone>021-64119776</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(174.77873777279456, 1177.8631111101731)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海连赢影城</text>
+    <info>
+      <address>光华路1号</address>
+      <phone>021-34672659</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-207.8786844491333, 1220.2794666657155)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">5D动感旅程</text>
+    <info>
+      <address>新镇路45弄49号203室</address>
+      <phone>15902136660</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-878.7852800049222, 1978.0849777768253)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">iMOVIE</text>
+    <info>
+      <address>人民路158弄12号8层</address>
+      <phone>021-67225261</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-571.6763022268424, 1481.422222221272)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">5D动感影厅</text>
+    <info>
+      <address>庙前街30号2层</address>
+      <phone>021-57813402</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(568.7229155508248, 1897.9854222212907)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">海上国际影城</text>
+    <info>
+      <address>百齐路588号百联南桥购物中心4层</address>
+      <phone>021-37569530</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1058.3860622175052, 636.007822221336)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">海艺数字影城</text>
+    <info>
+      <address>华佗路280弄31号</address>
+      <phone>021-22066612</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-572.222435560434, 1033.7749333324155)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">星濠国际影城</text>
+    <info>
+      <address>古楼公路1886号</address>
+      <phone>021-67657569</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(254.2957511061104, 652.2552888879545)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">巨影国际影城</text>
+    <info>
+      <address>吴中路52号宝鼎·古北广场7层</address>
+      <phone>021-64311211</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-667.6501333380656, 1356.8127999990793)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">5D动感体验</text>
+    <info>
+      <address>上海市松江区</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-516.8081066714876, -243.31235555650892)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">大地数字影院</text>
+    <info>
+      <address>城中路138号</address>
+      <phone>021-59929821</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(518.5514666620293, 465.7962666657568)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">4D动感旅程</text>
+    <info>
+      <address>人民大道221号上海迪美购物中心负1层</address>
+      <phone>021-37788361</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(398.0016355508269, 171.11182222129173)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">17.5影城</text>
+    <info>
+      <address>共和新路3088弄2号203</address>
+      <phone>021-31001958,021-31001985</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-584.528640004828, 407.4055111101643)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">世纪天虹影城</text>
+    <info>
+      <address>上海市青浦区</address>
+      <phone>021-69789962</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(808.8031288840284, 275.6508444434985)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">大地数字影院</text>
+    <info>
+      <address>长阳路1750号欧尚超市长阳店3层</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(673.798968884148, 127.23911111015695)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">五月电影部落</text>
+    <info>
+      <address>大学路312号302室</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1387.3810488936215, 1011.8840888879731)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">4D动感旅程</text>
+    <info>
+      <address>美周路103</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(505.99039999524393, 1809.1477333323837)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">17.5影城</text>
+    <info>
+      <address>航南公路5000号1幢1层1-3号</address>
+      <phone>021-37198805</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-371.1725511158875, -256.2375111120218)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">大地数字影院</text>
+    <info>
+      <address>上海市嘉定区</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(74.58147555080359, 770.6934044435002)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">东方百姓影院</text>
+    <info>
+      <address>上海市闵行区</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(323.21777777287934, 1554.4675555546291)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">连城国际影城</text>
+    <info>
+      <address>沪杭公路228弄3</address>
+      <phone>021-60137666</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(525.5055644398453, 1380.3875555546256)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">东方百姓影院</text>
+    <info>
+      <address>上海市闵行区</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-537.8524444491632, 1425.9441777768643)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">星濠国际影城</text>
+    <info>
+      <address>荣乐中路8号卜蜂莲花超市2层</address>
+      <phone>021-67657569</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-94.93831111594773, 764.4856888879531)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">世纪沪星影城</text>
+    <info>
+      <address>沪星路289弄顺恒国际商业广场C座4层</address>
+      <phone>021-62207766</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(88.38044443964463, 1540.6321777768426)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">东方百姓影院</text>
+    <info>
+      <address>丽江路32弄108号</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(61.98399999539106, 1509.0929777768451)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">东方百姓影院</text>
+    <info>
+      <address>昆阳路570弄11临时</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-12.763448893747409, 700.0874666657182)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">东方百姓影院</text>
+    <info>
+      <address>上海市闵行区</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(364.5782755507753, 627.0421333324066)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上影国际影城</text>
+    <info>
+      <address>肇嘉浜路1111号美罗城5层</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-29.7664000048826, 1496.4408888879461)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">东方百姓影院</text>
+    <info>
+      <address>上海市闵行区</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(458.7316622175422, 1905.8588444434918)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">5D动感电影</text>
+    <info>
+      <address>人民中路50弄11号</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-66.79424000467407, 1520.7893333323682)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">东方百姓影院</text>
+    <info>
+      <address>汇江路404临</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-734.5696711157871, 1351.5790222213127)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">泰晤士永乐影院</text>
+    <info>
+      <address>上海市松江区</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(66.0617955509224, 684.1130666657136)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">左岸国际电影城</text>
+    <info>
+      <address>金汇路528号虹桥古玩城5楼</address>
+      <phone>021-54860799</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(674.4179199953578, 284.90780444349184)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">金逸国际电影城</text>
+    <info>
+      <address>飞虹路568弄海上海A区48号</address>
+      <phone>021-33772488</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-249.45763556042948, 164.64924444353528)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">高翔比高电影城</text>
+    <info>
+      <address>沪宜公路1082号艺谷文化创意产业园5号楼1层</address>
+      <phone>021-69927666</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-150.1341866713119, 618.8137244434984)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">现代传播3D馆</text>
+    <info>
+      <address>上海市闵行区</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(251.89276443961717, 280.15644444349164)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">希界维国际影城</text>
+    <info>
+      <address>大华路352号</address>
+      <phone>021-36533771,021-36533773</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(620.4235377730583, -232.0711111120545)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">UME国际影城</text>
+    <info>
+      <address>牡丹江路318号诺亚新天地D幢4层401室</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(437.7965511064758, 1258.0081777768555)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">格里芬汽车影城</text>
+    <info>
+      <address>曲江路429号</address>
+      <phone>021-38750932</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(587.9468088842259, -330.5116444453688)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">森创5D体验馆</text>
+    <info>
+      <address>友谊支路96</address>
+      <phone>13764336161</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(393.55975110647705, 739.3635555546098)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">艾富地4D影院</text>
+    <info>
+      <address>龙吴路118号</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-227.2846222269436, 180.76017777684683)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">5D动感太空舱</text>
+    <info>
+      <address>上海市嘉定区</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1811.2854755509034, 1294.8266666657219)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">5D·动感旅程</text>
+    <info>
+      <address>上海市浦东新区</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(520.2262755508855, 438.7626666657525)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上影华威电影城</text>
+    <info>
+      <address>南京西路58号新世界城12层</address>
+      <phone>021-63594933</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-630.1125688936736, 1335.9231999990698)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">5D动感体验馆</text>
+    <info>
+      <address>上海市松江区</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-92.57173333826358, 2794.508799999039)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">5D动感体验馆</text>
+    <info>
+      <address>卫零路200</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-574.0792888936994, 1479.6472888879634)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">5D动感太空船</text>
+    <info>
+      <address>庙前街91号2层</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(598.796657773164, 773.4968888879848)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">三林大光明影城</text>
+    <info>
+      <address>长清路507号恒大长青商城3层</address>
+      <phone>021-50338415</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1089.6248888841, 439.03573333236636)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">格里芬汽车影院</text>
+    <info>
+      <address>社庄庙9号</address>
+      <phone>021-38750932</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(445.9885511065295, 661.8581333324073)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华士达东方影城</text>
+    <info>
+      <address>龙华中路598号正大乐城3层</address>
+      <phone>021-60671699</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(385.54979555083264, 41.22311111018462)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">乐创动感体验馆</text>
+    <info>
+      <address>共和新路5000弄绿地·新都会3号楼1层</address>
+      <phone>13651763782</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1387.5995022268398, 1014.432711110203)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">5D动感体验馆</text>
+    <info>
+      <address>大新街70</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(673.798968884148, 127.23911111015695)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">789主题影吧</text>
+    <info>
+      <address>大学路312号702室</address>
+      <phone>021-61997487</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1043.4220088840448, 83.27537777681755)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">奥斯卡国际影城</text>
+    <info>
+      <address>上海市浦东新区</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(293.180444439713, 425.53713777683697)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">博纳银兴国际影城</text>
+    <info>
+      <address>武宁路99号我格广场4楼</address>
+      <phone>021-32520320</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(632.0743822176155, 428.6045866657332)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">星美国际影城后门</text>
+    <info>
+      <address>上海市浦东新区</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-21.79285333804728, 819.8727111101562)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">奇幻动感5D影院</text>
+    <info>
+      <address>富强街63</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1079.685262217572, 476.02716444353064)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">东郊宾馆-电影厅</text>
+    <info>
+      <address>金科路1800号上海东郊克拉克海奇休闲健身中心内</address>
+      <phone>021-58958888</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1060.42495999518, 318.34026666574573)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">世贸时尚欢乐影城</text>
+    <info>
+      <address>长岛路1156号3楼</address>
+      <phone>021-20230988</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-649.7733688935114, 200.19342222130945)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">暴风骑士大学城店</text>
+    <info>
+      <address>同济大学商业街S136</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(537.7025422172665, 600.3271111102094)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">汇暻乐园5D影院</text>
+    <info>
+      <address>上海市黄浦区</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(523.5394844396069, 214.8935111101764)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">佰迦乐大光明影城</text>
+    <info>
+      <address>广灵二路277号天虹商业广场6层</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-467.3284266713381, -232.5717333342709)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">银兴菲林国际影城</text>
+    <info>
+      <address>塔城路295号疁城新天地2幢</address>
+      <phone>021-59165500</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(599.488426661992, 233.64408888796788)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">时尚主题情侣影吧</text>
+    <info>
+      <address>曲阳路566号6层</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-232.4182755604852, 553.232213332376)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">时代凤凰国际影城</text>
+    <info>
+      <address>申滨路960号虹桥良华购物广场3层</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(727.1743999954197, 465.2956444434949)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">蜗居时代情侣影院</text>
+    <info>
+      <address>张杨路601号华诚大厦6层6018</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1460.1581511064069, 410.18168888795117)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海金球国际影城</text>
+    <info>
+      <address>上海市浦东新区</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(350.560853328534, 425.9285333324442)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">族撸主题游戏影吧</text>
+    <info>
+      <address>胶州路941号长久商务中心22层2202</address>
+      <phone>15000301703</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(167.20568888413254, 1249.8616888879496)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华彩弘歌鑫都影城</text>
+    <info>
+      <address>鑫都路2532号世纪联华颛桥店3楼</address>
+      <phone>021-54600118</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(617.5108266617826, 610.931199999095)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">大光明影城儿艺店</text>
+    <info>
+      <address>苗江路800临</address>
+      <phone>021-63391692</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-353.3321955605061, 580.9848888879969)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华夏丰尚国际影城</text>
+    <info>
+      <address>运乐路569弄风尚国际生活中心3楼310</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(827.9177955508203, 514.1017599990846)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海科技馆科学影城</text>
+    <info>
+      <address>世纪大道2000号(近二号线上海科技馆站)</address>
+      <phone>68622000-6888</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(598.1777066619543, 230.5129244435193)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">曲阳影都</text>
+    <info>
+      <address>曲阳路570-2临</address>
+      <phone>021-65527029,021-65533292</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(423.9247644396528, 262.3524977768284)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上影CGV大宁影城</text>
+    <info>
+      <address>共和新路1878号大宁国际商业广场第2座3楼</address>
+      <phone>021-56651212</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(81.57198221742874, 1013.7955555546341)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">海上国际影城莘庄店</text>
+    <info>
+      <address>沪闵路6088号凯德龙之梦闵行店4楼01</address>
+      <phone>021-64880138</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(164.76629332864832, 490.19022222128115)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">HBC华谊兄弟影院</text>
+    <info>
+      <address>大渡河路196号长风景畔广场4层</address>
+      <phone>021-61671788</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(128.7943111063214, 1013.6681244435295)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上影CGV莘庄影城</text>
+    <info>
+      <address>都市路5001号仲盛世界商城4楼</address>
+      <phone>021-34633318</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(300.4258133285475, 507.666488887935)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">图书馆数字科普影院</text>
+    <info>
+      <address>愚园路1250号4楼</address>
+      <phone>021-61253125</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1554.752711115725, 2006.3473777768195)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">5D立体动感体验馆</text>
+    <info>
+      <address>上海市金山区</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(367.6002133284783, 330.90133333239464)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">外滩8弄动感太空舱</text>
+    <info>
+      <address>宜川路60-1</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-188.3271111159047, 1768.4152888879453)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">17.5影院松江店</text>
+    <info>
+      <address>叶政路471号3层</address>
+      <phone>021-57827581</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-84.45255111601, 314.08952888796193)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上影国际影城江桥店</text>
+    <info>
+      <address>曹安公路2300弄江桥新世界生活广场7号楼4楼</address>
+      <phone>021-69131369</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-80.41116444928775, 754.6097777768409)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">星骑士4D迷你影院</text>
+    <info>
+      <address>七莘路3655号凯德七宝购物广场3层3K14</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(253.64039110627346, 427.8399999990597)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">炫烁·5D动感影吧</text>
+    <info>
+      <address>中山北路3018号长城·弘基/广场1层</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(469.54510221730743, 1804.168817776872)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上影国际影城南桥店</text>
+    <info>
+      <address>环城东路681号南桥·新都汇4层</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(250.4728177729703, 271.7550933323764)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">大地数字影院大华路店</text>
+    <info>
+      <address>大华路518号乐购4楼</address>
+      <phone>021-66405215</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(527.2167822175106, 509.98755555460775)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">UME新天地国际影城</text>
+    <info>
+      <address>兴业路123弄新天地南里6号4楼</address>
+      <phone>021-63733333</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(510.2866488841755, 401.30702222127184)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">金逸院线-新恒星影城</text>
+    <info>
+      <address>西藏北路166号上海大悦城10/11层</address>
+      <phone>021-36527206</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(218.54222221754753, 1290.366577776831)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">17.5上海北桥影城</text>
+    <info>
+      <address>鹤翔路28弄9</address>
+      <phone>021-52262752</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(114.48561777306168, 384.9230222213009)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">17.5上海中环影城</text>
+    <info>
+      <address>真光路169号百联中环购物广场C区4层</address>
+      <phone>021-61392918,021-61392958</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(78.95054221735336, 527.3727999991024)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">17.5影城北虹路店</text>
+    <info>
+      <address>北虹路1068号第4层B区(世纪联华)</address>
+      <phone>021-62907722</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1025.6908799952726, 594.5471999990787)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">金逸国际电影城张江店</text>
+    <info>
+      <address>碧波路635号上海传奇商业广场2层</address>
+      <phone>021-50802001</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(427.96615110655694, 254.9887999990915)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">梦想空间概念私人影吧</text>
+    <info>
+      <address>共和新路1943号2层</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1505.0139022174335, -269.34471111203493)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">根据地5D电影体验馆</text>
+    <info>
+      <address>上海市崇明县</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1539.6751644397227, 670.1411555546201)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">宇宙预言5D动感影院</text>
+    <info>
+      <address>川沙路5558号绿地东海岸国际广场</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(716.0696888840903, 134.47537777683465)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">梦想空间概念私人影吧</text>
+    <info>
+      <address>政旦东路36号4楼</address>
+      <phone>13918781227</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(529.1100444395852, 459.24266666570475)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">梦幻境界5D动感影院</text>
+    <info>
+      <address>人民大道9号香港名店街地下1层</address>
+      <phone>13818189628</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(718.2906311063562, 797.2991999990427)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">欣赏家家庭影院体验馆</text>
+    <info>
+      <address>东明路2100号2049五玠坊S107室</address>
+      <phone>021-58389150</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(238.96760888419522, 732.664319999094)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海庆春电影城</text>
+    <info>
+      <address>田林路140号越界园区15号楼</address>
+      <phone>021-33676660</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(120.23822221744922, 72.5620622212773)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">大地数字影院弘基广场店</text>
+    <info>
+      <address>聚丰园路57弄3号弘基文化休闲广场1号楼商场3楼</address>
+      <phone>021-66122622,021-66122611</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(205.28938666175236, 543.693084443521)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">万裕国际影城汇金虹桥店</text>
+    <info>
+      <address>天山路900号汇金百货6楼</address>
+      <phone>021-60910469</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(605.3502577731706, 648.2958222212801)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海影城-世博国际影城</text>
+    <info>
+      <address>世博大道1200号梅赛德斯-奔驰文化中心商场6楼</address>
+      <phone>021-20251186</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(923.2362666618428, 556.8184888879387)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">海上国际影城喜马拉雅店</text>
+    <info>
+      <address>芳甸路1188弄1～4号证大喜玛拉雅中心7/8楼</address>
+      <phone>021-60457099</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1039.089351106486, 271.2817777768578)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">佰迦乐大光明影城文峰店</text>
+    <info>
+      <address>张杨北路801号上海文峰广场2楼</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-637.0666666713078, 1353.5815111101783)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">世茂时尚欢乐影城松江店</text>
+    <info>
+      <address>文诚路238弄1号2楼</address>
+      <phone>021-33525598</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-174.60096000468184, 415.41546666571776)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">4D暴风骑士江桥万达店</text>
+    <info>
+      <address>上海市嘉定区</address>
+      <phone>13391116466</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-172.05233778240654, 164.33066666572813)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">保利国际影城南翔祥腾店</text>
+    <info>
+      <address>真南路4368弄中冶祥腾城市广场4楼</address>
+      <phone>021-32586016</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(371.2046933287638, 467.11608888795126)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">Enjoy私人情侣影院</text>
+    <info>
+      <address>延平路121号三和大厦4层</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(638.1546666620125, 236.5567999990617)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">同济大学电影学院实验剧场</text>
+    <info>
+      <address>赤峰路67号同济大学四平路校区南校区内</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(221.16366221744101, 467.9352888879748)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华东师范大学影视文化中心</text>
+    <info>
+      <address>中山北路3663号华东师范大学中山北路校区内</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-891.8924800049354, 119.95733333237695)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">安亭镇文体活动中心电影馆</text>
+    <info>
+      <address>墨玉路620</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(90.41934221731935, 443.46851555465037)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">金逸国际电影城金沙江路店</text>
+    <info>
+      <address>金沙江路1628号绿洲中环中心内</address>
+      <phone>021-32513346</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(346.15537777299323, 27.160177776886485)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">5D影院超立体电影体验馆</text>
+    <info>
+      <address>长临路913号北斗星商业广场1层118室</address>
+      <phone>021-60480887</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(0.23452443965652492, 570.7448888879753)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">新泾镇文化中心-数码影院</text>
+    <info>
+      <address>福泉路405号4层</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-871.9040000047244, 2021.411555554596)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">175上海朱泾金上海影城</text>
+    <info>
+      <address>金龙新街528弄7105</address>
+      <phone>021-37360056,021-37360096</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-692.9543111158637, 1280.4451555546166)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">4D暴风骑士松江大学城店</text>
+    <info>
+      <address>文汇路688</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1057.2573866618768, 85.0958222213194)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">星美国际影城上海外高桥店</text>
+    <info>
+      <address>启帆路628号森兰商都3楼</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(699.030328884146, 136.76913777685513)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">万达国际电影城</text>
+    <info>
+      <address>国宾路58号3楼</address>
+      <phone>021-55660926</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(960.955875550826, 985.8062222212993)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">万达国际电影城</text>
+    <info>
+      <address>年家浜路518号万达广场C座4楼</address>
+      <phone>021-38230668</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(377.50343110637914, 487.91466666575616)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">iMove影城&amp;视听馆静安店</text>
+    <info>
+      <address>北京西路1829号新华书店静安店3楼</address>
+      <phone>021-32586788</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1288.4580977826772, 2107.87356444348)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">世纪东方数字电影枫泾实验演示厅</text>
+    <info>
+      <address>新金山公路</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(712.865706661978, 137.93422222129266)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">17.5影城</text>
+    <info>
+      <address>淞沪路8号百联又一城购物中心8楼</address>
+      <phone>021-65483135,021-65483154</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(52.51768888410879, 703.2459377768646)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">17.5影城</text>
+    <info>
+      <address>虹井路288</address>
+      <phone>021-34668600</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(406.9582222173267, 488.915911110189)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">PREMIERE CINEMAS</text>
+    <info>
+      <address>南京西路1515号静安嘉里中心北区商场4层N4-01</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(450.940159995298, 522.1390222212904)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">百丽宫IMAX影城环贸iapm店</text>
+    <info>
+      <address>淮海中路999号环贸iapm6层601</address>
+      <phone>021-51093988</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-55.32544000470807, 2722.1461333323987)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">星美国际影城</text>
+    <info>
+      <address>卫清西路168弄99号百联金山购物中心3楼</address>
+      <phone>021-67229998</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(257.7181866619867, 512.67271111019)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">龙之梦影城</text>
+    <info>
+      <address>长宁路1018号龙之梦购物中心9层</address>
+      <phone>021-52378275</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(714.7589688840526, 467.1707022213013)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">新世纪影城</text>
+    <info>
+      <address>张杨路501号八佰伴10楼</address>
+      <phone>021-58362988</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(216.64895999510918, 562.7804444435242)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">虹桥世纪电影城</text>
+    <info>
+      <address>遵义路100号上海城虹桥购物中心5楼</address>
+      <phone>021-62372387</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-87.3152000047412, 2814.90687999908)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">电影院-公交站</text>
+    <info>
+      <address>上海市金山区</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-881.9209955603583, 1974.7262577768652)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">电影院-公交站</text>
+    <info>
+      <address>上海市金山区</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(170.22762666183553, -1342.3874844453621)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">崇明影剧院</text>
+    <info>
+      <address>八一路488号</address>
+      <phone>021-59622776</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-51.65724444905209, -1741.7656888898364)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">庙镇电影院-公交站</text>
+    <info>
+      <address>上海市崇明县</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(435.29799110638123, 1890.6581333324084)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">南桥电影院-公交站</text>
+    <info>
+      <address>上海市奉贤区</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(714.9774222172709, 425.5098311101392)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">东昌电影院游戏厅</text>
+    <info>
+      <address>南泉北路150-1临</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(545.6760888841018, 377.68675555462323)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">山西电影院咖啡厅</text>
+    <info>
+      <address>山西北路470</address>
+      <phone>021-63577795</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(365.99822221760405, 536.6115555546457)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海联和电影院线公司</text>
+    <info>
+      <address>安福路322号</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(354.7842844396655, 522.7761777768592)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">世纪环球电影院线发展公司</text>
+    <info>
+      <address>延安西路503号1号楼3楼</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(545.3119999952833, 377.73226666572555)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">山西电影院卡拉OK</text>
+    <info>
+      <address>山西北路470</address>
+      <phone>021-63577795</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-906.4560355604044, 1978.26702222128)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">金山农村数字电影院线公司</text>
+    <info>
+      <address>文商路99</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(432.4444444397159, 1888.701155554645)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">奉贤区南桥电影院公共停车场</text>
+    <info>
+      <address>南桥路333号附近</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(210.2409955508847, -541.7469155564959)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">乐都娱乐城</text>
+    <info>
+      <address>盛桥电影院旁</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1801.8919822174212, 1283.4488888879605)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">新东方娱乐城</text>
+    <info>
+      <address>东方电影院旁</address>
+      <phone>021-58022475</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(428.9855999953943, 1889.929955554635)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">非常周末</text>
+    <info>
+      <address>南桥路333号南桥电影院后</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(428.9855999953943, 1889.9026488879372)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">绝色倾城KTV</text>
+    <info>
+      <address>南桥路333号南桥电影院后</address>
+      <phone>021-57187961</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(816.5218133286544, -1565.4101333342624)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/cine"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">农工商超市东平店</text>
+    <info>
+      <address>东平社区的长江电影院</address>
+      <phone>021-59666502</phone>
+    </info>
+  </g>
+</g>

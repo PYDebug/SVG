@@ -1,0 +1,96 @@
+<!-- #section:basics/navbar.layout -->
+<div id="navbar" class="navbar navbar-default" style="min-height:100px;background:#e4e6e9">
+    <script type="text/javascript">
+        try {
+            ace.settings.check('navbar', 'fixed')
+        } catch (e) {
+        }
+    </script>
+    <div class="navbar-container" id="navbar-container">
+        <!-- #section:basics/sidebar.mobile.toggle -->
+        <button type="button" class="navbar-toggle menu-toggler pull-left" id="menu-toggler" data-target="#sidebar">
+            <span class="sr-only">Toggle sidebar</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <!-- /section:basics/sidebar.mobile.toggle -->
+        <div class="navbar-header pull-left">
+            <!-- #section:basics/navbar.layout.brand -->
+            <a href="#" class="navbar-brand">
+                <small>
+                    <i class="fa fa-leaf"></i>
+                    	时态GIS系统
+                </small>
+            </a>
+            <!-- /section:basics/navbar.layout.brand -->
+            <!-- #section:basics/navbar.toggle -->
+            <!-- /section:basics/navbar.toggle -->
+        </div>
+        <!-- #section:basics/navbar.dropdown -->
+
+        <!-- /section:basics/navbar.dropdown -->
+    </div>
+    <!-- /.navbar-container -->
+</div>
+
+<div class="loginBannerContainer">
+  <div class="loginBannerBack">
+    <div width="2000" height="800" style="width:100%;height:600px;">
+      <img src="./SVGSiteMockup/site/images/bg/login-banner1.png"/>
+    </div>
+  </div>
+  <div class="loginFormBack">
+    <div class="container">
+      <div class="login-title-container">
+        <div class="title">SVG地理信息系统</div>
+        <div class="sub-title">独特GIS平台,打造优质体验</div>
+      </div>
+      <div class="login-form-container"  ng-show="currentUser == null">
+        <lab-login-form class="login-form" >
+          <form method="GET">
+            <h4 class="login-form-heading">欢迎登录SVG地理信息系统</h4>
+            <input name="userName" type="text" class="form-control login-input" placeholder="登录名" autofocus="" ng-model="login_name">
+            <input name="userPWD" type="password" class="form-control login-input" placeholder="密码" ng-model="login_password">
+            <div class="checkbox" style="margin-left:0px; padding-left:0px;height:30px;">
+              <a ui-sref="register" style="border-top:none;padding-top:15px;font-size:13px;">注册&nbsp;<span class=""></span></a>
+              <button class="btn btn-primary login-btn theme-1" ng-click="login()"
+               style="margin-top: -40px;">登录</button>
+            </div>
+            <div>
+              <span class="red" style="font-size:13px;">{{message}}</span>
+            </div>
+
+        </form>
+        </lab-login-form>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="login-content-container">
+    <div class="login-title">在这里...</div>
+    <div class="login-tile first">
+      <img src="./SVGSiteMockup/site/images/login/cloud-icon.png" width="120" height="120" alt="">
+      <span class="name">管理地图资源</span>
+      <span class="info">通过在线平台，自己制作地图数据</span>
+    </div>
+    <div class="login-tile">
+      <img src="./SVGSiteMockup/site/images/login/calendar-icon.png" width="120" height="120" alt="">
+      <span class="name">地图时间戳</span>
+      <span class="info">在线查看不同时间点的地图</span>
+    </div>
+    <div class="login-tile">
+      <img src="./SVGSiteMockup/site/images/login/group-icon.png" width="120" height="120" alt="">
+      <span class="name">在线比对</span>
+      <span class="info">开放不同时间戳的地图比对功能，快速查看地图的变化</span>
+    </div>
+    <div class="login-tile last">
+      <img src="./SVGSiteMockup/site/images/login/chat-icon.png" width="120" height="120" alt="">
+      <span class="name">反馈和意见</span>
+      <span class="info">在线为SVG地理信息系统建设提供宝贵意见和建议</span>
+    </div>
+    <div class="clear"></div>
+  </div>
+</div>

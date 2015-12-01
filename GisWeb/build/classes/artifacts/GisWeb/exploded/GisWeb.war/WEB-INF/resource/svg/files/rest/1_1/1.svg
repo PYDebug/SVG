@@ -1,0 +1,3931 @@
+<?xml version="1.0"?>
+<svg width="2488.828125" height="2821.9375" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">null
+ <g layerid="rest">
+  <title>饭馆</title>
+  <g class="entity">
+   <image width="20" height="20" x="10.623503" y="689.280701" xlink:href="/resource/icon/rest"/>
+   <text x="20.623503" y="709.280701" font-size="3" text-anchor="middle">自由饭店</text>
+   <info transform="translate(20.623502731323242,709.2807006835938) ">
+    <address>紫藤路290</address>
+    <phone>021-34317789</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="81.111115" y="730.968872" xlink:href="/resource/icon/rest"/>
+   <text x="91.111115" y="750.968872" font-size="3" text-anchor="middle">清河园饭店</text>
+   <info transform="translate(91.11111450195312,750.9688720703125) ">
+    <address>龙茗路2931号</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-36.089102" y="776.762146" xlink:href="/resource/icon/rest"/>
+   <text x="-26.089102" y="796.762146" font-size="3" text-anchor="middle">七宝山饭店</text>
+   <info transform="translate(-26.089101791381836,796.7621459960938) ">
+    <address>漕宝路3138临</address>
+    <phone>021-64191619</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="343.509979" y="496.968933" xlink:href="/resource/icon/rest"/>
+   <text x="353.509979" y="516.968933" font-size="3" text-anchor="middle">日航饭店-BENKAY</text>
+   <info transform="translate(353.5099792480469,516.9689331054688) ">
+    <address>延安西路488号3楼</address>
+    <phone>021-32119999</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="1531.531982" y="594.098755" xlink:href="/resource/icon/rest"/>
+   <text x="1541.531982" y="614.098755" font-size="3" text-anchor="middle">长白山饭店</text>
+   <info transform="translate(1541.531982421875,614.0987548828125) ">
+    <address>西市街188号2层</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="343.509979" y="496.968933" xlink:href="/resource/icon/rest"/>
+   <text x="353.509979" y="516.968933" font-size="3" text-anchor="middle">日航饭店-塞丽娜国际风味自助餐</text>
+   <info transform="translate(353.5099792480469,516.9689331054688) ">
+    <address>延安西路488号上海日航饭店1层</address>
+    <phone>021-32119999</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="558.577271" y="345.316833" xlink:href="/resource/icon/rest"/>
+   <text x="568.577271" y="365.316833" font-size="3" text-anchor="middle">新贝乐</text>
+   <info transform="translate(568.5772705078125,365.31683349609375) ">
+    <address>四川北路1279-2临</address>
+    <phone>021-63091389</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-526.88092" y="-262.220093" xlink:href="/resource/icon/rest"/>
+   <text x="-516.88092" y="-242.220093" font-size="3" text-anchor="middle">巴贝拉</text>
+   <info transform="translate(-516.8809204101562,-242.2200927734375) ">
+    <address>城中路136弄1</address>
+    <phone>021-59521916</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="508.187378" y="546.293884" xlink:href="/resource/icon/rest"/>
+   <text x="518.187378" y="566.293884" font-size="3" text-anchor="middle">Me&amp;joe</text>
+   <info transform="translate(518.1873779296875,566.2938842773438) ">
+    <address>鲁班路100-6</address>
+    <phone>021-51505075</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="571.138367" y="394.3414" xlink:href="/resource/icon/rest"/>
+   <text x="581.138367" y="414.3414" font-size="3" text-anchor="middle">豪享来外滩店</text>
+   <info transform="translate(581.1383666992188,414.3414001464844) ">
+    <address>四川中路470</address>
+    <phone>021-53081291</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="386.581696" y="86.231186" xlink:href="/resource/icon/rest"/>
+   <text x="396.581696" y="106.231186" font-size="3" text-anchor="middle">豪享来闻喜店</text>
+   <info transform="translate(396.5816955566406,106.23118591308594) ">
+    <address>闻喜路985</address>
+    <phone>021-56407963</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="705.123047" y="528.526367" xlink:href="/resource/icon/rest"/>
+   <text x="715.123047" y="548.526367" font-size="3" text-anchor="middle">上岛咖啡塘桥店</text>
+   <info transform="translate(715.123046875,548.5263671875) ">
+    <address>浦东南路2100号上尚商厦3层</address>
+    <phone>021-50896477</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="316.749451" y="429.412262" xlink:href="/resource/icon/rest"/>
+   <text x="326.749451" y="449.412262" font-size="3" text-anchor="middle">棒!约翰达安店</text>
+   <info transform="translate(326.74945068359375,449.4122619628906) ">
+    <address>武宁南路419</address>
+    <phone>021-62321055</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="1081.008423" y="206.517044" xlink:href="/resource/icon/rest"/>
+   <text x="1091.008423" y="226.517044" font-size="3" text-anchor="middle">豪享来五莲路店</text>
+   <info transform="translate(1091.0084228515625,226.5170440673828) ">
+    <address>五莲路1703</address>
+    <phone>021-58653938</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="1031.710815" y="-55.499519" xlink:href="/resource/icon/rest"/>
+   <text x="1041.710815" y="-35.499519" font-size="3" text-anchor="middle">豪享来外高桥店</text>
+   <info transform="translate(1041.7108154296875,-35.49951934814453) ">
+    <address>夏碧路118号1层</address>
+    <phone>021-58626030</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="436.097778" y="445.149994" xlink:href="/resource/icon/rest"/>
+   <text x="446.097778" y="465.149994" font-size="3" text-anchor="middle">凯司令南京西路店</text>
+   <info transform="translate(446.0977783203125,465.1499938964844) ">
+    <address>南京西路1001</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="793.560242" y="116.90567" xlink:href="/resource/icon/rest"/>
+   <text x="803.560242" y="136.90567" font-size="3" text-anchor="middle">豪享来国顺东路店</text>
+   <info transform="translate(803.5602416992188,136.90567016601562) ">
+    <address>沙岗路628识别</address>
+    <phone>021-65386693</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="425.247925" y="451.066467" xlink:href="/resource/icon/rest"/>
+   <text x="435.247925" y="471.066467" font-size="3" text-anchor="middle">沃歌斯</text>
+   <info transform="translate(435.2479248046875,471.06646728515625) ">
+    <address>南京西路1168</address>
+    <phone>021-52925228</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="338.085052" y="22.324478" xlink:href="/resource/icon/rest"/>
+   <text x="348.085052" y="42.324478" font-size="3" text-anchor="middle">豪享来(共康店)</text>
+   <info transform="translate(348.0850524902344,42.32447814941406) ">
+    <address>共康路555号2号楼附近</address>
+    <phone>021-56475308</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="307.938477" y="782.250793" xlink:href="/resource/icon/rest"/>
+   <text x="317.938477" y="802.250793" font-size="3" text-anchor="middle">必胜上海客南站餐厅</text>
+   <info transform="translate(317.9384765625,802.2507934570312) ">
+    <address>上海市徐汇区</address>
+    <phone>021-54180752</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-95.945313" y="737.231201" xlink:href="/resource/icon/rest"/>
+   <text x="-85.945313" y="757.231201" font-size="3" text-anchor="middle">棒!约翰七宝龙城店</text>
+   <info transform="translate(-85.9453125,757.231201171875) ">
+    <address>七莘路3655号凯德七宝购物广场1层154</address>
+    <phone>021-64617272</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="902.240784" y="454.170319" xlink:href="/resource/icon/rest"/>
+   <text x="912.240784" y="474.170319" font-size="3" text-anchor="middle">赛百味</text>
+   <info transform="translate(912.2407836914062,474.1703186035156) ">
+    <address>芳甸路199弄33号2层06～07室</address>
+    <phone>021-68569507</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="116.500549" y="633.210999" xlink:href="/resource/icon/rest"/>
+   <text x="126.500549" y="653.210999" font-size="3" text-anchor="middle">Johnny Moo</text>
+   <info transform="translate(126.50054931640625,653.2109985351562) ">
+    <address>虹梅路3219-2临</address>
+    <phone>021-51759189</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="555.373291" y="295.791656" xlink:href="/resource/icon/rest"/>
+   <text x="565.373291" y="315.791656" font-size="3" text-anchor="middle">巴黎贝甜(四川北路店)</text>
+   <info transform="translate(565.373291015625,315.7916564941406) ">
+    <address>四川北路1885号</address>
+    <phone>021-56960993</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="346.058594" y="614.205566" xlink:href="/resource/icon/rest"/>
+   <text x="356.058594" y="634.205566" font-size="3" text-anchor="middle">王品台塑牛排(徐家汇店)</text>
+   <info transform="translate(356.05859375,634.20556640625) ">
+    <address>漕溪北路86-1临圣爱大厦4楼</address>
+    <phone>021-64282170,021-64282193</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="743.680054" y="452.331665" xlink:href="/resource/icon/rest"/>
+   <text x="753.680054" y="472.331665" font-size="3" text-anchor="middle">沃歌斯96广场店</text>
+   <info transform="translate(753.6800537109375,472.3316650390625) ">
+    <address>东方路796号96广场171</address>
+    <phone>021-61940298</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="987.910889" y="314.205444" xlink:href="/resource/icon/rest"/>
+   <text x="997.910889" y="334.205444" font-size="3" text-anchor="middle">约翰牛</text>
+   <info transform="translate(997.910888671875,334.2054443359375) ">
+    <address>张杨路3611号金桥国际广场内</address>
+    <phone>021-20233336</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="1019.258911" y="574.210388" xlink:href="/resource/icon/rest"/>
+   <text x="1029.258911" y="594.210388" font-size="3" text-anchor="middle">赛百味上海传奇店</text>
+   <info transform="translate(1029.2589111328125,594.2103881835938) ">
+    <address>碧波路635号1楼27C-D</address>
+    <phone>021-50275820,021-50275208</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="996.649048" y="399.629791" xlink:href="/resource/icon/rest"/>
+   <text x="1006.649048" y="419.629791" font-size="3" text-anchor="middle">必胜客金桥店</text>
+   <info transform="translate(1006.6490478515625,419.6297912597656) ">
+    <address>碧云路555号</address>
+    <phone>021-50306725</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="200.969177" y="401.75061" xlink:href="/resource/icon/rest"/>
+   <text x="210.969177" y="421.75061" font-size="3" text-anchor="middle">必胜客曹杨餐厅</text>
+   <info transform="translate(210.96917724609375,421.7506103515625) ">
+    <address>枣阳路11</address>
+    <phone>021-52662292</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="527.848206" y="452.741272" xlink:href="/resource/icon/rest"/>
+   <text x="537.848206" y="472.741272" font-size="3" text-anchor="middle">漾乐会</text>
+   <info transform="translate(537.8482055664062,472.74127197265625) ">
+    <address>延安东路523号上海音乐厅7号门4楼</address>
+    <phone>021-53839989</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="184.803619" y="526.487488" xlink:href="/resource/icon/rest"/>
+   <text x="194.803619" y="546.487488" font-size="3" text-anchor="middle">必胜客天山餐厅</text>
+   <info transform="translate(194.80361938476562,546.4874877929688) ">
+    <address>天山路777号百盛1楼</address>
+    <phone>021-62742916</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="342.090027" y="602.026794" xlink:href="/resource/icon/rest"/>
+   <text x="352.090027" y="622.026794" font-size="3" text-anchor="middle">Bistrow by wagas</text>
+   <info transform="translate(352.09002685546875,622.0267944335938) ">
+    <address>虹桥路1号港汇恒隆广场兰桂坊16号</address>
+    <phone>021-64482852</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="282.233826" y="706.73877" xlink:href="/resource/icon/rest"/>
+   <text x="292.233826" y="726.73877" font-size="3" text-anchor="middle">必胜客田林餐厅</text>
+   <info transform="translate(292.23382568359375,726.73876953125) ">
+    <address>柳州路432</address>
+    <phone>021-64834397</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="585.556274" y="214.963913" xlink:href="/resource/icon/rest"/>
+   <text x="595.556274" y="234.963913" font-size="3" text-anchor="middle">必胜客曲阳餐厅</text>
+   <info transform="translate(595.5562744140625,234.9639129638672) ">
+    <address>曲阳路555号</address>
+    <phone>021-65537155</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="517.253174" y="483.570496" xlink:href="/resource/icon/rest"/>
+   <text x="527.253174" y="503.570496" font-size="3" text-anchor="middle">T8 RESTAURANT&amp;BAR</text>
+   <info transform="translate(527.253173828125,503.57049560546875) ">
+    <address>太仓路181弄新天地北里8单元1楼</address>
+    <phone>021-63558999</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="1794.477051" y="1297.07251" xlink:href="/resource/icon/rest"/>
+   <text x="1804.477051" y="1317.07251" font-size="3" text-anchor="middle">必胜客(南汇店)</text>
+   <info transform="translate(1804.47705078125,1317.072509765625) ">
+    <address>南门大街18号</address>
+    <phone>021-58018097</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="410.356689" y="538.174744" xlink:href="/resource/icon/rest"/>
+   <text x="420.356689" y="558.174744" font-size="3" text-anchor="middle">纬度餐厅</text>
+   <info transform="translate(420.356689453125,558.1747436523438) ">
+    <address>岳阳路1</address>
+    <phone>021-64317751</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="348.643616" y="597.848877" xlink:href="/resource/icon/rest"/>
+   <text x="358.643616" y="617.848877" font-size="3" text-anchor="middle">阿利与艾德咖啡西餐厅</text>
+   <info transform="translate(358.64361572265625,617.848876953125) ">
+    <address>衡山路932</address>
+    <phone>021-64078888</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="512.447205" y="413.274017" xlink:href="/resource/icon/rest"/>
+   <text x="522.447205" y="433.274017" font-size="3" text-anchor="middle">必胜客市百一店餐厅</text>
+   <info transform="translate(522.4472045898438,433.2740173339844) ">
+    <address>西藏中路498</address>
+    <phone>021-63224353</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="360.112427" y="24.827591" xlink:href="/resource/icon/rest"/>
+   <text x="370.112427" y="44.827591" font-size="3" text-anchor="middle">上岛咖啡共康路店</text>
+   <info transform="translate(370.1124267578125,44.82759094238281) ">
+    <address>共康路191号</address>
+    <phone>021-56420531</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="17.395555" y="201.865814" xlink:href="/resource/icon/rest"/>
+   <text x="27.395555" y="221.865814" font-size="3" text-anchor="middle">上岛咖啡桃浦店</text>
+   <info transform="translate(27.39555549621582,221.86581420898438) ">
+    <address>真南路2148</address>
+    <phone>021-52847977</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="662.269775" y="251.354584" xlink:href="/resource/icon/rest"/>
+   <text x="672.269775" y="271.354584" font-size="3" text-anchor="middle">上岛咖啡和平店</text>
+   <info transform="translate(672.269775390625,271.3545837402344) ">
+    <address>控江路2210-1</address>
+    <phone>021-61394750</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="159.244583" y="301.899231" xlink:href="/resource/icon/rest"/>
+   <text x="169.244583" y="321.899231" font-size="3" text-anchor="middle">上岛咖啡真如店</text>
+   <info transform="translate(169.2445831298828,321.89923095703125) ">
+    <address>桃浦路218</address>
+    <phone>021-52859927</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="1020.715332" y="328.486816" xlink:href="/resource/icon/rest"/>
+   <text x="1030.715332" y="348.486816" font-size="3" text-anchor="middle">上岛咖啡金桥路店</text>
+   <info transform="translate(1030.71533203125,348.48681640625) ">
+    <address>金桥路1258号</address>
+    <phone>021-50715760</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="1742.339478" y="1615.877808" xlink:href="/resource/icon/rest"/>
+   <text x="1752.339478" y="1635.877808" font-size="3" text-anchor="middle">上岛咖啡大团镇店</text>
+   <info transform="translate(1752.3394775390625,1635.8778076171875) ">
+    <address>永春东路36号</address>
+    <phone>021-58083332</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="655.861816" y="703.106995" xlink:href="/resource/icon/rest"/>
+   <text x="665.861816" y="723.106995" font-size="3" text-anchor="middle">上岛咖啡成山路店</text>
+   <info transform="translate(665.86181640625,723.1069946289062) ">
+    <address>成山路436</address>
+    <phone>021-50566739</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="461.94809" y="337.989532" xlink:href="/resource/icon/rest"/>
+   <text x="471.94809" y="357.989532" font-size="3" text-anchor="middle">上岛咖啡中兴路店</text>
+   <info transform="translate(471.9480895996094,357.9895324707031) ">
+    <address>中兴路1233弄2幢1</address>
+    <phone>021-56316908</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="660.485779" y="608.416565" xlink:href="/resource/icon/rest"/>
+   <text x="670.485779" y="628.416565" font-size="3" text-anchor="middle">上岛咖啡(世博店)</text>
+   <info transform="translate(670.4857788085938,628.4165649414062) ">
+    <address>浦东南路3500号</address>
+    <phone>021-22060261</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="598.008118" y="250.635529" xlink:href="/resource/icon/rest"/>
+   <text x="608.008118" y="270.635529" font-size="3" text-anchor="middle">上岛咖啡(曲阳店)</text>
+   <info transform="translate(608.0081176757812,270.6355285644531) ">
+    <address>曲阳路</address>
+    <phone>021-65754856</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="700.71759" y="236.973083" xlink:href="/resource/icon/rest"/>
+   <text x="710.71759" y="256.973083" font-size="3" text-anchor="middle">上岛咖啡NO.418</text>
+   <info transform="translate(710.7175903320312,256.97308349609375) ">
+    <address>控江路1686</address>
+    <phone>021-65790923</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="268.835327" y="589.88446" xlink:href="/resource/icon/rest"/>
+   <text x="278.835327" y="609.88446" font-size="3" text-anchor="middle">必胜宅急送</text>
+   <info transform="translate(278.8353271484375,609.8844604492188) ">
+    <address>凯旋路1538号</address>
+    <phone>021-51518928,021-51518528</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="558.977783" y="101.550224" xlink:href="/resource/icon/rest"/>
+   <text x="568.977783" y="121.550224" font-size="3" text-anchor="middle">棒!约翰江湾店</text>
+   <info transform="translate(568.977783203125,121.55022430419922) ">
+    <address>逸仙路580号</address>
+    <phone>021-65167272</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="369.323883" y="372.022766" xlink:href="/resource/icon/rest"/>
+   <text x="379.323883" y="392.022766" font-size="3" text-anchor="middle">棒!约翰江宁店</text>
+   <info transform="translate(379.3238830566406,392.02276611328125) ">
+    <address>江宁路1228号</address>
+    <phone>021-62777272</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="1017.220093" y="571.334106" xlink:href="/resource/icon/rest"/>
+   <text x="1027.220093" y="591.334106" font-size="3" text-anchor="middle">棒!约翰张江店</text>
+   <info transform="translate(1027.2200927734375,591.3341064453125) ">
+    <address>碧波路635号上海传奇1楼</address>
+    <phone>021-50807272</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="507.386353" y="547.668335" xlink:href="/resource/icon/rest"/>
+   <text x="517.386353" y="567.668335" font-size="3" text-anchor="middle">棒!约翰大同店</text>
+   <info transform="translate(517.3863525390625,567.6683349609375) ">
+    <address>丽园路1009临</address>
+    <phone>021-53027272</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="343.145874" y="652.689758" xlink:href="/resource/icon/rest"/>
+   <text x="353.145874" y="672.689758" font-size="3" text-anchor="middle">棒!约翰飞洲店</text>
+   <info transform="translate(353.1458740234375,672.6897583007812) ">
+    <address>零陵路899</address>
+    <phone>021-64287272</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="816.971191" y="544.100281" xlink:href="/resource/icon/rest"/>
+   <text x="826.971191" y="564.100281" font-size="3" text-anchor="middle">必胜宅急送锦绣店</text>
+   <info transform="translate(826.97119140625,564.1002807617188) ">
+    <address>浦建路1143号1层</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="503.017334" y="542.571106" xlink:href="/resource/icon/rest"/>
+   <text x="513.017334" y="562.571106" font-size="3" text-anchor="middle">必胜宅急送帝庭店</text>
+   <info transform="translate(513.017333984375,562.5711059570312) ">
+    <address>斜徐路555</address>
+    <phone>18017088365</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="390.768707" y="547.295166" xlink:href="/resource/icon/rest"/>
+   <text x="400.768707" y="567.295166" font-size="3" text-anchor="middle">一千一夜</text>
+   <info transform="translate(400.7687072753906,567.295166015625) ">
+    <address>衡山路4</address>
+    <phone>021-64731178</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="399.470428" y="5.967787" xlink:href="/resource/icon/rest"/>
+   <text x="409.470428" y="25.967787" font-size="3" text-anchor="middle">必胜宅急送三湘店</text>
+   <info transform="translate(409.4704284667969,25.96778678894043) ">
+    <address>一二八纪念路794</address>
+    <phone>021-56888781</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="241.346634" y="254.813446" xlink:href="/resource/icon/rest"/>
+   <text x="251.346634" y="274.813446" font-size="3" text-anchor="middle">必胜宅急送大华店</text>
+   <info transform="translate(251.3466339111328,274.8134460449219) ">
+    <address>大华路518号</address>
+    <phone>021-66396770</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="119.668121" y="637.015747" xlink:href="/resource/icon/rest"/>
+   <text x="129.668121" y="657.015747" font-size="3" text-anchor="middle">棒!约翰西餐厅虹梅店</text>
+   <info transform="translate(129.66812133789062,657.0157470703125) ">
+    <address>虹梅路3211-4临</address>
+    <phone>021-64658656</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="113.988335" y="857.325928" xlink:href="/resource/icon/rest"/>
+   <text x="123.988335" y="877.325928" font-size="3" text-anchor="middle">棒!约翰西餐厅龙茗店</text>
+   <info transform="translate(123.98833465576172,877.325927734375) ">
+    <address>龙茗路1036</address>
+    <phone>021-54142764</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="412.796082" y="498.316101" xlink:href="/resource/icon/rest"/>
+   <text x="422.796082" y="518.316101" font-size="3" text-anchor="middle">Dolce Vita Italian</text>
+   <info transform="translate(422.79608154296875,518.3161010742188) ">
+    <address>富民路291悟锦世纪大楼</address>
+    <phone>021-61701318</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="34.835415" y="537.428345" xlink:href="/resource/icon/rest"/>
+   <text x="44.835415" y="557.428345" font-size="3" text-anchor="middle">棒!约翰西餐厅剑河店</text>
+   <info transform="translate(44.83541488647461,557.4283447265625) ">
+    <address>仙霞西路88号2楼</address>
+    <phone>021-62383941</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="240.181549" y="494.729797" xlink:href="/resource/icon/rest"/>
+   <text x="250.181549" y="514.729797" font-size="3" text-anchor="middle">必胜宅急送中山贝多芬店</text>
+   <info transform="translate(250.18154907226562,514.7297973632812) ">
+    <address>长宁路1164</address>
+    <phone>021-52411293</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="592.109863" y="367.671906" xlink:href="/resource/icon/rest"/>
+   <text x="602.109863" y="387.671906" font-size="3" text-anchor="middle">玛格萝妮餐厅武昌店</text>
+   <info transform="translate(602.10986328125,387.6719055175781) ">
+    <address>武昌路140</address>
+    <phone>021-63253226</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="354.359833" y="606.332153" xlink:href="/resource/icon/rest"/>
+   <text x="364.359833" y="626.332153" font-size="3" text-anchor="middle">斗牛士上海美罗店</text>
+   <info transform="translate(364.3598327636719,626.3321533203125) ">
+    <address>肇嘉浜路1111号</address>
+    <phone>021-64268393</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="901.294128" y="456.436768" xlink:href="/resource/icon/rest"/>
+   <text x="911.294128" y="476.436768" font-size="3" text-anchor="middle">沙华多利意大利餐厅</text>
+   <info transform="translate(911.2941284179688,476.436767578125) ">
+    <address>芳甸路199弄大拇指广场内</address>
+    <phone>021-50339001</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-6.088178" y="632.646667" xlink:href="/resource/icon/rest"/>
+   <text x="3.911822" y="652.646667" font-size="3" text-anchor="middle">Vintage</text>
+   <info transform="translate(3.9118223190307617,652.6466674804688) ">
+    <address>虹桥路2419号龙柏饭店</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="446.69278" y="486.574219" xlink:href="/resource/icon/rest"/>
+   <text x="456.69278" y="506.574219" font-size="3" text-anchor="middle">山里日餐厅</text>
+   <info transform="translate(456.6927795410156,506.57421875) ">
+    <address>茂名南路58号上海花园饭店2层</address>
+    <phone>021-64151111</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-13.843271" y="627.895325" xlink:href="/resource/icon/rest"/>
+   <text x="-3.843271" y="647.895325" font-size="3" text-anchor="middle">莲花厅</text>
+   <info transform="translate(-3.843271017074585,647.8953247070312) ">
+    <address>虹桥路2451号逸和龙柏饭店内</address>
+    <phone>021-62689111</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-6.01536" y="626.247803" xlink:href="/resource/icon/rest"/>
+   <text x="3.98464" y="646.247803" font-size="3" text-anchor="middle">沙逊餐厅</text>
+   <info transform="translate(3.984639883041382,646.247802734375) ">
+    <address>虹桥路2419号龙柏饭店1层</address>
+    <phone>021-62688868</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="343.473572" y="496.996277" xlink:href="/resource/icon/rest"/>
+   <text x="353.473572" y="516.996277" font-size="3" text-anchor="middle">弁庆日餐厅</text>
+   <info transform="translate(353.47357177734375,516.9962768554688) ">
+    <address>延安西路488号上海日航饭店3层</address>
+    <phone>021-32119999</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="420.514771" y="571.179382" xlink:href="/resource/icon/rest"/>
+   <text x="430.514771" y="591.179382" font-size="3" text-anchor="middle">半岛自助餐厅</text>
+   <info transform="translate(430.5147705078125,591.1793823242188) ">
+    <address>肇嘉浜路500号好望角大饭店3楼</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="304.916565" y="837.009766" xlink:href="/resource/icon/rest"/>
+   <text x="314.916565" y="857.009766" font-size="3" text-anchor="middle">斗牛士西餐厅</text>
+   <info transform="translate(314.91656494140625,857.009765625) ">
+    <address>老沪闵路689号嘉登道大饭店1楼</address>
+    <phone>021-34084888</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-536.456482" y="-254.346664" xlink:href="/resource/icon/rest"/>
+   <text x="-526.456482" y="-234.346664" font-size="3" text-anchor="middle">浜名湖</text>
+   <info transform="translate(-526.4564819335938,-234.34666442871094) ">
+    <address>清河路150号迎园饭店1号楼2楼</address>
+    <phone>021-59520952</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="581.26001" y="403.288879" xlink:href="/resource/icon/rest"/>
+   <text x="591.26001" y="423.288879" font-size="3" text-anchor="middle">华懋阁</text>
+   <info transform="translate(591.260009765625,423.28887939453125) ">
+    <address>南京东路20号和平饭店北楼9层</address>
+    <phone>021-61386881</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="722.344482" y="389.590057" xlink:href="/resource/icon/rest"/>
+   <text x="732.344482" y="409.590057" font-size="3" text-anchor="middle">JALA</text>
+   <info transform="translate(732.344482421875,409.5900573730469) ">
+    <address>浦东大道535号裕景大饭店4楼</address>
+    <phone>021-38789888</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="722.344482" y="389.590057" xlink:href="/resource/icon/rest"/>
+   <text x="732.344482" y="409.590057" font-size="3" text-anchor="middle">芝加哥牛排餐厅</text>
+   <info transform="translate(732.344482421875,409.5900573730469) ">
+    <address>浦东大道535号裕景大饭店4层</address>
+    <phone>021-38789888</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="198.89386" y="560.757324" xlink:href="/resource/icon/rest"/>
+   <text x="208.89386" y="580.757324" font-size="3" text-anchor="middle">花野日餐厅</text>
+   <info transform="translate(208.89385986328125,580.75732421875) ">
+    <address>遵义南路5号虹桥喜来登上海太平洋大饭店2层</address>
+    <phone>021-62758888</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="198.675415" y="560.429626" xlink:href="/resource/icon/rest"/>
+   <text x="208.675415" y="580.429626" font-size="3" text-anchor="middle">吉范尼斯</text>
+   <info transform="translate(208.6754150390625,580.4296264648438) ">
+    <address>遵义南路5号喜来登豪达太平洋大饭店27楼</address>
+    <phone>021-62758888</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="370.197693" y="573.473145" xlink:href="/resource/icon/rest"/>
+   <text x="380.197693" y="593.473145" font-size="3" text-anchor="middle">毕卡第</text>
+   <info transform="translate(380.19769287109375,593.47314453125) ">
+    <address>衡山路534号衡山宾馆1楼</address>
+    <phone>021-64377050</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="51.146595" y="718.098328" xlink:href="/resource/icon/rest"/>
+   <text x="61.146595" y="738.098328" font-size="3" text-anchor="middle">天安门</text>
+   <info transform="translate(61.1465950012207,738.0983276367188) ">
+    <address>虹泉路20号附近</address>
+    <phone>021-34323696</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="1057.197021" y="205.27005" xlink:href="/resource/icon/rest"/>
+   <text x="1067.197021" y="225.27005" font-size="3" text-anchor="middle">东天红</text>
+   <info transform="translate(1067.197021484375,225.27005004882812) ">
+    <address>利津路1275</address>
+    <phone>021-50135170</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="372.891937" y="513.880859" xlink:href="/resource/icon/rest"/>
+   <text x="382.891937" y="533.880859" font-size="3" text-anchor="middle">韦栗士</text>
+   <info transform="translate(382.8919372558594,533.880859375) ">
+    <address>安福路195号3层</address>
+    <phone>021-54040200</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="450.843384" y="481.385956" xlink:href="/resource/icon/rest"/>
+   <text x="460.843384" y="501.385956" font-size="3" text-anchor="middle">乐太郎</text>
+   <info transform="translate(460.8433837890625,501.3859558105469) ">
+    <address>长乐路398</address>
+    <phone>021-62566005</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="1007.790161" y="390.773346" xlink:href="/resource/icon/rest"/>
+   <text x="1017.790161" y="410.773346" font-size="3" text-anchor="middle">拉蒂娜</text>
+   <info transform="translate(1017.7901611328125,410.7733459472656) ">
+    <address>蓝天路633号碧云体育休闲中心1层R5</address>
+    <phone>021-50306672</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="1519.51709" y="628.432373" xlink:href="/resource/icon/rest"/>
+   <text x="1529.51709" y="648.432373" font-size="3" text-anchor="middle">吉木屋</text>
+   <info transform="translate(1529.51708984375,648.432373046875) ">
+    <address>南桥路731</address>
+    <phone>021-68392273</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="738.692078" y="458.348236" xlink:href="/resource/icon/rest"/>
+   <text x="748.692078" y="478.348236" font-size="3" text-anchor="middle">无限馆</text>
+   <info transform="translate(748.6920776367188,478.3482360839844) ">
+    <address>崂山路598</address>
+    <phone>021-58310717</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="446.729187" y="555.796631" xlink:href="/resource/icon/rest"/>
+   <text x="456.729187" y="575.796631" font-size="3" text-anchor="middle">沃歌斯</text>
+   <info transform="translate(456.72918701171875,575.796630859375) ">
+    <address>嘉善路508号尚街Loft1号楼1层</address>
+    <phone>021-54668312</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="469.593964" y="-365.257233" xlink:href="/resource/icon/rest"/>
+   <text x="479.593964" y="-345.257233" font-size="3" text-anchor="middle">新江原</text>
+   <info transform="translate(479.5939636230469,-345.2572326660156) ">
+    <address>湄浦路179号</address>
+    <phone>021-33715618</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-697.128906" y="1260.035522" xlink:href="/resource/icon/rest"/>
+   <text x="-687.128906" y="1280.035522" font-size="3" text-anchor="middle">比丝盖</text>
+   <info transform="translate(-687.12890625,1280.0355224609375) ">
+    <address>文汇路640</address>
+    <phone>021-67799491</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-652.382385" y="229.846039" xlink:href="/resource/icon/rest"/>
+   <text x="-642.382385" y="249.846039" font-size="3" text-anchor="middle">朝日屋</text>
+   <info transform="translate(-642.3823852539062,249.84603881835938) ">
+    <address>曹安公路4671号</address>
+    <phone>021-59593287</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="550.640137" y="567.329163" xlink:href="/resource/icon/rest"/>
+   <text x="560.640137" y="587.329163" font-size="3" text-anchor="middle">爱尚鲜</text>
+   <info transform="translate(560.64013671875,587.3291625976562) ">
+    <address>局门路523临</address>
+    <phone>021-63888668</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="493.077698" y="483.524963" xlink:href="/resource/icon/rest"/>
+   <text x="503.077698" y="503.524963" font-size="3" text-anchor="middle">新藤亭</text>
+   <info transform="translate(503.07769775390625,503.52496337890625) ">
+    <address>雁荡路29号金雁坊5层</address>
+    <phone>021-63840500</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="426.19455" y="496.905273" xlink:href="/resource/icon/rest"/>
+   <text x="436.19455" y="516.905273" font-size="3" text-anchor="middle">葡萄园</text>
+   <info transform="translate(436.1945495605469,516.9052734375) ">
+    <address>新乐路55(甲)</address>
+    <phone>021-54040486</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="11.460907" y="692.912476" xlink:href="/resource/icon/rest"/>
+   <text x="21.460907" y="712.912476" font-size="3" text-anchor="middle">首尔明</text>
+   <info transform="translate(21.460906982421875,712.9124755859375) ">
+    <address>紫藤路252</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="592.838074" y="327.603912" xlink:href="/resource/icon/rest"/>
+   <text x="602.838074" y="347.603912" font-size="3" text-anchor="middle">雪茄客</text>
+   <info transform="translate(602.8380737304688,347.6039123535156) ">
+    <address>沙泾路10号1933老场坊1号楼1层102</address>
+    <phone>021-55967221</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="635.509277" y="405.97403" xlink:href="/resource/icon/rest"/>
+   <text x="645.509277" y="425.97403" font-size="3" text-anchor="middle">金牛苑</text>
+   <info transform="translate(645.50927734375,425.9740295410156) ">
+    <address>世纪大道8号上海国金中心商场3层19铺</address>
+    <phone>021-61908170</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="36.61945" y="688.461487" xlink:href="/resource/icon/rest"/>
+   <text x="46.61945" y="708.461487" font-size="3" text-anchor="middle">哈乐坊</text>
+   <info transform="translate(46.619449615478516,708.4614868164062) ">
+    <address>老虹井路218号</address>
+    <phone>021-34322874</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="231.807495" y="1001.077332" xlink:href="/resource/icon/rest"/>
+   <text x="241.807495" y="1021.077332" font-size="3" text-anchor="middle">蓝袋鼠</text>
+   <info transform="translate(241.8074951171875,1021.0773315429688) ">
+    <address>兴梅路1158</address>
+    <phone>021-54376058</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="421.097321" y="502.457581" xlink:href="/resource/icon/rest"/>
+   <text x="431.097321" y="522.457581" font-size="3" text-anchor="middle">居乐屋</text>
+   <info transform="translate(431.0973205566406,522.4575805664062) ">
+    <address>东湖路30-3临2层</address>
+    <phone>021-54039928</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-480.750854" y="1409.639648" xlink:href="/resource/icon/rest"/>
+   <text x="-470.750854" y="1429.639648" font-size="3" text-anchor="middle">韩舍廊</text>
+   <info transform="translate(-470.7508544921875,1429.6396484375) ">
+    <address>松东路274</address>
+    <phone>021-57745371</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="430.090302" y="444.12146" xlink:href="/resource/icon/rest"/>
+   <text x="440.090302" y="464.12146" font-size="3" text-anchor="middle">异人馆</text>
+   <info transform="translate(440.0903015136719,464.1214599609375) ">
+    <address>南京西路1038号</address>
+    <phone>021-62183003</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="497.446747" y="536.636475" xlink:href="/resource/icon/rest"/>
+   <text x="507.446747" y="556.636475" font-size="3" text-anchor="middle">成吉馆</text>
+   <info transform="translate(507.4467468261719,556.636474609375) ">
+    <address>思南路113号</address>
+    <phone>021-51586160</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="204.027527" y="740.571716" xlink:href="/resource/icon/rest"/>
+   <text x="214.027527" y="760.571716" font-size="3" text-anchor="middle">一番屋</text>
+   <info transform="translate(214.02752685546875,760.5717163085938) ">
+    <address>漕宝路509号上海华美达兴园酒店B楼2层</address>
+    <phone>021-54649999</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="512.847717" y="410.661682" xlink:href="/resource/icon/rest"/>
+   <text x="522.847717" y="430.661682" font-size="3" text-anchor="middle">多膳客</text>
+   <info transform="translate(522.8477172851562,430.66168212890625) ">
+    <address>西藏中路500号3楼</address>
+    <phone>021-63611088</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="162.994705" y="579.735474" xlink:href="/resource/icon/rest"/>
+   <text x="172.994705" y="599.735474" font-size="3" text-anchor="middle">富茂登</text>
+   <info transform="translate(172.9947052001953,599.7354736328125) ">
+    <address>延安西路2308-2临</address>
+    <phone>021-62191197</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-608.691711" y="1238.991211" xlink:href="/resource/icon/rest"/>
+   <text x="-598.691711" y="1258.991211" font-size="3" text-anchor="middle">35番</text>
+   <info transform="translate(-598.6917114257812,1258.9912109375) ">
+    <address>三湘风情街35</address>
+    <phone>021-33558565</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="683.860291" y="127.810135" xlink:href="/resource/icon/rest"/>
+   <text x="693.860291" y="147.810135" font-size="3" text-anchor="middle">三和亭</text>
+   <info transform="translate(693.8602905273438,147.8101348876953) ">
+    <address>邯郸路549</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="557.157349" y="407.339386" xlink:href="/resource/icon/rest"/>
+   <text x="567.157349" y="427.339386" font-size="3" text-anchor="middle">越味风</text>
+   <info transform="translate(567.1573486328125,427.3393859863281) ">
+    <address>南京东路299号宏伊国际广场地下1层</address>
+    <phone>021-33665505</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="699.151978" y="104.599464" xlink:href="/resource/icon/rest"/>
+   <text x="709.151978" y="124.599464" font-size="3" text-anchor="middle">和米堂</text>
+   <info transform="translate(709.1519775390625,124.5994644165039) ">
+    <address>政通路132-6临</address>
+    <phone>021-55677025</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="513.903564" y="483.315613" xlink:href="/resource/icon/rest"/>
+   <text x="523.903564" y="503.315613" font-size="3" text-anchor="middle">劳瑞斯</text>
+   <info transform="translate(523.903564453125,503.31561279296875) ">
+    <address>太仓路181弄23</address>
+    <phone>021-63870097</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="250.121185" y="710.862061" xlink:href="/resource/icon/rest"/>
+   <text x="260.121185" y="730.862061" font-size="3" text-anchor="middle">屋伊西</text>
+   <info transform="translate(260.1211853027344,730.862060546875) ">
+    <address>上海市徐汇区</address>
+    <phone>021-64519081</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="514.158447" y="484.344177" xlink:href="/resource/icon/rest"/>
+   <text x="524.158447" y="504.344177" font-size="3" text-anchor="middle">老第坊</text>
+   <info transform="translate(524.158447265625,504.34417724609375) ">
+    <address>太仓路181弄22号</address>
+    <phone>021-63365383</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="512.847717" y="410.661682" xlink:href="/resource/icon/rest"/>
+   <text x="522.847717" y="430.661682" font-size="3" text-anchor="middle">爱火炉</text>
+   <info transform="translate(522.8477172851562,430.66168212890625) ">
+    <address>西藏中路500号5楼</address>
+    <phone>021-63507279</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-616.191956" y="1456.55249" xlink:href="/resource/icon/rest"/>
+   <text x="-606.191956" y="1476.55249" font-size="3" text-anchor="middle">韩舍廊</text>
+   <info transform="translate(-606.1919555664062,1476.552490234375) ">
+    <address>中山中路423</address>
+    <phone>021-57717937</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="226.637436" y="558.527283" xlink:href="/resource/icon/rest"/>
+   <text x="236.637436" y="578.527283" font-size="3" text-anchor="middle">平壤馆</text>
+   <info transform="translate(236.63743591308594,578.5272827148438) ">
+    <address>中山西路888</address>
+    <phone>021-62755888</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="34.835415" y="537.428345" xlink:href="/resource/icon/rest"/>
+   <text x="44.835415" y="557.428345" font-size="3" text-anchor="middle">蛋蛋屋</text>
+   <info transform="translate(44.83541488647461,557.4283447265625) ">
+    <address>仙霞西路88号百联西郊2层</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="586.575745" y="445.168213" xlink:href="/resource/icon/rest"/>
+   <text x="596.575745" y="465.168213" font-size="3" text-anchor="middle">味怡坊</text>
+   <info transform="translate(596.5757446289062,465.168212890625) ">
+    <address>安平街49临</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="820.247986" y="397.062958" xlink:href="/resource/icon/rest"/>
+   <text x="830.247986" y="417.062958" font-size="3" text-anchor="middle">金达莱</text>
+   <info transform="translate(830.2479858398438,417.0629577636719) ">
+    <address>商城路2128号</address>
+    <phone>021-68557017</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="100.262184" y="617.655334" xlink:href="/resource/icon/rest"/>
+   <text x="110.262184" y="637.655334" font-size="3" text-anchor="middle">鱼河岸</text>
+   <info transform="translate(110.2621841430664,637.6553344726562) ">
+    <address>虹梅路3717弄20</address>
+    <phone>021-64013183</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="102.483131" y="615.143127" xlink:href="/resource/icon/rest"/>
+   <text x="112.483131" y="635.143127" font-size="3" text-anchor="middle">布卡拉</text>
+   <info transform="translate(112.4831314086914,635.1431274414062) ">
+    <address>虹梅路3729</address>
+    <phone>021-64468800</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="373.43808" y="459.868317" xlink:href="/resource/icon/rest"/>
+   <text x="383.43808" y="479.868317" font-size="3" text-anchor="middle">盼意诺</text>
+   <info transform="translate(383.4380798339844,479.8683166503906) ">
+    <address>北京西路1690</address>
+    <phone>021-62533827</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="1090.401978" y="337.743774" xlink:href="/resource/icon/rest"/>
+   <text x="1100.401978" y="357.743774" font-size="3" text-anchor="middle">苏瓦卡</text>
+   <info transform="translate(1100.4019775390625,357.7437744140625) ">
+    <address>上海市浦东新区</address>
+    <phone>021-53081891</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="365.500946" y="632.783203" xlink:href="/resource/icon/rest"/>
+   <text x="375.500946" y="652.783203" font-size="3" text-anchor="middle">韩中味</text>
+   <info transform="translate(375.5009460449219,652.783203125) ">
+    <address>天钥桥路333号310～312</address>
+    <phone>021-34243595</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="273.823364" y="599.942383" xlink:href="/resource/icon/rest"/>
+   <text x="283.823364" y="619.942383" font-size="3" text-anchor="middle">旬彩亭</text>
+   <info transform="translate(283.8233642578125,619.9423828125) ">
+    <address>凯旋路1669号天星城2层</address>
+    <phone>021-64474637</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="3.450952" y="558.554565" xlink:href="/resource/icon/rest"/>
+   <text x="13.450952" y="578.554565" font-size="3" text-anchor="middle">源吉屋</text>
+   <info transform="translate(13.45095157623291,578.5545654296875) ">
+    <address>新泾路86-2临</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="394.409607" y="584.404907" xlink:href="/resource/icon/rest"/>
+   <text x="404.409607" y="604.404907" font-size="3" text-anchor="middle">喜多屋</text>
+   <info transform="translate(404.40960693359375,604.4049072265625) ">
+    <address>肇嘉浜路789号5楼</address>
+    <phone>021-64228546</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="141.768326" y="604.539001" xlink:href="/resource/icon/rest"/>
+   <text x="151.768326" y="624.539001" font-size="3" text-anchor="middle">福来亭</text>
+   <info transform="translate(151.76832580566406,624.5390014648438) ">
+    <address>荣华西道19弄11号</address>
+    <phone>021-62190437</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="106.160423" y="831.766907" xlink:href="/resource/icon/rest"/>
+   <text x="116.160423" y="851.766907" font-size="3" text-anchor="middle">烤博士</text>
+   <info transform="translate(116.1604232788086,851.7669067382812) ">
+    <address>龙茗路1256</address>
+    <phone>021-54162942</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-982.829468" y="762.32605" xlink:href="/resource/icon/rest"/>
+   <text x="-972.829468" y="782.32605" font-size="3" text-anchor="middle">韩尚轩</text>
+   <info transform="translate(-972.8294677734375,782.3260498046875) ">
+    <address>上海市青浦区</address>
+    <phone>021-39285997</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="206.648956" y="542.780457" xlink:href="/resource/icon/rest"/>
+   <text x="216.648956" y="562.780457" font-size="3" text-anchor="middle">牛车水</text>
+   <info transform="translate(216.64895629882812,562.7804565429688) ">
+    <address>遵义路100号6楼</address>
+    <phone>021-62372686</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="108.781868" y="647.192017" xlink:href="/resource/icon/rest"/>
+   <text x="118.781868" y="667.192017" font-size="3" text-anchor="middle">豚鸟也</text>
+   <info transform="translate(118.78186798095703,667.1920166015625) ">
+    <address>虹梅路3205号</address>
+    <phone>021-64052100</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="634.489807" y="414.575653" xlink:href="/resource/icon/rest"/>
+   <text x="644.489807" y="434.575653" font-size="3" text-anchor="middle">拉蒂娜</text>
+   <info transform="translate(644.4898071289062,434.5756530761719) ">
+    <address>陆家嘴环路165号</address>
+    <phone>021-33830577</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="460.63736" y="471.409912" xlink:href="/resource/icon/rest"/>
+   <text x="470.63736" y="491.409912" font-size="3" text-anchor="middle">八剑伝</text>
+   <info transform="translate(470.6373596191406,491.409912109375) ">
+    <address>瑞金一路8-1</address>
+    <phone>021-62177728</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-251.77536" y="162.562424" xlink:href="/resource/icon/rest"/>
+   <text x="-241.77536" y="182.562424" font-size="3" text-anchor="middle">韩香亭</text>
+   <info transform="translate(-241.77536010742188,182.5624237060547) ">
+    <address>上海市嘉定区</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="375.185699" y="488.977203" xlink:href="/resource/icon/rest"/>
+   <text x="385.185699" y="508.977203" font-size="3" text-anchor="middle">烧肉门</text>
+   <info transform="translate(385.1856994628906,508.9772033691406) ">
+    <address>乌鲁木齐北路425号</address>
+    <phone>021-62481888</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="395.574677" y="537.683228" xlink:href="/resource/icon/rest"/>
+   <text x="405.574677" y="557.683228" font-size="3" text-anchor="middle">食源堂</text>
+   <info transform="translate(405.5746765136719,557.6832275390625) ">
+    <address>东平路15临</address>
+    <phone>021-64454734</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="342.090027" y="582.32959" xlink:href="/resource/icon/rest"/>
+   <text x="352.090027" y="602.32959" font-size="3" text-anchor="middle">费司酪</text>
+   <info transform="translate(352.09002685546875,602.32958984375) ">
+    <address>上海市徐汇区</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="208.396591" y="560.074646" xlink:href="/resource/icon/rest"/>
+   <text x="218.396591" y="580.074646" font-size="3" text-anchor="middle">青叶家</text>
+   <info transform="translate(218.39659118652344,580.0746459960938) ">
+    <address>延安西路2071弄7</address>
+    <phone>021-62757521</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="821.995605" y="501.966064" xlink:href="/resource/icon/rest"/>
+   <text x="831.995605" y="521.966064" font-size="3" text-anchor="middle">锦绣坊</text>
+   <info transform="translate(831.99560546875,521.966064453125) ">
+    <address>锦延路344号附近</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="161.793213" y="593.616333" xlink:href="/resource/icon/rest"/>
+   <text x="171.793213" y="613.616333" font-size="3" text-anchor="middle">三味鱼</text>
+   <info transform="translate(171.793212890625,613.6163330078125) ">
+    <address>荣华东道88号古北太阳广场105室</address>
+    <phone>021-62702119</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="1025.739746" y="-49.091555" xlink:href="/resource/icon/rest"/>
+   <text x="1035.739746" y="-29.091555" font-size="3" text-anchor="middle">金达莱</text>
+   <info transform="translate(1035.73974609375,-29.091554641723633) ">
+    <address>夏碧路261</address>
+    <phone>021-58627878</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="562.873535" y="405.30957" xlink:href="/resource/icon/rest"/>
+   <text x="572.873535" y="425.30957" font-size="3" text-anchor="middle">黑峡谷</text>
+   <info transform="translate(572.87353515625,425.3095703125) ">
+    <address>南京东路233号</address>
+    <phone>021-63210679</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-887.037659" y="1961.407349" xlink:href="/resource/icon/rest"/>
+   <text x="-877.037659" y="1981.407349" font-size="3" text-anchor="middle">多喜美</text>
+   <info transform="translate(-877.0376586914062,1981.4073486328125) ">
+    <address>人民路112</address>
+    <phone>021-57339523</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="50.127148" y="494.529541" xlink:href="/resource/icon/rest"/>
+   <text x="60.127148" y="514.529541" font-size="3" text-anchor="middle">易乐宝</text>
+   <info transform="translate(60.12714767456055,514.529541015625) ">
+    <address>北渔路32</address>
+    <phone>021-26537177</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="196.818558" y="827.734619" xlink:href="/resource/icon/rest"/>
+   <text x="206.818558" y="847.734619" font-size="3" text-anchor="middle">日月星</text>
+   <info transform="translate(206.8185577392578,847.734619140625) ">
+    <address>古美路536临</address>
+    <phone>021-51768859</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="219.501297" y="616.617676" xlink:href="/resource/icon/rest"/>
+   <text x="229.501297" y="636.617676" font-size="3" text-anchor="middle">九州男</text>
+   <info transform="translate(229.5012969970703,636.61767578125) ">
+    <address>古羊路465-1室</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="140.239151" y="601.80835" xlink:href="/resource/icon/rest"/>
+   <text x="150.239151" y="621.80835" font-size="3" text-anchor="middle">海码露</text>
+   <info transform="translate(150.23915100097656,621.808349609375) ">
+    <address>荣华西道99弄</address>
+    <phone>021-62756416</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="115.408287" y="673.624878" xlink:href="/resource/icon/rest"/>
+   <text x="125.408287" y="693.624878" font-size="3" text-anchor="middle">金泰园</text>
+   <info transform="translate(125.40828704833984,693.6248779296875) ">
+    <address>吴中路1050号虹桥盛世莲花广场5幢1层103室</address>
+    <phone>021-64066986</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-68.420197" y="2711.111816" xlink:href="/resource/icon/rest"/>
+   <text x="-58.420197" y="2731.111816" font-size="3" text-anchor="middle">欧大伯</text>
+   <info transform="translate(-58.420196533203125,2731.11181640625) ">
+    <address>中央大道55号</address>
+    <phone>021-57963838</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="474.254303" y="478.91925" xlink:href="/resource/icon/rest"/>
+   <text x="484.254303" y="498.91925" font-size="3" text-anchor="middle">阿瓦隆</text>
+   <info transform="translate(484.2543029785156,498.91925048828125) ">
+    <address>长乐路139-19</address>
+    <phone>021-53820862</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="716.446228" y="446.415222" xlink:href="/resource/icon/rest"/>
+   <text x="726.446228" y="466.415222" font-size="3" text-anchor="middle">斗牛士</text>
+   <info transform="translate(726.4462280273438,466.41522216796875) ">
+    <address>张杨路601号浦东国际美食城</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="2460.83252" y="2026.388062" xlink:href="/resource/icon/rest"/>
+   <text x="2470.83252" y="2046.388062" font-size="3" text-anchor="middle">犇博士</text>
+   <info transform="translate(2470.83251953125,2046.3880615234375) ">
+    <address>沪城环路699弄97号附近</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="51.801956" y="717.99823" xlink:href="/resource/icon/rest"/>
+   <text x="61.801956" y="737.99823" font-size="3" text-anchor="middle">古宝屋</text>
+   <info transform="translate(61.80195617675781,737.9982299804688) ">
+    <address>虹泉路1101弄内</address>
+    <phone>18621272855</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="46.559074" y="719.363525" xlink:href="/resource/icon/rest"/>
+   <text x="56.559074" y="739.363525" font-size="3" text-anchor="middle">迩鱼岛</text>
+   <info transform="translate(56.55907440185547,739.363525390625) ">
+    <address>虹莘路3897临</address>
+    <phone>021-34312884</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="457.72467" y="450.274567" xlink:href="/resource/icon/rest"/>
+   <text x="467.72467" y="470.274567" font-size="3" text-anchor="middle">家族亭</text>
+   <info transform="translate(467.72467041015625,470.2745666503906) ">
+    <address>石门一路211号</address>
+    <phone>021-62173988</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="492.968475" y="483.916382" xlink:href="/resource/icon/rest"/>
+   <text x="502.968475" y="503.916382" font-size="3" text-anchor="middle">新贝乐</text>
+   <info transform="translate(502.9684753417969,503.9163818359375) ">
+    <address>雁荡路33号</address>
+    <phone>021-63853422</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="110.09259" y="680.451538" xlink:href="/resource/icon/rest"/>
+   <text x="120.09259" y="700.451538" font-size="3" text-anchor="middle">五千年</text>
+   <info transform="translate(120.09259033203125,700.4515380859375) ">
+    <address>吴中路1100号炫润国际大厦3楼</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="505.638733" y="566.600952" xlink:href="/resource/icon/rest"/>
+   <text x="515.638733" y="586.600952" font-size="3" text-anchor="middle">水之花</text>
+   <info transform="translate(515.6387329101562,586.6009521484375) ">
+    <address>斜土路688号</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="596.187683" y="116.641708" xlink:href="/resource/icon/rest"/>
+   <text x="606.187683" y="136.641708" font-size="3" text-anchor="middle">烤吃士</text>
+   <info transform="translate(606.1876831054688,136.64170837402344) ">
+    <address>学府街96</address>
+    <phone>021-65440352</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="119.376846" y="636.733582" xlink:href="/resource/icon/rest"/>
+   <text x="129.376846" y="656.733582" font-size="3" text-anchor="middle">札一前</text>
+   <info transform="translate(129.37684631347656,656.7335815429688) ">
+    <address>虹梅路3211号3层</address>
+    <phone>021-54221755</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="110.929993" y="683.773865" xlink:href="/resource/icon/rest"/>
+   <text x="120.929993" y="703.773865" font-size="3" text-anchor="middle">火炉火</text>
+   <info transform="translate(120.92999267578125,703.7738647460938) ">
+    <address>吴中路1099弄2层</address>
+    <phone>021-61513796</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="99.752464" y="616.326416" xlink:href="/resource/icon/rest"/>
+   <text x="109.752464" y="636.326416" font-size="3" text-anchor="middle">新大谷</text>
+   <info transform="translate(109.7524642944336,636.326416015625) ">
+    <address>延安西路3016号</address>
+    <phone>021-64018730</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="162.812653" y="358.915558" xlink:href="/resource/icon/rest"/>
+   <text x="172.812653" y="378.915558" font-size="3" text-anchor="middle">潮汕庄</text>
+   <info transform="translate(172.81265258789062,378.9155578613281) ">
+    <address>大渡河路1625</address>
+    <phone>021-52806769</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="819.88385" y="502.594116" xlink:href="/resource/icon/rest"/>
+   <text x="829.88385" y="522.594116" font-size="3" text-anchor="middle">御味道</text>
+   <info transform="translate(829.8838500976562,522.5941162109375) ">
+    <address>锦延路285号</address>
+    <phone>021-61092979</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="1069.940063" y="1361.980469" xlink:href="/resource/icon/rest"/>
+   <text x="1079.940063" y="1381.980469" font-size="3" text-anchor="middle">韩秀园</text>
+   <info transform="translate(1079.9400634765625,1381.98046875) ">
+    <address>富田路盛高路交界处西南角</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="87.482666" y="962.584045" xlink:href="/resource/icon/rest"/>
+   <text x="97.482666" y="982.584045" font-size="3" text-anchor="middle">越岭阁</text>
+   <info transform="translate(97.482666015625,982.5840454101562) ">
+    <address>水清路189号</address>
+    <phone>021-64135427</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="631.030945" y="416.095703" xlink:href="/resource/icon/rest"/>
+   <text x="641.030945" y="436.095703" font-size="3" text-anchor="middle">庆会楼</text>
+   <info transform="translate(641.0309448242188,436.095703125) ">
+    <address>陆家嘴环路166号未来资产大厦裙楼</address>
+    <phone>021-31352010</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="384.506378" y="469.889862" xlink:href="/resource/icon/rest"/>
+   <text x="394.506378" y="489.889862" font-size="3" text-anchor="middle">和之家</text>
+   <info transform="translate(394.5063781738281,489.8898620605469) ">
+    <address>南京西路1618</address>
+    <phone>021-62889127</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="281.28717" y="535.862732" xlink:href="/resource/icon/rest"/>
+   <text x="291.28717" y="555.862732" font-size="3" text-anchor="middle">禾泽苑</text>
+   <info transform="translate(291.28717041015625,555.8627319335938) ">
+    <address>定西路825-7临</address>
+    <phone>021-62831698</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="196.63652" y="553.430054" xlink:href="/resource/icon/rest"/>
+   <text x="206.63652" y="573.430054" font-size="3" text-anchor="middle">沃歌斯</text>
+   <info transform="translate(206.6365203857422,573.4300537109375) ">
+    <address>仙霞路86</address>
+    <phone>021-52081978</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="306.372894" y="473.831116" xlink:href="/resource/icon/rest"/>
+   <text x="316.372894" y="493.831116" font-size="3" text-anchor="middle">十一月</text>
+   <info transform="translate(316.3728942871094,493.83111572265625) ">
+    <address>江苏路98-5</address>
+    <phone>021-62104052</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="343.837646" y="597.894409" xlink:href="/resource/icon/rest"/>
+   <text x="353.837646" y="617.894409" font-size="3" text-anchor="middle">甫熙苑</text>
+   <info transform="translate(353.837646484375,617.8944091796875) ">
+    <address>虹桥路1号港汇恒隆广场6层602</address>
+    <phone>021-64474805</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="209.124771" y="541.342285" xlink:href="/resource/icon/rest"/>
+   <text x="219.124771" y="561.342285" font-size="3" text-anchor="middle">滋滋星</text>
+   <info transform="translate(219.12477111816406,561.34228515625) ">
+    <address>上海市长宁区</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-482.207214" y="1415.383179" xlink:href="/resource/icon/rest"/>
+   <text x="-472.207214" y="1435.383179" font-size="3" text-anchor="middle">樱木屋</text>
+   <info transform="translate(-472.20721435546875,1435.3831787109375) ">
+    <address>松东路211</address>
+    <phone>021-57745489</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="667.075745" y="106.556442" xlink:href="/resource/icon/rest"/>
+   <text x="677.075745" y="126.556442" font-size="3" text-anchor="middle">B&amp;Q</text>
+   <info transform="translate(677.0757446289062,126.55644226074219) ">
+    <address>大学路289</address>
+    <phone>18916377730</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="315.584351" y="494.447632" xlink:href="/resource/icon/rest"/>
+   <text x="325.584351" y="514.447632" font-size="3" text-anchor="middle">咖乃芗</text>
+   <info transform="translate(325.5843505859375,514.4476318359375) ">
+    <address>江苏路458号舜元·弘基/天地2楼211</address>
+    <phone>021-32506100</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="117.301544" y="634.166748" xlink:href="/resource/icon/rest"/>
+   <text x="127.301544" y="654.166748" font-size="3" text-anchor="middle">满福轩</text>
+   <info transform="translate(127.30154418945312,654.166748046875) ">
+    <address>虹梅路3219临2楼南侧</address>
+    <phone>021-64012102</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="646.504761" y="386.313232" xlink:href="/resource/icon/rest"/>
+   <text x="656.504761" y="406.313232" font-size="3" text-anchor="middle">火车头</text>
+   <info transform="translate(656.5047607421875,406.313232421875) ">
+    <address>陆家嘴环路1318号</address>
+    <phone>021-50151558</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="648.033936" y="386.395172" xlink:href="/resource/icon/rest"/>
+   <text x="658.033936" y="406.395172" font-size="3" text-anchor="middle">南蛮子</text>
+   <info transform="translate(658.033935546875,406.3951721191406) ">
+    <address>陆家嘴环路1318号</address>
+    <phone>021-51575510</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="606.163696" y="446.533539" xlink:href="/resource/icon/rest"/>
+   <text x="616.163696" y="466.533539" font-size="3" text-anchor="middle">都之森</text>
+   <info transform="translate(616.1636962890625,466.5335388183594) ">
+    <address>人民路333</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="57.226883" y="717.315552" xlink:href="/resource/icon/rest"/>
+   <text x="67.226883" y="737.315552" font-size="3" text-anchor="middle">马布城</text>
+   <info transform="translate(67.22688293457031,737.3155517578125) ">
+    <address>虹泉路1051弄</address>
+    <phone>021-34315152</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="701.955505" y="474.104187" xlink:href="/resource/icon/rest"/>
+   <text x="711.955505" y="494.104187" font-size="3" text-anchor="middle">乐馥居</text>
+   <info transform="translate(711.9555053710938,494.10418701171875) ">
+    <address>潍坊西路82</address>
+    <phone>021-58888982</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="372.12735" y="465.320526" xlink:href="/resource/icon/rest"/>
+   <text x="382.12735" y="485.320526" font-size="3" text-anchor="middle">鸿宾楼</text>
+   <info transform="translate(382.1273498535156,485.3205261230469) ">
+    <address>万航渡路75号</address>
+    <phone>021-62885778</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="210.690353" y="567.547607" xlink:href="/resource/icon/rest"/>
+   <text x="220.690353" y="587.547607" font-size="3" text-anchor="middle">W餐厅</text>
+   <info transform="translate(220.6903533935547,587.547607421875) ">
+    <address>延安西路2088号嘉顿广场</address>
+    <phone>021-60837567</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="499.157959" y="484.398804" xlink:href="/resource/icon/rest"/>
+   <text x="509.157959" y="504.398804" font-size="3" text-anchor="middle">蒂利亚</text>
+   <info transform="translate(509.157958984375,504.3988037109375) ">
+    <address>重庆南路30弄1</address>
+    <phone>021-63842723</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="151.198227" y="556.160706" xlink:href="/resource/icon/rest"/>
+   <text x="161.198227" y="576.160706" font-size="3" text-anchor="middle">蝴蝶兰</text>
+   <info transform="translate(161.19822692871094,576.1607055664062) ">
+    <address>芙蓉江路36</address>
+    <phone>021-62111292</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="991.915894" y="-101.884445" xlink:href="/resource/icon/rest"/>
+   <text x="1001.915894" y="-81.884445" font-size="3" text-anchor="middle">济州岛</text>
+   <info transform="translate(1001.9158935546875,-81.88444519042969) ">
+    <address>花山路808号</address>
+    <phone>021-20247758</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="137.217209" y="662.76593" xlink:href="/resource/icon/rest"/>
+   <text x="147.217209" y="682.76593" font-size="3" text-anchor="middle">富茂登</text>
+   <info transform="translate(147.2172088623047,682.7659301757812) ">
+    <address>虹梅路2975号</address>
+    <phone>021-62085151</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="405.587128" y="445.068085" xlink:href="/resource/icon/rest"/>
+   <text x="415.587128" y="465.068085" font-size="3" text-anchor="middle">长寿面</text>
+   <info transform="translate(415.5871276855469,465.0680847167969) ">
+    <address>北京西路1278</address>
+    <phone>021-62890148</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="12.116266" y="694.933167" xlink:href="/resource/icon/rest"/>
+   <text x="22.116266" y="714.933167" font-size="3" text-anchor="middle">草满园</text>
+   <info transform="translate(22.11626625061035,714.9331665039062) ">
+    <address>紫藤路232</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="403.912323" y="467.495972" xlink:href="/resource/icon/rest"/>
+   <text x="413.912323" y="487.495972" font-size="3" text-anchor="middle">福乐居</text>
+   <info transform="translate(413.9123229980469,487.4959716796875) ">
+    <address>嘉里中心107单元</address>
+    <phone>021-52986126</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="477.567505" y="460.860443" xlink:href="/resource/icon/rest"/>
+   <text x="487.567505" y="480.860443" font-size="3" text-anchor="middle">好·时</text>
+   <info transform="translate(487.5675048828125,480.8604431152344) ">
+    <address>大沽路401</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="157.679001" y="599.25061" xlink:href="/resource/icon/rest"/>
+   <text x="167.679001" y="619.25061" font-size="3" text-anchor="middle">清次郎</text>
+   <info transform="translate(167.6790008544922,619.2506103515625) ">
+    <address>黄金城道810</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="435.005524" y="517.976868" xlink:href="/resource/icon/rest"/>
+   <text x="445.005524" y="537.976868" font-size="3" text-anchor="middle">月雅馆</text>
+   <info transform="translate(445.0055236816406,537.9768676757812) ">
+    <address>襄阳南路189</address>
+    <phone>021-64723956</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="81.038292" y="771.164307" xlink:href="/resource/icon/rest"/>
+   <text x="91.038292" y="791.164307" font-size="3" text-anchor="middle">泰象隆</text>
+   <info transform="translate(91.03829193115234,791.164306640625) ">
+    <address>漕宝路1542</address>
+    <phone>021-33887779</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="550.74939" y="313.895966" xlink:href="/resource/icon/rest"/>
+   <text x="560.74939" y="333.895966" font-size="3" text-anchor="middle">汉釜轩</text>
+   <info transform="translate(560.7493896484375,333.8959655761719) ">
+    <address>四川北路1661</address>
+    <phone>021-63075567</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="1113.59436" y="24.454399" xlink:href="/resource/icon/rest"/>
+   <text x="1123.59436" y="44.454399" font-size="3" text-anchor="middle">安田屋</text>
+   <info transform="translate(1123.5943603515625,44.45439910888672) ">
+    <address>华京路8号三联大厦底层B2座</address>
+    <phone>021-50465002</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="514.959412" y="480.157166" xlink:href="/resource/icon/rest"/>
+   <text x="524.959412" y="500.157166" font-size="3" text-anchor="middle">大茴香</text>
+   <info transform="translate(524.9594116210938,500.15716552734375) ">
+    <address>太仓路181弄新天地北里1号楼第3单元</address>
+    <phone>021-53821186,021-53520238</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="456.304718" y="1782.776123" xlink:href="/resource/icon/rest"/>
+   <text x="466.304718" y="1802.776123" font-size="3" text-anchor="middle">韩尚宫</text>
+   <info transform="translate(466.3047180175781,1802.776123046875) ">
+    <address>环城东路646号</address>
+    <phone>021-67109197</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="422.298798" y="497.096375" xlink:href="/resource/icon/rest"/>
+   <text x="432.298798" y="517.096375" font-size="3" text-anchor="middle">樱花堂</text>
+   <info transform="translate(432.2987976074219,517.0963745117188) ">
+    <address>新乐路142-3临</address>
+    <phone>021-54041683</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="427.796539" y="572.280762" xlink:href="/resource/icon/rest"/>
+   <text x="437.796539" y="592.280762" font-size="3" text-anchor="middle">欧陆客</text>
+   <info transform="translate(437.7965393066406,592.28076171875) ">
+    <address>小木桥路10-1临</address>
+    <phone>021-64031931</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="183.492905" y="544.009216" xlink:href="/resource/icon/rest"/>
+   <text x="193.492905" y="564.009216" font-size="3" text-anchor="middle">禾时了</text>
+   <info transform="translate(193.49290466308594,564.0092163085938) ">
+    <address>古北路555弄B5</address>
+    <phone>021-52067688</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="134.923447" y="714.830627" xlink:href="/resource/icon/rest"/>
+   <text x="144.923447" y="734.830627" font-size="3" text-anchor="middle">喜来园</text>
+   <info transform="translate(144.92344665527344,734.8306274414062) ">
+    <address>莲花路1720-2临</address>
+    <phone>021-54221537</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="475.565002" y="461.088013" xlink:href="/resource/icon/rest"/>
+   <text x="485.565002" y="481.088013" font-size="3" text-anchor="middle">娘惹情</text>
+   <info transform="translate(485.56500244140625,481.0880126953125) ">
+    <address>大沽路417号</address>
+    <phone>021-63270800</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="1150.767822" y="577.141357" xlink:href="/resource/icon/rest"/>
+   <text x="1160.767822" y="597.141357" font-size="3" text-anchor="middle">仟佰家</text>
+   <info transform="translate(1160.767822265625,597.141357421875) ">
+    <address>高斯路1120号</address>
+    <phone>18721175661</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="432.529694" y="1885.631348" xlink:href="/resource/icon/rest"/>
+   <text x="442.529694" y="1905.631348" font-size="3" text-anchor="middle">费拉拉</text>
+   <info transform="translate(442.5296936035156,1905.63134765625) ">
+    <address>南桥路142</address>
+    <phone>021-27542800</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="118.575851" y="993.294922" xlink:href="/resource/icon/rest"/>
+   <text x="128.575851" y="1013.294922" font-size="3" text-anchor="middle">泰妃阁</text>
+   <info transform="translate(128.5758514404297,1013.294921875) ">
+    <address>都市路5001号仲盛世界商城4楼18</address>
+    <phone>021-34639777</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="475.45578" y="460.205078" xlink:href="/resource/icon/rest"/>
+   <text x="485.45578" y="480.205078" font-size="3" text-anchor="middle">吉野木</text>
+   <info transform="translate(485.4557800292969,480.205078125) ">
+    <address>大沽路382</address>
+    <phone>021-33311280</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="366.119904" y="613.004089" xlink:href="/resource/icon/rest"/>
+   <text x="376.119904" y="633.004089" font-size="3" text-anchor="middle">柠檬草</text>
+   <info transform="translate(376.1199035644531,633.0040893554688) ">
+    <address>天钥桥路131号永新坊地下1层</address>
+    <phone>021-34281700</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-43.334473" y="439.60675" xlink:href="/resource/icon/rest"/>
+   <text x="-33.334473" y="459.60675" font-size="3" text-anchor="middle">星吉泰</text>
+   <info transform="translate(-33.33447265625,459.60675048828125) ">
+    <address>协和路1051临C110</address>
+    <phone>021-32031300</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="388.802643" y="346.217957" xlink:href="/resource/icon/rest"/>
+   <text x="398.802643" y="366.217957" font-size="3" text-anchor="middle">梦之屋</text>
+   <info transform="translate(398.8026428222656,366.21795654296875) ">
+    <address>远景路97弄56号</address>
+    <phone>021-61175845</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="139.037659" y="572.59021" xlink:href="/resource/icon/rest"/>
+   <text x="149.037659" y="592.59021" font-size="3" text-anchor="middle">金鯱家</text>
+   <info transform="translate(149.03765869140625,592.5902099609375) ">
+    <address>水城路18号和平广场</address>
+    <phone>021-32510680</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="307.392365" y="555.614563" xlink:href="/resource/icon/rest"/>
+   <text x="317.392365" y="575.614563" font-size="3" text-anchor="middle">逐梦园</text>
+   <info transform="translate(317.3923645019531,575.6145629882812) ">
+    <address>番禺路324号</address>
+    <phone>021-62801266</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-1129.994141" y="802.840027" xlink:href="/resource/icon/rest"/>
+   <text x="-1119.994141" y="822.840027" font-size="3" text-anchor="middle">新味觉</text>
+   <info transform="translate(-1119.994140625,822.8400268554688) ">
+    <address>公园路666弄32</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="226.673843" y="593.52533" xlink:href="/resource/icon/rest"/>
+   <text x="236.673843" y="613.52533" font-size="3" text-anchor="middle">八剑伝</text>
+   <info transform="translate(236.67384338378906,613.5253295898438) ">
+    <address>虹桥路1290号附近</address>
+    <phone>021-62783102</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="1335.797852" y="258.153961" xlink:href="/resource/icon/rest"/>
+   <text x="1345.797852" y="278.153961" font-size="3" text-anchor="middle">比萨坊</text>
+   <info transform="translate(1345.7978515625,278.1539611816406) ">
+    <address>民耀路445</address>
+    <phone>021-50216297</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="241.929169" y="543.190063" xlink:href="/resource/icon/rest"/>
+   <text x="251.929169" y="563.190063" font-size="3" text-anchor="middle">小城堡</text>
+   <info transform="translate(251.92916870117188,563.1900634765625) ">
+    <address>延安西路1794</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="325.960876" y="545.192505" xlink:href="/resource/icon/rest"/>
+   <text x="335.960876" y="565.192505" font-size="3" text-anchor="middle">俏号斯</text>
+   <info transform="translate(335.96087646484375,565.1925048828125) ">
+    <address>华山路1415</address>
+    <phone>021-33603058</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="232.244415" y="617.100098" xlink:href="/resource/icon/rest"/>
+   <text x="242.244415" y="637.100098" font-size="3" text-anchor="middle">西贡庭</text>
+   <info transform="translate(242.24441528320312,637.10009765625) ">
+    <address>古羊路399临</address>
+    <phone>021-60570101</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="816.461426" y="503.05835" xlink:href="/resource/icon/rest"/>
+   <text x="826.461426" y="523.05835" font-size="3" text-anchor="middle">托来乐</text>
+   <info transform="translate(826.46142578125,523.058349609375) ">
+    <address>锦延路266号</address>
+    <phone>13651757191</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="485.977966" y="508.601624" xlink:href="/resource/icon/rest"/>
+   <text x="495.977966" y="528.601624" font-size="3" text-anchor="middle">西柏丽</text>
+   <info transform="translate(495.97796630859375,528.6016235351562) ">
+    <address>复兴中路523弄16号思南公馆35号楼1层</address>
+    <phone>021-64183318</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="15.356657" y="709.487671" xlink:href="/resource/icon/rest"/>
+   <text x="25.356657" y="729.487671" font-size="3" text-anchor="middle">南原馆</text>
+   <info transform="translate(25.356657028198242,729.4876708984375) ">
+    <address>紫藤路5临</address>
+    <phone>021-34622629</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="912.690125" y="525.122131" xlink:href="/resource/icon/rest"/>
+   <text x="922.690125" y="545.122131" font-size="3" text-anchor="middle">本杰比</text>
+   <info transform="translate(922.6901245117188,545.1221313476562) ">
+    <address>梅花路1099号博览汇广场1层102</address>
+    <phone>021-60751970</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="111.476128" y="626.976013" xlink:href="/resource/icon/rest"/>
+   <text x="121.476128" y="646.976013" font-size="3" text-anchor="middle">火炉妍</text>
+   <info transform="translate(121.47612762451172,646.9760131835938) ">
+    <address>虹梅路3307-1临</address>
+    <phone>021-64055345</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="208.141724" y="566.173157" xlink:href="/resource/icon/rest"/>
+   <text x="218.141724" y="586.173157" font-size="3" text-anchor="middle">意·味</text>
+   <info transform="translate(218.1417236328125,586.1731567382812) ">
+    <address>延安西路2088号嘉顿商业广场</address>
+    <phone>021-60825116</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="1070.959595" y="323.189331" xlink:href="/resource/icon/rest"/>
+   <text x="1080.959595" y="343.189331" font-size="3" text-anchor="middle">韩情阁</text>
+   <info transform="translate(1080.9595947265625,343.1893310546875) ">
+    <address>台儿庄路638</address>
+    <phone>021-58340628</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="747.284546" y="482.933319" xlink:href="/resource/icon/rest"/>
+   <text x="757.284546" y="502.933319" font-size="3" text-anchor="middle">炭多多</text>
+   <info transform="translate(757.2845458984375,502.9333190917969) ">
+    <address>崂山路706-2号</address>
+    <phone>021-58201875</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="665.146118" y="416.350586" xlink:href="/resource/icon/rest"/>
+   <text x="675.146118" y="436.350586" font-size="3" text-anchor="middle">柚子亭</text>
+   <info transform="translate(675.1461181640625,436.3505859375) ">
+    <address>世纪大道100号上海环球金融中心-2层</address>
+    <phone>021-50159663,50159665</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-865.483582" y="-170.515198" xlink:href="/resource/icon/rest"/>
+   <text x="-855.483582" y="-150.515198" font-size="3" text-anchor="middle">妙香山</text>
+   <info transform="translate(-855.4835815429688,-150.51519775390625) ">
+    <address>祁昌路337</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="71.571983" y="993.795532" xlink:href="/resource/icon/rest"/>
+   <text x="81.571983" y="1013.795532" font-size="3" text-anchor="middle">赤坂亭</text>
+   <info transform="translate(81.57198333740234,1013.7955322265625) ">
+    <address>沪闵路6088号凯德龙之梦闵行店4层24～27</address>
+    <phone>021-33881717</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="366.119904" y="612.958557" xlink:href="/resource/icon/rest"/>
+   <text x="376.119904" y="632.958557" font-size="3" text-anchor="middle">慕格瑞</text>
+   <info transform="translate(376.1199035644531,632.9585571289062) ">
+    <address>天钥桥路131号11</address>
+    <phone>13916072587</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="896.124084" y="528.216919" xlink:href="/resource/icon/rest"/>
+   <text x="906.124084" y="548.216919" font-size="3" text-anchor="middle">花炎坊</text>
+   <info transform="translate(906.1240844726562,548.2169189453125) ">
+    <address>梅花路999弄14</address>
+    <phone>021-50202857</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="524.462158" y="537.774231" xlink:href="/resource/icon/rest"/>
+   <text x="534.462158" y="557.774231" font-size="3" text-anchor="middle">华越楼</text>
+   <info transform="translate(534.462158203125,557.7742309570312) ">
+    <address>蒙自路33</address>
+    <phone>021-33768127</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="402.201111" y="479.79306" xlink:href="/resource/icon/rest"/>
+   <text x="412.201111" y="499.79306" font-size="3" text-anchor="middle">柒寿司</text>
+   <info transform="translate(412.20111083984375,499.7930603027344) ">
+    <address>富民路51号</address>
+    <phone>021-31391527</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="513.976379" y="144.066696" xlink:href="/resource/icon/rest"/>
+   <text x="523.976379" y="164.066696" font-size="3" text-anchor="middle">崎碳烧</text>
+   <info transform="translate(523.9763793945312,164.0666961669922) ">
+    <address>车站南路330弄2～6号</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="501.269684" y="382.672363" xlink:href="/resource/icon/rest"/>
+   <text x="511.269684" y="402.672363" font-size="3" text-anchor="middle">鱼太郎</text>
+   <info transform="translate(511.2696838378906,402.67236328125) ">
+    <address>西藏北路180号</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="549.693481" y="312.039124" xlink:href="/resource/icon/rest"/>
+   <text x="559.693481" y="332.039124" font-size="3" text-anchor="middle">泰泰米</text>
+   <info transform="translate(559.6934814453125,332.03912353515625) ">
+    <address>四川北路1717嘉杰国际广场4层</address>
+    <phone>021-36356277</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="215.241455" y="575.548462" xlink:href="/resource/icon/rest"/>
+   <text x="225.241455" y="595.548462" font-size="3" text-anchor="middle">真木乃</text>
+   <info transform="translate(225.241455078125,595.5484619140625) ">
+    <address>安顺路363号(近伊犁路)</address>
+    <phone>021-32561330</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="208.651443" y="616.872559" xlink:href="/resource/icon/rest"/>
+   <text x="218.651443" y="636.872559" font-size="3" text-anchor="middle">彩美月</text>
+   <info transform="translate(218.6514434814453,636.87255859375) ">
+    <address>古羊路517号-3</address>
+    <phone>021-32080751,13816962227</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="665.146118" y="416.350586" xlink:href="/resource/icon/rest"/>
+   <text x="675.146118" y="436.350586" font-size="3" text-anchor="middle">新元素</text>
+   <info transform="translate(675.1461181640625,436.3505859375) ">
+    <address>世纪大道100号上海环球金融中心2层</address>
+    <phone>021-68774001</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="267.888702" y="492.354126" xlink:href="/resource/icon/rest"/>
+   <text x="277.888702" y="512.354126" font-size="3" text-anchor="middle">食其家</text>
+   <info transform="translate(277.8887023925781,512.3541259765625) ">
+    <address>长宁路823号巴黎春天中山公园店3层</address>
+    <phone>021-32260105</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="416.509796" y="440.899261" xlink:href="/resource/icon/rest"/>
+   <text x="426.509796" y="460.899261" font-size="3" text-anchor="middle">兔子洞</text>
+   <info transform="translate(426.5097961425781,460.8992614746094) ">
+    <address>陕西北路408号</address>
+    <phone>021-32302778</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="411.012054" y="447.525696" xlink:href="/resource/icon/rest"/>
+   <text x="421.012054" y="467.525696" font-size="3" text-anchor="middle">宝寿司</text>
+   <info transform="translate(421.0120544433594,467.52569580078125) ">
+    <address>南阳路94</address>
+    <phone>021-62531134</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="495.881165" y="442.929077" xlink:href="/resource/icon/rest"/>
+   <text x="505.881165" y="462.929077" font-size="3" text-anchor="middle">宝得莱</text>
+   <info transform="translate(505.88116455078125,462.9290771484375) ">
+    <address>黄陂北路227号中区广场1层</address>
+    <phone>021-33662938</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-170.547134" y="391.501526" xlink:href="/resource/icon/rest"/>
+   <text x="-160.547134" y="411.501526" font-size="3" text-anchor="middle">赤坂亭</text>
+   <info transform="translate(-160.54713439941406,411.50152587890625) ">
+    <address>金沙江西路1051弄江桥万达广场3层3032～3033</address>
+    <phone>021-39111717</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="501.269684" y="382.672363" xlink:href="/resource/icon/rest"/>
+   <text x="511.269684" y="402.672363" font-size="3" text-anchor="middle">娘惹情</text>
+   <info transform="translate(511.2696838378906,402.67236328125) ">
+    <address>西藏北路180号</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="139.292511" y="660.699707" xlink:href="/resource/icon/rest"/>
+   <text x="149.292511" y="680.699707" font-size="3" text-anchor="middle">膳野菜</text>
+   <info transform="translate(149.29251098632812,680.69970703125) ">
+    <address>上海市闵行区</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="919.098083" y="520.343445" xlink:href="/resource/icon/rest"/>
+   <text x="929.098083" y="540.343445" font-size="3" text-anchor="middle">诗碧阁</text>
+   <info transform="translate(929.0980834960938,540.3434448242188) ">
+    <address>花木路1378号浦东嘉里城商场2楼L231单元</address>
+    <phone>021-50361177</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="665.146118" y="416.350586" xlink:href="/resource/icon/rest"/>
+   <text x="675.146118" y="436.350586" font-size="3" text-anchor="middle">大茴香</text>
+   <info transform="translate(675.1461181640625,436.3505859375) ">
+    <address>世纪大道100号上海环球金融中心2层</address>
+    <phone>021-61638567</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="524.462158" y="254.849854" xlink:href="/resource/icon/rest"/>
+   <text x="534.462158" y="274.849854" font-size="3" text-anchor="middle">权金城</text>
+   <info transform="translate(534.462158203125,274.849853515625) ">
+    <address>西江湾路388号</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-12.059236" y="495.221313" xlink:href="/resource/icon/rest"/>
+   <text x="-2.059236" y="515.221313" font-size="3" text-anchor="middle">食其家</text>
+   <info transform="translate(-2.0592355728149414,515.2213134765625) ">
+    <address>天山西路541号1层正大生活馆内A-2-2号商铺</address>
+    <phone>021-32221378</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="587.777222" y="-51.003023" xlink:href="/resource/icon/rest"/>
+   <text x="597.777222" y="-31.003023" font-size="3" text-anchor="middle">崎碳烧</text>
+   <info transform="translate(597.7772216796875,-31.003023147583008) ">
+    <address>长逸路258</address>
+    <phone>021-36417617</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="645.485291" y="148.035278" xlink:href="/resource/icon/rest"/>
+   <text x="655.485291" y="168.035278" font-size="3" text-anchor="middle">珍寿司</text>
+   <info transform="translate(655.4852905273438,168.0352783203125) ">
+    <address>国权路531</address>
+    <phone>18964503263</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="785.732361" y="469.735107" xlink:href="/resource/icon/rest"/>
+   <text x="795.732361" y="489.735107" font-size="3" text-anchor="middle">万寿亭</text>
+   <info transform="translate(795.7323608398438,489.735107421875) ">
+    <address>浦电路480号</address>
+    <phone>021-51342599</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="389.676453" y="469.780609" xlink:href="/resource/icon/rest"/>
+   <text x="399.676453" y="489.780609" font-size="3" text-anchor="middle">久留米</text>
+   <info transform="translate(399.67645263671875,489.7806091308594) ">
+    <address>南京西路1601号芮欧百货地下2层</address>
+    <phone>021-22309788</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="316.640228" y="514.791138" xlink:href="/resource/icon/rest"/>
+   <text x="326.640228" y="534.791138" font-size="3" text-anchor="middle">惠比寿</text>
+   <info transform="translate(326.6402282714844,534.7911376953125) ">
+    <address>延安西路953号2层</address>
+    <phone>021-62517385</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="55.879753" y="502.284668" xlink:href="/resource/icon/rest"/>
+   <text x="65.879753" y="522.284668" font-size="3" text-anchor="middle">福路缘</text>
+   <info transform="translate(65.87975311279297,522.28466796875) ">
+    <address>天山西路155号2楼</address>
+    <phone>021-52198076</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="234.210495" y="708.213318" xlink:href="/resource/icon/rest"/>
+   <text x="244.210495" y="728.213318" font-size="3" text-anchor="middle">加怡客</text>
+   <info transform="translate(244.2104949951172,728.2133178710938) ">
+    <address>苍梧路14-19临</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="407.58963" y="549.379578" xlink:href="/resource/icon/rest"/>
+   <text x="417.58963" y="569.379578" font-size="3" text-anchor="middle">布朗石</text>
+   <info transform="translate(417.5896301269531,569.3795776367188) ">
+    <address>永嘉路570号永嘉庭3号楼311</address>
+    <phone>021-60737740</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="231.698273" y="708.213318" xlink:href="/resource/icon/rest"/>
+   <text x="241.698273" y="728.213318" font-size="3" text-anchor="middle">大长今</text>
+   <info transform="translate(241.69827270507812,728.2133178710938) ">
+    <address>上海市徐汇区</address>
+    <phone>021-54043006</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="706.397339" y="416.441589" xlink:href="/resource/icon/rest"/>
+   <text x="716.397339" y="436.441589" font-size="3" text-anchor="middle">和食居</text>
+   <info transform="translate(716.3973388671875,436.44158935546875) ">
+    <address>南泉北路306临</address>
+    <phone>021-61550280</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="920.736511" y="515.064148" xlink:href="/resource/icon/rest"/>
+   <text x="930.736511" y="535.064148" font-size="3" text-anchor="middle">厨餐厅</text>
+   <info transform="translate(930.7365112304688,535.0641479492188) ">
+    <address>花木路1388号浦东嘉里大酒店1楼</address>
+    <phone>021-61698886</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="389.676453" y="469.780609" xlink:href="/resource/icon/rest"/>
+   <text x="399.676453" y="489.780609" font-size="3" text-anchor="middle">墨可思</text>
+   <info transform="translate(399.67645263671875,489.7806091308594) ">
+    <address>南京西路1601号芮欧百货(上海)-2层</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="716.955933" y="446.615479" xlink:href="/resource/icon/rest"/>
+   <text x="726.955933" y="466.615479" font-size="3" text-anchor="middle">新贝乐</text>
+   <info transform="translate(726.9559326171875,466.615478515625) ">
+    <address>张杨路601号华诚大厦浦东食品城3层</address>
+    <phone>021-38689937</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="375.804657" y="255.059204" xlink:href="/resource/icon/rest"/>
+   <text x="385.804657" y="275.059204" font-size="3" text-anchor="middle">宝寿司</text>
+   <info transform="translate(385.8046569824219,275.0592041015625) ">
+    <address>大宁路757</address>
+    <phone>13816347304</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="733.012268" y="486.574219" xlink:href="/resource/icon/rest"/>
+   <text x="743.012268" y="506.574219" font-size="3" text-anchor="middle">宝寿司</text>
+   <info transform="translate(743.0122680664062,506.57421875) ">
+    <address>南泉路393号</address>
+    <phone>15921861232</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="192.012589" y="399.420441" xlink:href="/resource/icon/rest"/>
+   <text x="202.012589" y="419.420441" font-size="3" text-anchor="middle">洋食铺</text>
+   <info transform="translate(202.01258850097656,419.4204406738281) ">
+    <address>桂巷路47</address>
+    <phone>021-69155750</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="366.629608" y="553.211609" xlink:href="/resource/icon/rest"/>
+   <text x="376.629608" y="573.211609" font-size="3" text-anchor="middle">割烹雄</text>
+   <info transform="translate(376.6296081542969,573.2116088867188) ">
+    <address>吴兴路33</address>
+    <phone>021-64667855</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="362.078522" y="485.299896" xlink:href="/resource/icon/rest"/>
+   <text x="372.078522" y="505.299896" font-size="3" text-anchor="middle">面酒房</text>
+   <info transform="translate(372.0785217285156,505.2998962402344) ">
+    <address>南京西路2007-2</address>
+    <phone>021-62481537,021-62528067</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="436.680328" y="488.904388" xlink:href="/resource/icon/rest"/>
+   <text x="446.680328" y="508.904388" font-size="3" text-anchor="middle">贝罗萨</text>
+   <info transform="translate(446.6803283691406,508.9043884277344) ">
+    <address>陕西南路186弄</address>
+    <phone>021-64666396</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="422.043945" y="491.398407" xlink:href="/resource/icon/rest"/>
+   <text x="432.043945" y="511.398407" font-size="3" text-anchor="middle">穗寿司</text>
+   <info transform="translate(432.0439453125,511.3984069824219) ">
+    <address>长乐路427</address>
+    <phone>15921324182</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="111.84021" y="510.458435" xlink:href="/resource/icon/rest"/>
+   <text x="121.84021" y="530.458435" font-size="3" text-anchor="middle">雅笑亭</text>
+   <info transform="translate(121.8402099609375,530.4584350585938) ">
+    <address>天山路341号缤谷广场3楼306号</address>
+    <phone>021-32585100</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="524.971863" y="-349.055298" xlink:href="/resource/icon/rest"/>
+   <text x="534.971863" y="-329.055298" font-size="3" text-anchor="middle">索菲克</text>
+   <info transform="translate(534.9718627929688,-329.0552978515625) ">
+    <address>同济路985临</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="403.111328" y="466.094208" xlink:href="/resource/icon/rest"/>
+   <text x="413.111328" y="486.094208" font-size="3" text-anchor="middle">如乐轩</text>
+   <info transform="translate(413.111328125,486.0942077636719) ">
+    <address>南京西路1515号</address>
+    <phone>021-52985001</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="439.920715" y="527.124634" xlink:href="/resource/icon/rest"/>
+   <text x="449.920715" y="547.124634" font-size="3" text-anchor="middle">盛寿司</text>
+   <info transform="translate(449.92071533203125,547.1246337890625) ">
+    <address>永康路53</address>
+    <phone>13816418701</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="1240.77063" y="577.723877" xlink:href="/resource/icon/rest"/>
+   <text x="1250.77063" y="597.723877" font-size="3" text-anchor="middle">釜膳阁</text>
+   <info transform="translate(1250.7706298828125,597.723876953125) ">
+    <address>益江路135弄51</address>
+    <phone>021-33929700</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="183.20163" y="436.9216" xlink:href="/resource/icon/rest"/>
+   <text x="193.20163" y="456.9216" font-size="3" text-anchor="middle">斯达家</text>
+   <info transform="translate(193.20162963867188,456.9216003417969) ">
+    <address>枣阳路408号</address>
+    <phone>021-62165897</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="111.767395" y="510.604065" xlink:href="/resource/icon/rest"/>
+   <text x="121.767395" y="530.604065" font-size="3" text-anchor="middle">斯比特</text>
+   <info transform="translate(121.76739501953125,530.6040649414062) ">
+    <address>天山路341号缤谷广场2层210室</address>
+    <phone>021-32585778</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="144.498993" y="601.626282" xlink:href="/resource/icon/rest"/>
+   <text x="154.498993" y="621.626282" font-size="3" text-anchor="middle">彩寿司</text>
+   <info transform="translate(154.49899291992188,621.6262817382812) ">
+    <address>水城南路37号万科广场商务楼2层</address>
+    <phone>021-62198063</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="86.972939" y="733.881592" xlink:href="/resource/icon/rest"/>
+   <text x="96.972939" y="753.881592" font-size="3" text-anchor="middle">喜相逢</text>
+   <info transform="translate(96.97293853759766,753.881591796875) ">
+    <address>宜山路2352</address>
+    <phone>021-54789562</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="158.443588" y="513.471313" xlink:href="/resource/icon/rest"/>
+   <text x="168.443588" y="533.471313" font-size="3" text-anchor="middle">桂御苑</text>
+   <info transform="translate(168.44358825683594,533.4713134765625) ">
+    <address>天山路600弄3</address>
+    <phone>021-52896711</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="556.720398" y="351.124054" xlink:href="/resource/icon/rest"/>
+   <text x="566.720398" y="371.124054" font-size="3" text-anchor="middle">饭香亭</text>
+   <info transform="translate(566.7203979492188,371.1240539550781) ">
+    <address>海宁路468-1临</address>
+    <phone>021-63576310</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-13.22432" y="484.025604" xlink:href="/resource/icon/rest"/>
+   <text x="-3.22432" y="504.025604" font-size="3" text-anchor="middle">香喜谷</text>
+   <info transform="translate(-3.2243199348449707,504.0256042480469) ">
+    <address>金钟路633</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="351.993256" y="491.416595" xlink:href="/resource/icon/rest"/>
+   <text x="361.993256" y="511.416595" font-size="3" text-anchor="middle">OLE</text>
+   <info transform="translate(361.9932556152344,511.4165954589844) ">
+    <address>延安西路358-1</address>
+    <phone>021-52135214</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="56.061798" y="713.820313" xlink:href="/resource/icon/rest"/>
+   <text x="66.061798" y="733.820313" font-size="3" text-anchor="middle">塔麦缇</text>
+   <info transform="translate(66.06179809570312,733.8203125) ">
+    <address>虹泉路1078号</address>
+    <phone>021-62956620</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="265.995453" y="507.281799" xlink:href="/resource/icon/rest"/>
+   <text x="275.995453" y="527.281799" font-size="3" text-anchor="middle">后花园</text>
+   <info transform="translate(275.9954528808594,527.2817993164062) ">
+    <address>安化路492-1临</address>
+    <phone>021-62510378</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="717.320007" y="449.846741" xlink:href="/resource/icon/rest"/>
+   <text x="727.320007" y="469.846741" font-size="3" text-anchor="middle">凤来坊</text>
+   <info transform="translate(727.3200073242188,469.84674072265625) ">
+    <address>张杨路560号中融恒瑞国际大厦5楼</address>
+    <phone>021-58359757</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="694.600891" y="454.44339" xlink:href="/resource/icon/rest"/>
+   <text x="704.600891" y="474.44339" font-size="3" text-anchor="middle">亿玛仕</text>
+   <info transform="translate(704.6008911132812,474.4433898925781) ">
+    <address>浦东南路1138号上海湾1层123室</address>
+    <phone>021-61940367</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="140.129913" y="572.289856" xlink:href="/resource/icon/rest"/>
+   <text x="150.129913" y="592.289856" font-size="3" text-anchor="middle">桃太郎</text>
+   <info transform="translate(150.12991333007812,592.2898559570312) ">
+    <address>水城路18号和平广场2楼</address>
+    <phone>021-62091418</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-646.411316" y="1314.375854" xlink:href="/resource/icon/rest"/>
+   <text x="-636.411316" y="1334.375854" font-size="3" text-anchor="middle">新城市</text>
+   <info transform="translate(-636.4113159179688,1334.3758544921875) ">
+    <address>开元地中海商业广场3楼</address>
+    <phone>021-67751198</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="591.199646" y="-284.384003" xlink:href="/resource/icon/rest"/>
+   <text x="601.199646" y="-264.384003" font-size="3" text-anchor="middle">龙之都</text>
+   <info transform="translate(601.1996459960938,-264.3840026855469) ">
+    <address>牡丹江路746</address>
+    <phone>021-56571717</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="12.808035" y="698.191772" xlink:href="/resource/icon/rest"/>
+   <text x="22.808035" y="718.191772" font-size="3" text-anchor="middle">紫燃坊</text>
+   <info transform="translate(22.808034896850586,718.1917724609375) ">
+    <address>紫藤路188</address>
+    <phone>021-34318840</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="453.865326" y="439.197144" xlink:href="/resource/icon/rest"/>
+   <text x="463.865326" y="459.197144" font-size="3" text-anchor="middle">GCX</text>
+   <info transform="translate(463.8653259277344,459.1971435546875) ">
+    <address>吴江路休闲步行街138号2楼(近石门一路)</address>
+    <phone>021-32569877</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="589.670471" y="358.323914" xlink:href="/resource/icon/rest"/>
+   <text x="599.670471" y="378.323914" font-size="3" text-anchor="middle">品寿司</text>
+   <info transform="translate(599.6704711914062,378.32391357421875) ">
+    <address>塘沽路195号</address>
+    <phone>021-63562941</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="527.19281" y="548.187195" xlink:href="/resource/icon/rest"/>
+   <text x="537.19281" y="568.187195" font-size="3" text-anchor="middle">津芝道</text>
+   <info transform="translate(537.1928100585938,568.1871948242188) ">
+    <address>蒙自路169号1号楼108室</address>
+    <phone>021-63029017</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="517.253174" y="420.127991" xlink:href="/resource/icon/rest"/>
+   <text x="527.253174" y="440.127991" font-size="3" text-anchor="middle">白木屋</text>
+   <info transform="translate(527.253173828125,440.12799072265625) ">
+    <address>南京东路819号百联世茂国际广场4层406A</address>
+    <phone>021-53076838</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-56.077583" y="790.888794" xlink:href="/resource/icon/rest"/>
+   <text x="-46.077583" y="810.888794" font-size="3" text-anchor="middle">越岭阁</text>
+   <info transform="translate(-46.07758331298828,810.8887939453125) ">
+    <address>七莘路2945</address>
+    <phone>021-54869745</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="702.02832" y="110.652451" xlink:href="/resource/icon/rest"/>
+   <text x="712.02832" y="130.652451" font-size="3" text-anchor="middle">酷寿司</text>
+   <info transform="translate(712.0283203125,130.65245056152344) ">
+    <address>国济路28-4</address>
+    <phone>18602115228</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="808.160217" y="500.546143" xlink:href="/resource/icon/rest"/>
+   <text x="818.160217" y="520.546143" font-size="3" text-anchor="middle">美伊娜</text>
+   <info transform="translate(818.1602172851562,520.546142578125) ">
+    <address>锦延路156</address>
+    <phone>021-20255953</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="73.93856" y="992.657776" xlink:href="/resource/icon/rest"/>
+   <text x="83.93856" y="1012.657776" font-size="3" text-anchor="middle">喜多丽</text>
+   <info transform="translate(83.93856048583984,1012.6577758789062) ">
+    <address>沪闵路6088号凯德龙之梦闵行店地下1层16/17</address>
+    <phone>021-34719573</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="299.637268" y="341.848877" xlink:href="/resource/icon/rest"/>
+   <text x="309.637268" y="361.848877" font-size="3" text-anchor="middle">宝寿司</text>
+   <info transform="translate(309.63726806640625,361.848876953125) ">
+    <address>宁强路98-2临</address>
+    <phone>13120679786</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-62.849636" y="713.947754" xlink:href="/resource/icon/rest"/>
+   <text x="-52.849636" y="733.947754" font-size="3" text-anchor="middle">高丽宫</text>
+   <info transform="translate(-52.84963607788086,733.94775390625) ">
+    <address>航新路339号</address>
+    <phone>021-54477379</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="364.226624" y="448.572449" xlink:href="/resource/icon/rest"/>
+   <text x="374.226624" y="468.572449" font-size="3" text-anchor="middle">一气屋</text>
+   <info transform="translate(374.22662353515625,468.57244873046875) ">
+    <address>延平路98-3</address>
+    <phone>13818625223</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="146.64711" y="577.414429" xlink:href="/resource/icon/rest"/>
+   <text x="156.64711" y="597.414429" font-size="3" text-anchor="middle">三多岛</text>
+   <info transform="translate(156.64710998535156,597.4144287109375) ">
+    <address>虹桥路1650</address>
+    <phone>021-62080861</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="667.00293" y="204.996979" xlink:href="/resource/icon/rest"/>
+   <text x="677.00293" y="224.996979" font-size="3" text-anchor="middle">健寿司</text>
+   <info transform="translate(677.0029296875,224.99697875976562) ">
+    <address>上海市杨浦区</address>
+    <phone>021-65137234</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="311.797821" y="564.261719" xlink:href="/resource/icon/rest"/>
+   <text x="321.797821" y="584.261719" font-size="3" text-anchor="middle">沃歌斯</text>
+   <info transform="translate(321.7978210449219,584.26171875) ">
+    <address>番禺路483号</address>
+    <phone>021-52395367</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="346.313446" y="623.835754" xlink:href="/resource/icon/rest"/>
+   <text x="356.313446" y="643.835754" font-size="3" text-anchor="middle">伊藤家</text>
+   <info transform="translate(356.3134460449219,643.8357543945312) ">
+    <address>漕溪北路439号上海建国宾馆3楼</address>
+    <phone>021-64399299</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="423.28186" y="448.344879" xlink:href="/resource/icon/rest"/>
+   <text x="433.28186" y="468.344879" font-size="3" text-anchor="middle">江户家</text>
+   <info transform="translate(433.2818603515625,468.3448791503906) ">
+    <address>陕西北路278金鹰国际购物中心7楼</address>
+    <phone>021-62883375</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="411.448975" y="503.759216" xlink:href="/resource/icon/rest"/>
+   <text x="421.448975" y="523.759216" font-size="3" text-anchor="middle">寿司屋</text>
+   <info transform="translate(421.448974609375,523.7592163085938) ">
+    <address>延庆路36</address>
+    <phone>021-34613330</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="486.378448" y="537.683228" xlink:href="/resource/icon/rest"/>
+   <text x="496.378448" y="557.683228" font-size="3" text-anchor="middle">丹咖啡</text>
+   <info transform="translate(496.3784484863281,557.6832275390625) ">
+    <address>泰康路248弄41后门</address>
+    <phone>021-64661042</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="323.375854" y="508.28302" xlink:href="/resource/icon/rest"/>
+   <text x="333.375854" y="528.28302" font-size="3" text-anchor="middle">妙寿司</text>
+   <info transform="translate(333.3758544921875,528.2830200195312) ">
+    <address>江苏路585</address>
+    <phone>15900789842</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="182.655502" y="523.847839" xlink:href="/resource/icon/rest"/>
+   <text x="192.655502" y="543.847839" font-size="3" text-anchor="middle">矢作川</text>
+   <info transform="translate(192.65550231933594,543.8478393554688) ">
+    <address>天山路762号泓鑫时尚广场地下2层</address>
+    <phone>021-62335184</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="425.939697" y="381.216003" xlink:href="/resource/icon/rest"/>
+   <text x="435.939697" y="401.216003" font-size="3" text-anchor="middle">丰味坊</text>
+   <info transform="translate(435.939697265625,401.21600341796875) ">
+    <address>恒丰路338号上海浦西万怡酒店2层</address>
+    <phone>021-22153888</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="680.182983" y="439.151642" xlink:href="/resource/icon/rest"/>
+   <text x="690.182983" y="459.151642" font-size="3" text-anchor="middle">特莱士</text>
+   <info transform="translate(690.1829833984375,459.1516418457031) ">
+    <address>浦城路111临</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="268.980988" y="593.798401" xlink:href="/resource/icon/rest"/>
+   <text x="278.980988" y="613.798401" font-size="3" text-anchor="middle">虎小厨</text>
+   <info transform="translate(278.9809875488281,613.7984008789062) ">
+    <address>长宁区凯旋路1509号</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="421.315765" y="451.366821" xlink:href="/resource/icon/rest"/>
+   <text x="431.315765" y="471.366821" font-size="3" text-anchor="middle">世柏奇</text>
+   <info transform="translate(431.3157653808594,471.3668212890625) ">
+    <address>南京西路1266号恒隆广场B1楼</address>
+    <phone>021-62882658</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="419.750183" y="449.710236" xlink:href="/resource/icon/rest"/>
+   <text x="429.750183" y="469.710236" font-size="3" text-anchor="middle">登喜路</text>
+   <info transform="translate(429.75018310546875,469.7102355957031) ">
+    <address>南京西路1266号Plaza66恒隆广场1层111A</address>
+    <phone>021-62880330</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="807.432007" y="500.364075" xlink:href="/resource/icon/rest"/>
+   <text x="817.432007" y="520.364075" font-size="3" text-anchor="middle">和食膳</text>
+   <info transform="translate(817.4320068359375,520.3640747070312) ">
+    <address>锦延路142</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="665.692261" y="276.358398" xlink:href="/resource/icon/rest"/>
+   <text x="675.692261" y="296.358398" font-size="3" text-anchor="middle">锦寿司</text>
+   <info transform="translate(675.6922607421875,296.3583984375) ">
+    <address>飞虹路568弄海上海·弘基/休闲广场E1-3</address>
+    <phone>021-31252323</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="161.429123" y="623.380615" xlink:href="/resource/icon/rest"/>
+   <text x="171.429123" y="643.380615" font-size="3" text-anchor="middle">海鲜烧</text>
+   <info transform="translate(171.4291229248047,643.380615234375) ">
+    <address>翠钰南路21</address>
+    <phone>021-64050900</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="160.773758" y="623.289612" xlink:href="/resource/icon/rest"/>
+   <text x="170.773758" y="643.289612" font-size="3" text-anchor="middle">开心站</text>
+   <info transform="translate(170.7737579345703,643.2896118164062) ">
+    <address>翠钰南路19</address>
+    <phone>021-64010143</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="154.475021" y="461.588623" xlink:href="/resource/icon/rest"/>
+   <text x="164.475021" y="481.588623" font-size="3" text-anchor="middle">汉拿山</text>
+   <info transform="translate(164.4750213623047,481.588623046875) ">
+    <address>大渡河路452号3楼</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-59.317974" y="779.893311" xlink:href="/resource/icon/rest"/>
+   <text x="-49.317974" y="799.893311" font-size="3" text-anchor="middle">可瑞安</text>
+   <info transform="translate(-49.31797409057617,799.893310546875) ">
+    <address>漕宝路3509号汇宝购物广场1层</address>
+    <phone>15000842987</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="630.37561" y="405.964935" xlink:href="/resource/icon/rest"/>
+   <text x="640.37561" y="425.964935" font-size="3" text-anchor="middle">倍可意</text>
+   <info transform="translate(640.3756103515625,425.9649353027344) ">
+    <address>陆家嘴西路168号正大广场地下2层</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="483.247284" y="549.425049" xlink:href="/resource/icon/rest"/>
+   <text x="493.247284" y="569.425049" font-size="3" text-anchor="middle">妙寿司</text>
+   <info transform="translate(493.2472839355469,569.425048828125) ">
+    <address>徐家汇路618号日月光中心泰康区地下2层TK33</address>
+    <phone>15800418548</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="391.788147" y="498.498108" xlink:href="/resource/icon/rest"/>
+   <text x="401.788147" y="518.498108" font-size="3" text-anchor="middle">雅笑亭</text>
+   <info transform="translate(401.78814697265625,518.4981079101562) ">
+    <address>常熟路83神州商务大楼4楼</address>
+    <phone>021-60751033</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-94.48896" y="739.843567" xlink:href="/resource/icon/rest"/>
+   <text x="-84.48896" y="759.843567" font-size="3" text-anchor="middle">雅尔村</text>
+   <info transform="translate(-84.48896026611328,759.8435668945312) ">
+    <address>七莘路3655号凯德七宝购物广场1层</address>
+    <phone>021-34686517</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="630.37561" y="405.964935" xlink:href="/resource/icon/rest"/>
+   <text x="640.37561" y="425.964935" font-size="3" text-anchor="middle">萨利亚</text>
+   <info transform="translate(640.3756103515625,425.9649353027344) ">
+    <address>陆家嘴西路168号正大广场8层</address>
+    <phone>021-50470632</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="342.818207" y="658.151123" xlink:href="/resource/icon/rest"/>
+   <text x="352.818207" y="678.151123" font-size="3" text-anchor="middle">凡凡屋</text>
+   <info transform="translate(352.8182067871094,678.151123046875) ">
+    <address>零陵路899号飞洲国际广场B1-16</address>
+    <phone>021-51506177</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="93.016815" y="655.393127" xlink:href="/resource/icon/rest"/>
+   <text x="103.016815" y="675.393127" font-size="3" text-anchor="middle">猫呢基</text>
+   <info transform="translate(103.01681518554688,675.3931274414062) ">
+    <address>虹中路375临</address>
+    <phone>021-34316280</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="320.900055" y="347.537781" xlink:href="/resource/icon/rest"/>
+   <text x="330.900055" y="367.537781" font-size="3" text-anchor="middle">铁留香</text>
+   <info transform="translate(330.9000549316406,367.53778076171875) ">
+    <address>中山北路1855号乐购光新店1层</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="537.969849" y="453.687897" xlink:href="/resource/icon/rest"/>
+   <text x="547.969849" y="473.687897" font-size="3" text-anchor="middle">爱寿司</text>
+   <info transform="translate(547.9698486328125,473.6878967285156) ">
+    <address>金陵东路500号B2层</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="43.245865" y="681.207031" xlink:href="/resource/icon/rest"/>
+   <text x="53.245865" y="701.207031" font-size="3" text-anchor="middle">食其家</text>
+   <info transform="translate(53.24586486816406,701.20703125) ">
+    <address>虹井路288号乐虹坊精致生活广场1层107</address>
+    <phone>021-34221703</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="147.848602" y="303.346497" xlink:href="/resource/icon/rest"/>
+   <text x="157.848602" y="323.346497" font-size="3" text-anchor="middle">萨莉亚</text>
+   <info transform="translate(157.84860229492188,323.34649658203125) ">
+    <address>桃浦路328号家乐福1层</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="905.007874" y="450.392883" xlink:href="/resource/icon/rest"/>
+   <text x="915.007874" y="470.392883" font-size="3" text-anchor="middle">蓝枪鱼</text>
+   <info transform="translate(915.0078735351562,470.39288330078125) ">
+    <address>芳甸路199弄17号大拇指广场</address>
+    <phone>021-68867876</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="417.602051" y="441.017609" xlink:href="/resource/icon/rest"/>
+   <text x="427.602051" y="461.017609" font-size="3" text-anchor="middle">满金香</text>
+   <info transform="translate(427.60205078125,461.0176086425781) ">
+    <address>北京西路1124-2</address>
+    <phone>021-62666646</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="524.462158" y="254.922668" xlink:href="/resource/icon/rest"/>
+   <text x="534.462158" y="274.922668" font-size="3" text-anchor="middle">巴厘泰</text>
+   <info transform="translate(534.462158203125,274.92266845703125) ">
+    <address>西江湾路388号凯德龙之梦·虹口广场B区05-13A</address>
+    <phone>021-60703118</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="534.146912" y="245.774933" xlink:href="/resource/icon/rest"/>
+   <text x="544.146912" y="265.774933" font-size="3" text-anchor="middle">握料理</text>
+   <info transform="translate(544.1469116210938,265.7749328613281) ">
+    <address>西江湾路476号</address>
+    <phone>18817300848</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="35.308727" y="688.552551" xlink:href="/resource/icon/rest"/>
+   <text x="45.308727" y="708.552551" font-size="3" text-anchor="middle">贝沙湾</text>
+   <info transform="translate(45.3087272644043,708.5525512695312) ">
+    <address>老虹井路351号</address>
+    <phone>13564284777</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="504.582886" y="547.058472" xlink:href="/resource/icon/rest"/>
+   <text x="514.582886" y="567.058472" font-size="3" text-anchor="middle">三千里</text>
+   <info transform="translate(514.5828857421875,567.0584716796875) ">
+    <address>斜徐路587</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="450.479279" y="543.326599" xlink:href="/resource/icon/rest"/>
+   <text x="460.479279" y="563.326599" font-size="3" text-anchor="middle">樱花祭</text>
+   <info transform="translate(460.4792785644531,563.3265991210938) ">
+    <address>上海市徐汇区</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="220.884842" y="558.845886" xlink:href="/resource/icon/rest"/>
+   <text x="230.884842" y="578.845886" font-size="3" text-anchor="middle">幸正宗</text>
+   <info transform="translate(230.8848419189453,578.8458862304688) ">
+    <address>延安西路2000号虹桥宾馆1层</address>
+    <phone>021-62701828</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="302.258698" y="443.202148" xlink:href="/resource/icon/rest"/>
+   <text x="312.258698" y="463.202148" font-size="3" text-anchor="middle">荷凤轩</text>
+   <info transform="translate(312.2586975097656,463.2021484375) ">
+    <address>万航渡路889号悦达889plaza4层11</address>
+    <phone>021-32527868</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="485.759491" y="537.364624" xlink:href="/resource/icon/rest"/>
+   <text x="495.759491" y="557.364624" font-size="3" text-anchor="middle">空红罗</text>
+   <info transform="translate(495.7594909667969,557.3646240234375) ">
+    <address>泰康路248弄47</address>
+    <phone>021-54659902</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="255.072784" y="488.758759" xlink:href="/resource/icon/rest"/>
+   <text x="265.072784" y="508.758759" font-size="3" text-anchor="middle">宝寿司</text>
+   <info transform="translate(265.0727844238281,508.7587585449219) ">
+    <address>汇川路160号玫瑰坊-1层-68B</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="255.072784" y="488.758759" xlink:href="/resource/icon/rest"/>
+   <text x="265.072784" y="508.758759" font-size="3" text-anchor="middle">雅洲汇</text>
+   <info transform="translate(265.0727844238281,508.7587585449219) ">
+    <address>汇川路160号B1-50</address>
+    <phone>021-52419891</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="56.353065" y="656.148621" xlink:href="/resource/icon/rest"/>
+   <text x="66.353065" y="676.148621" font-size="3" text-anchor="middle">多乐房</text>
+   <info transform="translate(66.35306549072266,676.1486206054688) ">
+    <address>红松路100号</address>
+    <phone>021-54845521</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="270.25528" y="558.026672" xlink:href="/resource/icon/rest"/>
+   <text x="280.25528" y="578.026672" font-size="3" text-anchor="middle">新捞坊</text>
+   <info transform="translate(280.2552795410156,578.0266723632812) ">
+    <address>新华路660号</address>
+    <phone>021-62828030</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="513.503052" y="410.206573" xlink:href="/resource/icon/rest"/>
+   <text x="523.503052" y="430.206573" font-size="3" text-anchor="middle">家族亭</text>
+   <info transform="translate(523.5030517578125,430.2065734863281) ">
+    <address>西藏中路500号</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="512.556458" y="410.707214" xlink:href="/resource/icon/rest"/>
+   <text x="522.556458" y="430.707214" font-size="3" text-anchor="middle">善知乌</text>
+   <info transform="translate(522.5564575195312,430.70721435546875) ">
+    <address>西藏中路500号思源商厦6楼</address>
+    <phone>021-33301183</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="343.874054" y="590.203003" xlink:href="/resource/icon/rest"/>
+   <text x="353.874054" y="610.203003" font-size="3" text-anchor="middle">渔寿司</text>
+   <info transform="translate(353.8740539550781,610.2030029296875) ">
+    <address>华山路2038号百联徐汇商业广场3层302室</address>
+    <phone>021-54070488</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="360.986237" y="548.669556" xlink:href="/resource/icon/rest"/>
+   <text x="370.986237" y="568.669556" font-size="3" text-anchor="middle">御香海</text>
+   <info transform="translate(370.9862365722656,568.6695556640625) ">
+    <address>淮海中路1720-6</address>
+    <phone>021-64717657</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="342.708984" y="412.891724" xlink:href="/resource/icon/rest"/>
+   <text x="352.708984" y="432.891724" font-size="3" text-anchor="middle">越之味</text>
+   <info transform="translate(352.708984375,432.8917236328125) ">
+    <address>安远路609号</address>
+    <phone>15026528010</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="1122.696655" y="191.662216" xlink:href="/resource/icon/rest"/>
+   <text x="1132.696655" y="211.662216" font-size="3" text-anchor="middle">大长金</text>
+   <info transform="translate(1132.6966552734375,211.66221618652344) ">
+    <address>双桥路906</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="400.562714" y="538.074585" xlink:href="/resource/icon/rest"/>
+   <text x="410.562714" y="558.074585" font-size="3" text-anchor="middle">藏珑坊</text>
+   <info transform="translate(410.5627136230469,558.0745849609375) ">
+    <address>东平路9-3临</address>
+    <phone>021-64731021</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="601.321289" y="118.480362" xlink:href="/resource/icon/rest"/>
+   <text x="611.321289" y="138.480362" font-size="3" text-anchor="middle">金壵阁</text>
+   <info transform="translate(611.3212890625,138.48036193847656) ">
+    <address>学府街64号</address>
+    <phone>021-65446877</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="207.704819" y="566.810303" xlink:href="/resource/icon/rest"/>
+   <text x="217.704819" y="586.810303" font-size="3" text-anchor="middle">盛贺美</text>
+   <info transform="translate(217.70481872558594,586.810302734375) ">
+    <address>延安西路2088号嘉顿商业广场B106</address>
+    <phone>021-62788621</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="208.578629" y="566.582764" xlink:href="/resource/icon/rest"/>
+   <text x="218.578629" y="586.582764" font-size="3" text-anchor="middle">浪漫亭</text>
+   <info transform="translate(218.57862854003906,586.582763671875) ">
+    <address>延安西路2088号嘉顿广场1楼</address>
+    <phone>021-60402981</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="243.640396" y="261.157684" xlink:href="/resource/icon/rest"/>
+   <text x="253.640396" y="281.157684" font-size="3" text-anchor="middle">宝寿司</text>
+   <info transform="translate(253.64039611816406,281.1576843261719) ">
+    <address>大华路311-1临</address>
+    <phone>15021473281</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="190.410599" y="617.100098" xlink:href="/resource/icon/rest"/>
+   <text x="200.410599" y="637.100098" font-size="3" text-anchor="middle">正一品</text>
+   <info transform="translate(200.4105987548828,637.10009765625) ">
+    <address>伊犁南路111号钱江商务广场101室</address>
+    <phone>021-54777039</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="433.694794" y="472.647827" xlink:href="/resource/icon/rest"/>
+   <text x="443.694794" y="492.647827" font-size="3" text-anchor="middle">桥餐厅</text>
+   <info transform="translate(443.6947937011719,492.6478271484375) ">
+    <address>陕西南路5～7号城市酒店1楼</address>
+    <phone>021-62340781</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="821.704346" y="487.029327" xlink:href="/resource/icon/rest"/>
+   <text x="831.704346" y="507.029327" font-size="3" text-anchor="middle">拉蒂娜</text>
+   <info transform="translate(831.704345703125,507.0293273925781) ">
+    <address>世纪大道2002号亚太盛汇南广场B1-B2楼</address>
+    <phone>021-68545484</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="559.451111" y="406.747742" xlink:href="/resource/icon/rest"/>
+   <text x="569.451111" y="426.747742" font-size="3" text-anchor="middle">泰妃阁</text>
+   <info transform="translate(569.4511108398438,426.74774169921875) ">
+    <address>南京东路299号宏伊国际广场5层501～504</address>
+    <phone>021-63351777</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="224.016006" y="434.418488" xlink:href="/resource/icon/rest"/>
+   <text x="234.016006" y="454.418488" font-size="3" text-anchor="middle">赤坂亭</text>
+   <info transform="translate(234.01600646972656,454.4184875488281) ">
+    <address>中山北路3300号上海环球港3层L3048</address>
+    <phone>021-63521717</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="330.948914" y="505.415833" xlink:href="/resource/icon/rest"/>
+   <text x="340.948914" y="525.415833" font-size="3" text-anchor="middle">悠乐亭</text>
+   <info transform="translate(340.94891357421875,525.4158325195312) ">
+    <address>延安西路678</address>
+    <phone>021-62457818</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="224.016006" y="434.418488" xlink:href="/resource/icon/rest"/>
+   <text x="234.016006" y="454.418488" font-size="3" text-anchor="middle">颂阁岚</text>
+   <info transform="translate(234.01600646972656,454.4184875488281) ">
+    <address>中山北路3300号上海环球港4层L4106</address>
+    <phone>021-52897277</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="442.360107" y="473.011902" xlink:href="/resource/icon/rest"/>
+   <text x="452.360107" y="493.011902" font-size="3" text-anchor="middle">浅野府</text>
+   <info transform="translate(452.360107421875,493.01190185546875) ">
+    <address>巨鹿路318号</address>
+    <phone>021-62162019</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="410.93924" y="429.002655" xlink:href="/resource/icon/rest"/>
+   <text x="420.93924" y="449.002655" font-size="3" text-anchor="middle">ZIi</text>
+   <info transform="translate(420.9392395019531,449.0026550292969) ">
+    <address>陕西北路600号</address>
+    <phone>18621337057</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="655.242859" y="486.11911" xlink:href="/resource/icon/rest"/>
+   <text x="665.242859" y="506.11911" font-size="3" text-anchor="middle">鼎盛阁</text>
+   <info transform="translate(665.2428588867188,506.1191101074219) ">
+    <address>中山南路505弄老码头5号楼2楼</address>
+    <phone>021-61526590</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="556.538391" y="283.367096" xlink:href="/resource/icon/rest"/>
+   <text x="566.538391" y="303.367096" font-size="3" text-anchor="middle">水之屋</text>
+   <info transform="translate(566.5383911132812,303.3670959472656) ">
+    <address>四川北路2002弄17号东泰休闲广场2楼</address>
+    <phone>021-55157038</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="716.955933" y="446.615479" xlink:href="/resource/icon/rest"/>
+   <text x="726.955933" y="466.615479" font-size="3" text-anchor="middle">金焗坊</text>
+   <info transform="translate(726.9559326171875,466.615478515625) ">
+    <address>张杨路601号华诚大厦浦东食品城1层</address>
+    <phone>15021717170</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="154.438614" y="545.05603" xlink:href="/resource/icon/rest"/>
+   <text x="164.438614" y="565.05603" font-size="3" text-anchor="middle">大和田</text>
+   <info transform="translate(164.43861389160156,565.0560302734375) ">
+    <address>芙蓉江路81临</address>
+    <phone>021-62412635</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="234.465347" y="615.234131" xlink:href="/resource/icon/rest"/>
+   <text x="244.465347" y="635.234131" font-size="3" text-anchor="middle">玉海力</text>
+   <info transform="translate(244.46534729003906,635.234130859375) ">
+    <address>宋园109号3楼(近宋园路)</address>
+    <phone>021-32095771</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="564.657593" y="420.310059" xlink:href="/resource/icon/rest"/>
+   <text x="574.657593" y="440.310059" font-size="3" text-anchor="middle">淘客吃</text>
+   <info transform="translate(574.6575927734375,440.31005859375) ">
+    <address>河南中路221</address>
+    <phone>021-63463735</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="347.842621" y="619.739746" xlink:href="/resource/icon/rest"/>
+   <text x="357.842621" y="639.739746" font-size="3" text-anchor="middle">优丽馆</text>
+   <info transform="translate(357.8426208496094,639.73974609375) ">
+    <address>漕溪北路339号百脑汇徐汇店5层5X02</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="418.985596" y="455.763214" xlink:href="/resource/icon/rest"/>
+   <text x="428.985596" y="475.763214" font-size="3" text-anchor="middle">碧琳馆</text>
+   <info transform="translate(428.985595703125,475.7632141113281) ">
+    <address>南京西路1225号上海锦沧文华大酒店2楼</address>
+    <phone>021-62791888</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="141.549866" y="-116.402489" xlink:href="/resource/icon/rest"/>
+   <text x="151.549866" y="-96.402489" font-size="3" text-anchor="middle">金泉家</text>
+   <info transform="translate(151.54986572265625,-96.4024887084961) ">
+    <address>顾北路455</address>
+    <phone>15221147060</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="317.222748" y="221.380981" xlink:href="/resource/icon/rest"/>
+   <text x="327.222748" y="241.380981" font-size="3" text-anchor="middle">鱼天地</text>
+   <info transform="translate(327.2227478027344,241.3809814453125) ">
+    <address>灵石路921号</address>
+    <phone>021-56539300</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="138.491516" y="1025.926392" xlink:href="/resource/icon/rest"/>
+   <text x="148.491516" y="1045.926392" font-size="3" text-anchor="middle">加贺屋</text>
+   <info transform="translate(148.49151611328125,1045.9263916015625) ">
+    <address>都市路4654号2层</address>
+    <phone>021-64605163</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="367.831116" y="644.497803" xlink:href="/resource/icon/rest"/>
+   <text x="377.831116" y="664.497803" font-size="3" text-anchor="middle">金爸爸</text>
+   <info transform="translate(377.83111572265625,664.497802734375) ">
+    <address>零陵路713</address>
+    <phone>021-31759720</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="885.128601" y="649.048889" xlink:href="/resource/icon/rest"/>
+   <text x="895.128601" y="669.048889" font-size="3" text-anchor="middle">汉釜宫</text>
+   <info transform="translate(895.1286010742188,669.0488891601562) ">
+    <address>北中路187弄18号</address>
+    <phone>13817491877</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="343.692017" y="410.525146" xlink:href="/resource/icon/rest"/>
+   <text x="353.692017" y="430.525146" font-size="3" text-anchor="middle">古宫炭</text>
+   <info transform="translate(353.6920166015625,430.525146484375) ">
+    <address>安远路534</address>
+    <phone>13661755385</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="390.00412" y="473.376007" xlink:href="/resource/icon/rest"/>
+   <text x="400.00412" y="493.376007" font-size="3" text-anchor="middle">乐太阁</text>
+   <info transform="translate(400.0041198730469,493.3760070800781) ">
+    <address>南京西路1601号芮欧百货1层1E(近常德路)</address>
+    <phone>021-32530711</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="524.789856" y="478.56427" xlink:href="/resource/icon/rest"/>
+   <text x="534.789856" y="498.56427" font-size="3" text-anchor="middle">花笼味</text>
+   <info transform="translate(534.7898559570312,498.56427001953125) ">
+    <address>济南路9号九号商场2层</address>
+    <phone>021-53832829</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="555.336914" y="350.723541" xlink:href="/resource/icon/rest"/>
+   <text x="565.336914" y="370.723541" font-size="3" text-anchor="middle">金达莱</text>
+   <info transform="translate(565.3369140625,370.7235412597656) ">
+    <address>海宁路470-2临</address>
+    <phone>021-63336828</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="204.537247" y="549.106506" xlink:href="/resource/icon/rest"/>
+   <text x="214.537247" y="569.106506" font-size="3" text-anchor="middle">咖葡莉</text>
+   <info transform="translate(214.53724670410156,569.1065063476562) ">
+    <address>仙霞路99号尚嘉中心LG2层</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="254.963562" y="488.895294" xlink:href="/resource/icon/rest"/>
+   <text x="264.963562" y="508.895294" font-size="3" text-anchor="middle">食一抖</text>
+   <info transform="translate(264.96356201171875,508.8952941894531) ">
+    <address>汇川路160号玫瑰坊2层</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="224.016006" y="434.418488" xlink:href="/resource/icon/rest"/>
+   <text x="234.016006" y="454.418488" font-size="3" text-anchor="middle">赛露芭</text>
+   <info transform="translate(234.01600646972656,454.4184875488281) ">
+    <address>中山北路3300号上海环球港地下1层B1059</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="1019.368164" y="574.592712" xlink:href="/resource/icon/rest"/>
+   <text x="1029.368164" y="594.592712" font-size="3" text-anchor="middle">粥故事</text>
+   <info transform="translate(1029.3681640625,594.5927124023438) ">
+    <address>碧波路635号上海传奇商业广场1楼</address>
+    <phone>13661638181</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="320.317505" y="1417.367432" xlink:href="/resource/icon/rest"/>
+   <text x="330.317505" y="1437.367432" font-size="3" text-anchor="middle">斯达家</text>
+   <info transform="translate(330.3175048828125,1437.367431640625) ">
+    <address>永平路186号2层</address>
+    <phone>021-34201101</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="194.342758" y="566.082153" xlink:href="/resource/icon/rest"/>
+   <text x="204.342758" y="586.082153" font-size="3" text-anchor="middle">虎连坊</text>
+   <info transform="translate(204.34275817871094,586.0821533203125) ">
+    <address>延安西路2201号上海国际贸易中心1楼东侧</address>
+    <phone>021-62361388</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="237.70575" y="244.637146" xlink:href="/resource/icon/rest"/>
+   <text x="247.70575" y="264.637146" font-size="3" text-anchor="middle">月珑纱</text>
+   <info transform="translate(247.70574951171875,264.63714599609375) ">
+    <address>大华二路209</address>
+    <phone>15921890638</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="238.870819" y="247.777435" xlink:href="/resource/icon/rest"/>
+   <text x="248.870819" y="267.777435" font-size="3" text-anchor="middle">海码露</text>
+   <info transform="translate(248.87081909179688,267.7774353027344) ">
+    <address>大华路538号澳洲广场2楼</address>
+    <phone>18616025288</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="254.963562" y="488.895294" xlink:href="/resource/icon/rest"/>
+   <text x="264.963562" y="508.895294" font-size="3" text-anchor="middle">米可可</text>
+   <info transform="translate(264.96356201171875,508.8952941894531) ">
+    <address>汇川路160号玫瑰坊2层</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="570.628601" y="516.247437" xlink:href="/resource/icon/rest"/>
+   <text x="580.628601" y="536.247437" font-size="3" text-anchor="middle">耘寿司</text>
+   <info transform="translate(580.6286010742188,536.2474365234375) ">
+    <address>大林路74</address>
+    <phone>18721218628</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="27.808498" y="693.558777" xlink:href="/resource/icon/rest"/>
+   <text x="37.808498" y="713.558777" font-size="3" text-anchor="middle">小草屋</text>
+   <info transform="translate(37.80849838256836,713.5587768554688) ">
+    <address>白樟路111弄17</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="28.645901" y="693.422241" xlink:href="/resource/icon/rest"/>
+   <text x="38.645901" y="713.422241" font-size="3" text-anchor="middle">一品香</text>
+   <info transform="translate(38.64590072631836,713.4222412109375) ">
+    <address>上海市闵行区</address>
+    <phone>021-34315221</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="320.353912" y="1417.412964" xlink:href="/resource/icon/rest"/>
+   <text x="330.353912" y="1437.412964" font-size="3" text-anchor="middle">十一郎</text>
+   <info transform="translate(330.3539123535156,1437.4129638671875) ">
+    <address>永平路186号2层</address>
+    <phone>021-34201101</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="431.801514" y="249.09726" xlink:href="/resource/icon/rest"/>
+   <text x="441.801514" y="269.09726" font-size="3" text-anchor="middle">樽寿司</text>
+   <info transform="translate(441.801513671875,269.0972595214844) ">
+    <address>延长路257-1临</address>
+    <phone>15821535242</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="824.580627" y="381.671112" xlink:href="/resource/icon/rest"/>
+   <text x="834.580627" y="401.671112" font-size="3" text-anchor="middle">慕寿司</text>
+   <info transform="translate(834.5806274414062,401.6711120605469) ">
+    <address>栖山路71</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="163.322388" y="628.11377" xlink:href="/resource/icon/rest"/>
+   <text x="173.322388" y="648.11377" font-size="3" text-anchor="middle">满宝家</text>
+   <info transform="translate(173.3223876953125,648.11376953125) ">
+    <address>翠钰路39弄</address>
+    <phone>021-64010455</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="691.032837" y="850.344543" xlink:href="/resource/icon/rest"/>
+   <text x="701.032837" y="870.344543" font-size="3" text-anchor="middle">越味风</text>
+   <info transform="translate(701.0328369140625,870.3445434570312) ">
+    <address>上南路4467号中房金谊广场4层408</address>
+    <phone>021-50813981</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="161.065033" y="623.517151" xlink:href="/resource/icon/rest"/>
+   <text x="171.065033" y="643.517151" font-size="3" text-anchor="middle">贝烤贝</text>
+   <info transform="translate(171.06503295898438,643.5171508789062) ">
+    <address>翠钰南路21</address>
+    <phone>021-64050900</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="1159.615234" y="557.935669" xlink:href="/resource/icon/rest"/>
+   <text x="1169.615234" y="577.935669" font-size="3" text-anchor="middle">汉釜宫</text>
+   <info transform="translate(1169.615234375,577.9356689453125) ">
+    <address>张江路688</address>
+    <phone>021-58956037</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="31.558613" y="641.676086" xlink:href="/resource/icon/rest"/>
+   <text x="41.558613" y="661.676086" font-size="3" text-anchor="middle">青柠檬</text>
+   <info transform="translate(41.55861282348633,661.6760864257812) ">
+    <address>虹井路779</address>
+    <phone>021-55265865</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="102.082634" y="617.14563" xlink:href="/resource/icon/rest"/>
+   <text x="112.082634" y="637.14563" font-size="3" text-anchor="middle">意酒屋</text>
+   <info transform="translate(112.08263397216797,637.1456298828125) ">
+    <address>虹梅路3717弄12</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-1118.925903" y="811.478027" xlink:href="/resource/icon/rest"/>
+   <text x="-1108.925903" y="831.478027" font-size="3" text-anchor="middle">汉拿山</text>
+   <info transform="translate(-1108.9259033203125,831.47802734375) ">
+    <address>公园路510号稻香村·商业广场4层</address>
+    <phone>021-59728173,021-59728178</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="56.025383" y="713.811218" xlink:href="/resource/icon/rest"/>
+   <text x="66.025383" y="733.811218" font-size="3" text-anchor="middle">先峰馆</text>
+   <info transform="translate(66.02538299560547,733.8112182617188) ">
+    <address>虹泉路1078号井亭天地生活广场2层</address>
+    <phone>13370001679</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="70.224854" y="708.213318" xlink:href="/resource/icon/rest"/>
+   <text x="80.224854" y="728.213318" font-size="3" text-anchor="middle">有米家</text>
+   <info transform="translate(80.224853515625,728.2133178710938) ">
+    <address>金汇南路118-6临</address>
+    <phone>021-24207667</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="984.779724" y="312.266663" xlink:href="/resource/icon/rest"/>
+   <text x="994.779724" y="332.266663" font-size="3" text-anchor="middle">贝可丽</text>
+   <info transform="translate(994.7797241210938,332.26666259765625) ">
+    <address>张杨路3611号金桥国际商业广场1座4层</address>
+    <phone>021-60875901</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="994.974243" y="319.457428" xlink:href="/resource/icon/rest"/>
+   <text x="1004.974243" y="339.457428" font-size="3" text-anchor="middle">萨莉亚</text>
+   <info transform="translate(1004.9742431640625,339.4574279785156) ">
+    <address>张杨路3611号金桥国际商业广场3座3层301室</address>
+    <phone>021-20233057</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="312.089111" y="655.329407" xlink:href="/resource/icon/rest"/>
+   <text x="322.089111" y="675.329407" font-size="3" text-anchor="middle">韩一亭</text>
+   <info transform="translate(322.089111328125,675.3294067382812) ">
+    <address>凯进路181</address>
+    <phone>021-34243606</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="779.360779" y="662.019531" xlink:href="/resource/icon/rest"/>
+   <text x="789.360779" y="682.019531" font-size="3" text-anchor="middle">乐卡赛</text>
+   <info transform="translate(789.3607788085938,682.01953125) ">
+    <address>锦尊路399号上海大华锦绣假日酒店1层</address>
+    <phone>021-50559888</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="373.037567" y="513.516785" xlink:href="/resource/icon/rest"/>
+   <text x="383.037567" y="533.516785" font-size="3" text-anchor="middle">乐太阁</text>
+   <info transform="translate(383.0375671386719,533.5167846679688) ">
+    <address>安福路195号2层</address>
+    <phone>021-54044877</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="375.549805" y="1651.431152" xlink:href="/resource/icon/rest"/>
+   <text x="385.549805" y="1671.431152" font-size="3" text-anchor="middle">韩康苑</text>
+   <info transform="translate(385.5498046875,1671.43115234375) ">
+    <address>北虹路63号</address>
+    <phone>021-57156808</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="182.655502" y="523.847839" xlink:href="/resource/icon/rest"/>
+   <text x="192.655502" y="543.847839" font-size="3" text-anchor="middle">第九号</text>
+   <info transform="translate(192.65550231933594,543.8478393554688) ">
+    <address>天山路762号泓鑫时尚广场-2层</address>
+    <phone>13671705576</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="113.80629" y="962.347351" xlink:href="/resource/icon/rest"/>
+   <text x="123.80629" y="982.347351" font-size="3" text-anchor="middle">詹姆士</text>
+   <info transform="translate(123.80628967285156,982.3473510742188) ">
+    <address>上海市闵行区</address>
+    <phone>15221244440</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="345.658112" y="683.182251" xlink:href="/resource/icon/rest"/>
+   <text x="355.658112" y="703.182251" font-size="3" text-anchor="middle">韩朝阁</text>
+   <info transform="translate(355.6581115722656,703.1822509765625) ">
+    <address>上海市徐汇区</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="443.561615" y="246.275543" xlink:href="/resource/icon/rest"/>
+   <text x="453.561615" y="266.275543" font-size="3" text-anchor="middle">翔寿司</text>
+   <info transform="translate(453.5616149902344,266.2755432128906) ">
+    <address>延长路154-2临</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="154.766296" y="470.190216" xlink:href="/resource/icon/rest"/>
+   <text x="164.766296" y="490.190216" font-size="3" text-anchor="middle">大户屋</text>
+   <info transform="translate(164.76629638671875,490.1902160644531) ">
+    <address>大渡河路196号长风景畔广场4层L4-22</address>
+    <phone>021-52049199</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="260.716156" y="745.805481" xlink:href="/resource/icon/rest"/>
+   <text x="270.716156" y="765.805481" font-size="3" text-anchor="middle">翔寿司</text>
+   <info transform="translate(270.7161560058594,765.8054809570312) ">
+    <address>桂林路116</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="368.741333" y="26.274845" xlink:href="/resource/icon/rest"/>
+   <text x="378.741333" y="46.274845" font-size="3" text-anchor="middle">宝寿司</text>
+   <info transform="translate(378.7413330078125,46.274845123291016) ">
+    <address>共康路118-1临</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="264.211426" y="420.036987" xlink:href="/resource/icon/rest"/>
+   <text x="274.211426" y="440.036987" font-size="3" text-anchor="middle">慕寿司</text>
+   <info transform="translate(274.21142578125,440.0369873046875) ">
+    <address>宁夏路243</address>
+    <phone>13661474572</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="50.090736" y="658.387756" xlink:href="/resource/icon/rest"/>
+   <text x="60.090736" y="678.387756" font-size="3" text-anchor="middle">喜寿司</text>
+   <info transform="translate(60.090736389160156,678.3877563476562) ">
+    <address>红松路137</address>
+    <phone>021-64499079</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="1857.755615" y="1262.4021" xlink:href="/resource/icon/rest"/>
+   <text x="1867.755615" y="1282.4021" font-size="3" text-anchor="middle">韩尚宫</text>
+   <info transform="translate(1867.755615234375,1282.402099609375) ">
+    <address>人民东路2665</address>
+    <phone>021-68001252</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="177.412628" y="231.165863" xlink:href="/resource/icon/rest"/>
+   <text x="187.412628" y="251.165863" font-size="3" text-anchor="middle">慕寿司</text>
+   <info transform="translate(187.41262817382812,251.16586303710938) ">
+    <address>武威东路513</address>
+    <phone>13524057069</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="519.219299" y="573.955566" xlink:href="/resource/icon/rest"/>
+   <text x="529.219299" y="593.955566" font-size="3" text-anchor="middle">韩朝阁</text>
+   <info transform="translate(529.2192993164062,593.95556640625) ">
+    <address>鲁班路392-1临</address>
+    <phone>15710101577</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="92.980408" y="657.695984" xlink:href="/resource/icon/rest"/>
+   <text x="102.980408" y="677.695984" font-size="3" text-anchor="middle">佳味家</text>
+   <info transform="translate(102.98040771484375,677.6959838867188) ">
+    <address>虹中路361号</address>
+    <phone>15300800718</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="432.056396" y="73.287819" xlink:href="/resource/icon/rest"/>
+   <text x="442.056396" y="93.287819" font-size="3" text-anchor="middle">宝寿司</text>
+   <info transform="translate(442.056396484375,93.2878189086914) ">
+    <address>临汾路557</address>
+    <phone>18959930337</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="575.580261" y="350.286652" xlink:href="/resource/icon/rest"/>
+   <text x="585.580261" y="370.286652" font-size="3" text-anchor="middle">宝寿司</text>
+   <info transform="translate(585.5802612304688,370.2866516113281) ">
+    <address>昆山路128</address>
+    <phone>13917782558</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="876.13562" y="466.103333" xlink:href="/resource/icon/rest"/>
+   <text x="886.13562" y="486.103333" font-size="3" text-anchor="middle">吞拿家</text>
+   <info transform="translate(886.1356201171875,486.10333251953125) ">
+    <address>迎春路805号</address>
+    <phone>021-68549009</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="463.732117" y="488.258148" xlink:href="/resource/icon/rest"/>
+   <text x="473.732117" y="508.258148" font-size="3" text-anchor="middle">宝寿司</text>
+   <info transform="translate(473.73211669921875,508.2581481933594) ">
+    <address>瑞金一路138号</address>
+    <phone>021-61553737</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="407.407562" y="499.663208" xlink:href="/resource/icon/rest"/>
+   <text x="417.407562" y="519.663208" font-size="3" text-anchor="middle">乐寿司</text>
+   <info transform="translate(417.4075622558594,519.6632080078125) ">
+    <address>上海市徐汇区</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="630.37561" y="405.964935" xlink:href="/resource/icon/rest"/>
+   <text x="640.37561" y="425.964935" font-size="3" text-anchor="middle">蛋蛋屋</text>
+   <info transform="translate(640.3756103515625,425.9649353027344) ">
+    <address>陆家嘴西路168号正大广场地下2层</address>
+    <phone>021-50471969</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-222.903107" y="855.669312" xlink:href="/resource/icon/rest"/>
+   <text x="-212.903107" y="875.669312" font-size="3" text-anchor="middle">韩湘阁</text>
+   <info transform="translate(-212.90310668945312,875.6693115234375) ">
+    <address>九杜路115</address>
+    <phone>021-67629178</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="659.320679" y="144.476303" xlink:href="/resource/icon/rest"/>
+   <text x="669.320679" y="164.476303" font-size="3" text-anchor="middle">宝寿司</text>
+   <info transform="translate(669.3206787109375,164.47630310058594) ">
+    <address>国顺路591号</address>
+    <phone>13651781711,021-55899752</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="442.542145" y="526.387329" xlink:href="/resource/icon/rest"/>
+   <text x="452.542145" y="546.387329" font-size="3" text-anchor="middle">寿司屋</text>
+   <info transform="translate(452.5421447753906,546.3873291015625) ">
+    <address>永康路21</address>
+    <phone>15000820420</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="390.58667" y="508.738159" xlink:href="/resource/icon/rest"/>
+   <text x="400.58667" y="528.738159" font-size="3" text-anchor="middle">安寿司</text>
+   <info transform="translate(400.586669921875,528.7381591796875) ">
+    <address>安福路21</address>
+    <phone>021-33562587</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="549.693481" y="312.039124" xlink:href="/resource/icon/rest"/>
+   <text x="559.693481" y="332.039124" font-size="3" text-anchor="middle">宝寿司</text>
+   <info transform="translate(559.6934814453125,332.03912353515625) ">
+    <address>四川北路1717嘉杰国际广场B1层</address>
+    <phone>13636334027</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="463.295227" y="489.077332" xlink:href="/resource/icon/rest"/>
+   <text x="473.295227" y="509.077332" font-size="3" text-anchor="middle">和家庭</text>
+   <info transform="translate(473.29522705078125,509.07733154296875) ">
+    <address>瑞金一路148弄4-1</address>
+    <phone>021-31326113</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="406.42453" y="514.335999" xlink:href="/resource/icon/rest"/>
+   <text x="416.42453" y="534.335999" font-size="3" text-anchor="middle">小巴黎</text>
+   <info transform="translate(416.4245300292969,534.3359985351562) ">
+    <address>淮海中路1288后门</address>
+    <phone>021-54270338</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="366.738831" y="447.753235" xlink:href="/resource/icon/rest"/>
+   <text x="376.738831" y="467.753235" font-size="3" text-anchor="middle">樱待您</text>
+   <info transform="translate(376.73883056640625,467.75323486328125) ">
+    <address>胶州路273弄60号</address>
+    <phone>021-52135408</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="367.321381" y="468.233246" xlink:href="/resource/icon/rest"/>
+   <text x="377.321381" y="488.233246" font-size="3" text-anchor="middle">香·源</text>
+   <info transform="translate(377.3213806152344,488.2332458496094) ">
+    <address>北京西路1829号申乐大厦3楼</address>
+    <phone>021-33727600</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="564.621155" y="339.163727" xlink:href="/resource/icon/rest"/>
+   <text x="574.621155" y="359.163727" font-size="3" text-anchor="middle">盘熟里</text>
+   <info transform="translate(574.6211547851562,359.1637268066406) ">
+    <address>武进路255-2临</address>
+    <phone>021-63090635</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="351.62915" y="406.929779" xlink:href="/resource/icon/rest"/>
+   <text x="361.62915" y="426.929779" font-size="3" text-anchor="middle">青鹤谷</text>
+   <info transform="translate(361.629150390625,426.9297790527344) ">
+    <address>安远路539</address>
+    <phone>021-62122613</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="526.209778" y="582.875732" xlink:href="/resource/icon/rest"/>
+   <text x="536.209778" y="602.875732" font-size="3" text-anchor="middle">屋塔房</text>
+   <info transform="translate(536.2097778320312,602.875732421875) ">
+    <address>瞿溪路988号汇暻生活广场地下1层</address>
+    <phone>13585825469</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="111.58535" y="52.807823" xlink:href="/resource/icon/rest"/>
+   <text x="121.58535" y="72.807823" font-size="3" text-anchor="middle">仁之屋</text>
+   <info transform="translate(121.5853500366211,72.80782318115234) ">
+    <address>聚丰园路45</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="526.209778" y="582.875732" xlink:href="/resource/icon/rest"/>
+   <text x="536.209778" y="602.875732" font-size="3" text-anchor="middle">原研家</text>
+   <info transform="translate(536.2097778320312,602.875732421875) ">
+    <address>瞿溪路988号汇暻生活广场-1层</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-44.244694" y="439.697784" xlink:href="/resource/icon/rest"/>
+   <text x="-34.244694" y="459.697784" font-size="3" text-anchor="middle">家族亭</text>
+   <info transform="translate(-34.244693756103516,459.6977844238281) ">
+    <address>协和路1051临C108</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="449.751099" y="437.604279" xlink:href="/resource/icon/rest"/>
+   <text x="459.751099" y="457.604279" font-size="3" text-anchor="middle">花之舞</text>
+   <info transform="translate(459.7510986328125,457.6042785644531) ">
+    <address>南京西路819号开欣商厦5层501</address>
+    <phone>021-52110353</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="48.488747" y="708.440918" xlink:href="/resource/icon/rest"/>
+   <text x="58.488747" y="728.440918" font-size="3" text-anchor="middle">三多岛</text>
+   <info transform="translate(58.488746643066406,728.44091796875) ">
+    <address>虹莘路3998</address>
+    <phone>021-34677570</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="605.726807" y="368.700439" xlink:href="/resource/icon/rest"/>
+   <text x="615.726807" y="388.700439" font-size="3" text-anchor="middle">华越楼</text>
+   <info transform="translate(615.726806640625,388.700439453125) ">
+    <address>黄浦路200号</address>
+    <phone>021-56330359</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="528.103027" y="548.423828" xlink:href="/resource/icon/rest"/>
+   <text x="538.103027" y="568.423828" font-size="3" text-anchor="middle">虹寿司</text>
+   <info transform="translate(538.10302734375,568.423828125) ">
+    <address>蒙自路169-5</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="499.267212" y="467.004456" xlink:href="/resource/icon/rest"/>
+   <text x="509.267212" y="487.004456" font-size="3" text-anchor="middle">炉端家</text>
+   <info transform="translate(509.2672119140625,487.00445556640625) ">
+    <address>淡水路66弄2-6号2层</address>
+    <phone>021-63867775</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="346.531921" y="478.700806" xlink:href="/resource/icon/rest"/>
+   <text x="356.531921" y="498.700806" font-size="3" text-anchor="middle">莲寿司</text>
+   <info transform="translate(356.53192138671875,498.7008056640625) ">
+    <address>愚园路580-1</address>
+    <phone>021-52689958,13918572808</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="32.031929" y="529.445679" xlink:href="/resource/icon/rest"/>
+   <text x="42.031929" y="549.445679" font-size="3" text-anchor="middle">火炉亭</text>
+   <info transform="translate(42.03192901611328,549.4456787109375) ">
+    <address>剑河路516</address>
+    <phone>021-52160219</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="425.429962" y="495.539917" xlink:href="/resource/icon/rest"/>
+   <text x="435.429962" y="515.539917" font-size="3" text-anchor="middle">下午茶</text>
+   <info transform="translate(435.4299621582031,515.5399169921875) ">
+    <address>新乐路82号首席公馆酒店</address>
+    <phone>021-54039888</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="374.45752" y="524.075378" xlink:href="/resource/icon/rest"/>
+   <text x="384.45752" y="544.075378" font-size="3" text-anchor="middle">啵咔哆</text>
+   <info transform="translate(384.45751953125,544.0753784179688) ">
+    <address>永福路47号2楼</address>
+    <phone>18017270340</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="370.270508" y="462.316803" xlink:href="/resource/icon/rest"/>
+   <text x="380.270508" y="482.316803" font-size="3" text-anchor="middle">久保田</text>
+   <info transform="translate(380.2705078125,482.3168029785156) ">
+    <address>北京西路1780号2层</address>
+    <phone>021-60543802</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="608.675903" y="696.653503" xlink:href="/resource/icon/rest"/>
+   <text x="618.675903" y="716.653503" font-size="3" text-anchor="middle">萨莉亚</text>
+   <info transform="translate(618.6759033203125,716.6535034179688) ">
+    <address>上南路1206临2层</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="528.721985" y="424.679108" xlink:href="/resource/icon/rest"/>
+   <text x="538.721985" y="444.679108" font-size="3" text-anchor="middle">京都屋</text>
+   <info transform="translate(538.7219848632812,444.6791076660156) ">
+    <address>广西北路256</address>
+    <phone>021-63510373</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="556.684021" y="308.489258" xlink:href="/resource/icon/rest"/>
+   <text x="566.684021" y="328.489258" font-size="3" text-anchor="middle">月珑纱</text>
+   <info transform="translate(566.6840209960938,328.4892578125) ">
+    <address>上海市虹口区</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-904.186218" y="176.416" xlink:href="/resource/icon/rest"/>
+   <text x="-894.186218" y="196.416" font-size="3" text-anchor="middle">赤板亭</text>
+   <info transform="translate(-894.1862182617188,196.41600036621094) ">
+    <address>墨玉南路1055号嘉亭荟城市生活广场3楼</address>
+    <phone>021-68901717</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="797.310364" y="748.445129" xlink:href="/resource/icon/rest"/>
+   <text x="807.310364" y="768.445129" font-size="3" text-anchor="middle">红鹤谷</text>
+   <info transform="translate(807.3103637695312,768.4451293945312) ">
+    <address>上海市浦东新区</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-7.398898" y="485.664001" xlink:href="/resource/icon/rest"/>
+   <text x="2.601102" y="505.664001" font-size="3" text-anchor="middle">安藤家</text>
+   <info transform="translate(2.601102113723755,505.66400146484375) ">
+    <address>金钟路633</address>
+    <phone>021-52410919</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="592.473938" y="318.274139" xlink:href="/resource/icon/rest"/>
+   <text x="602.473938" y="338.274139" font-size="3" text-anchor="middle">之会所</text>
+   <info transform="translate(602.4739379882812,338.2741394042969) ">
+    <address>辽宁路46号D座</address>
+    <phone>021-61672162</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="458.853333" y="434.873596" xlink:href="/resource/icon/rest"/>
+   <text x="468.853333" y="454.873596" font-size="3" text-anchor="middle">倍可意</text>
+   <info transform="translate(468.85333251953125,454.87359619140625) ">
+    <address>南京西路762-1</address>
+    <phone>021-52600016</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="437.80899" y="581.009766" xlink:href="/resource/icon/rest"/>
+   <text x="447.80899" y="601.009766" font-size="3" text-anchor="middle">慕寿司</text>
+   <info transform="translate(447.8089904785156,601.009765625) ">
+    <address>清真路134</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="480.480225" y="458.994476" xlink:href="/resource/icon/rest"/>
+   <text x="490.480225" y="478.994476" font-size="3" text-anchor="middle">波大奇</text>
+   <info transform="translate(490.480224609375,478.9944763183594) ">
+    <address>成都北路117</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="621.783081" y="291.695648" xlink:href="/resource/icon/rest"/>
+   <text x="631.783081" y="311.695648" font-size="3" text-anchor="middle">纯意堂</text>
+   <info transform="translate(631.7830810546875,311.6956481933594) ">
+    <address>瑞虹路138</address>
+    <phone>021-55670516</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="211.564163" y="549.379578" xlink:href="/resource/icon/rest"/>
+   <text x="221.564163" y="569.379578" font-size="3" text-anchor="middle">串鑫鸡</text>
+   <info transform="translate(221.5641632080078,569.3795776367188) ">
+    <address>紫云路59-2临</address>
+    <phone>021-32231892</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="198.89386" y="1130.192383" xlink:href="/resource/icon/rest"/>
+   <text x="208.89386" y="1150.192383" font-size="3" text-anchor="middle">闵公馆</text>
+   <info transform="translate(208.89385986328125,1150.1923828125) ">
+    <address>老沪闵路2828弄1号</address>
+    <phone>021-34731788</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-216.349518" y="801.05603" xlink:href="/resource/icon/rest"/>
+   <text x="-206.349518" y="821.05603" font-size="3" text-anchor="middle">财旺串</text>
+   <info transform="translate(-206.34951782226562,821.0560302734375) ">
+    <address>沪亭北路755</address>
+    <phone>13524345991</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="172.533829" y="762.781128" xlink:href="/resource/icon/rest"/>
+   <text x="182.533829" y="782.781128" font-size="3" text-anchor="middle">壹间坊</text>
+   <info transform="translate(182.53382873535156,782.7811279296875) ">
+    <address>古美路1430</address>
+    <phone>021-34975657</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="565.349304" y="1869.65686" xlink:href="/resource/icon/rest"/>
+   <text x="575.349304" y="1889.65686" font-size="3" text-anchor="middle">安藤家</text>
+   <info transform="translate(575.3493041992188,1889.6568603515625) ">
+    <address>南奉公路8509弄南方国际广场</address>
+    <phone>021-60890117</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-553.095337" y="1462.241455" xlink:href="/resource/icon/rest"/>
+   <text x="-543.095337" y="1482.241455" font-size="3" text-anchor="middle">De逢</text>
+   <info transform="translate(-543.0953369140625,1482.241455078125) ">
+    <address>普照路66号</address>
+    <phone>021-57811979</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-95.399185" y="2798.948242" xlink:href="/resource/icon/rest"/>
+   <text x="-85.399185" y="2818.948242" font-size="3" text-anchor="middle">韩一味</text>
+   <info transform="translate(-85.39918518066406,2818.9482421875) ">
+    <address>北随塘河路151～153号</address>
+    <phone>021-57951773</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="299.964935" y="652.098145" xlink:href="/resource/icon/rest"/>
+   <text x="309.964935" y="672.098145" font-size="3" text-anchor="middle">宝寿司</text>
+   <info transform="translate(309.9649353027344,672.09814453125) ">
+    <address>宜山路455号光启城时尚购物中心地下1层</address>
+    <phone>021-60299720</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="184.803619" y="271.989319" xlink:href="/resource/icon/rest"/>
+   <text x="194.803619" y="291.989319" font-size="3" text-anchor="middle">竹寿司</text>
+   <info transform="translate(194.80361938476562,291.98931884765625) ">
+    <address>水泉路44</address>
+    <phone>021-36332318</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="301.421295" y="646.136169" xlink:href="/resource/icon/rest"/>
+   <text x="311.421295" y="666.136169" font-size="3" text-anchor="middle">大力夯</text>
+   <info transform="translate(311.4212951660156,666.1361694335938) ">
+    <address>宜山路455号光启城时尚购物中心5层</address>
+    <phone>13636579451,021-60296921</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="95.456215" y="608.680542" xlink:href="/resource/icon/rest"/>
+   <text x="105.456215" y="628.680542" font-size="3" text-anchor="middle">小木屋</text>
+   <info transform="translate(105.45621490478516,628.6805419921875) ">
+    <address>虹梅路3911号4号别墅</address>
+    <phone>13818597081</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="184.257492" y="543.417603" xlink:href="/resource/icon/rest"/>
+   <text x="194.257492" y="563.417603" font-size="3" text-anchor="middle">火之鸟</text>
+   <info transform="translate(194.2574920654297,563.4176025390625) ">
+    <address>古北路555弄C2层</address>
+    <phone>021-52127608</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="102.737991" y="648.366211" xlink:href="/resource/icon/rest"/>
+   <text x="112.737991" y="668.366211" font-size="3" text-anchor="middle">本杰比</text>
+   <info transform="translate(112.73799133300781,668.3662109375) ">
+    <address>虹梅路3215弄201号圣榕兰商务中心3层</address>
+    <phone>021-64018989</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="688.629822" y="1206.286987" xlink:href="/resource/icon/rest"/>
+   <text x="698.629822" y="1226.286987" font-size="3" text-anchor="middle">韩达城</text>
+   <info transform="translate(698.6298217773438,1226.2869873046875) ">
+    <address>上海市闵行区</address>
+    <phone>021-60546898</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="301.421295" y="646.136169" xlink:href="/resource/icon/rest"/>
+   <text x="311.421295" y="666.136169" font-size="3" text-anchor="middle">家族亭</text>
+   <info transform="translate(311.4212951660156,666.1361694335938) ">
+    <address>宜山路455号光启城时尚购物中心4层</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="201.44249" y="557.116455" xlink:href="/resource/icon/rest"/>
+   <text x="211.44249" y="577.116455" font-size="3" text-anchor="middle">大户屋</text>
+   <info transform="translate(211.44248962402344,577.116455078125) ">
+    <address>遵义南路88号协泰中心3层</address>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="114.352425" y="546.694397" xlink:href="/resource/icon/rest"/>
+   <text x="124.352425" y="566.694397" font-size="3" text-anchor="middle">布良濑</text>
+   <info transform="translate(124.35242462158203,566.6943969726562) ">
+    <address>仙霞路669</address>
+    <phone>021-62122661</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="742.660645" y="459.358582" xlink:href="/resource/icon/rest"/>
+   <text x="752.660645" y="479.358582" font-size="3" text-anchor="middle">翠玲珑</text>
+   <info transform="translate(752.66064453125,479.35858154296875) ">
+    <address>崂山路600号明城大酒店1层</address>
+    <phone>021-58201888</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="115.371872" y="552.519836" xlink:href="/resource/icon/rest"/>
+   <text x="125.371872" y="572.519836" font-size="3" text-anchor="middle">味之藏</text>
+   <info transform="translate(125.37187194824219,572.5198364257812) ">
+    <address>安龙路501</address>
+    <phone>021-62625003</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="455.97702" y="507.509338" xlink:href="/resource/icon/rest"/>
+   <text x="465.97702" y="527.509338" font-size="3" text-anchor="middle">意粉屋</text>
+   <info transform="translate(465.9770202636719,527.5093383789062) ">
+    <address>茂名南路132号</address>
+    <phone>021-54659816</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="1136.968872" y="326.420624" xlink:href="/resource/icon/rest"/>
+   <text x="1146.968872" y="346.420624" font-size="3" text-anchor="middle">御花园</text>
+   <info transform="translate(1146.9688720703125,346.4206237792969) ">
+    <address>金港路318号富豪金丰酒店2层</address>
+    <phone>021-58993838</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="141.149368" y="576.23114" xlink:href="/resource/icon/rest"/>
+   <text x="151.149368" y="596.23114" font-size="3" text-anchor="middle">食特美</text>
+   <info transform="translate(151.1493682861328,596.2311401367188) ">
+    <address>虹桥路1665号洛城商业广场2楼</address>
+    <phone>13916926490</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="-483.408722" y="1449.72583" xlink:href="/resource/icon/rest"/>
+   <text x="-473.408722" y="1469.72583" font-size="3" text-anchor="middle">烤友社</text>
+   <info transform="translate(-473.4087219238281,1469.725830078125) ">
+    <address>环城路311临</address>
+    <phone>021-57716331,021-57839900</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="115.226242" y="550.19873" xlink:href="/resource/icon/rest"/>
+   <text x="125.226242" y="570.19873" font-size="3" text-anchor="middle">火之鸟</text>
+   <info transform="translate(125.22624206542969,570.19873046875) ">
+    <address>安龙路537</address>
+    <phone>15000634762</phone>
+   </info>
+  </g>
+  <g class="entity">
+   <image width="20" height="20" x="1056.723755" y="617.191101" xlink:href="/resource/icon/rest"/>
+   <text x="1066.723755" y="637.191101" font-size="3" text-anchor="middle">膳寿司</text>
+   <info transform="translate(1066.7237548828125,637.1911010742188) ">
+    <address>浦东新区蔡伦路1433号(近华陀路)</address>
+    <phone>021-31257717</phone>
+   </info>
+  </g>
+ </g></svg>

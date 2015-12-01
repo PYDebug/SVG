@@ -1,0 +1,40 @@
+<svg onload="load(evt)" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<script id = "SVGMapContent" type="text/javascript" xlink:href="SVGPan.js"/>
+<script>
+	<![CDATA[
+	svgNS = "http://www.w3.org/2000/svg";
+	xlinkNS = "http://www.w3.org/1999/xlink";
+	var widthSize = 50;
+	var heightSize = 50;
+	function loadBlock(root,x,y,toX,toY){
+		var img = document.createElementNS(svgNS,"image");
+		img.setAttributeNS(null,"x",""+toX);
+		img.setAttributeNS(null,"y",""+toY);
+		img.setAttributeNS(null,"width",widthSize+"px");
+		img.setAttributeNS(null,"height",heightSize+"px");
+		
+		img.setAttributeNS(xlinkNS, "xlink:href",x+"_"+y+".svg")
+		root.appendChild(img);
+	}
+
+	function loadArea(fromX, toX, fromY, toY, root){
+		for(var i = fromX ; i <= toX ; i++)
+			for(var j = fromY ; j <= toY ; j++){
+				loadBlock(root,i,j,(i-fromX)*(widthSize-0),(j-fromY)*(heightSize-0));
+			}
+
+	}
+
+	function load(evt){
+		root = evt.target;
+		g = root.getElementById("viewport");
+		loadArea(27390,27484,5324,5370,g);
+		//loadArea(27390,27400,5324,5334,g);
+		//loadBlock(root,27392,5367,100,100);
+		//alert(root);
+		initWithRoot(root);
+	}
+	]]>
+</script>
+<g id="viewport"></g>
+</svg>

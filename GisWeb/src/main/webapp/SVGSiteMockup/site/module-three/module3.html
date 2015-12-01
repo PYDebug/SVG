@@ -1,0 +1,108 @@
+
+<!-- This is the content from module3
+<ul>
+<li><a href="#" id="map1">map1</a></li>
+<li><a href="#" id="map2">map2222222111</a></li>
+</ul> -->
+<div class="form-actions center">
+    <button ui-sref="portal.module5({mapid:selectedMap.id,newversion:selectedTimestamp2.version,oldversion:selectedTimestamp1.version})" type="button" class="btn btn-sm btn-success" ng-class="selectedStatus=='timestamp2Selected' ? '' : 'disabled'">
+                         地图比对
+        <i class="ace-icon fa fa-arrow-right icon-on-right bigger-110"></i>
+    </button>
+</div>
+<div class="row">
+<div class="col-sm-6">
+    <div class="widget-box widget-color-blue2">
+        <div class="widget-header">
+            <h4 class="widget-title lighter smaller">请选择时间戳1</h4>
+        </div>
+
+        <div class="widget-body">
+            <div class="widget-main padding-8">
+                 <!-- <ul id="tree1"></ul> -->
+                 <ul id="firsttree" class="tree tree-selectable" role="tree">
+                    <li class="tree-branch hide" data-template="treebranch" role="treeitem" aria-expanded="false">
+                        <div class="tree-branch-header">
+                            <span class="tree-branch-name">
+                                <i class="icon-folder ace-icon tree-plus"></i>
+                                <span class="tree-label"></span>
+                            </span>
+                        </div>
+                        <ul class="tree-branch-children" role="group"></ul>
+                        <div class="tree-loader hide" role="alert">
+                            <div class="tree-loading">
+                                <i class="ace-icon fa fa-refresh fa-spin blue"></i>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="tree-item hide" data-template="treeitem" role="treeitem">
+                        <span class="tree-item-name">
+                            <i class="icon-item ace-icon fa fa-times"></i>
+                            <span class="tree-label"></span>
+                        </span>
+                    </li>
+                    <li class="tree-item" role="treeitem" ng-repeat="timestamp in maplist1" ng-class="selectedTimestamp1 == timestamp  ? 'tree-selected':''" ng-click="selectTimestamp1(timestamp)">
+                        <span class="tree-item-name">
+                            <i class="icon-item ace-icon fa" ng-class="selectedTimestamp1 == timestamp ? 'fa-check':'fa-times'"></i>
+                            <span class="tree-label">{{timestamp.date}}</span>
+                        </span>
+                    </li>
+                    <!-- <li class="tree-item" ng-class="selectedStatus == 'initial' ? 'tree-selected':''" role="treeitem">
+                        <span class="tree-item-name">
+                            <i class="icon-item ace-icon fa fa-check"></i>
+                            <span class="tree-label">江苏</span>
+                        </span>
+                    </li> -->
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-sm-6">
+    <div class="widget-box widget-color-blue2">
+        <div class="widget-header">
+            <h4 class="widget-title lighter smaller">请选择时间戳2</h4>
+        </div>
+
+        <div class="widget-body">
+            <div class="widget-main padding-8">
+                 <ul id="firsttree" class="tree tree-selectable" role="tree">
+                    <li class="tree-branch hide" data-template="treebranch" role="treeitem" aria-expanded="false">
+                        <div class="tree-branch-header">
+                            <span class="tree-branch-name">
+                                <i class="icon-folder ace-icon tree-plus"></i>
+                                <span class="tree-label"></span>
+                            </span>
+                        </div>
+                        <ul class="tree-branch-children" role="group"></ul>
+                        <div class="tree-loader hide" role="alert">
+                            <div class="tree-loading">
+                                <i class="ace-icon fa fa-refresh fa-spin blue"></i>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="tree-item hide" data-template="treeitem" role="treeitem">
+                        <span class="tree-item-name">
+                            <i class="icon-item ace-icon fa fa-times"></i>
+                            <span class="tree-label"></span>
+                        </span>
+                    </li>
+                    <li class="tree-item" role="treeitem" ng-repeat="timestamp in maplist2" ng-class="selectedTimestamp2 == timestamp  ? 'tree-selected':''" ng-click="selectTimestamp2(timestamp)">
+                        <span class="tree-item-name">
+                            <i class="icon-item ace-icon fa" ng-class="selectedTimestamp2 == timestamp ? 'fa-check':'fa-times'"></i>
+                            <span class="tree-label">{{timestamp.date}}</span>
+                        </span>
+                    </li>
+                    <!-- <li class="tree-item" ng-class="selectedStatus == 'initial' ? 'tree-selected':''" role="treeitem">
+                        <span class="tree-item-name">
+                            <i class="icon-item ace-icon fa fa-check"></i>
+                            <span class="tree-label">江苏</span>
+                        </span>
+                    </li> -->
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+</div>

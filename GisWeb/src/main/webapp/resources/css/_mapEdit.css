@@ -1,0 +1,40 @@
+@CHARSET "UTF-8";
+
+#gs-editBody{
+	
+	height:100%;
+	width:100%;
+	background-color:#e5eecc;
+}
+#gs-editContent{
+	float:left;
+	margin-top:5px; 
+	margin-left:10px;
+	margin-down:40px;
+	width:48%;
+	height:100%;
+}
+#gs-editShow{
+	float:left;
+	margin-top:5px;
+	margin-left:10px;
+	margin-dowm:40px;
+	width:48%;
+	height:100%;	
+}
+.headerText{
+	font-size:20px;
+	padding:10px;
+	height:10%;	
+	width:98%	
+}
+.gs-iframe{
+	background-color:#ffffff;
+	width:98%;
+	height:85%;
+}
+.gs-editCode{
+width:98%;
+height:85%;	
+	
+}

@@ -1,0 +1,56 @@
+﻿[
+			{
+			"attr":"长度",
+			"operator":
+			[
+				{
+					"name":"大于",
+					"operand":"Num",
+					"unit":"米",
+					"ModeID":"1"
+				},
+				{
+					"name":"小于",
+					"operand":"Num",
+					"unit":"米",
+					"ModeID":"2"
+				},
+				{
+					"name":"等于",
+					"operand":"Num",
+					"unit":"米",
+					"ModeID":"3"
+				}
+			
+			]
+			
+			
+			},
+			{
+			"attr":"宽度",
+			"operator":
+			[
+				{
+					"name":"大于",
+					"operand":"Num",
+					"unit":"米",
+					"ModeID":"4"
+				},
+				{
+					"name":"小于",
+					"operand":"Num",
+					"unit":"米",
+					"ModeID":"5"
+				},
+				{
+					"name":"等于",
+					"operand":"Num",
+					"unit":"米",
+					"ModeID":"6"
+				}
+			
+			]
+			}
+			]
+			
+			

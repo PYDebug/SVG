@@ -1,0 +1,3969 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<g>
+  <g class="entity" transform="translate(1902.5261511062126, -42.471822223160416)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">源源旅馆</text>
+    <info>
+      <address>崇明县潘园公路152号</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-490.73934222687967, 2542.9870933323855)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">小驿旅馆</text>
+    <info>
+      <address>金石南路1899</address>
+      <phone>021-57295388</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(2232.135822217424, 2158.5365333323807)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">港口旅馆</text>
+    <info>
+      <address>杭湾路186</address>
+      <phone>021-58281803</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1236.0250311065101, 592.0987022213012)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">玉兰旅馆</text>
+    <info>
+      <address>盛夏路904号</address>
+      <phone>021-33921261</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(514.8377599951345, 2272.8149333323927)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">化工旅馆</text>
+    <info>
+      <address>钦林北路61弄22</address>
+      <phone>021-57443398</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1179.3727999953262, 587.3564444435033)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">新新旅馆</text>
+    <info>
+      <address>张江路818号</address>
+      <phone>021-58956978</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-581.3610666715249, 1484.061866665752)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">好运旅馆</text>
+    <info>
+      <address>小塔前3</address>
+      <phone>021-57723711</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(516.6217955507818, 2287.287466665748)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华龙旅馆</text>
+    <info>
+      <address>乐康路3</address>
+      <phone>021-57442852</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1712.0348444395859, 1971.8954666657282)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">海港旅馆</text>
+    <info>
+      <address>平福路1597</address>
+      <phone>021-57544388</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-530.2065777827011, -233.70951111205613)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">和政旅馆</text>
+    <info>
+      <address>梅园路183号</address>
+      <phone>021-59910105</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(285.89866666188755, 501.75004444349725)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华阳旅馆</text>
+    <info>
+      <address>长宁路712弄45</address>
+      <phone>021-62514966</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1993.7668266618857, 1934.3943111101908)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">宏伟旅馆</text>
+    <info>
+      <address>马五公路485弄25临</address>
+      <phone>021-58241284</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1877.4040177730058, 1307.8701511101826)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">沈香旅馆</text>
+    <info>
+      <address>庆福海鲜酒楼南侧</address>
+      <phone>021-58006435</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1484.8797866618042, 599.007288887924)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">春晓旅馆</text>
+    <info>
+      <address>华夏东路1825号</address>
+      <phone>021-50925639</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-559.879822226867, 1435.5925333324194)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">姐妹旅馆</text>
+    <info>
+      <address>谷阳北路140</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(497.07022221755324, 1903.5832888879668)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">绍文旅馆</text>
+    <info>
+      <address>南奉公路927弄70号</address>
+      <phone>021-57103552</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-371.9735466715065, 979.4801777768498)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">适宜旅馆</text>
+    <info>
+      <address>鼓浪路325号</address>
+      <phone>021-57610487</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(417.29834666202805, 393.1150222213091)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">假日旅馆</text>
+    <info>
+      <address>长安路1050弄1号楼</address>
+      <phone>021-63535523</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(451.99601777294447, 1913.8687999990452)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">临风旅馆</text>
+    <info>
+      <address>南奉公路9731号</address>
+      <phone>021-57186915</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1257.7611377730136, 398.166755554621)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">金海旅馆</text>
+    <info>
+      <address>唐陆路1201号</address>
+      <phone>021-58548109</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(820.3811555507855, 389.88373333240816)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">民生旅馆</text>
+    <info>
+      <address>民生路101号</address>
+      <phone>021-68530061</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1073.5000177824986, 786.1489777768384)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">路人旅馆</text>
+    <info>
+      <address>盈港路21号</address>
+      <phone>18221715139,021-69720481</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1151.9933155508625, 587.8479644435174)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">星星旅馆</text>
+    <info>
+      <address>建中路284号</address>
+      <phone>021-58952853,021-58956978</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1504.5041777730148, 615.2547555546334)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">佳达旅馆</text>
+    <info>
+      <address>妙境路205</address>
+      <phone>021-58905224</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(366.43512888404075, 819.9637333324063)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">南城旅馆</text>
+    <info>
+      <address>罗城路490号</address>
+      <phone>021-54361877</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(998.0201244397904, 984.8959999990711)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">常来旅馆</text>
+    <info>
+      <address>康沈路1763号3层</address>
+      <phone>021-68113153</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-896.4071822270853, 165.01333333239927)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">昌吉旅馆</text>
+    <info>
+      <address>昌吉路191号</address>
+      <phone>021-59576931</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(879.6912355508539, 643.6536888879345)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">大众旅馆</text>
+    <info>
+      <address>沪南路615临2楼</address>
+      <phone>021-50422241</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(862.6154666621005, 437.8524444435243)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">日落旅馆</text>
+    <info>
+      <address>羽山路691</address>
+      <phone>021-58857877</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(517.5320177731919, 2274.7719111102015)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">新潮旅馆</text>
+    <info>
+      <address>沪港路18</address>
+      <phone>021-57442573</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-563.2658488935704, 2297.7550222212813)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">新光旅馆</text>
+    <info>
+      <address>金张公路2558</address>
+      <phone>021-57201216</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(759.0321777728605, 2270.49386666572)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">海湾旅馆</text>
+    <info>
+      <address>人民塘路511</address>
+      <phone>021-57120768</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(366.47153777284984, -43.33653333424081)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">兴业旅馆</text>
+    <info>
+      <address>呼兰路956-3临2层</address>
+      <phone>021-66217406</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1592.0718222270807, 2039.1153777768523)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">路南旅馆</text>
+    <info>
+      <address>上海市金山区</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1573.6446577728202, 640.6044444434883)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">桃园旅馆</text>
+    <info>
+      <address>川黄路248弄9号</address>
+      <phone>021-58920710</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(513.7819022174881, 1935.7960533323876)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">清馨旅馆</text>
+    <info>
+      <address>环城东路1817</address>
+      <phone>021-67115229</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1838.3372799953577, 1105.0453333324185)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">春辉旅馆</text>
+    <info>
+      <address>盐仓镇浦红东路23弄2号</address>
+      <phone>021-58097332</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(303.19288888422307, 830.7953777768489)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华丽旅馆</text>
+    <info>
+      <address>老沪闵路235-6临</address>
+      <phone>021-54352579</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(386.42360888406984, -50.11768888980441)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">建设旅馆</text>
+    <info>
+      <address>呼兰路752号2楼</address>
+      <phone>021-56759423</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(943.261155550681, 2141.151288887977)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">海湾旅馆</text>
+    <info>
+      <address>海庆路44</address>
+      <phone>021-27550322</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-689.9687822269698, 1486.8380444434933)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">双龙旅馆</text>
+    <info>
+      <address>仓吉一村317</address>
+      <phone>021-67725966</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-342.04544000458554, -629.7836088898293)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华亭旅馆</text>
+    <info>
+      <address>浏翔公路7148弄3号</address>
+      <phone>021-59975439</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(119.65567999504856, 1009.1534222212886)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">阳光旅馆</text>
+    <info>
+      <address>莘朱路270弄35号</address>
+      <phone>021-64601101</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(881.5480888841194, 658.717866665711)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">星达旅馆</text>
+    <info>
+      <address>堆栈路2</address>
+      <phone>021-58912753</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-135.60704000483383, -79.69991111203854)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">圆梦旅馆</text>
+    <info>
+      <address>陈宝路26号</address>
+      <phone>021-69151007</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1727.9455288840836, 1627.5128888879408)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">大团旅馆</text>
+    <info>
+      <address>永春中路142号</address>
+      <phone>021-68082526</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-100.94577778236271, 2823.908977776864)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">凌云旅馆</text>
+    <info>
+      <address>卫一路64</address>
+      <phone>021-57959838</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1003.6635022173868, 262.2250666657237)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">莱阳旅馆</text>
+    <info>
+      <address>莱阳路243-3临</address>
+      <phone>021-58719783</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(826.6798933285827, 150.90488888795335)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">意兴旅馆</text>
+    <info>
+      <address>包头南路93临</address>
+      <phone>021-55231599</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1606.1942044396346, 641.9697777768761)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">鸿运旅馆</text>
+    <info>
+      <address>川环南路81号4/5楼</address>
+      <phone>021-58900968</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-931.2868977825929, 156.29340444352238)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">星光旅馆</text>
+    <info>
+      <address>新源路587号</address>
+      <phone>021-69571827</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(696.4452977730616, 355.56835555462385)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">惠民旅馆</text>
+    <info>
+      <address>惠民路120弄5边门</address>
+      <phone>021-65358970</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-843.0681600048047, -126.62186666757407)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">晨曦旅馆</text>
+    <info>
+      <address>外青松公路178-13</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(474.56952888405795, 1308.0248888879396)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">佳客旅馆</text>
+    <info>
+      <address>宝秀路723号</address>
+      <phone>021-64501698</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-185.7420800048203, 2749.40728888796)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">穿心旅馆</text>
+    <info>
+      <address>古城路380号</address>
+      <phone>021-57263386</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1810.921386661903, 980.0718222212708)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">人和旅馆</text>
+    <info>
+      <address>川南奉公路5040</address>
+      <phone>021-58107708</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(436.01251555082854, 612.8881777768584)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">鄱阳旅馆</text>
+    <info>
+      <address>枫林路198-3临</address>
+      <phone>021-64186593</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(915.007857773162, 653.5295999990922)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">随缘旅馆</text>
+    <info>
+      <address>莲溪路87</address>
+      <phone>021-38689358</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(626.6494577728736, 856.691199999068)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">祥和旅馆</text>
+    <info>
+      <address>凌兆路329</address>
+      <phone>021-58498545</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(163.45557332861063, 1946.181688887964)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">红叶旅馆</text>
+    <info>
+      <address>朱家港西村84</address>
+      <phone>021-57465058</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(173.90492443973926, -73.10080000092967)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">奋发旅馆</text>
+    <info>
+      <address>顾村村卜家桥14</address>
+      <phone>021-56041829</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-154.06634667142498, 1749.828551110204)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">顺昌旅馆</text>
+    <info>
+      <address>上海市松江区</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(896.1480533285794, 424.3356444434994)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">望月旅馆</text>
+    <info>
+      <address>羽山路989-1临</address>
+      <phone>021-50282982</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1170.8895288840722, 579.1644444435406)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">精彩旅馆</text>
+    <info>
+      <address>紫薇路231号</address>
+      <phone>021-50791709</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-224.26268444924062, 1442.6012444434946)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">新芳旅馆</text>
+    <info>
+      <address>北松公路4915弄8号</address>
+      <phone>021-57604348</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1516.5191111063905, 666.8097422212668)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">河川旅馆</text>
+    <info>
+      <address>妙境路908号</address>
+      <phone>021-50921787</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(502.96846221754095, 1884.1045333324018)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">良友旅馆</text>
+    <info>
+      <address>解放东路1177号</address>
+      <phone>021-57191550</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(203.28689777306863, -559.7511111120639)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">春心旅馆</text>
+    <info>
+      <address>桥边路3号附近</address>
+      <phone>021-56154262</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(331.33695999513293, 833.753599999045)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">威登旅馆</text>
+    <info>
+      <address>罗城路989</address>
+      <phone>021-54115901</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(726.9195377730284, 343.59893333244145)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">红日旅馆</text>
+    <info>
+      <address>榆林路312号</address>
+      <phone>021-65129225</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(941.3678933286064, 829.2479999990519)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">如云旅馆</text>
+    <info>
+      <address>沪南公路2588号4楼</address>
+      <phone>021-68122956</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1328.7220622174573, 274.5767822212656)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">英子旅馆</text>
+    <info>
+      <address>民民路1号</address>
+      <phone>021-20221198</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1132.8422399952615, 496.3342222212759)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华晨旅馆</text>
+    <info>
+      <address>金桥路3327号</address>
+      <phone>021-58550984</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(449.3745777728691, 2119.5790222212963)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">新建旅馆</text>
+    <info>
+      <address>沪杭公路2478号</address>
+      <phone>021-57491325</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(808.9851733286196, 306.0340622212607)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">宁国旅馆</text>
+    <info>
+      <address>宁国路167-1</address>
+      <phone>021-65206998</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(38.20899555084907, 1028.5866666657512)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">天骄旅馆</text>
+    <info>
+      <address>西环路188</address>
+      <phone>021-64985368</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(340.51199999521486, 1424.6698666657267)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">紫竹旅馆</text>
+    <info>
+      <address>东川路811弄27～30号</address>
+      <phone>021-34291991</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-163.38702222710708, 1736.6940444435386)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">舒洁旅馆</text>
+    <info>
+      <address>叶大公路91号</address>
+      <phone>021-57801811</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(524.6681599952353, 422.62442666574316)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">强生旅馆</text>
+    <info>
+      <address>北京东路816号</address>
+      <phone>021-63500671</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(367.45457777306, -213.2295111120584)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">舒洁旅馆</text>
+    <info>
+      <address>东街村罗宅15</address>
+      <phone>021-56801743</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(669.8303999952259, 166.24213333238913)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">海龙旅馆</text>
+    <info>
+      <address>政肃路55号2楼</address>
+      <phone>021-65109952,021-65108038</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(330.86364443970524, 823.3315555546142)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">蒙恩旅馆</text>
+    <info>
+      <address>石龙路783临</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-218.91057778266259, 1428.629333332401)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">顺达旅馆</text>
+    <info>
+      <address>联营路103</address>
+      <phone>021-57605615</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1165.1733333284938, 578.0266666657099)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">蓝天旅馆</text>
+    <info>
+      <address>张江路672号</address>
+      <phone>021-50790597</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(309.16394666182896, 363.4872888879727)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">镇坪旅馆</text>
+    <info>
+      <address>石泉路111号2楼</address>
+      <phone>021-52242607</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(396.14478221756144, 627.2150755546136)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">绿岛旅馆</text>
+    <info>
+      <address>宛平南路233-1临</address>
+      <phone>021-64260533</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(447.2264533287671, 290.214399999104)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">学府旅馆</text>
+    <info>
+      <address>共和新路1492号</address>
+      <phone>021-33878793</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-463.68753778242535, -173.81688888981444)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">假日旅馆</text>
+    <info>
+      <address>民乐路6</address>
+      <phone>021-69523152</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(741.883591106307, 96.24604444352372)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">长海旅馆</text>
+    <info>
+      <address>长海路557临</address>
+      <phone>021-65270895</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(283.1315911063939, 645.7927111101981)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">富华旅馆</text>
+    <info>
+      <address>吴中东路561</address>
+      <phone>021-64276564</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(428.0753777728023, 275.51431111019156)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">延长旅馆</text>
+    <info>
+      <address>延长中路318号</address>
+      <phone>021-56033597</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(703.1445333284864, 706.3679999990654)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">庆春旅馆</text>
+    <info>
+      <address>南码头路1698号</address>
+      <phone>021-68369036</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1514.0433066619153, 658.9909333324158)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">星光旅馆</text>
+    <info>
+      <address>妙境路830号</address>
+      <phone>021-58374519</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(432.95416888413456, 328.96255999908135)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">贝宁旅馆</text>
+    <info>
+      <address>中山北路320号</address>
+      <phone>021-56555898</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(658.1795555506687, 134.74844444353948)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">民乐旅馆</text>
+    <info>
+      <address>政民路487</address>
+      <phone>021-65114049</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(448.3551288840317, 1909.9548444434731)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">龙阳旅馆</text>
+    <info>
+      <address>南奉公路9762弄39</address>
+      <phone>021-67199128</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(2231.7717333286055, 2155.8968888879463)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">天天旅馆</text>
+    <info>
+      <address>杭湾路212</address>
+      <phone>021-58283371</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(484.5455644397589, 417.96408888799306)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">友谊旅馆</text>
+    <info>
+      <address>新桥路18弄8号</address>
+      <phone>021-63721788</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1044.368639995264, 1180.2751999990505)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">滨州旅馆</text>
+    <info>
+      <address>沪南路4789弄19</address>
+      <phone>021-60975272</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(634.4045511063086, 848.8632888879692)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">祥云旅馆</text>
+    <info>
+      <address>灵岩南路994</address>
+      <phone>021-58416733</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-816.3076266715507, 1055.119644443539)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华阳旅馆</text>
+    <info>
+      <address>桃源路349号附近</address>
+      <phone>021-57650244</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(678.277262217307, 1739.2881777768253)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">月明旅馆</text>
+    <info>
+      <address>金钱公路1981号附近</address>
+      <phone>021-57576316</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1151.9933155508625, 587.8570666657197)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">鸿运旅馆</text>
+    <info>
+      <address>建中路284号</address>
+      <phone>021-58952853</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-136.77212444927136, 340.64071111015437)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">文公旅馆</text>
+    <info>
+      <address>临洮路283号</address>
+      <phone>021-39118359</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-348.1257244493463, -7.610311112011914)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">顺心旅馆</text>
+    <info>
+      <address>沪宜公路2219弄1号</address>
+      <phone>021-59150835</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(602.6559999951132, -262.24497777870965)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">新景旅馆</text>
+    <info>
+      <address>牡丹江路726</address>
+      <phone>021-56176533</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(789.5792355506273, 1393.8133333324004)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">神州旅馆</text>
+    <info>
+      <address>三鲁公路607</address>
+      <phone>021-54846068</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(303.73902221745084, 362.4405333323921)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">旬阳旅馆</text>
+    <info>
+      <address>旬阳路37临2层</address>
+      <phone>021-52240851</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(723.6063288841251, 428.841244443538)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">栖霞旅馆</text>
+    <info>
+      <address>栖霞路96临</address>
+      <phone>021-58889968</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(652.354133328663, 138.1162666657474)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">恬静旅馆</text>
+    <info>
+      <address>政民路496</address>
+      <phone>021-51258263</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-85.43559111585637, -359.7843911120435)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">车站旅馆</text>
+    <info>
+      <address>罗太路328临</address>
+      <phone>021-66865748</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(381.945315550729, 643.4261333323775)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">南丹旅馆</text>
+    <info>
+      <address>南丹东路100弄2</address>
+      <phone>021-64697792</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(482.94357332852087, 1900.9891555545892)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">赛多旅馆</text>
+    <info>
+      <address>古华路632</address>
+      <phone>021-57410652</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(492.8831999952308, 462.291911110151)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">朋友旅馆</text>
+    <info>
+      <address>江阴路152-1</address>
+      <phone>021-63278101</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1304.4373333284966, 1171.901155554633)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">坦直旅馆</text>
+    <info>
+      <address>古恩路8</address>
+      <phone>021-68154668</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-17.71505778251594, -394.2272000009325)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">集贤旅馆</text>
+    <info>
+      <address>集贤路151弄57号</address>
+      <phone>021-56864093</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(845.0299733285647, 404.4927999990705)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">路边旅馆</text>
+    <info>
+      <address>巨野路181号</address>
+      <phone>021-68539960</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(183.40764443983062, 1952.371199999061)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">舒适旅馆</text>
+    <info>
+      <address>上海市奉贤区</address>
+      <phone>021-57466830</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(181.66001777317433, 392.29582222133104)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">心怡旅馆</text>
+    <info>
+      <address>武宁路2120号3楼</address>
+      <phone>021-62645728</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(208.42055110642832, 389.38311111019175)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">龙港旅馆</text>
+    <info>
+      <address>南石一路9</address>
+      <phone>021-62435286</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(288.37447110636276, 878.1724444434985)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">新洲旅馆</text>
+    <info>
+      <address>龙州路921-1临</address>
+      <phone>021-54307328</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-801.6712533380996, 1633.1107555546168)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">家家旅馆</text>
+    <info>
+      <address>唐明路778</address>
+      <phone>021-57845575</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-86.81912889351224, 485.7756444435381)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">经济旅馆</text>
+    <info>
+      <address>北翟路1552号</address>
+      <phone>021-24287926</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-174.16405333806324, 1214.8636444435397)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">相约旅馆</text>
+    <info>
+      <address>新育路406弄26</address>
+      <phone>021-57645438</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-597.45379556025, 1462.4895999990713)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">车站旅馆</text>
+    <info>
+      <address>人民北路163</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(218.6514488841567, 514.7662222213057)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">吉米旅馆</text>
+    <info>
+      <address>长宁路1488号3支弄10边门临</address>
+      <phone>021-52730711</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(480.1764977730272, 1981.216142221274)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">乡友旅馆</text>
+    <info>
+      <address>南桥镇六敦村908号</address>
+      <phone>021-37523798</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-219.56593778249953, 1208.7196444434994)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">新楼旅馆</text>
+    <info>
+      <address>新北街468号</address>
+      <phone>021-57646901</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(669.1022222175889, 859.8314666657188)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">金鼎旅馆</text>
+    <info>
+      <address>三林路773-2临</address>
+      <phone>021-50823626</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-290.78172444915253, 1362.4561777768577)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">明丽旅馆</text>
+    <info>
+      <address>茸江路94</address>
+      <phone>021-37601511</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1002.4620088841402, -72.64568888981557)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">光华旅馆</text>
+    <info>
+      <address>张家街70弄13</address>
+      <phone>021-58670693</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(74.9819733284312, -135.31448888984414)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">快乐旅馆</text>
+    <info>
+      <address>沪太路5129弄4</address>
+      <phone>13124816434</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(987.7892266618801, 395.3905777768341)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华福旅馆</text>
+    <info>
+      <address>云山路1375号2楼</address>
+      <phone>021-50751939</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-567.7441422269112, -207.13102222316593)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">江州旅馆</text>
+    <info>
+      <address>清河路450-1</address>
+      <phone>021-69914756</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-513.7133511159846, 1365.3688888879515)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">兴华旅馆</text>
+    <info>
+      <address>茸梅路135</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-284.73784889356466, -205.5381333342666)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">国宾旅馆</text>
+    <info>
+      <address>嘉戬支路165</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-434.52401778249623, -226.65528888983317)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">依恋旅馆</text>
+    <info>
+      <address>仓场路2899-3</address>
+      <phone>13761287087</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(274.6483199951399, 592.1351111102013)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">定龙旅馆</text>
+    <info>
+      <address>凯旋路1362-1临</address>
+      <phone>021-62802007</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(713.3026133285966, 248.89031111019904)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">辰龙旅馆</text>
+    <info>
+      <address>本溪路145-7临</address>
+      <phone>021-65011733</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(574.9852444396311, 100.15999999905034)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">逸乐旅馆</text>
+    <info>
+      <address>逸仙路1043-2</address>
+      <phone>021-65168076</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1229.7627022173401, 83.77599999907943)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">龙桥旅馆</text>
+    <info>
+      <address>赵高公路860-1临2楼</address>
+      <phone>021-68483933</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(29.616497772985895, 362.6680888879491)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">厚生旅馆</text>
+    <info>
+      <address>曹安路1685号</address>
+      <phone>021-69190146</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(450.139164439679, 350.74417777686904)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">中天旅馆</text>
+    <info>
+      <address>中华新路763</address>
+      <phone>021-56555620</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(61.8019555507999, 282.79608888797156)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">丹江旅馆</text>
+    <info>
+      <address>金昌路157号</address>
+      <phone>021-62501010</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(542.9454222175991, 298.451911110169)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">天心旅馆</text>
+    <info>
+      <address>天通庵路788号3楼</address>
+      <phone>021-56667686</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(567.0116977727957, 220.94648888796655)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">赤诚旅馆</text>
+    <info>
+      <address>赤峰路630号3楼</address>
+      <phone>021-65310121</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(622.8265244395516, 1083.9281777768065)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">浦江旅馆</text>
+    <info>
+      <address>陈行村三组43</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(625.3023288840268, 1103.634488887974)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">南街旅馆</text>
+    <info>
+      <address>陈南路58号</address>
+      <phone>021-64295084</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1004.9014044396245, -84.16000000092936)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">双井旅馆</text>
+    <info>
+      <address>花山路855弄1号</address>
+      <phone>021-58671589</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(166.00419555088592, -1300.4444444453384)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">望江旅馆</text>
+    <info>
+      <address>崇安路</address>
+      <phone>13761506080</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-469.25809778258554, 252.62222222127093)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">同渡旅馆</text>
+    <info>
+      <address>曹安公路4185-11</address>
+      <phone>13761385559</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(820.017066661967, 296.3583999990533)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">可信旅馆</text>
+    <info>
+      <address>平凉路1509号4楼</address>
+      <phone>021-55806612</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(233.9067733286356, 1308.0248888879396)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">北影旅馆</text>
+    <info>
+      <address>放鹤路2841弄31临</address>
+      <phone>021-64906431</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(7.843982217309531, 259.94951111015325)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">鸿运旅馆</text>
+    <info>
+      <address>水厂路189号</address>
+      <phone>13818816935</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(276.94207999538776, 1061.6277333323978)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">香溢旅馆</text>
+    <info>
+      <address>老沪闵路2064临</address>
+      <phone>021-54404810</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(260.41244443968026, 539.8428444435012)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">精武旅馆</text>
+    <info>
+      <address>武夷路700弄1-1临</address>
+      <phone>021-52736199</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1428.3731911064024, -283.6352000009356)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">八零旅馆</text>
+    <info>
+      <address>凤滨路891临</address>
+      <phone>021-56850255</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1498.0598044396174, -264.8391111120418)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">光明旅馆</text>
+    <info>
+      <address>先进村406</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1438.749724439731, -281.7237333342291)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">国富旅馆</text>
+    <info>
+      <address>上海市崇明县</address>
+      <phone>021-56850727</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-338.8050488936642, -7.155200000943296)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">幸福旅馆</text>
+    <info>
+      <address>马陆街138弄3</address>
+      <phone>021-59155189</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(169.35381332859833, 530.9226666657651)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">舒畅旅馆</text>
+    <info>
+      <address>天山支路158号嘉平商务楼4层</address>
+      <phone>021-62742893</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1088.282026671368, 1567.6202666657446)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">吃饭旅馆</text>
+    <info>
+      <address>石湖新路102号</address>
+      <phone>021-57752251</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-260.59875556020415, 142.9404444435022)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">永乐旅馆</text>
+    <info>
+      <address>上海市嘉定区</address>
+      <phone>021-39927715</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(40.02943999530544, 997.7301333324249)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">悠悠旅馆</text>
+    <info>
+      <address>莘北路289号</address>
+      <phone>021-64989116</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-807.6787200048784, 649.9342222212817)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">舒心旅馆</text>
+    <info>
+      <address>重固镇大街273</address>
+      <phone>021-59789669</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1291.9854933286842, 1387.6693333324056)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">好好旅馆</text>
+    <info>
+      <address>新奉公路82</address>
+      <phone>021-58174627</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(2232.063004439624, 2158.7185777768354)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">龙腾旅馆</text>
+    <info>
+      <address>杭湾路184</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1290.7111822172737, 1385.3937777768351)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">舒洁旅馆</text>
+    <info>
+      <address>新奉公路50</address>
+      <phone>021-58179005</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1511.3169066715272, 1614.9518222212919)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">仲秋旅馆</text>
+    <info>
+      <address>蒸裕路96号</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-357.33717333787354, 19.377777776844596)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">新湖旅馆</text>
+    <info>
+      <address>樱花街125弄67号202</address>
+      <phone>021-59150385</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1216.5505422270144, 537.9313777768402)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华夏旅馆</text>
+    <info>
+      <address>襄臣路31</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1086.68003556013, 821.2835555546008)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">同聚旅馆</text>
+    <info>
+      <address>浦仓路465号2层</address>
+      <phone>021-69237577</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(257.49973332858644, 881.3582222212972)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">雅丽旅馆</text>
+    <info>
+      <address>梅陇路394弄</address>
+      <phone>021-54296035</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(593.4809599952132, -170.08497777869707)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">新意旅馆</text>
+    <info>
+      <address>淞兴西路188号2层</address>
+      <phone>021-56670622</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-78.5179022272132, -683.6778666675855)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">长江旅馆</text>
+    <info>
+      <address>城镇路51号</address>
+      <phone>021-33799223</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1127.9313066714167, 886.4554666657568)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">麒麟旅馆</text>
+    <info>
+      <address>青昆路3号</address>
+      <phone>021-59856712</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(107.2038399952362, 142.80391111014978)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">枫叶旅馆</text>
+    <info>
+      <address>南大路485临</address>
+      <phone>15821319718</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(939.8023111063594, -87.80088888979662)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">亲情旅馆</text>
+    <info>
+      <address>草高支路1073号</address>
+      <phone>021-60447706</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1112.20266667151, 807.1751111101548)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">福禄旅馆</text>
+    <info>
+      <address>青赵公路84</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1100.1513244491434, 812.6364444435239)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">青龙旅馆</text>
+    <info>
+      <address>青安路238</address>
+      <phone>021-69200828</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-814.5600000048944, 597.2778666657632)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">迎宾旅馆</text>
+    <info>
+      <address>重固镇大街919</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(313.49660443956964, 424.01706666573773)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">永定旅馆</text>
+    <info>
+      <address>光复西路567</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-172.12515556038852, 932.3306666657118)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">星辰旅馆</text>
+    <info>
+      <address>九新公路272弄1号</address>
+      <phone>021-57631721</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1238.937742217422, 694.2620444435306)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">孙桥旅馆</text>
+    <info>
+      <address>劳动村吴家宅南44</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(0.23452443965652492, 570.7448888879753)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">福乐旅馆</text>
+    <info>
+      <address>福泉路405号2层</address>
+      <phone>021-52359015</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-490.6301155604524, -245.1783111120676)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">阳光旅馆</text>
+    <info>
+      <address>东大街420</address>
+      <phone>021-59912969</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1127.9677155604077, 886.9560888879732)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">青南旅馆</text>
+    <info>
+      <address>青昆路13临</address>
+      <phone>021-59856208</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(252.2204444396266, 883.0876444435035)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">诚信旅馆</text>
+    <info>
+      <address>梅陇路400-14临2层</address>
+      <phone>021-64772344</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(2229.4779733285395, 2061.506844443511)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">新美旅馆</text>
+    <info>
+      <address>果园路145弄29</address>
+      <phone>021-58286158</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(982.4735288841111, -104.63089777872483)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">港城旅馆</text>
+    <info>
+      <address>港城路808号</address>
+      <phone>021-58613695</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(2232.172231106415, 2161.35822222127)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">得意旅馆</text>
+    <info>
+      <address>杭湾路162</address>
+      <phone>13817552475</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(76.69319110627839, -135.72408888981045)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">便民旅馆</text>
+    <info>
+      <address>老安村中街东1</address>
+      <phone>021-56021031</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1480.947626661873, 313.8346666657526)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">梦园旅馆</text>
+    <info>
+      <address>龚路支路267识别</address>
+      <phone>021-50686698</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(326.53098666196456, -189.47271111205737)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">天顺旅馆</text>
+    <info>
+      <address>上海市宝山区</address>
+      <phone>021-33798657</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(95.07967999525135, 149.6760888879635)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华宝旅馆</text>
+    <info>
+      <address>祁连山路1819临</address>
+      <phone>021-63637082</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-960.5960533381221, 1475.3692444434819)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华美旅馆</text>
+    <info>
+      <address>大港路136号</address>
+      <phone>021-57853506</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-959.7950577825031, 1473.6853333324234)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">大港旅馆</text>
+    <info>
+      <address>港丰路28</address>
+      <phone>021-57853521</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-368.0049777825843, 1824.5304888879673)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">辕门旅馆</text>
+    <info>
+      <address>辕门路96</address>
+      <phone>021-57881506</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(539.1588977730862, 967.3742222212695)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">正来旅馆</text>
+    <info>
+      <address>林浦路1568</address>
+      <phone>021-58429424</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-431.53848889378423, 1135.0826666657213)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">德业旅馆</text>
+    <info>
+      <address>沪松公路3678号2楼</address>
+      <phone>021-67670860</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-89.91388444937911, -366.7384888898141)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">春江旅馆</text>
+    <info>
+      <address>新桥街52弄16</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1570.4085333381954, 2008.3043555546283)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">清水旅馆</text>
+    <info>
+      <address>枫思路59弄16</address>
+      <phone>021-57355891</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-649.591324449284, 1332.2823111102025)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">浩然旅馆</text>
+    <info>
+      <address>西林北路1761弄8号</address>
+      <phone>021-67752263</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1572.6252088841647, 647.2035555546427)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">保健旅馆</text>
+    <info>
+      <address>保健路143</address>
+      <phone>13818734459</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-232.92800000472198, 1431.542044443495)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">毛毛旅馆</text>
+    <info>
+      <address>车墩镇振兴街桥下</address>
+      <phone>021-57603292</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1166.4840533285314, -908.675697778699)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">永生旅馆</text>
+    <info>
+      <address>堡镇镇堡港村750</address>
+      <phone>021-59427334</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(4.639999995197286, -241.1733333342454)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">梦想旅馆</text>
+    <info>
+      <address>南卫路21号</address>
+      <phone>021-56015350</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-958.5207466714564, 1472.9571555546045)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">开心旅馆</text>
+    <info>
+      <address>港丰路18</address>
+      <phone>021-57853455</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-181.66428444910707, 1012.8853333324059)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">良友旅馆</text>
+    <info>
+      <address>九新公路898号</address>
+      <phone>021-57639960</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(306.32405332853523, 1492.5724444435218)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">天天旅馆</text>
+    <info>
+      <address>新闵路527号</address>
+      <phone>021-54716591</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(345.9733333284021, -73.46488888983913)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">永生旅馆</text>
+    <info>
+      <address>联谊路269临</address>
+      <phone>021-56808932</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-490.33884444907017, -190.65600000089944)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">南苑旅馆</text>
+    <info>
+      <address>群裕路103</address>
+      <phone>021-69520359</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1076.7361422174872, 1392.0383999990463)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">为民旅馆</text>
+    <info>
+      <address>航兴路12弄2</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(243.44590221753606, 421.5139555546102)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">丹凤旅馆</text>
+    <info>
+      <address>白兰路201号附近</address>
+      <phone>021-52663488</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(159.7782755507069, 700.9066666657418)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">大川旅馆</text>
+    <info>
+      <address>虹梅路2802号</address>
+      <phone>021-54847038</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(337.3444266619117, 817.278577776824)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">依依旅馆</text>
+    <info>
+      <address>石龙路701临</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-597.45379556025, 1462.4895999990713)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">灵光旅馆</text>
+    <info>
+      <address>人民北路163</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-22.30257778264786, -392.2247111120214)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">文峰旅馆</text>
+    <info>
+      <address>集贤路150弄34号2楼</address>
+      <phone>021-56861889</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-139.1387022269555, 305.5516444435398)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">苹果旅馆</text>
+    <info>
+      <address>曹安公路2728号</address>
+      <phone>021-51206368</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1055.873848884221, 1274.8927999990428)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">中兴旅馆</text>
+    <info>
+      <address>下沙新街40弄5号</address>
+      <phone>021-58141427</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(2311.5800177729398, 1576.3128888879692)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">黎明旅馆</text>
+    <info>
+      <address>老芦公路746弄1-1</address>
+      <phone>021-58196075</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(633.3486933286622, -220.14720000092893)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">海盛旅馆</text>
+    <info>
+      <address>淞宝路94弄2号5/6楼</address>
+      <phone>021-56582896</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(794.1303466619502, 1417.6156444435492)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">金玉旅馆</text>
+    <info>
+      <address>上海市闵行区</address>
+      <phone>021-64911935</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1822.6450488842602, 1325.4556444435366)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">雄鹰旅馆</text>
+    <info>
+      <address>上海市浦东新区</address>
+      <phone>021-58023779</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-404.1954133381296, 423.3343999990666)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">网吧旅馆</text>
+    <info>
+      <address>上海市闵行区</address>
+      <phone>13771456699</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(984.5852444397678, 974.5649777768449)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">车站旅馆</text>
+    <info>
+      <address>康沈路1620弄22</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(987.6799999952709, 987.5356444435056)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">为民旅馆</text>
+    <info>
+      <address>里仁村223</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1020.2659555507125, 1114.830222221326)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">便民旅馆</text>
+    <info>
+      <address>沈杜路6</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(998.0929422175905, 961.5943111101842)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">迎宾旅馆</text>
+    <info>
+      <address>川周公路4454弄1号</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(981.7817599951013, 971.4702222212964)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">长春旅馆</text>
+    <info>
+      <address>康沈路1602弄6</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-864.767857782681, 1988.6435555546086)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">辉煌旅馆</text>
+    <info>
+      <address>罗星路6</address>
+      <phone>021-57325129</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1106.9961955603503, 835.0279111101827)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">佳园旅馆</text>
+    <info>
+      <address>青松路34</address>
+      <phone>021-69710520</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(955.3124977730477, 968.1934222212476)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">惠民旅馆</text>
+    <info>
+      <address>上海市浦东新区</address>
+      <phone>021-68112891</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-214.86919111575844, 196.5525333323967)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">明月旅馆</text>
+    <info>
+      <address>生产街909号</address>
+      <phone>13524662806</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-635.2462222270333, 59.655111110168946)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">便民旅馆</text>
+    <info>
+      <address>泰富路197</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(575.4585599952406, -359.13813333422695)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">亭亭旅馆</text>
+    <info>
+      <address>宝钢十一村25号3楼</address>
+      <phone>021-56601789</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-657.5284622269464, 299.5896888879997)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">国民旅馆</text>
+    <info>
+      <address>劳动街67</address>
+      <phone>021-59596064</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-669.9074844491406, 303.1395555546169)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">长发旅馆</text>
+    <info>
+      <address>新黄路105</address>
+      <phone>021-59596550</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-388.72163556043233, -372.7914666675588)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">乐园旅馆</text>
+    <info>
+      <address>上海市嘉定区</address>
+      <phone>021-59558133</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(201.7213155510035, 202.3779555546298)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">98旅馆</text>
+    <info>
+      <address>真北路3777号</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-160.8019911156589, 2768.021333332399)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">鸿福旅馆</text>
+    <info>
+      <address>学府路393</address>
+      <phone>021-57263722</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(322.27114666184207, 1036.1870222212929)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">银海旅馆</text>
+    <info>
+      <address>银都路1504临3楼</address>
+      <phone>021-54406199</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(362.68501332851883, 805.582222221301)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">青年旅馆</text>
+    <info>
+      <address>石龙路411弄18号4楼</address>
+      <phone>021-54083469</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(736.8227555509293, 574.4312888879904)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">富源旅馆</text>
+    <info>
+      <address>北园路88-2临2层</address>
+      <phone>021-68386858</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-152.93767111597845, 2754.4590222213174)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">营房旅馆</text>
+    <info>
+      <address>卫清西路1342</address>
+      <phone>021-57265170</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-97.26848000464088, 2772.1173333323804)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">龙兴旅馆</text>
+    <info>
+      <address>卫零路328</address>
+      <phone>021-57965755</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(332.7933155509527, 1447.971555554659)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">369旅馆</text>
+    <info>
+      <address>永平路13</address>
+      <phone>021-54749611</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-471.879537782479, 1435.820088887931)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">沁园春旅馆</text>
+    <info>
+      <address>松东路201</address>
+      <phone>021-57747100</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(474.09621332863026, 420.66744888793437)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">桂达旅馆</text>
+    <info>
+      <address>成都北路945号</address>
+      <phone>021-62550905</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(430.7332266616868, -298.2897777787002)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">铁丰旅馆</text>
+    <info>
+      <address>铁峰路2011-1临</address>
+      <phone>021-33798030</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(644.5262222174279, 330.1276444435189)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">金九旅馆</text>
+    <info>
+      <address>公平路675临</address>
+      <phone>021-65355009</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(698.229333328527, 269.05173333238963)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">惠客旅馆</text>
+    <info>
+      <address>许昌路1502</address>
+      <phone>021-65147146</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(651.5895466618531, -266.7232711120505)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">淞源旅馆</text>
+    <info>
+      <address>淞宝路612号</address>
+      <phone>021-56177822</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1439.1502222173585, 301.2735999990582)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">龙曹旅馆</text>
+    <info>
+      <address>川沙路1058号</address>
+      <phone>021-50689083</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-714.65400889374, 1435.911111110181)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">仓汇旅馆</text>
+    <info>
+      <address>仓汇路695号</address>
+      <phone>021-67816473</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1643.6953599952176, 445.1342222213043)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">环庆旅馆</text>
+    <info>
+      <address>环庆中路112号</address>
+      <phone>021-68915909</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1541.8961066619886, 621.9903999990947)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">伟欣旅馆</text>
+    <info>
+      <address>川沙路4889弄4号4层</address>
+      <phone>021-58904508</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1087.6952177730345, 291.30666666574143)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">霖坤旅馆</text>
+    <info>
+      <address>牟平路59号</address>
+      <phone>021-68716576</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1298.2842311062996, 1172.1287111101901)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">新坦旅馆</text>
+    <info>
+      <address>古恩路42～44号</address>
+      <phone>021-68150005</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1473.26535110642, 327.02378666576806)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">惠鸣旅馆</text>
+    <info>
+      <address>龚新路441号</address>
+      <phone>021-50685788</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(90.200888884101, 1020.0305777768335)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">圣宫旅馆</text>
+    <info>
+      <address>莘浜路10弄2号</address>
+      <phone>021-54953599</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(82.73706666186627, 996.7835022212967)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">莘新旅馆</text>
+    <info>
+      <address>七莘路182号</address>
+      <phone>021-54530271</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(730.9973333285598, 231.45955555460205)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">延都旅馆</text>
+    <info>
+      <address>延吉西路118-7临2楼</address>
+      <phone>021-55966578</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(705.1470222173521, 628.4984888879535)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">东锦旅馆</text>
+    <info>
+      <address>浦三路368号</address>
+      <phone>021-58393668,021-58390700</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(514.1459911061247, 2263.958471110209)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">之新旅馆</text>
+    <info>
+      <address>沪杭公路3267号</address>
+      <phone>021-57442300</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(324.12799999528943, -135.9516444453675)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">景新旅馆</text>
+    <info>
+      <address>水产西路112</address>
+      <phone>021-66761899</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(587.8739911062439, 527.5548444435117)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">国清旅馆</text>
+    <info>
+      <address>中华路1133号</address>
+      <phone>021-63774290</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1237.408568884166, 691.4858666657437)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">林青旅馆</text>
+    <info>
+      <address>孙桥路393号</address>
+      <phone>021-50202256</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(816.7766755508637, 54.19377777684531)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">博友旅馆</text>
+    <info>
+      <address>包头路496</address>
+      <phone>021-65068116</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(501.4392888839211, 113.67679999907523)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">欧雅旅馆</text>
+    <info>
+      <address>场中路620</address>
+      <phone>021-66821945</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1536.5804088842197, 615.4823111101905)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">瑶瑶旅馆</text>
+    <info>
+      <address>城西路18</address>
+      <phone>021-68392759</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1133.20632888408, 873.5303111101985)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">海家旅馆</text>
+    <info>
+      <address>川周公路3069号</address>
+      <phone>021-58138985</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(462.1540977730547, 258.3566222212994)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">山鹰旅馆</text>
+    <info>
+      <address>平型关路612临</address>
+      <phone>021-56330636</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1788.2386488841803, 700.9521777768441)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">晨阳旅馆</text>
+    <info>
+      <address>东亭路503号</address>
+      <phone>021-51377877</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(217.70481777311943, 26.550328887969954)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华庭旅馆</text>
+    <info>
+      <address>沪太路3621-1临</address>
+      <phone>021-66514088</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(760.2700799950981, 561.1875555546249)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">舒顺旅馆</text>
+    <info>
+      <address>浦建路324号</address>
+      <phone>021-58810286</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1697.1800177729165, 1977.1292444435403)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">馨安旅馆</text>
+    <info>
+      <address>上海市奉贤区</address>
+      <phone>021-57542769</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(755.3548799951386, 295.31164444351816)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">中都旅馆</text>
+    <info>
+      <address>齐齐哈尔路872号3楼</address>
+      <phone>021-65895453</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1101.1707733381627, 838.8053333323569)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">鹿平旅馆</text>
+    <info>
+      <address>车站路14号</address>
+      <phone>021-59733899</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1173.838648884157, 582.2136888879868)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">庭丰旅馆</text>
+    <info>
+      <address>张江镇紫薇路230号</address>
+      <phone>021-58951223</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(430.91527110627794, 1888.018488887974)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">南影旅馆</text>
+    <info>
+      <address>新建西路19</address>
+      <phone>021-57100871</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1020.630044439713, 352.2915555546206)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">金腾旅馆</text>
+    <info>
+      <address>金杨路776</address>
+      <phone>021-50753372</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1636.2315377731647, 1786.2556444435086)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">梵申旅馆</text>
+    <info>
+      <address>川南奉公路8259号</address>
+      <phone>021-57535784</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(483.1620266619211, 431.48088888797247)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">居都旅馆</text>
+    <info>
+      <address>成都北路768号</address>
+      <phone>021-63598101</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(792.5647644397031, 147.03644444352904)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">凯丰旅馆</text>
+    <info>
+      <address>国顺东路245</address>
+      <phone>021-65486650</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1167.9404088839874, 576.2972444435491)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">梦圆旅馆</text>
+    <info>
+      <address>张江路658号</address>
+      <phone>021-58554577</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(513.9275377729064, 1937.8076444435465)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">荣跃旅馆</text>
+    <info>
+      <address>南桥环城东路1835</address>
+      <phone>021-67112875,15201712829</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(591.3328355507474, -319.8165333342331)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">宝谊旅馆</text>
+    <info>
+      <address>友谊支路22临</address>
+      <phone>021-56107572</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1546.0467199951381, 601.2373333323922)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">燕文旅馆</text>
+    <info>
+      <address>川沙路4629弄103</address>
+      <phone>021-58985773</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(387.8071466620895, 386.28835555459773)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">鑫滨旅馆</text>
+    <info>
+      <address>昌化路1028号5幢</address>
+      <phone>021-52138657</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-66.06606222703704, 710.6915555546038)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">航杰旅馆</text>
+    <info>
+      <address>航新路626号</address>
+      <phone>021-64211879</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1121.0821688840952, 150.40426666573694)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">好佳旅馆</text>
+    <info>
+      <address>金高路46</address>
+      <phone>021-58656837</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(771.6296533286368, -16.484977778691245)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">闸欣旅馆</text>
+    <info>
+      <address>闸殷路86-1临</address>
+      <phone>021-65066830</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1140.5973333285147, 226.27128888793777)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">依路旅馆</text>
+    <info>
+      <address>金高路1128-1临</address>
+      <phone>021-68970781</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(698.265742217518, 718.655999999055)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">静瑶旅馆</text>
+    <info>
+      <address>成山路775</address>
+      <phone>021-58838622</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(595.8839466618883, -1.0567111120508343)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">祥宾旅馆</text>
+    <info>
+      <address>长江南路6-2</address>
+      <phone>021-66157938</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-982.5142044492168, 307.1445333324391)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">鹤洋旅馆</text>
+    <info>
+      <address>外青松公路2655弄2临</address>
+      <phone>021-58748632</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-506.46798222696816, -240.76373333423362)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">鸿园旅馆</text>
+    <info>
+      <address>清河路53号</address>
+      <phone>021-59915318</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1097.4570666714499, 845.5409777768182)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">来亭旅馆</text>
+    <info>
+      <address>章浜路46</address>
+      <phone>021-59857822</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(857.8823111063684, 403.1729777768305)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">昌隆旅馆</text>
+    <info>
+      <address>苗圃路228号</address>
+      <phone>021-50931938</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-982.2593422271893, 1190.4696888879698)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">亮宇旅馆</text>
+    <info>
+      <address>天新路150</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(461.46232888404484, 491.21877333241173)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">宝昌旅馆</text>
+    <info>
+      <address>巨鹿路278</address>
+      <phone>021-62561693</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(592.0246044395753, 517.9975111102067)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">永洁旅馆</text>
+    <info>
+      <address>蓬莱路280</address>
+      <phone>021-63772992</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-905.0724977825666, 1984.1834666657178)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">凤园旅馆</text>
+    <info>
+      <address>文商路34</address>
+      <phone>021-67313002</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1183.632639995085, -2.513066667597741)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">云芳旅馆</text>
+    <info>
+      <address>高东镇光明路415弄20号</address>
+      <phone>021-58484922</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1816.8924444395088, 1557.8808888879394)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">德实旅馆</text>
+    <info>
+      <address>南团公路1839</address>
+      <phone>021-58235691</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(132.72647110625257, 542.4824888879812)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">威东旅馆</text>
+    <info>
+      <address>新渔东路295号-2</address>
+      <phone>021-32080728</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(471.51118221736397, 1312.7580444434898)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">宝秀旅馆</text>
+    <info>
+      <address>永德路173号2层</address>
+      <phone>021-54871084</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(376.11989332872326, 1668.3818666657316)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">申皇旅馆</text>
+    <info>
+      <address>沪杭公路888</address>
+      <phone>021-57433280</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1460.4858311062344, -277.4912000009408)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">宏华旅馆</text>
+    <info>
+      <address>凤滨路599号附近</address>
+      <phone>021-66857098</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1003.9547733285872, 994.1165511101644)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">联都旅馆</text>
+    <info>
+      <address>康沈路1873</address>
+      <phone>021-58119881</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(411.1816533286401, 440.49208888795874)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">金康旅馆</text>
+    <info>
+      <address>陕西北路739号</address>
+      <phone>021-62580662</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(237.40202666194818, 1456.1180444435195)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">和韵旅馆</text>
+    <info>
+      <address>东川路2325号燎升城市生活广场3层</address>
+      <phone>021-51716828</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(238.67633777299488, 876.3064888879398)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">舒尚旅馆</text>
+    <info>
+      <address>虹梅南路梅陇一村65号</address>
+      <phone>021-54288840</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(464.1929955507294, 1940.811377776845)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">世欢旅馆</text>
+    <info>
+      <address>环城南路703号</address>
+      <phone>021-57188798</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-877.6566044491119, 2026.0536888879415)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">越居旅馆</text>
+    <info>
+      <address>金龙新街571</address>
+      <phone>021-57338196</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1201.40017777303, 850.8202666657326)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">景元旅馆</text>
+    <info>
+      <address>川周公路2729号3楼</address>
+      <phone>021-58139095</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(373.7533155506753, 732.9464888879556)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">宏悦旅馆</text>
+    <info>
+      <address>龙漕路219-4</address>
+      <phone>021-64845885</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-986.5920000047481, 1700.1031111101383)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">企成旅馆</text>
+    <info>
+      <address>五厍大街25号附近</address>
+      <phone>021-57871902</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(2216.807679995327, 2146.8401777768577)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">五湖旅馆</text>
+    <info>
+      <address>芦潮港路1666</address>
+      <phone>021-58283305</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(503.80586666196905, 1903.4467555546144)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">环东旅馆</text>
+    <info>
+      <address>奉贤区环城东路1421号</address>
+      <phone>021-57104351</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(74.72711110640375, 1007.3784888879345)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">莘欣旅馆</text>
+    <info>
+      <address>莘东路315号3层</address>
+      <phone>021-54942269</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1385.0466133286318, 168.19911111019792)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">云平旅馆</text>
+    <info>
+      <address>顾曹路446号</address>
+      <phone>021-58633880</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(258.6284088842149, 441.44782222128924)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">南光旅馆</text>
+    <info>
+      <address>白玉路200-2临</address>
+      <phone>021-62447850</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(248.57955555089575, 1448.335644443523)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">斌斌旅馆</text>
+    <info>
+      <address>东川路2210号3层</address>
+      <phone>021-54730060</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1037.7422222172754, 280.2838755546418)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">宁家旅馆</text>
+    <info>
+      <address>五莲路644号附近</address>
+      <phone>021-50375966</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(198.11683555071795, -529.986844445375)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">富谊旅馆</text>
+    <info>
+      <address>鹤林路78弄12</address>
+      <phone>021-66038288</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1411.151786661867, 762.3011555546327)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">康福旅馆</text>
+    <info>
+      <address>芙蓉路69</address>
+      <phone>021-58942800</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1418.142293328492, 759.0698666657772)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">楼厦旅馆</text>
+    <info>
+      <address>迎春街56</address>
+      <phone>021-58948733</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1336.3679288841013, 556.1813333324153)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">靖善旅馆</text>
+    <info>
+      <address>唐镇路268号</address>
+      <phone>021-58969537</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-368.29624889378465, 977.0043733323746)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">绿博旅馆</text>
+    <info>
+      <address>鼓浪路268号</address>
+      <phone>021-57612653</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(751.9688533286171, 334.96092444352144)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">南厦旅馆</text>
+    <info>
+      <address>平凉路624-1临</address>
+      <phone>021-65899065</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(198.44451555090927, 316.6563555546418)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">光林旅馆</text>
+    <info>
+      <address>曹杨路2341号</address>
+      <phone>021-52850712</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(270.4248888841903, 573.4300444435121)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">洁宜旅馆</text>
+    <info>
+      <address>新华路699-1临</address>
+      <phone>021-52305206</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(554.7054933284016, 533.3802666656993)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">亿客旅馆</text>
+    <info>
+      <address>建国新路93</address>
+      <phone>021-53828559</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(776.4720355507961, 281.9313777768457)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">长眉旅馆</text>
+    <info>
+      <address>眉州路932</address>
+      <phone>021-55082809</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(332.7569066617798, 1446.8337777768284)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">闵龙旅馆</text>
+    <info>
+      <address>永平路29号</address>
+      <phone>021-34203733</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-171.76106667157, 2047.8079999990769)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">满华旅馆</text>
+    <info>
+      <address>南亭公路6455</address>
+      <phone>021-67233249</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1081.6877511064376, 1388.033422221315)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">航南旅馆</text>
+    <info>
+      <address>航南公路5号</address>
+      <phone>021-58222588</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(648.2763377731317, 788.7431111101705)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">梦娟旅馆</text>
+    <info>
+      <address>海阳路833号</address>
+      <phone>021-68525662</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(679.8428444397359, 1890.5215999991015)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">圆缘旅馆</text>
+    <info>
+      <address>光明村645号附近</address>
+      <phone>021-57474672</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(298.8238222174914, 1493.5918933324047)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">闵旺旅馆</text>
+    <info>
+      <address>新闵路584号</address>
+      <phone>021-64352699</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(142.19278221735294, 580.256711110178)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">饶洲旅馆</text>
+    <info>
+      <address>虹古路333号3楼</address>
+      <phone>021-62426422</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(545.3119999952833, 377.32266666571377)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">飞翎旅馆</text>
+    <info>
+      <address>山西北路476</address>
+      <phone>021-63248356</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(640.8125155508969, 865.1107555545877)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">舒林旅馆</text>
+    <info>
+      <address>灵岩南路1156</address>
+      <phone>021-68305100</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(467.1421155508142, 1914.9610666657281)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">星旺旅馆</text>
+    <info>
+      <address>前进弄45</address>
+      <phone>021-57195571</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(367.27253332846885, -24.540444445392495)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">宝益旅馆</text>
+    <info>
+      <address>呼玛路779-1临2层</address>
+      <phone>13816444115</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(297.6587377730539, 1501.183146665744)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">梦君旅馆</text>
+    <info>
+      <address>华坪路5号2楼</address>
+      <phone>021-54701058</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1562.28935111576, 1976.4920888879715)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">景晏旅馆</text>
+    <info>
+      <address>泾波路408</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-548.2653866714827, -222.42275555645392)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">友诚旅馆</text>
+    <info>
+      <address>清河路212-4</address>
+      <phone>021-69919656</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(712.2831644395774, 412.730311110181)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">天虹旅馆</text>
+    <info>
+      <address>浦东大道275弄1号</address>
+      <phone>021-68597388</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1259.8043022269849, 344.0995555546124)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">舒友旅馆</text>
+    <info>
+      <address>梅桥街165</address>
+      <phone>021-59212628</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1261.2970666714318, 344.6911999990789)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">珍美旅馆</text>
+    <info>
+      <address>梅桥街183</address>
+      <phone>021-59213840</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(19.45841777305759, 991.9502222212941)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">奇思旅馆</text>
+    <info>
+      <address>西环路761</address>
+      <phone>021-33508738</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-224.26268444924062, 1443.1473777768133)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">星园旅馆</text>
+    <info>
+      <address>北松公路4915弄16</address>
+      <phone>021-57604384</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-221.93251556036557, 1449.7009777768199)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">车兴旅馆</text>
+    <info>
+      <address>影视路163</address>
+      <phone>021-57603769</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(704.4916622173332, 1908.5439999990285)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">鑫钱旅馆</text>
+    <info>
+      <address>金钱公路3539号</address>
+      <phone>021-57471492</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(736.3130311063287, 330.17315555466666)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">俊怡旅馆</text>
+    <info>
+      <address>惠民路689-2临3层</address>
+      <phone>021-65357183</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(661.3107199953447, 330.99235555459927)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">虹海旅馆</text>
+    <info>
+      <address>舟山路398临</address>
+      <phone>021-65450489</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(746.0706133286294, 2243.5512888879657)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">子轩旅馆</text>
+    <info>
+      <address>海阔路126号</address>
+      <phone>021-57120366</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1021.5402666617592, -88.07395555650146)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">中谊旅馆</text>
+    <info>
+      <address>花山路1118临</address>
+      <phone>021-50407067</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1368.6626133285245, 270.3715555546296)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">民春旅馆</text>
+    <info>
+      <address>民雪路958</address>
+      <phone>021-68683071</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(717.3075911063279, 288.2574222212497)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">连家旅馆</text>
+    <info>
+      <address>周家嘴路2130号</address>
+      <phone>021-65856268</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-29.948444449291856, 726.3928888879491)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">航龙旅馆</text>
+    <info>
+      <address>航中路314</address>
+      <phone>021-64206586</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(588.5293511062628, 365.9448888879524)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">雅逸旅馆</text>
+    <info>
+      <address>吴淞路393-1临</address>
+      <phone>021-63063765</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-73.78474667129922, -374.88497777872)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">祥记旅馆</text>
+    <info>
+      <address>塘西街79-1临4楼</address>
+      <phone>021-56863310</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(578.5897244397347, 598.051555554639)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">榕园旅馆</text>
+    <info>
+      <address>制造局路785号</address>
+      <phone>021-63166186</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-67.95932444911159, 710.8735999990586)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">骏航旅馆</text>
+    <info>
+      <address>航新路777号</address>
+      <phone>021-54477938</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(493.0652444396401, 1297.8303999990658)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">思家旅馆</text>
+    <info>
+      <address>龙吴路5450弄4号</address>
+      <phone>021-64502911</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(673.4348799951476, 244.79431111021768)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">海厦旅馆</text>
+    <info>
+      <address>阜新路182弄11～13号</address>
+      <phone>021-65016416</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(569.6695466618621, 583.7155555545905)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">久康旅馆</text>
+    <info>
+      <address>汝南街66号甲</address>
+      <phone>021-53070050</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1028.8584533285757, 958.4995555546357)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">浩月旅馆</text>
+    <info>
+      <address>周东路546-1室</address>
+      <phone>021-68138397</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(494.3395555506868, 113.94986666573459)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">特星旅馆</text>
+    <info>
+      <address>场中路668</address>
+      <phone>021-56790029</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(82.00888888404734, 1026.1745777768738)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">莘城旅馆</text>
+    <info>
+      <address>莘浜路153号4/5层</address>
+      <phone>021-64921894</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-453.89354667149746, 391.79519999906915)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">欧伊旅馆</text>
+    <info>
+      <address>纪鹤路169</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(588.3837155508445, 364.85262222131496)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">源隆旅馆</text>
+    <info>
+      <address>吴淞路411号</address>
+      <phone>021-63061864</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-471.8431288936699, 1465.884728887977)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">鸿燕旅馆</text>
+    <info>
+      <address>环城路356</address>
+      <phone>021-37770645</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1037.9242666618666, -71.32586666762109)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">杭达旅馆</text>
+    <info>
+      <address>杨高北路500号</address>
+      <phone>021-50412526</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-822.0966400047473, -141.2764444453842)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">外冈旅馆</text>
+    <info>
+      <address>春及路2</address>
+      <phone>021-59588389</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-755.9416888936539, 817.9612444435406)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">茗安旅馆</text>
+    <info>
+      <address>赵重公路80～82号</address>
+      <phone>021-59752553</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(708.897137772874, 1929.3880888879357)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">港鸿旅馆</text>
+    <info>
+      <address>金钱公路3643号临附近</address>
+      <phone>021-57470855</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(0.8898844398572692, 544.6215111101537)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">红曼旅馆</text>
+    <info>
+      <address>甘溪路372号</address>
+      <phone>021-52194502</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(235.94567110649223, 200.60302222127575)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">真浩旅馆</text>
+    <info>
+      <address>真华路1604-1临</address>
+      <phone>021-51019575,51029549,021-51027790</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(267.3665422174963, 1492.3448888879648)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上泵旅馆</text>
+    <info>
+      <address>江川路291弄29号</address>
+      <phone>021-54719505</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1107.8700088935875, 838.9418666657548)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">八方旅馆</text>
+    <info>
+      <address>青松路80弄1～4号</address>
+      <phone>021-59725291</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(825.9517155509457, 393.3880888879685)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">阿华旅馆</text>
+    <info>
+      <address>浦东大道1583-3临</address>
+      <phone>021-50282497</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1540.8766577729693, 655.3045333324008)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">长弘旅馆</text>
+    <info>
+      <address>川环南路788</address>
+      <phone>021-58920363</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1536.2163199952192, 971.7432888879557)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">欣羽旅馆</text>
+    <info>
+      <address>鹿溪北路42号</address>
+      <phone>021-58162680</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1175.1493688841947, -4.196977778701694)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">高东旅馆</text>
+    <info>
+      <address>高东新路133号</address>
+      <phone>021-58483799</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(466.08625777316774, 247.2519111101974)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">申盛旅馆</text>
+    <info>
+      <address>北宝兴路622临</address>
+      <phone>021-56335630</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1328.9405155506756, 272.419555554643)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">佰润旅馆</text>
+    <info>
+      <address>民民路68号</address>
+      <phone>021-50213919</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(527.7265066619293, 356.66062222130677)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">长客旅馆</text>
+    <info>
+      <address>公兴路10号</address>
+      <phone>021-56329580</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(820.1991111065581, 304.1407999990952)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">杨鹏旅馆</text>
+    <info>
+      <address>三星路91</address>
+      <phone>021-65194226</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1154.7239822173651, 859.2398222212978)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">康彬旅馆</text>
+    <info>
+      <address>创业路89号</address>
+      <phone>021-68072216</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1446.8324977729935, 398.3032888879279)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">瑞和旅馆</text>
+    <info>
+      <address>云雅路426</address>
+      <phone>021-33827931</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1190.659555550883, 574.1582222212855)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">荣毅旅馆</text>
+    <info>
+      <address>广兰路1114号</address>
+      <phone>021-58554158</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(2216.844088884136, 2146.5215999990505)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">芦意旅馆</text>
+    <info>
+      <address>芦潮港路1662</address>
+      <phone>021-58281885</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1267.6643555507326, 1906.905599999027)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">恒安旅馆</text>
+    <info>
+      <address>南奉公路51</address>
+      <phone>021-57512793</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(523.7943466619981, 2283.8741333323924)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">柘林旅馆</text>
+    <info>
+      <address>钦林南路48</address>
+      <phone>021-57442433</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(103.49013332870527, 1011.8385777768253)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">莘建旅馆</text>
+    <info>
+      <address>广贤路42号</address>
+      <phone>021-54133533</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-49.827697782711766, 156.5482666657772)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">柳园旅馆</text>
+    <info>
+      <address>柳园路298号</address>
+      <phone>021-66279139</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(84.81237332835008, 148.90239999904225)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">永鑫旅馆</text>
+    <info>
+      <address>上海市宝山区</address>
+      <phone>021-62500361</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-807.8971733380968, 642.7889777768087)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">翠露旅馆</text>
+    <info>
+      <address>北青公路6986临</address>
+      <phone>021-59781528</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(151.00373332843446, 281.8858666657434)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">宾都旅馆</text>
+    <info>
+      <address>真南路412号2楼</address>
+      <phone>021-52848859</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-809.0622577825343, 645.929244443505)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">昊权旅馆</text>
+    <info>
+      <address>重固镇大街309</address>
+      <phone>021-59789698</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(2231.9537777730147, 2149.5253333323944)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">依婷旅馆</text>
+    <info>
+      <address>杭湾路269</address>
+      <phone>021-58283584</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-11.015822227091121, 1051.2967111101716)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">舒雅旅馆</text>
+    <info>
+      <address>莘松路1000号</address>
+      <phone>021-57688815</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(817.4684444396917, 114.08639999904153)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">延都旅馆</text>
+    <info>
+      <address>包头南路962</address>
+      <phone>021-55236217</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(66.17102221734967, 1011.2014222212565)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">双源旅馆</text>
+    <info>
+      <address>莘凌路90</address>
+      <phone>021-84989801,021-64989801</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(823.839999995289, 296.2218666657009)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">申鑫旅馆</text>
+    <info>
+      <address>临青路279号</address>
+      <phone>021-55802166</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(581.5388444396376, 185.76639999905638)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">柏乐旅馆</text>
+    <info>
+      <address>中山北一路1202号2楼</address>
+      <phone>021-65606452</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-15.676160004659323, 62.40398222130352)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">梦甜旅馆</text>
+    <info>
+      <address>锦秋路2686临</address>
+      <phone>021-36160337</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-994.1286400047829, 325.8951111101851)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">正鹤旅馆</text>
+    <info>
+      <address>外青松公路2758号</address>
+      <phone>021-59746891,021-59746549</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-488.73685333819594, -191.06560000091122)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">嘉客旅馆</text>
+    <info>
+      <address>沪宜公路3285号-8</address>
+      <phone>021-69913398</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(508.42979555091006, 1916.6904888879344)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">东远旅馆</text>
+    <info>
+      <address>南桥环城东路1611</address>
+      <phone>021-57193358</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(203.57816888426896, 557.9562666657694)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">娄山旅馆</text>
+    <info>
+      <address>娄山关路470弄2</address>
+      <phone>021-62595256</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-58.34737778241106, -672.1180444453694)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">茜皓旅馆</text>
+    <info>
+      <address>新川沙路505-2</address>
+      <phone>021-56878827</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(296.53006221760734, 1501.6746666657127)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">圣奇旅馆</text>
+    <info>
+      <address>华坪路5-8临</address>
+      <phone>021-54701434</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-486.3338666715208, -206.53937777869942)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">舒颖旅馆</text>
+    <info>
+      <address>城中路33-5</address>
+      <phone>021-59523678</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(244.46535110637342, 386.97102222131434)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">海进旅馆</text>
+    <info>
+      <address>中宁路220号</address>
+      <phone>021-52900908</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-819.584426671463, 2286.8778666657363)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">心苑旅馆</text>
+    <info>
+      <address>郭家新村130</address>
+      <phone>021-57377003</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(796.4969244396343, 239.28746666574625)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">聚阳旅馆</text>
+    <info>
+      <address>双阳路357-1号2楼</address>
+      <phone>021-55805006</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(641.649919995325, 891.6346311102188)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">慧华旅馆</text>
+    <info>
+      <address>长清路2332弄30</address>
+      <phone>021-50823270</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1492.2343822174298, 324.9848888879569)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">龚华旅馆</text>
+    <info>
+      <address>龚华路441</address>
+      <phone>021-50681569</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(381.25354666208295, 1933.0289777768485)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">磊华旅馆</text>
+    <info>
+      <address>南亭公路664</address>
+      <phone>021-57108536</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(764.2386488840202, 240.88035555464558)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">唯益旅馆</text>
+    <info>
+      <address>控江路1197弄24</address>
+      <phone>021-55802159</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1412.6809599953049, 763.3479111102133)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">亿园旅馆</text>
+    <info>
+      <address>川周路6357号附近</address>
+      <phone>021-58941187</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-739.2300088937191, 827.6824177768503)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">镇东旅馆</text>
+    <info>
+      <address>赵兴路80</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(24.009528884016618, 374.5009777768246)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">捷居旅馆</text>
+    <info>
+      <address>丰庄路452号3层</address>
+      <phone>021-59186909</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(927.0591999951648, 371.7703111101855)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">若归旅馆</text>
+    <info>
+      <address>博山东路104-1</address>
+      <phone>021-50382508</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(525.3963377728724, 153.86311111019495)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">御鑫旅馆</text>
+    <info>
+      <address>车站北路426</address>
+      <phone>021-35093528</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1092.646826661803, 226.4078222212902)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">慧旺旅馆</text>
+    <info>
+      <address>五莲路1686</address>
+      <phone>021-58659253</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-418.1764266713799, 392.1137777768763)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">纪鹤旅馆</text>
+    <info>
+      <address>纪翟路2790-4临</address>
+      <phone>021-52966822</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-85.25354667144711, -363.2614400009061)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">罗溪旅馆</text>
+    <info>
+      <address>罗升路345</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(581.902933328638, 562.862364443481)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">朝鑫旅馆</text>
+    <info>
+      <address>西藏南路1332号6楼</address>
+      <phone>021-53079169</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(602.1462755508765, 387.7902222212924)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">聚业旅馆</text>
+    <info>
+      <address>武昌路138</address>
+      <phone>021-63069151</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1258.816995550842, 1905.7678222212871)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">康馨旅馆</text>
+    <info>
+      <address>南奉公路137号</address>
+      <phone>021-57523855</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(445.69727999514726, 1944.7708444435193)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">祥梦旅馆</text>
+    <info>
+      <address>环城南路865</address>
+      <phone>021-57411827</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(994.3428266618866, 268.54200888797095)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">骏茂旅馆</text>
+    <info>
+      <address>莱阳路28-1</address>
+      <phone>021-58717083</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-953.4235022269058, 1475.915377776846)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">福鑫旅馆</text>
+    <info>
+      <address>昆港公路486临</address>
+      <phone>021-57855285</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(184.49991110646806, 1456.3911111101334)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">文涛旅馆</text>
+    <info>
+      <address>碧江路402弄46号</address>
+      <phone>021-54757899</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(15.56266666193551, 416.3256888879914)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">博发旅馆</text>
+    <info>
+      <address>金沙江路2735号2层</address>
+      <phone>021-39102208</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1314.631822217416, 1910.227911110178)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">龙溪旅馆</text>
+    <info>
+      <address>川南奉公路9718-2</address>
+      <phone>021-57510312</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-159.20000000478467, 2739.4403555546432)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">荣都旅馆</text>
+    <info>
+      <address>板桥西路1272</address>
+      <phone>021-57263477</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(751.3863111063984, 37.80977777682892)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">久源旅馆</text>
+    <info>
+      <address>民京路932-2</address>
+      <phone>021-51261189</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(417.0070755506458, 26.386488887965243)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">锦旺旅馆</text>
+    <info>
+      <address>一二八纪念路728弄8</address>
+      <phone>021-66980081</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(392.3946666618576, 1897.9854222212907)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">贝港旅馆</text>
+    <info>
+      <address>秀南路312</address>
+      <phone>021-57410108</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(2229.4779733285395, 2061.3703111101586)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">启峰旅馆</text>
+    <info>
+      <address>果园路145弄27</address>
+      <phone>021-58284342</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1261.9524266714507, 2106.60835555459)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">兴雅旅馆</text>
+    <info>
+      <address>兴发路29</address>
+      <phone>021-57361883</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-595.5241244491845, 1495.2575999990586)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">居乐旅馆</text>
+    <info>
+      <address>人民南路19弄12号</address>
+      <phone>021-57725152</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1236.2434844397285, 672.5987555545998)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华都旅馆</text>
+    <info>
+      <address>孙桥路201</address>
+      <phone>021-50200208</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(480.5769955508367, 1847.2860444435355)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">心悦旅馆</text>
+    <info>
+      <address>南桥运河北路308</address>
+      <phone>021-57421628</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(124.31601777298056, 703.5918222212786)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">虹源旅馆</text>
+    <info>
+      <address>吴中路1075</address>
+      <phone>021-54220967</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(528.4546844395663, 2292.157155554605)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">柘南旅馆</text>
+    <info>
+      <address>渔业村133</address>
+      <phone>021-57445538</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-751.7910755603225, 818.825955554621)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">三乡旅馆</text>
+    <info>
+      <address>赵华路510号</address>
+      <phone>021-59751788</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1085.2558222173684, 347.285333332411)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">剑瓷旅馆</text>
+    <info>
+      <address>台儿庄路684</address>
+      <phone>021-58990580</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-220.91306667134631, 1208.4010666657377)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">桃春旅馆</text>
+    <info>
+      <address>新北路474</address>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-486.8800000047486, -218.78186666758666)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">吉阳旅馆</text>
+    <info>
+      <address>沙霞路100号</address>
+      <phone>021-69985765</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(291.46922666186583, 1479.2376888879517)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">闵福旅馆</text>
+    <info>
+      <address>江川东路1050号双翼大厦5楼</address>
+      <phone>021-54700627</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(383.9113955509674, -206.4938666675971)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">思云旅馆</text>
+    <info>
+      <address>宝杨路3061临</address>
+      <phone>021-56803329</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-189.1281066715237, 1748.7635911101734)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">亚丽旅馆</text>
+    <info>
+      <address>叶新公路139</address>
+      <phone>021-57808998</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-962.4529066713876, 1473.8218666657303)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">国林旅馆</text>
+    <info>
+      <address>港丰路40</address>
+      <phone>021-57852612</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(214.13674666200677, 911.5775999990547)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">梅都旅馆</text>
+    <info>
+      <address>莲花南路177-1临</address>
+      <phone>021-54815148</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(800.5383111065385, 1415.7041777768427)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">闽星旅馆</text>
+    <info>
+      <address>闸航路2578临4楼</address>
+      <phone>021-54843598</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(731.4706488841693, 923.0008888879638)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">林堰旅馆</text>
+    <info>
+      <address>上南路5268临</address>
+      <phone>021-68307808</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1444.2110577731, 401.2159999990672)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">同馨旅馆</text>
+    <info>
+      <address>云雅路459号</address>
+      <phone>021-33827786</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(297.33105777286255, 1492.2538666657147)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">恒越旅馆</text>
+    <info>
+      <address>沪闵路199号</address>
+      <phone>021-54702516</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-620.9739377825827, 1479.283199999054)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">松峰旅馆</text>
+    <info>
+      <address>西林南路100弄99号附近</address>
+      <phone>021-57811557</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(535.9185066618011, 340.8682666657114)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">伍村旅馆</text>
+    <info>
+      <address>宝山路391</address>
+      <phone>021-56310532</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1236.1706666619284, 677.9235555546165)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">锦璇旅馆</text>
+    <info>
+      <address>孙桥路251</address>
+      <phone>021-58575578</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(311.4212977729039, 793.3852444435161)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上逸旅馆</text>
+    <info>
+      <address>沪闵路9018号</address>
+      <phone>021-64709069</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1107.8336000047784, 832.7068444435099)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">君思旅馆</text>
+    <info>
+      <address>青松路2号</address>
+      <phone>021-59737096</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(775.0156799951583, -21.946311112014882)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">东盛旅馆</text>
+    <info>
+      <address>闸殷路73</address>
+      <phone>021-65056143</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(80.51612443960039, 1103.6799999990762)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">福满旅馆</text>
+    <info>
+      <address>申北路552</address>
+      <phone>021-54831128</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-86.5642666714848, 725.3916444435163)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">闵华旅馆</text>
+    <info>
+      <address>吴宝路1027号</address>
+      <phone>021-51581776</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(299.80686221751967, 742.9589333324202)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">虹莲旅馆</text>
+    <info>
+      <address>漕宝路109号</address>
+      <phone>021-64831783</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(82.00888888404734, 1025.8559999990666)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">宏城旅馆</text>
+    <info>
+      <address>莘浜路172号</address>
+      <phone>021-64927828</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1106.482204439817, -1281.875911112047)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">永佳旅馆</text>
+    <info>
+      <address>前竖公路2940临</address>
+      <phone>021-59491964</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(226.04245332859136, 1494.5294222212851)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">浙龙旅馆</text>
+    <info>
+      <address>瑞丽路24号</address>
+      <phone>021-64308387</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1095.0862222174692, 297.81475555464567)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">梦缘旅馆</text>
+    <info>
+      <address>牟平路179</address>
+      <phone>021-50267029</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(450.0663466618789, 1927.0215111101606)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">靖怡旅馆</text>
+    <info>
+      <address>江海路280号2层</address>
+      <phone>021-57182563</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(714.4676977730342, 646.1112888879597)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">盈梦旅馆</text>
+    <info>
+      <address>浦三路603号3楼</address>
+      <phone>021-68363085,021-50779188</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(633.89482666189, 881.8133333323658)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">西凌旅馆</text>
+    <info>
+      <address>长清路2223临</address>
+      <phone>021-58411264</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(95.77144888426119, 320.1607111102021)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">洁雅旅馆</text>
+    <info>
+      <address>桃浦路1147号</address>
+      <phone>021-52759561</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(400.9143466621026, 774.8258133324271)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">越家旅馆</text>
+    <info>
+      <address>龙吴路319临</address>
+      <phone>021-54351551,021-34615965</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(747.2721066620579, 325.21244444351396)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">诚沁旅馆</text>
+    <info>
+      <address>惠民路833-5临</address>
+      <phone>021-65851176</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(152.89699555087282, 1061.6095288879478)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">春都旅馆</text>
+    <info>
+      <address>都市路4461号</address>
+      <phone>021-54152713</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1137.793848884212, 175.2078222212731)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">康悦旅馆</text>
+    <info>
+      <address>金高路388弄19临</address>
+      <phone>021-51310988</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(380.7074133284914, 1947.956622221318)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">贝利旅馆</text>
+    <info>
+      <address>沪杭公路2195号</address>
+      <phone>021-67193565</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(732.2716444396065, 83.32088888796534)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">福澜旅馆</text>
+    <info>
+      <address>清源环路440-1临</address>
+      <phone>021-55787978</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(759.8695822174705, 1218.9141333324187)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">馨泉旅馆</text>
+    <info>
+      <address>沈杜公路3141号2楼</address>
+      <phone>021-64117698</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(609.464462217511, 222.94897777687765)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">晨寅旅馆</text>
+    <info>
+      <address>赤峰路329号</address>
+      <phone>021-55882919</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1476.1416533285228, 431.9359999990411)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">金鹤旅馆</text>
+    <info>
+      <address>一心村顾家宅70</address>
+      <phone>021-58581430</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(983.6386133283668, 968.1479111101908)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">鑫发旅馆</text>
+    <info>
+      <address>康沈路1568号2层</address>
+      <phone>021-68125418</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-218.07317333823448, 1430.4497777768574)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">乐豪旅馆</text>
+    <info>
+      <address>联营路79</address>
+      <phone>021-57601239</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-59.98577778245817, 329.6725333324048)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">江桥旅馆</text>
+    <info>
+      <address>曹安路2119号</address>
+      <phone>021-69119988</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1021.6494933287322, 240.88035555464558)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">梦蕾旅馆</text>
+    <info>
+      <address>莱阳路638</address>
+      <phone>021-50107082</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-70.83562667121441, -666.5656888897956)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">太川旅馆</text>
+    <info>
+      <address>新川沙路516号</address>
+      <phone>021-56876338</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1128.8051200048358, 844.7217777768401)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">临福旅馆</text>
+    <info>
+      <address>城中南路495</address>
+      <phone>021-59732880</phone>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-591.6283733380624, 568.1962666657455)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="/resource/icon/hot"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">沁泽旅馆</text>
+    <info>
+      <address>新凤中路1749</address>
+      <phone>021-59773757</phone>
+    </info>
+  </g>
+</g>

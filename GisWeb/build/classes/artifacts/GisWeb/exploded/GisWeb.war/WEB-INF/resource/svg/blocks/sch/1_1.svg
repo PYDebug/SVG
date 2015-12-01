@@ -1,0 +1,4188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<g>
+  <g class="entity" transform="translate(644.0529066618183, 215.38503111019054)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">同济大学</text>
+    <info>
+      <address>四平路1239号</address>
+      <phone>021-65982200</phone>
+      <population>7029</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(252.51171555082692, 580.9393777768491)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">东华大学</text>
+    <info>
+      <address>中山西路849</address>
+      <phone>021-62373598</phone>
+      <population>17183</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(333.33944888418046, 602.5025422213275)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海交通大学</text>
+    <info>
+      <address>上海市徐汇区</address>
+      <population>8425</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(295.61983999519725, 851.6758755546562)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华东理工大学</text>
+    <info>
+      <address>梅陇路130</address>
+      <phone>021-64253300</phone>
+      <population>8272</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(654.7935288841472, 147.382328887943)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">复旦大学</text>
+    <info>
+      <address>邯郸路220号</address>
+      <phone>021-65642222</phone>
+      <population>10162</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(642.4145066617712, 119.0835199990488)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海财经大学</text>
+    <info>
+      <address>国定路777号</address>
+      <phone>021-65904057</phone>
+      <population>11090</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(449.0104888842325, 252.0760888879522)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海大学延长校区</text>
+    <info>
+      <address>延长路149号</address>
+      <phone>021-56331515</phone>
+      <population>5256</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(559.8755555507523, 250.15551999908894)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海外国语大学</text>
+    <info>
+      <address>大连西路550号</address>
+      <phone>021-65311900</phone>
+      <population>17810</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(150.16632888400636, 68.38414222129359)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海大学宝山校区</text>
+    <info>
+      <address>上大路99号上海大学宝山校区内</address>
+      <phone>021-66134148</phone>
+      <population>7609</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(463.10072888409195, 48.77795555466946)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市第一聋哑学校</text>
+    <info>
+      <address>景凤路300号</address>
+      <population>5510</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(933.4307555505802, 405.31199999909404)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">浦东新区特殊教育学校</text>
+    <info>
+      <address>羽山路1890号</address>
+      <phone>021-68560188</phone>
+      <population>14810</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(328.27861332843895, 875.6238222213142)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市聋哑青年技术学校</text>
+    <info>
+      <address>老沪闵路800</address>
+      <population>6426</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(324.1644088839166, 516.2225777768526)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">东方国际手语教育学校</text>
+    <info>
+      <address>宣化路3</address>
+      <phone>021-62128645</phone>
+      <population>5557</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(844.4110222175368, 379.5527111101819)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市浦东新区特殊教育学校(分校)</text>
+    <info>
+      <address>浦东大道1851弄38号</address>
+      <population>6968</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(478.9750044395987, 521.8204444435287)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市第四聋校</text>
+    <info>
+      <address>皋兰路31号</address>
+      <population>9505</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(360.50047999524395, 454.41848888794993)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市静安区聋儿语训部</text>
+    <info>
+      <address>康定路946号</address>
+      <population>15659</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1111.1468088934998, 819.5086222212922)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">青浦成人学校</text>
+    <info>
+      <address>庆华一路84弄1</address>
+      <population>15226</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(2328.546559995266, 1474.2314666657421)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">老港成人学校</text>
+    <info>
+      <address>通源西路3</address>
+      <population>11402</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1181.8528711157342, 820.509866665725)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">青浦成人学校</text>
+    <info>
+      <address>青赵路910号</address>
+      <phone>021-59207236</phone>
+      <population>10231</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1407.3331200048415, 1015.615999999045)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">朱家角成人学校</text>
+    <info>
+      <address>漕平支路102</address>
+      <phone>021-59244737</phone>
+      <population>5064</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(979.2695466619989, 980.2083555546233)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">周浦镇成人学校</text>
+    <info>
+      <address>康沈路1646弄31</address>
+      <population>16165</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-329.8120533381734, 2399.8364444435083)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">张堰镇成人学校</text>
+    <info>
+      <address>新华路65</address>
+      <population>10857</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-404.2318222269387, -365.55520000092656)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">徐行镇成人学校</text>
+    <info>
+      <address>勤学路99</address>
+      <population>13202</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-223.78936889363104, 2051.3578666657395)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">亭林成人学校</text>
+    <info>
+      <address>松金公路5249</address>
+      <population>10299</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1901.7979733285756, 1394.978417776838)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">惠南成人学校</text>
+    <info>
+      <address>文卫路53</address>
+      <population>5041</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1298.3206399952905, 1411.1075555545995)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">新场成人学校</text>
+    <info>
+      <address>新奉公路358号</address>
+      <phone>021-58171706</phone>
+      <population>10272</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-816.380444448987, 590.04159999904)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">重固成人学校</text>
+    <info>
+      <address>重固镇大街999</address>
+      <population>12327</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-188.61838222692313, 1220.188444443511)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">新桥镇成人学校</text>
+    <info>
+      <address>新北街299弄6</address>
+      <population>19235</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(159.05009777306987, 1201.301333332367)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">颛桥镇成人学校</text>
+    <info>
+      <address>中沟路385临</address>
+      <phone>021-64897275</phone>
+      <population>16741</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(641.1401955507245, 349.14218666572197)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海纺织干部学校</text>
+    <info>
+      <address>东余杭路627</address>
+      <population>9512</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1005.7752177728617, 1008.0611555546511)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">周浦镇成人学校分部</text>
+    <info>
+      <address>康沈路1970</address>
+      <population>19673</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1552.7823644397358, 971.3518933324394)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">六灶镇成人学校</text>
+    <info>
+      <address>上海市浦东新区</address>
+      <population>10685</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(7.479893328672915, 788.3699199990588)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">七宝镇成人学校</text>
+    <info>
+      <address>漕宝路2005号</address>
+      <population>16529</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-918.3981511157981, -147.42044444537896)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">外冈镇成人学校</text>
+    <info>
+      <address>恒飞路688</address>
+      <population>14880</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(281.8936888841563, 953.365902221276)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">梅陇镇成人学校</text>
+    <info>
+      <address>莘朱路1925号</address>
+      <population>6273</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(2125.821866662045, 1945.8631111101568)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">泥城镇成人学校</text>
+    <info>
+      <address>新城路2</address>
+      <phone>021-58072521</phone>
+      <population>6647</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1166.156373328704, -943.9104000009138)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">崇明县堡镇成人学校</text>
+    <info>
+      <address>育英路37临</address>
+      <population>13211</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(176.38072888403258, 1942.2677333323918)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">奉贤区庄行成人学校</text>
+    <info>
+      <address>上海市奉贤区</address>
+      <population>6454</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(187.01212443975237, -1335.8065777787033)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">崇明县教师进修学校</text>
+    <info>
+      <address>上海市崇明县</address>
+      <phone>021-59626717</phone>
+      <population>16966</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(175.32487110638613, 2042.0735999990484)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海奉贤区庄行成人学校</text>
+    <info>
+      <address>庄良路1051</address>
+      <population>10580</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1509.2051911158705, 1606.6961066657313)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">练塘镇成人学校蒸淀教育点</text>
+    <info>
+      <address>蒸兴路328</address>
+      <population>13669</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(2026.898915550737, -761.5928888897997)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">崇明县陈家镇成人学校</text>
+    <info>
+      <address>上海市崇明县</address>
+      <population>17628</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1822.8635022174785, -875.7347555564593)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">崇明县中兴镇成人学校</text>
+    <info>
+      <address>振业路86</address>
+      <population>6115</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(429.7137777728494, 1913.2771555546242)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">奉贤区成人教师进修学校</text>
+    <info>
+      <address>电大路10号</address>
+      <population>11454</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(186.32035555074253, -1337.9456000009213)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">崇明县教师进修学校北区</text>
+    <info>
+      <address>新崇北路6</address>
+      <population>18727</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(205.18015999514319, -1346.9568000009076)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">崇明县成人教师进修学校</text>
+    <info>
+      <address>东门路340</address>
+      <population>16270</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(748.5828266617318, 287.347199999067)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">立信会计学校继续教院(杨浦)</text>
+    <info>
+      <address>齐齐哈尔路1010号</address>
+      <phone>021-65185566</phone>
+      <population>15846</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(585.0340977729502, 436.8967111101938)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海中国专业人像摄影函授学校</text>
+    <info>
+      <address>福州路107号福州大楼3层324室</address>
+      <population>15896</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-687.8570666713131, 1492.2538666657147)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">松江区永丰成人学校</text>
+    <info>
+      <address>松汇西路1518号</address>
+      <population>19190</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-910.3153777825355, 1974.5351111101627)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">金山区成人教育学校</text>
+    <info>
+      <address>万安街950</address>
+      <phone>021-57320156</phone>
+      <population>17895</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-812.703146671447, 1650.6780444435208)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">松江区石湖荡成人学校</text>
+    <info>
+      <address>育新路699号</address>
+      <phone>021-57841353</phone>
+      <population>5119</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(445.551644439729, 932.0849066657502)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华泾镇东湾村老年人学校</text>
+    <info>
+      <address>龙吴路2050弄36临</address>
+      <population>18907</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1578.7419022173708, 632.7310222212873)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">浦东新区成人教师进修学校</text>
+    <info>
+      <address>城南路267弄12</address>
+      <phone>021-68651297</phone>
+      <population>13910</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-169.35808000471297, 933.2863999990877)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">松江区九亭镇成人学校</text>
+    <info>
+      <address>九新公路289-1</address>
+      <population>5221</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(598.8330666619731, -176.04693333428258)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">宝山区成人教师进修学校</text>
+    <info>
+      <address>淞桥西路18</address>
+      <phone>021-56844593</phone>
+      <population>6140</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-626.4716800047609, 1448.6542222212847)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">松江区成人教师进修学校</text>
+    <info>
+      <address>西林北路420号</address>
+      <population>12138</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(459.4962488839883, 61.730417776834656)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">闸北区成人教育进修学校</text>
+    <info>
+      <address>保德路345号</address>
+      <phone>021-56833900</phone>
+      <population>19063</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(403.2081066619867, 1132.7160888879462)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">梅龙镇成人学校爱国分校</text>
+    <info>
+      <address>澄江路1011临</address>
+      <population>15387</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(378.34083555080724, 472.89599999908205)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">静安寺街道社区(老年)学校</text>
+    <info>
+      <address>新闸路1855号</address>
+      <population>9719</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(591.4056533283656, 514.0380444434868)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海文化生活技艺专修函授学校</text>
+    <info>
+      <address>文庙路120</address>
+      <phone>021-63768982</phone>
+      <population>17803</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(484.32711110654054, 1893.5253333324)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">奉贤区成人教师进修学校古华校区</text>
+    <info>
+      <address>南桥曙光路158号</address>
+      <population>19296</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1801.6735288842028, 1266.2729955546638)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">浦东新区卫生学校成人教育部</text>
+    <info>
+      <address>北门路43号</address>
+      <population>6031</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(409.8709333286024, 774.9077333323839)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市城市管理行政执法局干部学校</text>
+    <info>
+      <address>龙吴路410弄10</address>
+      <population>12870</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1801.6007111062208, 1266.2911999990683)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海医药高等专科学校继续教育学院</text>
+    <info>
+      <address>北门路43号</address>
+      <population>10775</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(340.54840888402396, 656.5333333323906)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海第二医科大学远程教育学院董恒甫学校学习中心</text>
+    <info>
+      <address>蒲汇塘路99</address>
+      <population>7102</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(341.2401777730338, -375.6222577786957)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">宝钢党校</text>
+    <info>
+      <address>四元路19</address>
+      <population>19267</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(346.88355555081216, 710.2819555546375)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华谊党校</text>
+    <info>
+      <address>漕溪路165</address>
+      <population>10398</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(363.85009777313826, 509.7144888879484)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海老龄大学</text>
+    <info>
+      <address>延安西路300号静安大厦14～16层</address>
+      <phone>021-62481122</phone>
+      <population>6410</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(131.19729777299654, 998.5493333323575)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">乐宁进修学院</text>
+    <info>
+      <address>都市路2074</address>
+      <population>6772</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(641.1401955507245, 349.14218666572197)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海纺织党校</text>
+    <info>
+      <address>东余杭路627</address>
+      <phone>021-62558334</phone>
+      <population>8471</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(990.8839822173832, 739.8186666657239)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">海关总署党校</text>
+    <info>
+      <address>华夏西路5677</address>
+      <phone>021-28992899</phone>
+      <population>17417</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(511.5245511064131, 525.5978666657484)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">震旦进修学院</text>
+    <info>
+      <address>复兴中路498弄8</address>
+      <phone>021-63840872</phone>
+      <population>17082</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(404.15473777302395, 63.88764444350272)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">乐宁进修学院</text>
+    <info>
+      <address>共和新路4699弄156号</address>
+      <phone>021-51696510</phone>
+      <population>18359</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(429.7501866618404, 1960.5996088879692)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">南桥镇委党校</text>
+    <info>
+      <address>江南路455</address>
+      <population>6540</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(562.9703111062554, 301.25539555465366)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">易进进修学院</text>
+    <info>
+      <address>四川北路2066</address>
+      <phone>021-56666228</phone>
+      <population>16607</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(584.0510577731038, 573.4482488879621)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海电气党校</text>
+    <info>
+      <address>西藏南路1406</address>
+      <phone>021-53072427</phone>
+      <population>11310</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(622.9357511063427, 560.5959111102038)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">育辛进修学院</text>
+    <info>
+      <address>普育东路227号1号楼4楼</address>
+      <population>10524</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(759.578311106452, 1194.3381333323941)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">复光进修学院</text>
+    <info>
+      <address>三鲁公路2646弄16</address>
+      <population>11115</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(491.42684443977487, 93.47896888798459)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">江阳专修学院</text>
+    <info>
+      <address>上海市闸北区</address>
+      <population>7646</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-484.1857422268731, -205.12853333425483)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">新知进修学院</text>
+    <info>
+      <address>城中路25号电信实业大楼2层203/204</address>
+      <population>5776</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-16.003840004668746, 715.6067555546088)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">朗恩成人教育</text>
+    <info>
+      <address>航北路206号4楼A座</address>
+      <phone>021-34529601</phone>
+      <population>18692</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(589.8036622174914, 378.18737777683964)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">博世凯进修学院</text>
+    <info>
+      <address>塘沽路321</address>
+      <phone>021-63090990</phone>
+      <population>6956</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(301.2996266617847, 869.2522666657624)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市国资党校</text>
+    <info>
+      <address>天等路501号</address>
+      <population>16549</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(464.0473599953111, 614.5720888879623)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">徐汇区业余大学</text>
+    <info>
+      <address>大木桥路434</address>
+      <phone>021-64035046</phone>
+      <population>12336</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(242.28081777291663, -90.34951111202645)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">盛宅村老年分校</text>
+    <info>
+      <address>泰和西路3149</address>
+      <population>6766</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(431.75267555070604, 541.81802666576)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海前进进修学院</text>
+    <info>
+      <address>复兴中路1330号</address>
+      <phone>021-64336969</phone>
+      <population>8389</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1609.9807288841475, 1404.0533333323765)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海同捷进修学院</text>
+    <info>
+      <address>南芦公路160</address>
+      <population>19744</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(648.6768355509412, 168.42666666575496)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">复旦求是进修学院</text>
+    <info>
+      <address>国权路579</address>
+      <population>9492</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(886.2448355508604, 665.7720888879339)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海新华进修学院</text>
+    <info>
+      <address>沪南路858-1</address>
+      <phone>021-33781693</phone>
+      <population>16676</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(557.7638399950956, 589.7230222213238)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海前进进修学院</text>
+    <info>
+      <address>瞿溪路801</address>
+      <phone>021-63020000</phone>
+      <population>15425</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(743.8860799953545, 237.05742222132358)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">沪东科技进修学院</text>
+    <info>
+      <address>凤城路101号</address>
+      <phone>021-65034765</phone>
+      <population>11419</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(301.48167110637587, 744.4152888879671)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">工行上海分行党校</text>
+    <info>
+      <address>漕宝路100</address>
+      <phone>021-64361490</phone>
+      <population>15541</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(305.0861511062976, 864.8831999990762)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市卫生局党校</text>
+    <info>
+      <address>梅陇路21号</address>
+      <population>5301</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(704.6372977731153, 156.73031111018645)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海财智进修学院</text>
+    <info>
+      <address>四平路2338</address>
+      <phone>021-81810691</phone>
+      <population>5780</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(641.649919995325, 863.0627555546198)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海新华进修学院</text>
+    <info>
+      <address>灵岩南路1153</address>
+      <phone>021-58497708</phone>
+      <population>8208</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(486.00191999521485, 503.3884444434989)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">卢湾行知进修学院</text>
+    <info>
+      <address>淮海中路622弄8号春雷商务房3楼</address>
+      <phone>021-53822899</phone>
+      <population>8911</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(176.45354666201456, 110.85511111018604)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海华文进修学院</text>
+    <info>
+      <address>南陈路259号</address>
+      <phone>021-56135458</phone>
+      <population>17746</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1767.3442133380377, 1272.0255999990513)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海宏教进修学院</text>
+    <info>
+      <address>莲龚路8</address>
+      <population>6674</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(516.1848888839813, 580.4387555546327)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海教卫进修学院</text>
+    <info>
+      <address>南塘浜路117</address>
+      <phone>021-63040201</phone>
+      <population>7451</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-141.2140088936212, 2767.2476444435233)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海泽达进修学院</text>
+    <info>
+      <address>龙胜路1000号</address>
+      <population>9880</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(369.3114311063255, 444.5425777768378)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海英德进修学院</text>
+    <info>
+      <address>胶州路601号</address>
+      <phone>021-62553216</phone>
+      <population>19667</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(566.0650666617585, 332.0482133324276)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海前进进修学院</text>
+    <info>
+      <address>四川北路1702弄32号</address>
+      <population>9829</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(301.48167110637587, 744.4152888879671)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海金融职工大学</text>
+    <info>
+      <address>漕宝路100号</address>
+      <phone>021-64361490</phone>
+      <population>14210</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1558.4257422175142, 624.0383999990627)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海达尔进修学院</text>
+    <info>
+      <address>新川路315</address>
+      <population>7108</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-153.41098667140614, 191.00017777686844)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">南翔成人教育中心</text>
+    <info>
+      <address>众仁路385号</address>
+      <phone>021-59122354</phone>
+      <population>14229</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(540.7608888839604, 426.47466666571745)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海经管进修学院</text>
+    <info>
+      <address>宁波路476</address>
+      <population>15673</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(215.81155555086298, 849.7735111101974)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海燎原进修学院</text>
+    <info>
+      <address>上海市闵行区</address>
+      <phone>021-54934667</phone>
+      <population>17843</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(655.0119822173656, 235.91964444349287)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海良友进修学院</text>
+    <info>
+      <address>赤峰路43号</address>
+      <population>12043</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(644.0529066618183, 272.05546666573355)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海电信进修学院</text>
+    <info>
+      <address>天宝路879</address>
+      <phone>021-65142018</phone>
+      <population>6404</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(345.9733333284021, 664.8163555546034)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海裕德进修学院</text>
+    <info>
+      <address>裕德路45弄2号</address>
+      <phone>021-64285782</phone>
+      <population>18280</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1525.0794666713773, 1989.8723555545985)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海金成进修学院</text>
+    <info>
+      <address>白牛路290</address>
+      <phone>021-33697815</phone>
+      <population>11304</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(281.3839644397376, 939.066311110173)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海新知进修学院</text>
+    <info>
+      <address>罗锦路25</address>
+      <population>14414</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-68.97877333794895, 2759.9658666657433)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海金成进修学院</text>
+    <info>
+      <address>蒙山路919</address>
+      <phone>021-67961012</phone>
+      <population>13672</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(511.81582221743156, 516.4410311101619)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">卢湾区教育局党校</text>
+    <info>
+      <address>自忠路455号</address>
+      <phone>021-63867361</phone>
+      <population>11036</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(602.9108622175045, 88.30890666577034)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海财智进修学院</text>
+    <info>
+      <address>三门路499</address>
+      <population>10421</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(540.7608888839604, 270.4625777768797)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海建机进修学院</text>
+    <info>
+      <address>同煌路26</address>
+      <population>17616</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-4.5350400048846495, 499.42897777686994)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海新江进修学院</text>
+    <info>
+      <address>金钟路658弄11号东华大学国家大学科技园11号楼6层</address>
+      <phone>021-62341600</phone>
+      <population>17729</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(75.96501332845946, 1054.9831111101867)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海欧伦进修学院</text>
+    <info>
+      <address>莘西南路411号</address>
+      <population>9508</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(809.8589866616749, 88.96426666574371)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海金领进修学院</text>
+    <info>
+      <address>民星路435-4临</address>
+      <population>11185</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(690.9475555507015, 699.905422221309)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海书画进修学院</text>
+    <info>
+      <address>昌里东路347号</address>
+      <phone>021-68369655</phone>
+      <population>18859</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(543.2731022174266, 443.65966222130737)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海自力进修学院</text>
+    <info>
+      <address>广西北路248号百米香榭商业街3层</address>
+      <population>6612</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-33.95342222684121, 2727.0613333324036)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海金成进修学院</text>
+    <info>
+      <address>卫清东路3098</address>
+      <phone>021-67961012</phone>
+      <population>12432</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(534.7534222175454, 206.6559999990659)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海博大进修学院</text>
+    <info>
+      <address>水电路837</address>
+      <population>10613</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(312.7320177731235, 881.1306666657401)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海汇文进修学院</text>
+    <info>
+      <address>天等路400-5临</address>
+      <population>10506</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(377.83111110620666, 737.8616888879606)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海泽雨成人教育</text>
+    <info>
+      <address>龙漕路200弄28号宏润大厦6层602</address>
+      <population>5626</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(738.9344711062222, 113.72231111017754)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市复仁进修学院</text>
+    <info>
+      <address>政通路16号</address>
+      <phone>021-55229299</phone>
+      <population>9084</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(590.276977773101, 733.1285333324104)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市广博进修学院</text>
+    <info>
+      <address>长清路101</address>
+      <phone>021-58831614</phone>
+      <population>10969</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(388.6445511063357, 639.4211555546462)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">徐汇区科技进修学院</text>
+    <info>
+      <address>南丹东路58号</address>
+      <phone>021-64384100</phone>
+      <population>6005</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-67.34037333808374, 2812.9863111101713)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">金山区教师进修学院</text>
+    <info>
+      <address>柳城路280</address>
+      <phone>021-57971111</phone>
+      <population>18692</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(73.08871110635664, 982.301866665739)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">闵行区教师进修学院</text>
+    <info>
+      <address>七莘路350号</address>
+      <phone>021-64921982</phone>
+      <population>6728</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(426.5097955507372, 621.1711999990712)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市西南进修学院</text>
+    <info>
+      <address>斜土路2000号</address>
+      <phone>021-64042751</phone>
+      <population>18086</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(566.0650666617585, 332.0482133324276)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市宏教进修学院</text>
+    <info>
+      <address>四川北路1702弄32号</address>
+      <phone>021-63247278</phone>
+      <population>6324</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(409.68888888401125, 544.6670222213015)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市新知进修学院</text>
+    <info>
+      <address>宝庆路8号上海电动工具研究所科技办公楼2层</address>
+      <phone>021-64317276</phone>
+      <population>9155</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(573.9293866619846, 458.87857777684076)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市侨友进修学院</text>
+    <info>
+      <address>山东南路43</address>
+      <population>15118</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(529.6561777729949, 587.2017066657463)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市震旦进修学院</text>
+    <info>
+      <address>鲁班路369</address>
+      <phone>021-53029600</phone>
+      <population>12205</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(583.2500622174848, 540.2069333324107)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">黄浦区业余大学分校</text>
+    <info>
+      <address>陆家浜路1089边门</address>
+      <phone>021-63459945</phone>
+      <population>5725</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(713.8123377730153, 507.47534222127797)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市浦育进修学院</text>
+    <info>
+      <address>浦城路836临</address>
+      <population>5777</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-477.8141866712758, -333.3788444454058)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">嘉定区教师进修学院</text>
+    <info>
+      <address>嘉行公路601</address>
+      <population>16365</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(738.4247466619854, 268.769564443528)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">杨浦区教师进修学院</text>
+    <info>
+      <address>周家嘴路2521</address>
+      <population>14127</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(169.86353777283512, 621.7446399990877)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市华贸进修学院</text>
+    <info>
+      <address>上海市长宁区</address>
+      <phone>021-62708133</phone>
+      <population>19134</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(556.3074844396397, 256.9912888879571)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市先知进修学院</text>
+    <info>
+      <address>大连西路557</address>
+      <population>5472</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-504.75676444912096, 1460.031999999046)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">松江区教师进修学院</text>
+    <info>
+      <address>方塔北路318</address>
+      <phone>021-57833449</phone>
+      <population>17737</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(504.8617244396155, 589.9960888879832)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市沪光进修学院</text>
+    <info>
+      <address>斜土路788-1临飞纶商务楼5层508</address>
+      <phone>021-53019569</phone>
+      <population>15591</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(732.672142217416, 436.5781333324321)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">黄浦区教师进修学院</text>
+    <info>
+      <address>乳山路139</address>
+      <population>12236</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(621.0424888840862, 533.4985955546472)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市育辛进修学院</text>
+    <info>
+      <address>跨龙路81</address>
+      <phone>021-63787237</phone>
+      <population>14471</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(398.8026311064459, 461.946026665737)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海外国语进修学院</text>
+    <info>
+      <address>新闸路1609号</address>
+      <phone>021-62470310</phone>
+      <population>17215</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(562.6062222176188, 422.0600888879744)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海新世界进修学院</text>
+    <info>
+      <address>天津路158号</address>
+      <phone>021-53530548</phone>
+      <population>10618</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(545.930951106493, 328.2161777768124)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">虹口区业余大学分校</text>
+    <info>
+      <address>东宝兴路440号</address>
+      <phone>021-63252678</phone>
+      <population>9787</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(679.2238933287081, 157.9591111101763)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市复仁进修学院</text>
+    <info>
+      <address>国定路333号三号湾4层A区</address>
+      <phone>021-51263606</phone>
+      <population>13882</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(290.3405511062374, 723.3254399990528)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市永强进修学院</text>
+    <info>
+      <address>柳州路460号</address>
+      <phone>021-64824287</phone>
+      <population>6821</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(419.08238221749343, 1894.3354311101757)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">奉贤区教师进修学院</text>
+    <info>
+      <address>菜场路1132号</address>
+      <phone>021-57410044</phone>
+      <population>19099</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(185.44654221750534, 548.2168888879642)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市华贸进修学院</text>
+    <info>
+      <address>古北路436</address>
+      <phone>021-52065528</phone>
+      <population>17449</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(348.3399111062681, 605.7702399990376)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市昂立进修学院</text>
+    <info>
+      <address>广元西路45号</address>
+      <phone>021-62813152</phone>
+      <population>14187</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(434.4469333285815, 656.3512888879814)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">徐汇区教师进修学院</text>
+    <info>
+      <address>中山南二路800号</address>
+      <phone>021-64040644</phone>
+      <population>6924</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(394.06947555089573, 580.7573333323944)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市永强进修学院</text>
+    <info>
+      <address>永嘉路701</address>
+      <population>5182</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-466.8187022269194, -251.09475555645986)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">嘉定区成人教育学院</text>
+    <info>
+      <address>金沙路280号</address>
+      <population>12736</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(590.8231111063287, 428.43164444352624)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">黄浦区教师进修学院</text>
+    <info>
+      <address>汉口路50</address>
+      <phone>021-63391678</phone>
+      <population>10906</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(702.3071288842402, 640.4223999990791)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市中智进修学院</text>
+    <info>
+      <address>东方路3409号12号楼301室</address>
+      <phone>021-58755312</phone>
+      <population>15879</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(578.2984533287163, 263.19900444350424)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">虹口区教师进修学院</text>
+    <info>
+      <address>欧阳路502</address>
+      <phone>021-65402221</phone>
+      <population>5981</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(492.5555199952214, 474.1247999990719)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市南声进修学院</text>
+    <info>
+      <address>成都北路200号南楼102室</address>
+      <phone>021-63590893</phone>
+      <population>11434</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(369.3114311063255, 444.5425777768378)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">静安区继续教育中心</text>
+    <info>
+      <address>胶州路601号</address>
+      <population>10677</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(405.3198222172796, 720.2943999990566)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市昂立进修学院</text>
+    <info>
+      <address>龙水北路999-1</address>
+      <population>18463</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(453.81646221758274, 598.6887111102078)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市培青进修学院</text>
+    <info>
+      <address>清真路34</address>
+      <population>10850</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(650.2788266618154, 237.78559999905156)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市赤峰进修学院</text>
+    <info>
+      <address>赤峰路53号4层</address>
+      <phone>021-65978357</phone>
+      <population>12049</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(64.31416888408421, 1367.7809777768289)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">闵行区马桥镇委党校</text>
+    <info>
+      <address>北松公路1871</address>
+      <population>13174</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(732.672142217416, 436.5781333324321)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市三达进修学院</text>
+    <info>
+      <address>乳山路139号</address>
+      <population>13662</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-107.89987556017877, 2649.237333332394)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市晨光进修学院</text>
+    <info>
+      <address>蒙山北路611号</address>
+      <population>17868</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(695.9355733286429, 235.69208888793582)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">杨浦区教师进修学院</text>
+    <info>
+      <address>抚顺路340</address>
+      <population>17579</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(277.5610311064156, 424.2446222212948)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市海成进修学院</text>
+    <info>
+      <address>武宁路225号西宫内主楼4层</address>
+      <population>19661</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(431.2065422174783, 459.5157333324096)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市退休职工大学</text>
+    <info>
+      <address>北京西路1068号银发大厦7层</address>
+      <population>12410</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(575.749831106441, 514.4476444434986)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市退休职工大学</text>
+    <info>
+      <address>梦花街234号锦南商务楼6/7楼</address>
+      <population>17336</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(442.9302044398355, 637.4186666657351)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海未来路进修学院</text>
+    <info>
+      <address>零陵路342号汇成民聚商务楼2号楼4层401～414室</address>
+      <population>11028</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(786.7393422175155, 517.9975111102067)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市三达进修学院</text>
+    <info>
+      <address>峨山路91弄100号3楼</address>
+      <population>13658</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(456.25585777306696, 323.4830222213077)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市南声进修学院</text>
+    <info>
+      <address>中山北路756号达人湾创智广场A303</address>
+      <population>13917</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(575.749831106441, 552.3128888879455)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海当代人才进修学院</text>
+    <info>
+      <address>丽园路234号</address>
+      <population>6931</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(425.81802666172734, 448.0469333323981)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海大学成人教育学院</text>
+    <info>
+      <address>新闸路1220</address>
+      <population>8727</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(591.4056533283656, 375.41119999905277)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市虹口区业余大学</text>
+    <info>
+      <address>吴淞路297号</address>
+      <phone>021-63260287</phone>
+      <population>7979</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(793.7298488841407, 89.05528888794834)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海百联商贸进修学院</text>
+    <info>
+      <address>民星路525</address>
+      <population>5194</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1550.7070577730701, 630.0731733324028)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">中华职业第二进修学院</text>
+    <info>
+      <address>临园弄55</address>
+      <phone>021-58922853</phone>
+      <population>14758</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(332.6476799951706, 421.78702222131506)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海纺织工业职工大学</text>
+    <info>
+      <address>长寿路652号</address>
+      <phone>021-62776636</phone>
+      <population>8636</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(353.80124443981913, 400.1692444434866)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">惠丰经济管理进修学院</text>
+    <info>
+      <address>西康路1297号云都商务中心3楼302室</address>
+      <phone>021-62669322</phone>
+      <population>15517</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(451.70474666192604, 418.7377777768688)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海百联商贸进修学院</text>
+    <info>
+      <address>恒丰路1号创智联合大厦3～5层</address>
+      <population>12372</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(827.2988444397924, 395.2540444434817)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">海事大学继续教育学院</text>
+    <info>
+      <address>浦东大道1608号高恒大厦2～5层</address>
+      <population>19809</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(702.9260799952681, 344.0995555546124)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海长虹科技进修学院</text>
+    <info>
+      <address>保定路22号</address>
+      <population>19362</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(448.24590221760445, 511.7624888879618)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海国际文化进修学院</text>
+    <info>
+      <address>陕西南路202号</address>
+      <phone>021-54030618</phone>
+      <population>18393</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(327.40479999520176, 325.52191999907336)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海国际交流进修学院</text>
+    <info>
+      <address>延长西路583</address>
+      <population>14300</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(634.8050488841182, 254.45176888797505)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">申洋国际交流进修学院</text>
+    <info>
+      <address>天宝路1091206室</address>
+      <phone>021-65759606</phone>
+      <population>19391</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1087.367537773025, 546.0778666657461)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海师大继续教育学院</text>
+    <info>
+      <address>郭守敬路498</address>
+      <population>19653</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(145.7244444396565, 583.1694222212718)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市长宁区业余大学</text>
+    <info>
+      <address>水城路68号</address>
+      <phone>021-62521300</phone>
+      <population>6595</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(826.7891199953738, 124.73599999907492)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华东电力继续教育中心</text>
+    <info>
+      <address>国顺东路25号</address>
+      <population>8847</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(359.62666666182486, 498.2001777768346)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">东方文化艺术进修学院</text>
+    <info>
+      <address>愚园路532弄</address>
+      <phone>021-62139949</phone>
+      <population>9777</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(171.72039110646438, 890.7426133323952)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">新知进修学院万源分部</text>
+    <info>
+      <address>万源路55号</address>
+      <phone>021-54937557</phone>
+      <population>7664</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(429.53173332862207, 338.0010666657199)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海铁路局委员会党校</text>
+    <info>
+      <address>芷江西路629</address>
+      <population>7969</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(309.8193066618478, 2258.2513777768327)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海言子教育进修学院</text>
+    <info>
+      <address>浦卫公路8658</address>
+      <population>5176</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(586.0535466617875, -274.76053333425625)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市宝山区业余大学</text>
+    <info>
+      <address>永乐路737号</address>
+      <phone>021-56126313</phone>
+      <population>14812</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(546.2222222175114, 547.0791111101789)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海社会科学进修学院</text>
+    <info>
+      <address>顺昌路622</address>
+      <population>9249</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-336.91178667140775, 1480.375466665737)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">中国共产党车墩镇党校</text>
+    <info>
+      <address>车香路215临</address>
+      <population>6334</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(834.8718933286364, 416.87182222126467)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">申洋国际交流进修学院</text>
+    <info>
+      <address>民生路499号1号楼204室</address>
+      <phone>021-58524001</phone>
+      <population>16088</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(676.9301333284602, 340.4586666657451)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海成才教育进修学院</text>
+    <info>
+      <address>昆明路155弄6号</address>
+      <phone>021-65464213</phone>
+      <population>17376</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(559.9483733287343, 236.51128888795938)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海财务管理进修学院</text>
+    <info>
+      <address>西体育会路369</address>
+      <phone>021-55290808</phone>
+      <population>14963</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(240.38755555084208, 411.13742222128167)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市普陀区业余大学</text>
+    <info>
+      <address>曹杨路805</address>
+      <phone>021-62541170</phone>
+      <population>13663</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(793.7662577731317, 89.00067555464375)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华联连锁经营进修学院</text>
+    <info>
+      <address>民星路525</address>
+      <population>13356</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1550.6706488840791, 630.0913777768528)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海浦东科技进修学院</text>
+    <info>
+      <address>临园弄55号</address>
+      <phone>021-58920890</phone>
+      <population>10490</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(239.0768355508044, 684.0675555546568)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海华东电脑进修学院</text>
+    <info>
+      <address>钦州北路898</address>
+      <phone>021-64858300</phone>
+      <population>6413</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(396.10837332838855, 407.63306666572134)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">宇振国际文化进修学院</text>
+    <info>
+      <address>安远路139号4层</address>
+      <population>5644</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(61.18300443977205, 987.6812799990603)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">奥鹏远程教育学习中心</text>
+    <info>
+      <address>莘北路100号附近</address>
+      <population>5728</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(338.40028443992196, 596.8318577768059)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">交通大学继续教育学院</text>
+    <info>
+      <address>华山路1954号上海交通大学</address>
+      <population>8446</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(680.0248888843271, 159.460977776871)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">创新文化科技进修学院</text>
+    <info>
+      <address>国达路58号</address>
+      <population>18927</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(287.6827022173529, 527.6913777768186)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市长宁区业余大学</text>
+    <info>
+      <address>定西路1300号</address>
+      <phone>021-52391978</phone>
+      <population>17532</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(348.3399111062681, 605.7884444435331)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海英豪教育进修学院</text>
+    <info>
+      <address>广元西路45号交大慧谷科技商城4层</address>
+      <phone>021-32032717</phone>
+      <population>19023</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(217.52277332871017, 308.1912888879742)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">东方现代教育进修学院</text>
+    <info>
+      <address>富平路727弄10号3楼</address>
+      <population>18704</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(273.7745066619027, 784.4650666657344)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海师大继续教育学院</text>
+    <info>
+      <address>桂林路64号</address>
+      <population>19411</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(398.58417777304567, 462.1098666657417)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">建锋学院继续教育分院</text>
+    <info>
+      <address>新闸路1609号</address>
+      <population>13997</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(369.3114311063255, 444.5425777768378)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市静安区业余大学</text>
+    <info>
+      <address>胶州路601号</address>
+      <phone>021-62530762</phone>
+      <population>15458</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(636.6983111061927, 229.8666666657482)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">同济大学继续教育学院</text>
+    <info>
+      <address>赤峰路67号同济大学四平路校区南校区第三教学楼</address>
+      <population>12304</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(355.33041777289327, 559.0030222213045)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市徐汇区老龄大学</text>
+    <info>
+      <address>湖南路301</address>
+      <phone>021-64316056</phone>
+      <population>5534</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(350.9977599951526, 481.61592888795894)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">蒙特梭利教育进修学院</text>
+    <info>
+      <address>万航渡路397</address>
+      <population>12726</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(224.11278221752582, 1458.3935999990445)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海东方文化进修学院</text>
+    <info>
+      <address>东川路2433</address>
+      <population>10016</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(602.2919111064766, 269.4613333324014)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">锦江经济文化进修学院</text>
+    <info>
+      <address>曲阳路267号</address>
+      <population>9342</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1014.8774399953254, 576.7068444435154)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市中科大进修学院</text>
+    <info>
+      <address>碧波路456</address>
+      <population>10217</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1444.174648884109, 2081.9868444435087)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海佳华教育进修学院</text>
+    <info>
+      <address>五四公路2011号</address>
+      <population>11775</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-15.676160004659323, 832.0241777768842)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海交大继续教育学院</text>
+    <info>
+      <address>七莘路2678号上海交通大学七宝校区内</address>
+      <phone>021-62933690</phone>
+      <population>15311</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(474.13262221743935, 563.2810666657406)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海建设审计进修学院</text>
+    <info>
+      <address>建国西路154</address>
+      <population>6512</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(516.1120711063631, 260.5866666657221)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海上体英才进修学院</text>
+    <info>
+      <address>水电路176</address>
+      <population>8626</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(759.0321777728605, 29.66328888796852)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市杨浦区业余大学</text>
+    <info>
+      <address>上海市杨浦区</address>
+      <population>10136</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(591.4056533283656, 375.41119999905277)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">奥鹏远程教育学习中心</text>
+    <info>
+      <address>吴淞路297号</address>
+      <population>13039</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(947.1569066618031, 136.09557333238627)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">海洋石油局委员会党校</text>
+    <info>
+      <address>东塘路260</address>
+      <population>10943</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(563.0431288842374, 422.0600888879744)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海时代远程进修学院</text>
+    <info>
+      <address>天津路158号</address>
+      <population>8592</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(86.74204443959752, 1020.3036444434929)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市新时代进修学院</text>
+    <info>
+      <address>莘建路65号海星大楼6层6005室</address>
+      <phone>021-64883868</phone>
+      <population>14656</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(386.2415644396606, 799.8933333323748)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">东泉路居委会老年分校</text>
+    <info>
+      <address>东泉路55临</address>
+      <population>19662</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-558.6783288938022, 1461.8069333324001)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海当代人才进修学院</text>
+    <info>
+      <address>谷阳北路36号天宝大楼2号楼2楼</address>
+      <population>18462</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(231.7950577729789, 464.0941511101573)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市新时代进修学院</text>
+    <info>
+      <address>中山北路3618号</address>
+      <phone>021-62233818</phone>
+      <population>19622</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(369.3114311063255, 444.5425777768378)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海汇博教育进修学院</text>
+    <info>
+      <address>胶州路601号</address>
+      <phone>021-62557270</phone>
+      <population>14390</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(474.53311999524885, 563.3720888879452)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市卢湾区业余大学</text>
+    <info>
+      <address>建国西路154号</address>
+      <population>11550</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(470.67377777293586, 490.9639111102024)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市新时代进修学院</text>
+    <info>
+      <address>瑞金一路8号中城大楼4层B/C座</address>
+      <phone>021-54031131</phone>
+      <population>5066</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(221.41852443983225, 565.6476444435157)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海长宁韦博进修学院</text>
+    <info>
+      <address>遵义路100号虹桥南丰城B座32层3206-12</address>
+      <population>15249</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(457.6758044398957, 405.4940444435033)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海人才教育进修学院</text>
+    <info>
+      <address>梅园路77号上海人才大厦19层</address>
+      <population>10547</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(598.2869333285635, -353.2216888898347)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">申安公共管理进修学院</text>
+    <info>
+      <address>县前街11号</address>
+      <population>5318</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1411.4794666618764, 243.20142222127288)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">达尔进修学院曹路校区</text>
+    <info>
+      <address>民众村运河西117</address>
+      <population>17738</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(368.51043555070646, 800.3484444434889)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海东方文化进修学院</text>
+    <info>
+      <address>石龙路345弄3号6层</address>
+      <population>18687</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(178.3832177730801, 1450.3381333323887)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">奥鹏远程教育学习中心</text>
+    <info>
+      <address>景谷路125</address>
+      <population>16562</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(722.9509688841063, 203.01511111019863)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海兰生外经贸进修学院</text>
+    <info>
+      <address>国权路75号</address>
+      <population>17583</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(281.8936888841563, 953.365902221276)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">闵行区梅陇镇委员会党校</text>
+    <info>
+      <address>莘朱路1925号</address>
+      <population>14821</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-421.8173155602926, 1140.179911110181)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">松江区洞泾镇委员会党校</text>
+    <info>
+      <address>育才路167</address>
+      <population>7288</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(680.8622933287552, 153.55363555463555)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">东亚进修学院同欣教学区</text>
+    <info>
+      <address>国定路335甲</address>
+      <population>13372</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1680.9416533285912, 1793.6284444434932)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">奉贤区四团镇委员会党校</text>
+    <info>
+      <address>新四平公路2089</address>
+      <population>9829</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1560.7923199951983, 623.1281777768345)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">达尔进修学院第二教学区</text>
+    <info>
+      <address>新川路293</address>
+      <population>16964</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(89.90961777290067, 272.55608888794995)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市中华职业进修学院</text>
+    <info>
+      <address>真南路1008号</address>
+      <population>7413</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(391.04753777301084, 632.8675555546397)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市城市规划进修学院</text>
+    <info>
+      <address>南丹东路25</address>
+      <population>9772</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(249.85386666176055, 498.83733333240343)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市科教党校长宁校区</text>
+    <info>
+      <address>凯旋路30号</address>
+      <population>13507</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(319.35843555093015, 868.6606222212959)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市邮政局委员会党校</text>
+    <info>
+      <address>老沪闵路777号</address>
+      <population>12157</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(650.6429155508158, 867.1132444434988)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">新知进修学院三林教学点</text>
+    <info>
+      <address>三林路539</address>
+      <phone>021-58419467</phone>
+      <population>17837</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(707.7320533286183, 434.9852444434873)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市浦东侨友进修学院</text>
+    <info>
+      <address>栖霞路34</address>
+      <population>16705</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(290.88668443982897, 409.32607999907304)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市房管局委员会党校</text>
+    <info>
+      <address>永定新村121号</address>
+      <population>7874</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(534.7898311063545, 206.38293333240654)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">虹口区教师进修学院北区</text>
+    <info>
+      <address>水电路839</address>
+      <population>7620</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1079.0299022175532, 389.83822222130584)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海凯洛泽管理进修学院</text>
+    <info>
+      <address>金桥路1851号</address>
+      <phone>021-50550004</phone>
+      <population>16835</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(374.40867555087607, 328.39822222126713)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">宜川社区街道党工委党校</text>
+    <info>
+      <address>华阴路218</address>
+      <population>7569</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(282.47623110637505, 939.8764088879489)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">新知进修学院罗锦路校区</text>
+    <info>
+      <address>罗锦路25号</address>
+      <phone>021-64536301</phone>
+      <population>8456</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1160.5129955509256, 294.90204444355186)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">凯洛泽管理进修学院分部</text>
+    <info>
+      <address>永业路124</address>
+      <phone>021-50550816</phone>
+      <population>7251</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(271.00743110640906, 755.9295999990809)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市民进自强进修学院</text>
+    <info>
+      <address>桂林路95</address>
+      <phone>021-64368474</phone>
+      <population>10569</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(582.9587911062845, 415.7795555546272)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市黄浦工商进修学院</text>
+    <info>
+      <address>滇池路110-1</address>
+      <phone>021-63236343</phone>
+      <population>9062</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-289.83509333811526, 762.8017777768036)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市房管局委员会党校</text>
+    <info>
+      <address>高泾路588号</address>
+      <population>7359</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(585.5438222173689, 423.69848888797605)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海同复人商贸进修学院</text>
+    <info>
+      <address>四川中路330号3层318室</address>
+      <population>6020</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(462.73663999527344, 325.439999999071)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市继续教育进修学院</text>
+    <info>
+      <address>共和新路1000-1临</address>
+      <phone>021-56308411</phone>
+      <population>8320</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(581.5388444396376, 537.5854933324263)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市黄浦科技进修学院</text>
+    <info>
+      <address>江阴街455</address>
+      <population>18743</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(626.1761422174459, 229.4115555546341)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市沪东科技进修学院</text>
+    <info>
+      <address>密云路451弄21号</address>
+      <phone>021-65548252</phone>
+      <population>7932</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(147.8361599953132, 683.8855111102021)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市现代领导进修学院</text>
+    <info>
+      <address>虹梅路2975～2977号</address>
+      <population>12072</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(505.1894044396249, 589.1222755546096)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海亿事达商务进修学院</text>
+    <info>
+      <address>斜土路780</address>
+      <population>8553</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(871.6812799952095, 285.32650666575137)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市同大浦江进修学院</text>
+    <info>
+      <address>隆昌路55</address>
+      <population>6345</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(745.3788444396196, 445.9989333323847)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市展望发展进修学院</text>
+    <info>
+      <address>东方路428-3临</address>
+      <population>15590</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1006.9403022174811, -63.45244444537457)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">浦东新区高桥镇老年总校</text>
+    <info>
+      <address>慈善街14</address>
+      <population>8428</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(544.8750933284828, 429.3418666657544)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市黄浦工商进修学院</text>
+    <info>
+      <address>天津路381</address>
+      <phone>021-63512392</phone>
+      <population>8660</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1541.9689244397887, 622.2179555546063)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">新华进修学院川沙教学点</text>
+    <info>
+      <address>川沙路4889弄4号3楼</address>
+      <phone>021-58921141</phone>
+      <population>10988</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(422.90531555081543, 219.39911111016954)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市企业管理进修学院</text>
+    <info>
+      <address>共和新路2623号1号楼2层209</address>
+      <phone>021-66312083</phone>
+      <population>13826</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(403.1352888840047, 599.8264888879476)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">徐家汇工商管理进修学院</text>
+    <info>
+      <address>肇嘉浜路716</address>
+      <phone>021-64733103</phone>
+      <population>8980</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(391.1203555508109, 427.93102222130983)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市春申旅游进修学院</text>
+    <info>
+      <address>海防路429弄100</address>
+      <phone>021-62660508</phone>
+      <population>10593</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(804.8345599952881, 319.1594666657693)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市展望发展进修学院</text>
+    <info>
+      <address>眉州路272号长城饭店</address>
+      <population>15748</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(819.9442488841669, 300.6728533323894)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">市职工退休大学沪东分校</text>
+    <info>
+      <address>平凉路1500号沪东工人文化宫3号楼</address>
+      <population>9644</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(293.6901688841317, 1396.635022221335)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市南洋高级进修学院</text>
+    <info>
+      <address>沧源路1200号</address>
+      <population>18035</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(204.88888888394285, 456.2389333324063)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市华理信息进修学院</text>
+    <info>
+      <address>上海市普陀区</address>
+      <population>14406</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(301.6637155507851, 300.6819555545917)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海工程技术大学继教院</text>
+    <info>
+      <address>新村路439</address>
+      <population>19548</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1087.9543466713585, 830.6588444434965)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">青浦区教育局委员会党校</text>
+    <info>
+      <address>公园路301</address>
+      <population>10858</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(486.6572799952337, -340.9245866675519)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海建峰学院继续教育部</text>
+    <info>
+      <address>漠河路1168</address>
+      <phone>021-56601751</phone>
+      <population>13934</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(156.71992888401292, -119.34008888979406)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">丰水宝邸居委会老年分校</text>
+    <info>
+      <address>上海市宝山区</address>
+      <population>12018</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(565.664568883949, 332.2666666657369)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">虹口区委党校教育局分校</text>
+    <info>
+      <address>四川北路1702弄32号</address>
+      <population>14126</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(340.22072888401453, 399.8506666657704)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市经济管理进修学院</text>
+    <info>
+      <address>常德路1344弄6</address>
+      <population>18804</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(704.346026661915, 171.83999999911066)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">蒙太奇文化艺术进修学院</text>
+    <info>
+      <address>国顺路288号上海开放大学-学习广场12层1213</address>
+      <population>10235</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(704.346026661915, 171.83999999911066)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海千帆进管理进修学院</text>
+    <info>
+      <address>国顺路288号上海开放大学-学习广场12层1215</address>
+      <population>14273</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(497.1430399949895, 422.60622222129314)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市南洋高级进修学院</text>
+    <info>
+      <address>黄河路355雅州大楼5层503</address>
+      <phone>021-33060081</phone>
+      <population>5755</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(524.2312533286167, 323.16444444350054)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市继续教育进修学院</text>
+    <info>
+      <address>天通庵路395号4层</address>
+      <population>19170</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(440.60003555077856, 747.6920888879704)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市连锁经营进修学院</text>
+    <info>
+      <address>丰谷路315弄23</address>
+      <population>12662</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(583.9418311064946, 370.54151111019564)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海财经大学继续教育学院</text>
+    <info>
+      <address>昆山路146</address>
+      <phone>021-63561435</phone>
+      <population>15582</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(440.12671999516897, 744.5063111101717)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">长宁科技进修学院徐汇分部</text>
+    <info>
+      <address>丰谷路205弄34号</address>
+      <population>12619</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(293.94503110652295, 634.7335111101984)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海交通大学成人教育学院</text>
+    <info>
+      <address>凯旋路2088</address>
+      <phone>021-64480011</phone>
+      <population>10694</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(571.1259022175, -344.5745777787124)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市宝山区教师进修学院</text>
+    <info>
+      <address>团结路29</address>
+      <population>6453</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-519.3203200049538, 1472.8024177768475)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">长宁科技进修学院松江分部</text>
+    <info>
+      <address>中山东路180弄29号</address>
+      <phone>021-57834535</phone>
+      <population>17151</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(848.4159999952681, 145.4435555546297)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海电机学院继续教育学院</text>
+    <info>
+      <address>军工路1100</address>
+      <phone>021-65503234</phone>
+      <population>19122</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(528.6003199953484, 426.52017777686524)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海互动数字艺术进修学院</text>
+    <info>
+      <address>贵州路189</address>
+      <population>11583</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(296.89415110624395, 866.0209777768614)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华东理工大学继续教育学院</text>
+    <info>
+      <address>梅陇路138号</address>
+      <phone>021-64252761</phone>
+      <population>16865</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(340.54840888402396, 656.5333333323906)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海政法学院继续教育学院</text>
+    <info>
+      <address>蒲汇塘路99</address>
+      <phone>021-64418118</phone>
+      <population>11925</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(582.3398399952566, 550.1283555546252)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">黄浦区业余大学丽园路校区</text>
+    <info>
+      <address>丽园路144</address>
+      <phone>021-63202942</phone>
+      <population>13054</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(436.267377772856, 242.3822222212948)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海现代经济管理进修学院</text>
+    <info>
+      <address>广延路408</address>
+      <population>11466</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(311.23925332849467, 535.3827555546104)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海建峰学院继续教育分院</text>
+    <info>
+      <address>武夷路150-1</address>
+      <phone>021-62515770</phone>
+      <population>10451</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(826.7891199953738, 124.73599999907492)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海电力学院成人教育学院</text>
+    <info>
+      <address>国顺东路25号</address>
+      <population>7056</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(500.2377955508564, 511.3073777768477)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华夏进修学院LP日语培训</text>
+    <info>
+      <address>雁荡路100号</address>
+      <population>5371</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(900.9176177729387, 203.67957333241975)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海海洋大学成人教育学院</text>
+    <info>
+      <address>军工路334号上海理工大学南校区</address>
+      <population>7751</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(951.2711111061435, 390.4298666657269)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市房地产管理进修学院</text>
+    <info>
+      <address>羽山路1969号</address>
+      <population>11317</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(515.6023466619445, -320.9543111120638)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海前进进修学院宝山分部</text>
+    <info>
+      <address>友谊路327</address>
+      <population>17766</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(733.8736355508445, 417.80024888798835)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海第二工业大学成继教院</text>
+    <info>
+      <address>东方路121号</address>
+      <phone>021-50816931</phone>
+      <population>10401</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(292.9255822175037, 733.7019733324269)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">民进自强进修学院田林分校</text>
+    <info>
+      <address>柳州路374弄13号</address>
+      <population>9168</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(260.2668088840801, 478.402844443508)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华东政法大学继续教育学院</text>
+    <info>
+      <address>万航渡路1575</address>
+      <population>14853</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(636.2978133285651, 543.2561777768569)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">长宁科技进修学院黄浦分部</text>
+    <info>
+      <address>金南新苑5号2202室</address>
+      <phone>021-63582006</phone>
+      <population>5057</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(304.46719999508787, 1399.2291555546217)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海交通大学昂立进修学院</text>
+    <info>
+      <address>东川路800交通大学闵行校区</address>
+      <phone>021-60938299</phone>
+      <population>16578</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(316.37290666185436, 678.5607111101854)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市经济工作委员会党校</text>
+    <info>
+      <address>中山西路2271</address>
+      <phone>021-63215332</phone>
+      <population>16219</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(701.287679995221, 177.6654222212983)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海远程教育集团培训中心</text>
+    <info>
+      <address>国顺路288号</address>
+      <phone>021-65025100</phone>
+      <population>16432</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(817.759715550892, 301.2735999990582)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">沪东科技进修学院平凉分部</text>
+    <info>
+      <address>图书馆2楼201室</address>
+      <phone>021-55804196</phone>
+      <population>8774</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(326.53098666196456, -339.47733333425276)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海培青进修学院宝山分部</text>
+    <info>
+      <address>绥化路228弄236号2楼</address>
+      <phone>021-56647956</phone>
+      <population>19314</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(332.2835911063521, 505.75502222131945)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">长宁区教育工作委员会党校</text>
+    <info>
+      <address>愚园路864-1临</address>
+      <phone>021-22050718</phone>
+      <population>18179</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(462.73663999527344, 325.439999999071)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海电机学院继续教育学院</text>
+    <info>
+      <address>共和新路1000-1临</address>
+      <population>19347</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(290.88668443982897, 409.3624888879731)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市房地产管理进修学院</text>
+    <info>
+      <address>永定新村121号</address>
+      <population>17002</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(806.4001422175352, 318.40398222129807)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海电力学院继续教育基地</text>
+    <info>
+      <address>眉州路272号</address>
+      <population>8302</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(414.4948622173615, 72.17066666576102)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">长宁科技进修学院闸北分部</text>
+    <info>
+      <address>上海市闸北区</address>
+      <population>9121</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(562.6062222176188, 422.0600888879744)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海财经大学继续教育学院</text>
+    <info>
+      <address>天津路158号</address>
+      <population>14649</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(219.9621688841944, 403.2639999990806)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海电机学院继续教育学院</text>
+    <info>
+      <address>梅岭北路286</address>
+      <population>7788</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(547.9698488841677, 447.0456888879653)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">蓝天教育上海中智进修学院</text>
+    <info>
+      <address>福州路567号八仙商务楼4层4110A室</address>
+      <population>16530</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1916.8712533284634, 1265.9726222213067)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">广博进修学院惠南镇教学点</text>
+    <info>
+      <address>拱极路2151号</address>
+      <population>11299</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(516.1848888839813, 580.4387555546327)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海开放大学老年教育学院</text>
+    <info>
+      <address>南塘浜路117</address>
+      <population>5777</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(181.73283555061062, 1492.4359111101694)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海电机学院继续教育学院</text>
+    <info>
+      <address>上海市闵行区</address>
+      <population>9595</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(726.4462222174188, 318.8499911101644)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">时代远程继续教育进修学院</text>
+    <info>
+      <address>吉林路2</address>
+      <population>17387</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(436.6314666618564, 1786.2556444435086)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">言子教育进修学院艺术中心</text>
+    <info>
+      <address>韩村路755</address>
+      <population>13021</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(685.4498133285233, 185.03822222128292)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">复旦大学继续教育学院分部</text>
+    <info>
+      <address>四平路1931号</address>
+      <phone>021-65643428</phone>
+      <population>17720</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(253.13066666185478, 704.4656355546067)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海培青进修学院西南分部</text>
+    <info>
+      <address>桂林路408号</address>
+      <population>7828</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(578.5533155507437, 264.45511111019187)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华东政法大学继教院教学点</text>
+    <info>
+      <address>上海市虹口区</address>
+      <population>9662</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(597.5951644397355, 122.55146666575456)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海财经大学继续教育学院</text>
+    <info>
+      <address>武东路321</address>
+      <phone>021-63564124</phone>
+      <population>14899</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(432.55367110632506, 457.2401777768391)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海蒙特梭利教育进修学院</text>
+    <info>
+      <address>江宁路167号新城大厦22层</address>
+      <population>14083</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(578.1528177729342, 539.8428444435012)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市工业经济管理进修学院</text>
+    <info>
+      <address>林荫路258</address>
+      <phone>021-63459456</phone>
+      <population>16139</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(726.4462222174188, 319.0684444435192)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市东方终身教育进修学院</text>
+    <info>
+      <address>吉林路2号</address>
+      <phone>021-65373173</phone>
+      <population>17808</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(416.3517155508089, 647.3127822212973)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海中医药大学继续教育学院</text>
+    <info>
+      <address>零陵路530号15号楼</address>
+      <population>13144</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(374.99121777291293, 437.5156622213126)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市退休职工大学静安分校</text>
+    <info>
+      <address>常德路940</address>
+      <population>15741</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(596.2844444396978, 457.78631111015784)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">黄浦区业余大学四川南路校区</text>
+    <info>
+      <address>四川南路37</address>
+      <phone>021-63361246</phone>
+      <population>13079</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(272.24533332864667, 1465.6298666657221)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">闵行区第二成人教育培训中心</text>
+    <info>
+      <address>鹤庆路179号</address>
+      <phone>021-54707712</phone>
+      <population>11645</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-626.3260444493426, 1461.8979555546048)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">教育部奥鹏远程教育学习中心</text>
+    <info>
+      <address>中山二路621</address>
+      <phone>021-57824799</phone>
+      <population>6230</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(335.269119995246, 604.7416888879525)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海交通大学-继续教育学院</text>
+    <info>
+      <address>华山路1954号上海交通大学徐汇校区</address>
+      <population>16822</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1009.7801955509567, 306.7349333324273)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市退休职工大学沪东分校</text>
+    <info>
+      <address>柳埠路142弄43</address>
+      <population>11989</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(943.1155199952627, 309.6021333324188)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">海事大学东校区继续教育学院</text>
+    <info>
+      <address>浦东大道2627</address>
+      <phone>021-38250000</phone>
+      <population>15735</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(664.7331555506753, 163.1928888879429)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">复旦大学继续教育学院培训部</text>
+    <info>
+      <address>国年路272号</address>
+      <population>16987</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(249.08927999531443, -389.53955555648463)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市震旦进修学院宝山分部</text>
+    <info>
+      <address>富乐路38</address>
+      <population>17521</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(178.3832177730801, 1450.3381333323887)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">闵行区第二成人教育培训中心</text>
+    <info>
+      <address>景谷路125</address>
+      <population>19778</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(800.4654933285565, 846.9973333324106)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市育辛进修学院永泰校区</text>
+    <info>
+      <address>永泰路1630号</address>
+      <phone>021-50499166</phone>
+      <population>18885</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1005.4111288840431, -78.24355555649163)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海新华进修学院高桥教学点</text>
+    <info>
+      <address>上海市浦东新区</address>
+      <phone>021-50414955</phone>
+      <population>5774</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1590.0650666619185, 660.9479111101791)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">凯洛泽管理进修学院川沙分部</text>
+    <info>
+      <address>绣川路1069</address>
+      <population>13719</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(855.0788266618838, 594.0283733324122)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海民办前进进修学院浦东分院</text>
+    <info>
+      <address>浦建路1619号</address>
+      <population>13548</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(733.0726399952255, 230.3672888879646)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市杨浦区教师进修学院分部</text>
+    <info>
+      <address>长岭路50号</address>
+      <phone>021-65628475</phone>
+      <population>18707</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(289.3939199952001, 529.0111999991041)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">浙江大学远程教育上海学习中心</text>
+    <info>
+      <address>安化路360</address>
+      <population>12058</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1537.563448884066, 627.77031111018)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">浦东新区建设和交通委员会党校</text>
+    <info>
+      <address>新川路484</address>
+      <population>5618</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(289.3939199952001, 529.0111999991041)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海远程教育集团西区培训中心</text>
+    <info>
+      <address>安化路360</address>
+      <population>17693</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(732.672142217416, 436.5781333324321)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">黄浦区业余大学浦东乳山路校区</text>
+    <info>
+      <address>乳山路139</address>
+      <phone>021-58820426</phone>
+      <population>19874</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(641.1401955507245, 349.14218666572197)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华东政法学院成人教育院一分院</text>
+    <info>
+      <address>东余杭路627</address>
+      <phone>021-65462583</phone>
+      <population>11248</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(687.1610311063705, 348.47772444350085)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华东政法大学继教院兴国教学点</text>
+    <info>
+      <address>霍山路125弄8号</address>
+      <population>6466</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(778.6201599952619, 202.3779555546298)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海外国语大学继教院沪东分部</text>
+    <info>
+      <address>靖宇中路40号</address>
+      <population>18338</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(701.287679995221, 177.6654222212983)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海远程教育集团继续教育学院</text>
+    <info>
+      <address>国顺路288号</address>
+      <population>12569</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-622.3938844490476, 374.36444444351764)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海国际交流进修学院华新分部</text>
+    <info>
+      <address>新凤北路666临</address>
+      <population>6245</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1916.8712533284634, 1265.9726222213067)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海财经大学继教院浦东教学点</text>
+    <info>
+      <address>拱极路2151号</address>
+      <population>8148</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(815.2110933286167, 65.52604444350436)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海应用技术学院继续教育学院</text>
+    <info>
+      <address>包头路361</address>
+      <population>6623</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(737.7693866619666, 509.9966577768555)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">海运学院继续教育学院易达教学点</text>
+    <info>
+      <address>浦电路130号</address>
+      <phone>021-58791833</phone>
+      <population>19803</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(717.8537244395557, 151.1324444435104)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">南京政治学院上海分院成人教育部</text>
+    <info>
+      <address>黄兴路2042</address>
+      <population>8645</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(244.75662221757375, 758.9333333323793)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海民进自强进修学院漕宝路分校</text>
+    <info>
+      <address>漕宝路300</address>
+      <population>12738</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(420.4659199951493, 646.2933333324145)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海中医药大学中医业余进修学院</text>
+    <info>
+      <address>零陵路530</address>
+      <phone>021-54231528</phone>
+      <population>7474</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(345.1359288841559, 290.596693332418)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">长宁科技进修学院普陀分部教学点</text>
+    <info>
+      <address>宜川路580号</address>
+      <phone>021-66252019</phone>
+      <population>8577</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(505.2258133286159, 326.62328888795855)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">同济大学继续教育学院闸北教学点</text>
+    <info>
+      <address>芷江中路412号</address>
+      <phone>021-56317101</phone>
+      <population>13055</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1011.3821866618309, 307.0079999990412)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海大学成人教育学院浦东教学点</text>
+    <info>
+      <address>柳埠路142弄47</address>
+      <population>13187</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1016.3337955509633, 270.81756444349594)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市退休职工大学浦东沪东分校</text>
+    <info>
+      <address>沪东新村76</address>
+      <phone>021-65192128</phone>
+      <population>11107</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(135.34791110632796, 289.7137777768421)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海中华文化进修学院李子园校区</text>
+    <info>
+      <address>交通路4703弄32</address>
+      <phone>15000964654</phone>
+      <population>10446</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(548.4067555507863, -39.83217777872596)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市应用技术学院继续教育学院</text>
+    <info>
+      <address>淞发路901弄祥腾生活广场6号楼2层229</address>
+      <population>14420</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(528.6003199953484, 426.52017777686524)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华东政法大学继续教育学院黄浦分校</text>
+    <info>
+      <address>贵州路189</address>
+      <population>12141</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(300.71708443974785, 503.8890666657153)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">长宁科技进修学院长宁校区(院部)</text>
+    <info>
+      <address>安西路35号</address>
+      <phone>021-62107696</phone>
+      <population>10587</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(176.45354666201456, 110.85511111018604)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华东理工大学继续教育学院北部校区</text>
+    <info>
+      <address>南陈路259号</address>
+      <phone>021-58982524</phone>
+      <population>16823</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(464.0473599953111, 614.5720888879623)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海戏剧学院继续教育学院徐汇校区</text>
+    <info>
+      <address>大木桥路434</address>
+      <population>12714</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(191.34478221731115, 1460.2231466657486)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华东理工大学继续教育学院闵行分部</text>
+    <info>
+      <address>碧江路359号3楼</address>
+      <phone>021-64623081</phone>
+      <population>10372</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(565.7009777731218, 84.08547555463883)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华东理工大学继续教育学院北部校区</text>
+    <info>
+      <address>三门路661号</address>
+      <population>5270</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(605.568711106389, 706.1859555546107)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">北京科技大学成人教育学院上海分部</text>
+    <info>
+      <address>历城路86号</address>
+      <population>13349</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(726.4462222174188, 319.0684444435192)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">山东大学现代远程教育上海学习中心</text>
+    <info>
+      <address>吉林路2号</address>
+      <population>16700</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(624.5377422173988, 881.6767999990589)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海城市管理学院成人教育浦东分院</text>
+    <info>
+      <address>三林路234号</address>
+      <population>5550</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(391.1203555508109, 427.93102222130983)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">北京科技大学成人教育学院上海分部</text>
+    <info>
+      <address>海防路429弄100</address>
+      <population>12018</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-507.37820444919635, -246.77120000092145)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海财经大学成人教育学院嘉定分部</text>
+    <info>
+      <address>清河路34弄14号</address>
+      <population>15882</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-463.35985778241593, -247.90897777870669)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">中央党校函授学院上海分院嘉定学区</text>
+    <info>
+      <address>塔城路228号</address>
+      <population>13893</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(473.22239999521116, 518.0885333324113)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海医药(集团)总公司委员会党校</text>
+    <info>
+      <address>南昌路127弄10号</address>
+      <population>13038</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-140.8863288936118, 2768.795022221275)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">中国石化集团化工继续教育上海基地</text>
+    <info>
+      <address>隆胜路909号</address>
+      <population>8493</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(617.2195555505823, 697.8119111101478)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海外国语大学继续教育学院上南分部</text>
+    <info>
+      <address>上南路801</address>
+      <phone>021-58835784</phone>
+      <population>13097</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-107.89987556017877, 2649.237333332394)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海应用技术学院继续教育部金山学区</text>
+    <info>
+      <address>蒙山北路611号</address>
+      <population>17136</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(239.0768355508044, 684.0675555546568)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海外国语大学成人教育学院第九分部</text>
+    <info>
+      <address>钦州北路898</address>
+      <phone>021-64839035</phone>
+      <population>13058</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-107.89987556017877, 2649.237333332394)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海理工大学继续教育学院金山教学区</text>
+    <info>
+      <address>蒙山北路611号</address>
+      <population>5826</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(242.97258666192647, 771.312355554619)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市城乡建设和交通工作委员会党校</text>
+    <info>
+      <address>虹漕南路123</address>
+      <population>7329</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(567.5214222175782, 456.53930666576343)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海外国语大学继续教育学院黄浦分部</text>
+    <info>
+      <address>延安东路195号</address>
+      <phone>021-63737688</phone>
+      <population>14535</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-507.37820444919635, -246.77120000092145)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海外国语大学成人教育学院嘉定分部</text>
+    <info>
+      <address>清河路34弄14号</address>
+      <population>7970</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1558.243697772923, 623.9564799990603)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海外国语大学继续教育学院浦东分部</text>
+    <info>
+      <address>新川路317弄</address>
+      <population>16343</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(588.4201244398355, 365.1256888879743)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海财经大学成人教育学院吴淞路校区</text>
+    <info>
+      <address>吴淞路407弄41号</address>
+      <population>6188</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(345.9733333284021, 664.8163555546034)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海外国语大学继续教育学院徐汇分院</text>
+    <info>
+      <address>裕德路45弄2号</address>
+      <population>18771</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(267.912675550906, 1465.9939555545861)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海外国语大学继续教育学院闵行分部</text>
+    <info>
+      <address>鹤庆路225</address>
+      <phone>021-34552363</phone>
+      <population>19502</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(442.9302044398355, 481.49759999905655)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海第二工业大学成人与继续教育学院</text>
+    <info>
+      <address>陕西北路80边门</address>
+      <phone>021-62536490</phone>
+      <population>15929</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(272.5730133286561, 743.596088887989)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海应用技术学院北区-继续教育学院</text>
+    <info>
+      <address>桂林路201上海应用技术学院北区</address>
+      <population>7540</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-9.777920004671614, 832.934399999067)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海交通大学成人教育学院农学院分院</text>
+    <info>
+      <address>七莘路2678号上海交通大学七宝校区内</address>
+      <population>9036</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(725.3539555507814, 500.6577777768598)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海海事大学继续教育学院易达教学点</text>
+    <info>
+      <address>浦东南路1525</address>
+      <population>8626</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(625.8848711062456, -228.8216177787035)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华东理工大学继续教育学院宝山教学点</text>
+    <info>
+      <address>牡丹江路301号</address>
+      <phone>021-56561520</phone>
+      <population>19943</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(219.9621688841944, 474.4888888879359)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华东师大中山北路校区-继续教育学院</text>
+    <info>
+      <address>中山北路3663号华东师范大学中山北路校区-文科大楼3层</address>
+      <population>19791</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(406.0844088840895, 618.3950222212843)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">复旦大学枫林校区西区-继续教育学院</text>
+    <info>
+      <address>东安路130复旦大学上海医学院西区</address>
+      <population>19045</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(450.83093332868884, 318.52231111020046)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">同济大学继续教育学院沪西沪北教学部</text>
+    <info>
+      <address>中山北路727号</address>
+      <population>15274</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(578.1528177729342, 539.8428444435012)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海外国语大学继续教育学院黄浦校区</text>
+    <info>
+      <address>林荫路258</address>
+      <population>6437</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(456.29226666187606, 82.45617777683947)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海外国语大学继续教育学院彭浦分部</text>
+    <info>
+      <address>阳曲路421</address>
+      <population>12912</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(952.581831106545, 321.444124443542)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海外国语大学继续教育学院单科分部</text>
+    <info>
+      <address>友林路149</address>
+      <population>12789</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(264.1261511062112, 251.9395555545998)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华东理工大学继续教育学院大华授课点</text>
+    <info>
+      <address>大华三路99号</address>
+      <phone>021-66393072</phone>
+      <population>16407</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1916.8712533284634, 1265.9726222213067)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海外国语大学继教院浦东广博教学点</text>
+    <info>
+      <address>拱极路2151号</address>
+      <population>10711</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(114.08511999525217, -88.34702222311535)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">东方帕堤欧小城居委会顾村镇老年分校</text>
+    <info>
+      <address>顾北路739</address>
+      <population>18412</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(660.4733155505528, 118.63751111018246)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海财经大学继续教育学院培训报名处</text>
+    <info>
+      <address>国定路651号</address>
+      <phone>021-65904517</phone>
+      <population>10796</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-617.5150933380792, 1400.958577776828)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海外国语大学继续教育学院松江分部</text>
+    <info>
+      <address>人民北路925</address>
+      <population>13885</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-617.5150933380792, 1400.958577776828)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海电机学院成人教育学院松江教学点</text>
+    <info>
+      <address>人民北路925</address>
+      <population>15978</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1549.9788799952512, 628.2709333324419)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华东理工大学继续教育学院川沙教学点</text>
+    <info>
+      <address>临园路33</address>
+      <population>8422</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(381.0715022174918, 1052.7075555546162)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市女子实验函授进修学院梅陇分院</text>
+    <info>
+      <address>景联路439号</address>
+      <population>18815</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-910.643057782363, 1974.580622221265)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海开放大学老年教育学院金山学习苑</text>
+    <info>
+      <address>万安街950</address>
+      <population>13320</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(369.3114311063255, 444.5425777768378)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海开放大学老年教育学院静安学习苑</text>
+    <info>
+      <address>胶州路601号</address>
+      <population>6169</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(290.8502755506561, 626.0863999990306)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海交通大学成人教育学院加华教育中心</text>
+    <info>
+      <address>凯旋路1726临</address>
+      <population>10252</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-107.89987556017877, 2649.237333332394)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海外国语大学继续教育学院金山教学区</text>
+    <info>
+      <address>蒙山北路611号</address>
+      <population>12905</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(701.0692266620026, 345.6469333324094)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华东船舶工业学院成人教育学院上海分院</text>
+    <info>
+      <address>保定路2</address>
+      <population>6503</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(289.3939199952001, 529.0111999991041)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海电视大学开放教育学院安化路教学点</text>
+    <info>
+      <address>安化路360</address>
+      <population>13580</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(18.366151106420148, 469.52817777687414)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华东理工大学继续教育学院云岭西路分部</text>
+    <info>
+      <address>云岭西路689弄170号</address>
+      <phone>021-62792280</phone>
+      <population>18167</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(582.9587911062845, 415.7795555546272)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">西南财经大学现代远程教育上海学习中心</text>
+    <info>
+      <address>滇池路110-1</address>
+      <population>14991</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(451.5227022176987, 647.6586666657568)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海电子信息职业技术学院继续教育学院</text>
+    <info>
+      <address>中山南二路620号</address>
+      <phone>021-64229848</phone>
+      <population>8130</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(497.3250844395807, 1943.9516444434958)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">建峰职业技术学院继续教育部奉贤办学点</text>
+    <info>
+      <address>古华南路100号奉贤体育中心内</address>
+      <population>16228</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(605.568711106389, 706.0494222213038)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">北京科技大学远程教育学院上海学习中心</text>
+    <info>
+      <address>历城路86号</address>
+      <population>8781</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(340.54840888402396, 656.5333333323906)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海电机学院继续教育学院董恒甫教学点</text>
+    <info>
+      <address>蒲汇塘路99</address>
+      <population>5922</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(292.59790221731237, 633.3681777768561)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">北京交大现代远程教育上海交通教学中心</text>
+    <info>
+      <address>凯旋路2050</address>
+      <population>12423</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(391.1203555508109, 427.93102222130983)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">北京科技大学远程教育学院上海学习中心</text>
+    <info>
+      <address>海防路429弄100</address>
+      <population>12424</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(510.4686933285848, 540.3434666657176)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海交通大学医学院东部-继续教育学院</text>
+    <info>
+      <address>重庆南路227号</address>
+      <population>5285</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(644.0529066618183, 272.05546666573355)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">公众远程教育网北京邮电大学远程教育站</text>
+    <info>
+      <address>天宝路879号</address>
+      <population>14124</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-329.70282667138235, 2399.8364444435083)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市退休职工大学金山分校张堰教学点</text>
+    <info>
+      <address>新华路65</address>
+      <population>11822</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(443.25788443966303, 485.1384888879693)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海外国语大学继续教育学院·欧文分院</text>
+    <info>
+      <address>陕西北路66号科恩国际中心4层</address>
+      <population>8164</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(303.19288888422307, 632.6399999990372)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海工程技术大学继续教育学院新思源校区</text>
+    <info>
+      <address>番禺路1150-4临</address>
+      <population>18800</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(743.6312177729633, 234.73635555460532)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华东理工大学继续教育学院沪东科技教学点</text>
+    <info>
+      <address>凤城路101</address>
+      <population>11827</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(714.6133333286343, 258.58417777685645)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海交通大学医学院儿科医学继续教育学院</text>
+    <info>
+      <address>控江路1665号附近</address>
+      <population>13180</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(565.4825244397216, 544.8945777768586)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市高校浦东继续教育中心(PCEC)</text>
+    <info>
+      <address>陆家浜路1332号南开大厦18楼</address>
+      <population>6513</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(474.13262221743935, 563.2810666657406)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华东政法学院继续教育学院黄浦业大教学点</text>
+    <info>
+      <address>建国西路154</address>
+      <population>17423</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(744.941937773001, 574.294755554638)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海交通大学医学院儿科医学继续教育学院</text>
+    <info>
+      <address>北园路171</address>
+      <population>7853</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(566.9388799953595, 87.73546666575385)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华东理工大学继续教育学院(华文教学点)</text>
+    <info>
+      <address>三门路661</address>
+      <population>16987</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(432.66289777293423, 47.549155554634126)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海外国语大学(继续教育学院)彭浦分部</text>
+    <info>
+      <address>岭南路1115号中铁大厦2楼202室</address>
+      <phone>021-66988160</phone>
+      <population>7190</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-781.245866671452, 85.5054222212857)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海大学成人教育学院安亭国际汽车城教学点</text>
+    <info>
+      <address>于塘路885</address>
+      <population>10031</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(243.44590221753606, 768.3086222212751)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市建设和交通工作委员会党校虹漕南路校区</text>
+    <info>
+      <address>虹漕南路55</address>
+      <population>5768</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(855.989048884112, 301.00053333239885)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市建设和交通工作委员会党校杨树浦路校区</text>
+    <info>
+      <address>杨树浦路2219甲</address>
+      <population>11782</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(743.6312177729633, 234.73635555460532)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海工程技术大学继续教育学院沪东科技教学点</text>
+    <info>
+      <address>凤城路101</address>
+      <population>19075</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(725.4267733283996, 482.3623111101824)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华东理工大学继续教育学院浦东教学点(华文)</text>
+    <info>
+      <address>浦东南路1341弄12号</address>
+      <population>17635</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(515.6023466619445, -320.9543111120638)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华东师大继续教育学院考试考证中心宝山教学点</text>
+    <info>
+      <address>友谊路327</address>
+      <population>14140</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(644.0529066618183, 272.05546666573355)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">公众远程教育网上海交通大学网络教育学院教学点</text>
+    <info>
+      <address>天宝路879号</address>
+      <population>14456</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(548.916479995205, -321.09084444537075)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海第二工业大学成人与继续教育学院宝山教学点</text>
+    <info>
+      <address>密山路123号临附近</address>
+      <population>8328</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(286.0078933284967, 741.7756444435327)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海应用技术学院徐汇校区北校区-继续教育学院</text>
+    <info>
+      <address>上海市徐汇区</address>
+      <population>9996</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-88.63957333796861, 2816.4906666657316)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">中央党校函授学院上海市委党校分院石化党校辅导站</text>
+    <info>
+      <address>石化一村27号</address>
+      <population>11423</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(486.00191999521485, 503.3884444434989)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华东理工大学继续教育学院上海市国际语言进修学院</text>
+    <info>
+      <address>淮海中路622弄8号春雷商务房1楼</address>
+      <population>12264</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(147.5084799951219, 275.37777777683914)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">同济大学沪西校区-继续教育学院网络教育学院实验剧场</text>
+    <info>
+      <address>真南路500号同济大学沪西校区</address>
+      <population>15259</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1035.88536888401, 311.6046222213299)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海外国语大学贤达经济人文学院继续教育学院浦东分部</text>
+    <info>
+      <address>长岛路823弄48临</address>
+      <population>14384</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(984.1483377731493, -22.720000000936125)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海外国语大学贤达经纪人文学院继续教育学院浦东分部</text>
+    <info>
+      <address>高荷路351号</address>
+      <population>16836</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(340.0022755507962, 607.1628799990776)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海交通大学徐汇校区-继续教育学院</text>
+    <info>
+      <address>华山路1954号上海交通大学徐汇校区</address>
+      <population>9268</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(779.9308799951177, 432.9372444435194)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海海运学校</text>
+    <info>
+      <address>商城路1288号</address>
+      <population>9004</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(514.0731733286884, 586.5827555546275)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">中华职业学校</text>
+    <info>
+      <address>斜土路716</address>
+      <phone>021-63036110</phone>
+      <population>16733</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1467.5491555506596, 639.0570666657368)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">育华(集团)学校</text>
+    <info>
+      <address>华东路6800</address>
+      <population>15336</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-854.0636444491611, 1975.7730133324003)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">食品工业学校</text>
+    <info>
+      <address>万安街395号</address>
+      <phone>021-57311137</phone>
+      <population>18547</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(305.01333332867944, 877.2622222212703)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">中华新侨学校</text>
+    <info>
+      <address>天等路465号</address>
+      <phone>021-64773208</phone>
+      <population>5428</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(847.7606399950673, 206.7015111101682)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">风帆初级职业学校</text>
+    <info>
+      <address>内江路476弄18号</address>
+      <population>13029</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(677.1849955508515, 300.2723555546254)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海医药技术学校</text>
+    <info>
+      <address>飞虹路525</address>
+      <population>19571</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(950.4701155508883, 305.41511111018735)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海港湾学校</text>
+    <info>
+      <address>浦东大道2600</address>
+      <phone>021-58711692</phone>
+      <population>16835</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(200.55623110638408, -548.1002666675977)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市灵石学校</text>
+    <info>
+      <address>盛桥一村80号</address>
+      <population>10555</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(62.2388622174185, 656.80639999905)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市马戏学校</text>
+    <info>
+      <address>程家桥路188号</address>
+      <population>5598</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1530.4637155506498, 1845.4200888879313)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海电子工业学校</text>
+    <info>
+      <address>上海市奉贤区</address>
+      <population>14360</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(433.02698666193464, 1788.0123733324126)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">奉贤工业技术学校</text>
+    <info>
+      <address>陈桥路699</address>
+      <population>5290</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(342.9878044396901, 1363.8670222213022)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海电力工业学校</text>
+    <info>
+      <address>剑川路665</address>
+      <population>9110</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(598.3597511061816, 540.5710222212747)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海商业会计学校</text>
+    <info>
+      <address>陆家浜路918</address>
+      <phone>021-63779439</phone>
+      <population>19964</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1246.8748799952664, 196.32497777683966)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上船职业技术学校</text>
+    <info>
+      <address>陈邵路100号</address>
+      <population>19970</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(400.4774399951202, 810.9980444435223)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海西南工程学校</text>
+    <info>
+      <address>龙吴路779号</address>
+      <population>8862</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(335.08707555083674, 329.03537777683596)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">春晖职业技术学校</text>
+    <info>
+      <address>延长西路529弄25号</address>
+      <population>5576</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1048.3050666714917, 1363.3663999990858)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海未来技术学校</text>
+    <info>
+      <address>平原街408临</address>
+      <population>8217</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(912.9325511063143, 823.1039999990571)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上船职业技术学校</text>
+    <info>
+      <address>康花路128号</address>
+      <phone>021-50453579</phone>
+      <population>19077</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(232.41400888418866, 1304.475022221277)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">闵行区农业技术学校</text>
+    <info>
+      <address>沪闵路2575号</address>
+      <phone>021-54570119</phone>
+      <population>12223</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(-1391.1675733381344, 1025.6375466657573)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">朱家角职业技术学校</text>
+    <info>
+      <address>祥凝浜路783</address>
+      <population>18412</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(536.5010488842017, 586.946844443537)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">中华职业学校国际部</text>
+    <info>
+      <address>上海市黄浦区</address>
+      <population>19307</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(346.2646044396024, 660.7112533324198)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">徐汇财贸职工中专学校</text>
+    <info>
+      <address>蒲汇塘路18</address>
+      <population>13928</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(869.6423822175348, 278.5635555546378)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">风帆初级职业学校分校</text>
+    <info>
+      <address>海州路268号</address>
+      <population>7392</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(2306.0822755507616, 1760.9605688879583)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海燎原南汇广告学校</text>
+    <info>
+      <address>上海市浦东新区</address>
+      <population>16795</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(327.40479999520176, 325.5310222213211)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市药剂学校</text>
+    <info>
+      <address>延长西路583</address>
+      <population>5325</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(319.35843555093015, 868.6606222212959)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市邮电学校</text>
+    <info>
+      <address>老沪闵路777</address>
+      <population>19810</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(18.366151106420148, 469.52817777687414)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市贸易学校</text>
+    <info>
+      <address>云岭西路689弄170号</address>
+      <population>7167</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(340.8396799952243, 350.8716088879737)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市司法学校</text>
+    <info>
+      <address>农林路81号</address>
+      <phone>021-62149395</phone>
+      <population>13468</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(449.2653511062599, 295.4299733323751)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市商业学校</text>
+    <info>
+      <address>共和新路1458</address>
+      <population>10791</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(199.93727999517432, 323.3464888879553)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海市司法学校</text>
+    <info>
+      <address>三源路175</address>
+      <population>8457</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(793.7298488841407, 89.05528888794834)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">百联职业技术学校</text>
+    <info>
+      <address>民星路525号</address>
+      <phone>021-65563006</phone>
+      <population>19042</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(478.9750044395987, 1220.8255999990797)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">华东电力技工学校</text>
+    <info>
+      <address>龙吴路4988</address>
+      <population>16911</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(90.45575110649224, 272.6926222213024)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海信息技术学校</text>
+    <info>
+      <address>真南路1008号</address>
+      <population>9054</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(1246.8748799952664, 196.32497777683966)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海船厂技工学校</text>
+    <info>
+      <address>陈邵路100号</address>
+      <population>15607</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(456.65635555087647, 1796.3135999990754)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">奉贤中等专业学校</text>
+    <info>
+      <address>八字桥路626</address>
+      <population>6707</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(125.88159999522759, 527.2817777768523)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">长宁区美术专修学校</text>
+    <info>
+      <address>天山路338弄1号衡辰公寓4层</address>
+      <phone>021-52725882</phone>
+      <population>11209</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(730.5604266619412, 243.56551111018234)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海杨浦职业技术学校</text>
+    <info>
+      <address>本溪路118</address>
+      <population>6259</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(335.269119995246, 477.4015999990752)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海美术电影专修学校</text>
+    <info>
+      <address>万航渡路618</address>
+      <phone>021-62524349</phone>
+      <population>10332</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(758.7409066620239, 441.58435555464166)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">振华外经职业技术学校</text>
+    <info>
+      <address>商城路1088-1临</address>
+      <phone>021-58762720</phone>
+      <population>15284</population>
+    </info>
+  </g>
+  <g class="entity" transform="translate(718.9095822175659, 80.49009777687388)">
+    <image width="20" height="20" x="-10" y="-20" xlink:href="resource/icon/sch"/>
+    <text x="0" y="0" font-size="3" text-anchor="middle">上海强生职业技术学校</text>
+    <info>
+      <address>民府路90</address>
+      <population>12570</population>
+    </info>
+  </g>
+</g>

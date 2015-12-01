@@ -1,0 +1,93 @@
+<div style="width:100%">
+<button ui-sref="portal.module3" type="button" class="btn btn-sm btn-success" >
+                         返回
+        <i class="ace-icon fa fa-arrow-right icon-on-right bigger-110"></i>
+    </button>
+</div>
+
+<div class="ace-settings-container" id="ace-settings-container">
+
+	<div class="btn btn-app btn-xs btn-warning ace-settings-btn" ng-class="sideClass" id="ace-settings-btn">
+		<i class="ace-icon fa fa-cog bigger-130" ng-click="showSidebar()"></i>
+	</div>
+
+	<div class="ace-settings-box clearfix" id="ace-settings-box" ng-class="sideClass">
+		<div class="pull-left width-50">
+
+			<div  style="overflow:scroll;width:200px;height: 600px;" >
+				<h4 class="smaller lighter green">
+					<i class="ace-icon fa fa-list"></i>
+					移除的元素
+				</h4>
+				<ul >
+
+					<li class="fa fa-flag red bigger-130" ng-repeat="node in deletenode track by $index">
+						{{node}}
+					</li>
+				</ul>
+
+				<h4 class="smaller lighter green">
+					<i class="ace-icon fa fa-list"></i>
+					新增的元素
+				</h4>
+				<ul>
+					<li class="fa fa-flag blue bigger-130" ng-repeat="node in addnode track by $index">
+						{{node}}
+					</li>
+				</ul>
+
+			</div>
+
+		</div><!-- /.pull-left -->
+	</div><!-- /.ace-settings-box -->
+</div><!-- /.ace-settings-container -->
+
+<div class="row">
+	<div class="col-sm-6" >
+	<div class="widget-box">
+		<div class="widget-header widget-header-flat">
+			<h4 class="widget-title">时间戳1</h4>
+			<span class="label label-lg label-danger arrowed arrowed-in-right" >
+				<b>红色字体表示在时间戳2中被删除的地理元素</b>
+			</span>
+		</div>
+		<div class="widget-body">
+			<div class="widget-main" style="height:750px">
+				<svg id="windowL" xmlns="http://www.w3.org/2000/svg"
+			xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"
+			 width = "100%"  height = "100%">
+			 <g id='viewportL'>
+			 	<g class="baseLayer"></g>
+				<g ng-bind-html="svg1"></g></g>
+				</svg>
+			</div>
+		</div>
+	</div>
+	</div><!-- /.col -->
+
+	<div class="col-sm-6">
+	<div class="widget-box">
+		<div class="widget-header widget-header-flat">
+			<h4 class="widget-title">时间戳2</h4>
+			<span class="label label-lg label-primary arrowed arrowed-in-right" >
+				<b>蓝色字体表示在时间戳2中新增的地理元素</b>
+			</span>
+		</div>
+
+		<div class="widget-body">
+			<div class="widget-main" style="height:750px">
+				<svg id="windowR" xmlns="http://www.w3.org/2000/svg"
+					 xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"
+					 width = "100%"  height = "100%">
+					<g id='viewportR'>
+						<g class="baseLayer"></g>
+						<g ng-bind-html="svg2"></g></g>
+				</svg>
+			</div>
+		</div>
+	</div>
+	</div><!-- /.col -->
+	<script>
+	loadDoubleMapHTML()
+    </script>
+</div>

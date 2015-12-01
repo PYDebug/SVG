@@ -1,0 +1,80 @@
+<div style="width: 400px ; margin:0 auto">
+    <div class="position-relative">
+        <div id="login-box" class="login-box visible widget-box no-border">
+            <div class="widget-body">
+                <div class="widget-main">
+                    <h4 class="header blue lighter bigger">
+                    	请输入图层名
+                        <i class="ace-icon fa fa-coffee green"></i>
+                    </h4>
+
+                    <div class="space-6"></div>
+
+                    <form>
+                        <fieldset>
+                            <label class="block clearfix">
+														<span class="block input-icon input-icon-right">
+															<input type="text" class="form-control" placeholder="图层名"
+                                                                   ng-model="mapname">
+
+														</span>
+                            </label>
+
+                            <label class="block clearfix">
+														<span class="block input-icon input-icon-right">
+
+
+                                                                                <!--<div class="dropdown right">-->
+                                                                                    <!--<a class="dropdown-toggle btn btn-danger">-->
+                                                                                        <!--<i class="icon-calendar">change date</i>-->
+                                                                                    <!--</a>-->
+
+                                                                                    <!--<div class="dropdown-menu"-->
+                                                                                         <!--ng-click="$event.preventDefault();$event.stopPropagation()">-->
+                                                                                        <!--<div date-picker="data.applyDate"-->
+                                                                                             <!--min-view="date"-->
+                                                                                             <!--max-view="year"></div>-->
+                                                                                    <!--</div>-->
+                                                                                <!--</div>-->
+
+
+															<!--<input type="text" class="form-control" placeholder="date" value="{{data.applyDate|date:'yyyy-MM-dd'}}"-->
+                                                                   <!--ng-model="timestamp">-->
+                                                            <input type="text" class="form-control reservation-input" portal-datepicker date="date" ng-model="timestamp" placeholder="日期">
+
+														</span>
+                            </label>
+
+
+                            <div class="space"></div>
+
+                            <div class="clearfix">
+
+
+                                <button type="button" class="width-35 pull-right btn btn-sm btn-primary">
+                                    <a ui-sref="portal.module4({mapid:mapid,timestamp:timestamp,mapname:mapname,flag:flag})"
+                                       class="dropdown-toggle" ng-click="addLayer()">
+                                        <i class="menu-icon fa fa-caret-right"></i><font color="white"> 确定</font>
+                                    </a>
+                                    <i class="ace-icon fa fa-key"></i>
+
+                                </button>
+                            </div>
+
+                            <div class="space-4"></div>
+                        </fieldset>
+                    </form>
+
+
+                </div>
+                <!-- /.widget-main -->
+
+            </div>
+            <!-- /.widget-body -->
+        </div>
+        <!-- /.login-box -->
+
+    </div>
+    <!-- /.position-relative -->
+
+</div>

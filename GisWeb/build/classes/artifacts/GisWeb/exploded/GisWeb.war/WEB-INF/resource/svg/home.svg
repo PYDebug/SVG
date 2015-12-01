@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?> 
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+         "http://www.w3.org/TR/SVG/DTD/svg10.dtd">
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+  <!-- the upright posts -->
+  <rect x="50" y="20" width="10" height="150" fill="steelblue" stroke="black" />
+  <rect x="200" y="20" width="10" height="150" fill="steelblue" stroke="black" />
+  <!-- the beams -->
+  <rect id="beam" x="62" y="20" width="136" height="8" fill="steelblue" stroke="black" />
+  <rect id="beam" x="62" y="70" width="136" height="8" fill="steelblue" stroke="black" />
+  <rect id="beam" x="62" y="120" width="136" height="8" fill="steelblue" stroke="black" />
+</svg>

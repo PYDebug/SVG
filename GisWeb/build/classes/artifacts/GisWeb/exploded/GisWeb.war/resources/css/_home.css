@@ -1,0 +1,50 @@
+@CHARSET "UTF-8";
+
+#gs-center .pull-right{
+	/*margin:15px;*/
+}
+
+#gs-panelAttribute{
+	height:30%;
+}
+
+#gs-panelSearch{
+	height:30%;
+}
+
+#gs-panelNavigation{
+	height:30%;
+}
+
+#info1{
+	position:fixed;
+	background-color:#FFF;
+	border:1px solid #DDD;
+	height:165px;
+	width:400px;
+	left:400px;
+	top:400px;
+	display:none;
+}
+
+#info2{
+	position:fixed;
+	background-color:#FFF;
+	border:1px solid #DDD;
+	height:165px;
+	width:450px;
+	left:400px;
+	top:400px;
+	display:none;
+}
+
+#info3{
+	position:fixed;
+	background-color:#FFF;
+	border:1px solid #DDD;
+	height:100px;
+	width:200px;
+	left:400px;
+	top:400px;
+	display:none;
+}

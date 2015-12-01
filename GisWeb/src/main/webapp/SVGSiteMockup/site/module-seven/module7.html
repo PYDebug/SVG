@@ -1,0 +1,30 @@
+<!--<iframe id="homeFrame" src="./homeFrame.html" width="100%" height="590px"></iframe>-->
+<div id="gs-mapContent"   style="height: 800px" >
+    <svg id = "SVGMapContent" xmlns="http://www.w3.org/2000/svg"
+         xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width = '100%' height='100%'
+            >
+        <!-- <script xlink:href="/GisWeb_GradleEclipse/resources/scripts/app/svg/SVGPan.js" /> -->
+        <g id='viewport'>
+            <g class="baseLayer"></g>>
+            <g class="content"></g>
+            <!-- <image xlink:href="{{svg}}" x="0" y="0" height="100%" width="100%" />
+            <g ng-include= "'./resource/svg/1/01'"></g>
+            {{svg}}
+            </g> -->
+        </g>
+    </svg>
+    <script>
+        var root = document.getElementById("SVGMapContent");
+        //var root = $('#SVGMapContent');
+//        if(localStorage.layer == null &&localStorage.timestamp==null)
+//        {
+//            alert("yao");
+            loadMapByRoot(root);
+//        }
+//        else(localStorage.layer)
+//        {
+//            loadLayer(localStorage.layer);
+//        }
+
+    </script>
+</div>

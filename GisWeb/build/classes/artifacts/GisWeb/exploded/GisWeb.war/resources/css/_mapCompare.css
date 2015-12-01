@@ -1,0 +1,81 @@
+@CHARSET "UTF-8";
+
+#gs-compareSelection{
+	/*height:100%;*/
+}
+
+#gs-compareSubmit{
+	text-align:center;
+}
+
+.compareArrow{
+	height:100%;
+	text-align:center;
+	padding-top:220px;
+	font-size:30px;
+}
+
+.compareSearch{
+	margin:10px 0px;
+}
+
+.compareList .list-group a{
+	font-weight:700;
+}
+
+.compareList .list-group .fa-map-marker{
+	margin-right:15px;	
+}
+
+.compareList .list-group .fa-clock-o{
+	margin-right:15px;	
+}
+
+.compareListSelected{
+	color: #b63b4d;
+}
+
+.comparePanel{
+	padding:0px;
+	height:500px;
+}
+
+.panel .panel-heading h3{
+	text-align:center;
+	font-weight:bold;
+	font-size:20px;
+}
+
+
+
+
+/*Compare Result Page Style*/
+
+#gs-compareResultHeader{
+	padding:5px 20px 20px 30px;
+}
+
+#gs-compareResultHeader button{
+	margin:0px 10px;
+}
+
+
+#gs-compareResultHeader span{
+	font-weight:700;
+	font-size:24px;
+}
+
+.compareResultMapName{
+	text-align:center;
+	font-weight:700;
+	font-size:16px;
+}
+
+.compareResultMapContent{
+	height:500px;
+	widht:50%;
+	border:1px solid #ddd;
+	margin-bottom:15px;
+}
+
+

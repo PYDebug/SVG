@@ -1,0 +1,18 @@
+<svg width="256" height="256" xmlns="http://www.w3.org/2000/svg"><script> 
+var tempColor;
+function hoverPath(evt){
+obj = evt.target;
+tempColor = obj.getAttribute("fill");
+obj.setAttribute("fill","red");
+//alert(tempColor);
+//obj.setAttribute("stroke","red");}
+function recoverPath(evt){
+obj = evt.target;
+obj.setAttribute("fill", tempColor);
+//obj.setAttribute("stroke", tempColor);
+}</script><path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(254,254,254)" d="M  0,173l 0,1 25,0 1,1 25,0 1,1 25,0 1,1 24,0 1,1 25,0 1,1 24,0 1,1 25,0 1,1 24,0 1,1 25,0 1,1 24,0 0,-1 -22,0 -1,-1 -24,0 -1,-1 -25,0 -1,-1 -25,0 -1,-1 -24,0 -1,-1 -25,0 -1,-1 -24,0 -1,-1 -25,0 -1,-1 -24,0 -1,-1 -25,0 -1,-1 -1,0 -1,1Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(243,242,234)" d="M  0,178l 0,22 61,0 1,1 69,0 1,1 68,0 1,1 54,0 0,-18 -25,0 -1,-1 -25,0 -1,-1 -24,0 -1,-1 -25,0 -1,-1 -24,0 -1,-1 -25,0 -1,-1 -24,0 -1,-1 -25,0 -1,-1 -25,0 -1,-1 -24,0Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(171,198,238)" d="M  0,203l 0,34 4,0 1,1 16,0 1,1 14,0 1,1 15,0 1,1 15,0 1,1 15,0 1,1 15,0 1,1 15,0 1,1 14,0 1,1 16,0 1,1 14,0 1,1 15,0 1,1 15,0 1,1 15,0 1,1 15,0 1,1 15,0 1,1 0,2 11,0 0,-50 -55,0 -1,-1 -68,0 -1,-1 -69,0 -1,-1 -59,0 -1,1Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(244,243,236)" d="M  0,240l 0,15 242,0 0,-1 -15,0 -1,-1 -15,0 -1,-1 -15,0 -1,-1 -15,0 -1,-1 -15,0 -1,-1 -14,0 -1,-1 -16,0 -1,-1 -14,0 -1,-1 -15,0 -1,-1 -15,0 -1,-1 -15,0 -1,-1 -15,0 -1,-1 -15,0 -1,-1 -14,0 -1,-1 -16,0 -1,-1 -2,0 -1,1Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(244,243,235)" d="M  0,117l 0,53 3,0 1,1 25,0 1,1 24,0 1,1 25,0 1,1 24,0 1,1 25,0 1,1 24,0 1,1 25,0 1,1 25,0 1,1 24,0 1,1 21,0 0,-180 -255,0Z"/>
+</svg>

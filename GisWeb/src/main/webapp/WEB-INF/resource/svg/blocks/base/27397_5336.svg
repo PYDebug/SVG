@@ -1,0 +1,51 @@
+<svg width="256" height="256" xmlns="http://www.w3.org/2000/svg"><script> 
+var tempColor;
+function hoverPath(evt){
+obj = evt.target;
+tempColor = obj.getAttribute("fill");
+obj.setAttribute("fill","red");
+//alert(tempColor);
+//obj.setAttribute("stroke","red");}
+function recoverPath(evt){
+obj = evt.target;
+obj.setAttribute("fill", tempColor);
+//obj.setAttribute("stroke", tempColor);
+}</script><path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(240,240,232)" d="M  0,94l 0,28 57,0 1,1 11,0 1,-1 7,0 1,1 37,0 2,-2 0,-8 -1,-1 0,-32 -77,0 22,1 0,35 -1,1 0,1 -1,1 -37,0 -1,-1 -1,0 -1,-1 0,-37 1,-1 -9,0 -1,1 -10,0 0,14 64,-13 0,36 1,1 0,0 -1,-37 -64,13 87,-13 0,14 -1,1 0,21 -1,1 -18,0 20,-37 -87,13Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(231,228,215)" d="M  1,55l 72,0 -7,-1 0,-1 -66,0 0,1 1,1Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(236,237,232)" d="M  0,34l 0,15 32,0 0,-15 -22,0 -1,-1 0,-4 -9,0Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(243,242,233)" d="M  1,24l 32,0 -15,-1 0,-23 -18,0 0,23 1,1Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(182,203,230)" d="M  0,138l 0,6 29,0 1,-1 11,0 1,-1 7,0 1,1 3,0 0,-1 1,-1 18,0 1,-1 0,-3 -10,0 -1,1 -46,0 -1,-1 -14,0 -1,1Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(254,254,254)" d="M  1,146l -1,0 0,1 4,0 1,1 1,1 0,12 1,0 0,-13 1,-1 23,0 1,-1 22,0 0,-1 -5,0 -1,-1 -5,0 -1,1 -11,0 -1,1 25,0 0,1 5,0 1,1 4,0 1,1 4,0 0,-1 -3,0 -1,-1 -4,0 -1,-1Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(252,243,155)" d="M  2,202l 0,-2 -2,0 0,55 6,0 0,-2 1,-1 0,-10 -1,0 -1,-1 -1,-1 0,-4 -1,0 -1,-1 0,-13 -1,-1 0,-8 1,-1Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(243,242,232)" d="M  5,163l -1,-1 0,-12 -1,-1 -3,0 0,33 2,0 1,1 0,5 1,0 1,1 51,0 0,-2 1,-1 4,0 0,-7 -1,-1 0,-26 -1,-1 0,-2 -5,0 -1,-1 -20,0 -1,1 -23,0 0,13 -1,1Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(254,253,253)" d="M  4,223l 0,11 1,-10 -1,-1 4,-1 0,2 63,0 1,1 4,0 1,-1 3,0 1,1 38,0 1,1 0,1 1,1 0,20 1,1 0,6 1,0 0,-9 -1,-1 0,-18 1,-1 1,0 1,-1 14,0 1,-1 30,0 1,-1 2,0 1,1 3,0 1,-1 60,0 1,1 1,1 0,30 1,0 0,-30 1,-1 1,-1 12,0 0,-1 -12,0 -1,-1 -1,-1 0,-25 1,-1 0,-66 1,-1 0,-1 1,-1 11,0 0,-1 -10,0 -1,-1 -1,0 -1,-1 0,-20 1,-1 0,-56 1,-1 0,-13 1,-1 1,-1 9,0 0,-1 -9,0 -1,-1 -1,-1 0,-26 -1,0 0,25 -1,1 0,1 -1,1 -79,0 -1,-1 -3,0 -1,1 -9,0 -1,-1 -28,0 -1,-1 0,-26 -1,0 0,24 -1,1 0,1 -1,1 -77,0 -1,-1 -37,0 0,1 21,0 1,1 93,0 1,1 0,1 1,1 0,19 1,1 0,24 -1,1 -1,1 -73,0 -1,-1 -36,0 -1,1 -5,0 0,1 9,0 1,-1 28,0 1,1 78,0 1,1 0,32 1,1 0,10 -1,1 -1,1 -1,1 -39,0 -1,-1 -5,0 -1,1 -13,0 -1,-1 -56,0 0,1 24,0 1,1 92,0 1,1 0,1 1,1 0,31 1,1 0,28 -1,1 -1,0 -1,1 -34,0 -1,-1 -24,0 -1,1 -53,0 -1,-1 -1,0 -1,-1 0,-5 -1,0 0,14 1,0 0,-4 1,-1 1,-1 116,0 1,1 0,22 1,1 0,5 -1,1 0,1 -1,1 -31,0 -1,-1 -76,0 -1,-1 -2,0 -4,1 118,-1 0,-12 -1,-1 0,-52 -1,-1 0,-29 1,-1 14,0 1,-1 103,0 1,1 1,1 0,55 -1,1 0,37 -1,1 -1,0 -1,1 -69,0 -1,1 -31,0 -1,1 -11,0 -1,-1 -1,-1 -118,1 234,-99 -3,0 -1,-1 -2,0 -1,1 -101,0 -1,1 -6,0 -1,-1 -1,0 -1,-1 0,-16 -1,-1 0,-14 1,-1 0,-1 1,-1 74,0 -18,-1 -53,0 -1,-1 -2,0 -1,-1 0,-1 -1,-1 0,-37 -1,-1 0,-16 1,-1 1,-1 20,0 1,1 100,0 1,1 0,1 1,1 0,7 -1,1 0,55 -1,1 0,26 -1,1 -1,0 -1,1 -234,99Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(241,241,231)" d="M  4,194l 0,0 -1,1 0,3 1,1 0,14 -1,1 0,6 8,0 1,1 76,0 1,1 29,0 0,-1 1,-1 0,-3 -1,-1 0,-22 -114,0 56,1 0,12 1,1 0,0 -1,-13 -56,-1 58,14 1,1 -1,-1 -58,-14 60,15 4,0 1,-1 2,0 1,1 -8,0 -60,-15 69,15 1,0 1,-1 11,0 1,-1 0,0 -14,2 -69,-15 83,12 0,0 -83,-12Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(242,241,232)" d="M  6,228l 0,11 1,1 1,0 1,1 0,12 -1,1 0,1 26,0 0,-5 1,-1 1,-1 32,0 1,1 0,1 1,1 0,4 50,0 0,-5 -1,-1 0,-20 -1,-1 0,-1 -38,0 -1,-1 -1,0 -1,1 -6,0 -1,-1 -1,0 0,19 -1,1 -33,0 -1,-1 0,-18 1,-1 -29,0 0,2 6,0 0,17 1,1 0,0 -1,-18 19,0 0,17 -1,1 -15,0 16,-18Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(236,238,234)" d="M  14,228l 0,16 15,0 0,-16Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(242,241,233)" d="M  19,57l -19,0 0,18 4,0 1,-1 38,0 1,1 0,-1 1,-1 69,0 0,-15 -1,0 -1,-1 0,-5 -30,0 0,2 -1,1 -6,0 0,1 -1,1Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(235,237,232)" d="M  20,1l 0,21 14,0 1,1 0,1 3,0 1,1 19,0 0,-25 -37,0 -1,1Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(235,237,233)" d="M  22,81l -1,0 0,35 1,0 1,1 35,0 0,-1 1,-1 0,-33 -21,0 -1,-1 0,-2 -3,0 0,1 -1,1Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(240,239,228)" d="M  28,32l 5,0 1,1 0,17 -1,1 34,0 1,1 0,1 12,0 0,-2 1,-1 32,0 1,1 0,5 1,0 1,1 0,17 -1,1 -69,0 70,-19 0,-4 -1,-1 0,-19 -1,-1 0,-1 -93,0 -1,-1 -9,0 0,3Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(235,237,233)" d="M  36,228l 0,16 31,0 0,-18 -6,0 0,1 -1,1Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(236,238,234)" d="M  38,250l -1,0 -1,1 0,4 32,0 0,-3 -1,-1 0,-1Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(235,237,232)" d="M  62,152l 0,25 1,1 0,9 -1,1 21,0 1,1 4,0 0,-38 -14,0 -2,2 -7,0 -1,-1 0,-2 -3,0 1,1Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(236,238,234)" d="M  62,196l 0,10 1,0 1,1 3,0 1,-1 4,0 1,1 1,-1 11,0 0,-10Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(237,238,232)" d="M  63,0l -3,0 0,25 13,0 0,-23 1,-1 1,0 0,-1Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(236,238,234)" d="M  66,82l 0,34 18,0 0,-21 1,-1 0,-12Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(242,241,232)" d="M  68,143l -13,0 1,1 6,0 1,1 4,0 1,1 3,0 1,1 0,3 1,-1 16,0 1,1 0,39 26,0 1,-1 1,0 0,-26 -1,-1 0,-31 -1,-1 0,-1 -92,0 -1,-1 -23,0 0,8 16,0 1,1 44,0 1,-1 12,0 1,1 0,5 -2,2Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(242,241,232)" d="M  75,3l 0,22 39,0 0,-1 1,-1 0,-23 -38,0 0,2 -1,1Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(242,242,233)" d="M  121,0l -1,0 0,25 28,0 1,1 7,0 1,-1 5,0 1,1 77,0 0,-1 1,-1 0,-24Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(242,241,232)" d="M  122,92l 0,0 -1,1 0,12 1,1 0,16 1,0 1,1 4,0 1,-1 101,0 1,-1 4,0 1,1 1,0 1,-1 1,0 0,-26 1,-1 0,-55 1,-1 0,-5 -1,-1 0,-1 -100,0 -1,-1 -18,0 -1,1 0,14 1,1 0,37 1,1 0,1 2,0 1,1 53,0 1,1 17,0 1,1 0,2 -1,1 -73,0 -1,1 77,-8 -1,-1 0,-3 -1,0 -1,-1 -1,-1 0,-1 -23,0 -1,-1 0,-1 -1,-1 0,-25 1,-1 1,-1 32,0 1,1 0,28 -1,1 -3,0 1,1 0,5 -1,1 -2,0 -77,8 35,-58 8,0 1,1 1,0 1,1 0,25 -2,2 -9,0 -1,-1 0,-27 1,-1 -35,58Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(243,242,234)" d="M  122,130l 0,25 1,1 0,52 1,1 0,12 1,1 9,0 1,-1 31,0 1,-1 69,0 1,-1 1,0 0,-37 1,-1 0,-53 -1,-1 -101,0 -1,1 -14,0 0,2 58,16 31,0 1,1 0,25 -1,1 -5,0 -1,-1 -3,0 -1,-1 -4,0 -1,-1 -3,0 -1,-1 -4,0 -1,-1 -3,0 -1,-1 -2,0 -1,-1 0,-1 -1,-1 0,-17 1,-1 -58,-16Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(241,240,229)" d="M  125,228l -1,0 0,16 1,1 0,10 10,0 0,-27 1,-1 -10,0 -1,1Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(235,237,233)" d="M  137,229l 0,26 15,0 0,-27 -5,0 -1,-1 0,-1 -5,0 0,2 -1,1Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(242,242,232)" d="M  154,228l 0,27 84,0 0,-29 -1,-1 -51,0 25,1 0,25 -1,1 -32,0 -1,-1 -1,-1 0,-22 -3,0 -1,-1 0,-2 -1,1 -23,0 6,1Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(236,238,234)" d="M  158,36l 0,25 7,0 1,-1 0,-23 -1,0 -1,-1Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(236,237,233)" d="M  173,49l 0,0 -1,1 0,23 1,1 0,1 23,0 1,1 0,1 1,1 1,0 1,1 0,3 -1,-5 0,-1 1,-1 3,0 0,-26Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(235,237,233)" d="M  178,228l 0,21 1,1 30,0 0,-23 -24,0 -1,-1 0,-1 -5,0 -1,1 -4,0 4,1Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(236,238,234)" d="M  181,148l 0,15 1,1 0,1 2,0 1,1 3,0 1,1 4,0 1,1 3,0 1,1 4,0 1,1 3,0 1,1 3,0 0,-23Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(241,240,228)" d="M  243,227l 0,28 12,0 0,-30 -11,0 -1,1Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(242,241,230)" d="M  245,128l 0,0 -1,1 0,66 -1,1 0,23 1,1 11,0 0,-93 -9,0 -1,1Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(240,239,226)" d="M  247,0l -1,0 0,25 1,1 8,0 0,-26Z"/>
+<path onmouseover="hoverPath(evt)" onmouseout="recoverPath(evt)" fill="rgb(241,240,229)" d="M  246,33l 0,12 -1,1 0,56 -1,1 0,18 1,0 1,1 9,0 0,-91 -8,0 -1,1Z"/>
+</svg>

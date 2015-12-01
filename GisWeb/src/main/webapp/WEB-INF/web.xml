@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.5" xmlns="http://java.sun.com/xml/ns/javaee"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+
+	<!--<context-param>-->
+		<!--<param-name>contextConfigLocation</param-name>-->
+		<!--<param-value>-->
+			<!--/WEB-INF/spring/main-servlet.xml-->
+			<!--/WEB-INF/spring/resource-servlet.xml-->
+		<!--</param-value>-->
+	<!--</context-param>-->
+
+  <!--<servlet>-->
+    <!--<servlet-name>main</servlet-name>-->
+    <!--<servlet-class>-->
+        <!--org.springframework.web.servlet.DispatcherServlet-->
+    <!--</servlet-class>-->
+    <!--<init-param>-->
+      <!--<param-name>contextConfigLocation</param-name>-->
+      <!--<param-value>-->
+		  <!--/WEB-INF/spring/main-servlet.xml-->
+	  <!--</param-value>-->
+    <!--</init-param>-->
+  <!--</servlet>-->
+  <!-- -->
+  <!--<servlet>-->
+    <!--<servlet-name>resource</servlet-name>-->
+    <!--<servlet-class>-->
+        <!--org.springframework.web.servlet.DispatcherServlet-->
+    <!--</servlet-class>-->
+    <!--<init-param>-->
+      <!--<param-name>contextConfigLocation</param-name>-->
+      <!--<param-value>/WEB-INF/spring/resource-servlet.xml</param-value>-->
+    <!--</init-param>-->
+ <!-- -->
+  <!--</servlet>-->
+  <!-- -->
+  	<welcome-file-list>
+		<welcome-file>/WEB-INF/view/index.jsp</welcome-file>
+	</welcome-file-list>
+  <!-- -->
+  <!--<servlet-mapping>-->
+    <!--<servlet-name>resource</servlet-name>-->
+    <!--<url-pattern>/resource/*</url-pattern>-->
+  	<!--</servlet-mapping>-->
+   	<!--<servlet-mapping>-->
+    	<!--<servlet-name>main</servlet-name>-->
+   		<!--<url-pattern>/</url-pattern>-->
+  	<!--</servlet-mapping>-->
+  <!-- -->
+  	<!--&lt;!&ndash; Spring的log4j监听器****************************************** &ndash;&gt;-->
+	<!--&lt;!&ndash; 设置log4j配置文件路径 &ndash;&gt;-->
+	<!--&lt;!&ndash;<context-param>&ndash;&gt;-->
+		<!--&lt;!&ndash;<param-name>log4jConfigLocation</param-name>&ndash;&gt;-->
+		<!--&lt;!&ndash;<param-value>WEB-INF/log4j.properties</param-value>&ndash;&gt;-->
+	<!--&lt;!&ndash;</context-param>&ndash;&gt;-->
+	<!--&lt;!&ndash;&lt;!&ndash; 开一条watchdog线程每60秒扫描一下配置文件的变化 &ndash;&gt;&ndash;&gt;-->
+	<!--&lt;!&ndash;<context-param>&ndash;&gt;-->
+		<!--&lt;!&ndash;<param-name>log4jRefreshInterval</param-name>&ndash;&gt;-->
+		<!--&lt;!&ndash;<param-value>600000</param-value>&ndash;&gt;-->
+	<!--&lt;!&ndash;</context-param>&ndash;&gt;-->
+
+	<!--<listener>-->
+		<!--<listener-class>-->
+			<!--org.springframework.web.context.ContextLoaderListener-->
+		<!--</listener-class>-->
+	<!--</listener>-->
+	<!--&lt;!&ndash;<listener>&ndash;&gt;-->
+		<!--&lt;!&ndash;<listener-class>org.springframework.web.util.Log4jConfigListener</listener-class>&ndash;&gt;-->
+	<!--&lt;!&ndash;</listener>&ndash;&gt;-->
+	<!--&lt;!&ndash; ************************************************** &ndash;&gt;-->
+
+
+<!--<filter>-->
+	<!--<filter-name>encodingFilter</filter-name>-->
+	<!--<filter-class>org.springframework.web.filter.CharacterEncodingFilter</filter-class>-->
+	<!--<init-param>-->
+		<!--<param-name>encoding</param-name>-->
+		<!--<param-value>UTF-8</param-value>-->
+	<!--</init-param>-->
+	<!--<init-param>-->
+		<!--<param-name>forceEncoding</param-name>-->
+		<!--<param-value>true</param-value>-->
+	<!--</init-param>-->
+<!--</filter>-->
+
+<!--<filter-mapping>-->
+	<!--<filter-name>encodingFilter</filter-name>-->
+	<!--<url-pattern>/*</url-pattern>-->
+<!--</filter-mapping>-->
+
+	<!--<filter>-->
+		<!--<filter-name>springSecurityFilterChain</filter-name>-->
+		<!--<filter-class>-->
+			<!--org.springframework.web.filter.DelegatingFilterProxy-->
+		<!--</filter-class>-->
+	<!--</filter>-->
+	<!--<filter-mapping>-->
+		<!--<filter-name>springSecurityFilterChain</filter-name>-->
+		<!--<url-pattern>/*</url-pattern>-->
+	<!--</filter-mapping>-->
+
+</web-app>
