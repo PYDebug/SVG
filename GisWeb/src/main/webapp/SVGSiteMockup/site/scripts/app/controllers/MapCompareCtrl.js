@@ -157,7 +157,7 @@ angular.module('app').controller("MapCompareCtrl",function ($scope,$http,$sce,$s
     		var firstparam = oldversion;
     		var secondparam = newversion
     	}
-    	var diffxml=loadXMLDoc("../../api/resource/svg/block/matching/"+mapid+"/"+firstparam+"/"+secondparam+"?r="+Math.random());
+    	var diffxml=loadXMLDoc("resource/svg/block/matching/"+mapid+"/"+firstparam+"/"+secondparam+"?r="+Math.random());
     	//alert(diffxml);
     	//var path="/root/insert";
 		if (window.ActiveXObject)
@@ -213,7 +213,7 @@ angular.module('app').controller("MapCompareCtrl",function ($scope,$http,$sce,$s
     		var secondparam = newversion
     	}
 
-    	var diffxml=loadXMLDoc("../../api/resource/svg/block/matching/"+mapid+"/"+firstparam+"/"+secondparam+"?r="+Math.random());
+    	var diffxml=loadXMLDoc("resource/svg/block/matching/"+mapid+"/"+firstparam+"/"+secondparam+"?r="+Math.random());
     	//alert(diffxml);
     	//var path="/root/insert";
 		if (window.ActiveXObject)
@@ -263,7 +263,7 @@ angular.module('app').controller("MapCompareCtrl",function ($scope,$http,$sce,$s
     		var version = oldversion;
     	else
     		var version = newversion;
-    	var url = "../../api/resource/svg/block/"+mapid+"/1/1/"+version;
+    	var url = "resource/svg/block/"+mapid+"/1/1/"+version;
     	var xml=loadXMLDoc(url);
     	//alert(xml);
     	//var path="/svg:svg/svg:*[2]/svg:*[31]";
@@ -335,7 +335,7 @@ angular.module('app').controller("MapCompareCtrl",function ($scope,$http,$sce,$s
     		var version = newversion;
     	else
     		var version = oldversion;
-    	var url = "../../api/resource/svg/block/"+mapid+"/1/1/"+version;
+    	var url = "resource/svg/block/"+mapid+"/1/1/"+version;
     	var xml=loadXMLDoc(url);
     	//alert(xml);
     	//var path="/svg:svg/svg:*[2]/svg:*[31]";

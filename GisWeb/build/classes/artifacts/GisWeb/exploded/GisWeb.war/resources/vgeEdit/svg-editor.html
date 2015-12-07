@@ -29,7 +29,7 @@
     {else}><!{endif}-->
   <script type="text/javascript" src="svg-background-loader.js"></script>
   <script type="text/javascript" src="coordinate-trans.js"></script>
-    
+
   <script type="text/javascript" src="contextmenu/jquery.contextMenu.js"></script>
   <script type="text/javascript" src="browser.js"></script>
   <script type="text/javascript" src="svgtransformlist.js"></script>
@@ -57,14 +57,57 @@
     <!-- feeds -->
     <link rel="alternate" type="application/atom+xml" title="SVG-edit General Discussion" href="http://groups.google.com/group/svg-edit/feed/atom_v1_0_msgs.xml" />
     <link rel="alternate" type="application/atom+xml" title="SVG-edit Updates (Issues/Fixes/Commits)" href="http://code.google.com/feeds/p/svg-edit/updates/basic" />
-    
-    
-    
+
+
+
     <!-- Add script with custom handlers here -->
     <title>VGE</title>
 </head>
 
 <body>
+  <!--百度地图底图-->
+  <script type="text/javascript">
+    //创建和初始化地图函数：
+    function initMap(){
+      createMap();//创建地图
+      setMapEvent();//设置地图事件
+      addMapControl();//向地图添加控件
+      addMapOverlay();//向地图添加覆盖物
+    }
+    function createMap(){
+      map = new BMap.Map("map");
+      map.centerAndZoom(new BMap.Point(121.480237,31.236305),15);
+    }
+    function setMapEvent(){
+      map.enableScrollWheelZoom();
+      map.enableKeyboard();
+      map.enableDragging();
+      map.enableDoubleClickZoom()
+    }
+    function addClickHandler(target,window){
+      target.addEventListener("click",function(){
+        target.openInfoWindow(window);
+      });
+    }
+    function addMapOverlay(){
+    }
+    //向地图添加控件
+    function addMapControl(){
+      var scaleControl = new BMap.ScaleControl({anchor:BMAP_ANCHOR_BOTTOM_LEFT});
+      scaleControl.setUnit(BMAP_UNIT_IMPERIAL);
+      map.addControl(scaleControl);
+      var navControl = new BMap.NavigationControl({anchor:BMAP_ANCHOR_TOP_LEFT,type:BMAP_NAVIGATION_CONTROL_LARGE});
+      map.addControl(navControl);
+      var overviewControl = new BMap.OverviewMapControl({anchor:BMAP_ANCHOR_BOTTOM_RIGHT,isOpen:true});
+      map.addControl(overviewControl);
+    }
+    var map;
+      initMap();
+  </script>
+  <!--百度地图底图-->
+
+
+
     <div id="svg_editor">
         <div id="rulers">
             <div id="ruler_corner"></div>
@@ -146,12 +189,6 @@
                         文件属性 (D)
                     </li>
                 </ul>
-                <!--revise: remove SVG-edit Home page button -->
-                <!--<p>
-			<a href="http://svg-edit.googlecode.com/" target="_blank">
-				SVG-edit Home Page
-			</a>
-		</p>-->
                 <button id="tool_prefs_option">
                     编辑器选项
                 </button>
@@ -401,10 +438,10 @@
                 <div class="tool_button" id="tool_add_subpath" title="Add sub-path"></div>
             </div>
             <div style="float:right;">
-           
+
                 <input id="tool_input" type="text"  placeholder="Serach" style="border-radius:5px;width:140px;">
                 <input id="tool_search" onclick="search_content()" class="btn btn-default" type="submit" value="search" style="height:23px;margin-top:5px;padding:2px;border-radius:5px;">
-          
+
             </div>
         </div>
         <!-- tools_top -->
@@ -679,7 +716,7 @@
                 <fieldset id="units_rulers">
                     <legend id="svginfo_units_rulers">Units & Rulers</legend>
                     <label><span id="svginfo_rulers_onoff">Show rulers</span>
-                        <input type="checkbox" value="show_rulers" id="show_rulers" checked>
+                        <input type="checkbox" value="show_rulers" id="show_rulers" checked></input>
                     </label>
                     <label>
                         <span id="svginfo_unit">Base Unit:</span>
@@ -694,20 +731,6 @@
                             <option value="ex">Exs</option>
                         </select>
                     </label>
-                    <!-- Should this be an export option instead? -->
-                    <!-- 
-				<span id="svginfo_unit_system">Unit System:</span>
-				<label>
-					<input type="radio" name="unit_system" value="single" checked="checked"/>
-					<span id="svginfo_single_type_unit">Single type unit</span>
-					<small id="svginfo_single_type_unit_sub">CSS unit type is set on root element. If a different unit type is entered in a text field, it is converted back to user units on export.</small>
-				</label>
-				<label>
-					<input type="radio" name="unit_system" value="multi"/>
-					<span id="svginfo_multi_units">Multiple CSS units</span> 
-					<small id="svginfo_single_type_unit_sub">Attributes can be given different CSS units, which may lead to inconsistant results among viewers.</small>
-				</label>
- -->
                 </fieldset>
             </fieldset>
         </div>
@@ -752,13 +775,13 @@
     <script>
     /* jdetects.create(function(status) {
     if (status=="on") {
-       // while(1){} 
+       // while(1){}
        //alert("spying");
     };
 }); */
-	
 
-	
+
+
     function delAr(newArNo) {
         $("#newAr" + newArNo).remove();
     };
@@ -801,23 +824,23 @@
     function locateCancel(){
         $('#locateBox').css('display','none');
     }
-    
-    function batchImp(source) {  
-        var file = source.files[0]; 
-        if(window.FileReader) {  
-            var fr = new FileReader();  
-            fr.onloadend = function(e) {  
+
+    function batchImp(source) {
+        var file = source.files[0];
+        if(window.FileReader) {
+            var fr = new FileReader();
+            fr.onloadend = function(e) {
                 console.log(e.target.result);
                 Info = e.target.result.split('\n');
                     for(i=1;i<Info.length-1;i++){
                     InfoLine = Info[i].split(',');
-                    var imgUrl = "/GisWeb_GradleEclipse/resource/icon/logo";
+                    var imgUrl = "/resource/icon/logo";
                     switch(InfoLine[0]){
                         case 'a':
-                            imgUrl = "/GisWeb_GradleEclipse/resource/icon/logo";
+                            imgUrl = "/resource/icon/logo";
                             break;
                         case 'b':
-                            imgUrl =  "/GisWeb_GradleEclipse/resource/icon/su";
+                            imgUrl =  "/resource/icon/su";
                             break;
                     }
                     svgCanvas.addSvgElementFromJson({
@@ -835,10 +858,10 @@
                         }
                     })
                 }
-            };  
-            fr.readAsText(file);  
-        } 
-    }  
+            };
+            fr.readAsText(file);
+        }
+    }
     </script>
 </body>
 

@@ -12,13 +12,13 @@ var scrollTopBase = null;
 function initBaseMap(){
 	var zoom = 1;
 	edge = 50*zoom;
-	
+
 	waWidth = $('#workarea').width();
 	waHeight = $('#workarea').height();
-	
+
 	x_base_left = x_base_zero;
 	y_base_top = y_base_zero;
-	
+
 	x_base_right = x_base_left + Math.ceil(waWidth/edge);
 	if (x_base_right > x_base_max) {
 		x_base_right = x_base_max;
@@ -27,7 +27,7 @@ function initBaseMap(){
 	if (y_base_bottom > y_base_max) {
 		y_base_bottom = y_base_max;
 	};
-	
+
 	for (var i = x_base_left; i <= x_base_right; i++)
 		for (var j = y_base_top; j <= y_base_bottom; j++) {
 		var img = document.createElementNS("http://www.w3.org/2000/svg", "image");
@@ -35,10 +35,10 @@ function initBaseMap(){
 		img.setAttributeNS(null, "y", "" + (j - 5340) * (50 - 0));
 		img.setAttributeNS(null, "width", "50");
 		img.setAttributeNS(null, "height", "50");
-		img.setAttributeNS("http://www.w3.org/1999/xlink", "xlink:href", "/GisWeb_GradleEclipse/resource/svg/block/base/"+i + "/" + j)
+		img.setAttributeNS("http://www.w3.org/1999/xlink", "xlink:href", "/resource/svg/block/base/"+i + "/" + j)
 		$('#canvasBackground').append(img);
 		};
-		
+
 	hideSVGEntityText(zoom);
 }
 
@@ -104,7 +104,7 @@ function reloadBaseMap(w_area){
 		img.setAttributeNS(null, "y", "" + (j - y_base_zero) * (50 - 0));
 		img.setAttributeNS(null, "width", "50");
 		img.setAttributeNS(null, "height", "50");
-		img.setAttributeNS("http://www.w3.org/1999/xlink", "xlink:href", "/GisWeb_GradleEclipse/resource/svg/block/base/"+i + "/" + j)
+		img.setAttributeNS("http://www.w3.org/1999/xlink", "xlink:href", "/resource/svg/block/base/"+i + "/" + j)
 		$('#canvasBackground').append(img);
 	};
 	hideSVGEntityText(zoom);

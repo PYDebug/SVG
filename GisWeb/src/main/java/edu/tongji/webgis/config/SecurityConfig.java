@@ -44,7 +44,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
                 .antMatcher("/api/**")
             .addFilterBefore(tokenFilter, UsernamePasswordAuthenticationFilter.class).csrf()
                 .disable().authorizeRequests().antMatchers(env.getProperty("url.signin")).permitAll()
-                .antMatchers("/api/resource/**").permitAll()
+                .antMatchers("/resource/**").permitAll()
                 .antMatchers("/api/**")
                 .hasAnyRole("ADMIN", "NORMAL_USER", "SPECIAL_USER");
     }

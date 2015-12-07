@@ -30,7 +30,7 @@ import edu.tongji.webgis.svg.matching.DiffSVG;
  *         resources
  */
 @Controller
-@RequestMapping("/api/resource")
+@RequestMapping("/resource")
 public class ResourceController {
 
 

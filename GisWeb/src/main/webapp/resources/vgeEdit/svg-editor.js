@@ -5181,7 +5181,7 @@
 					    }
 					}
 
-					xmlHttp.open("GET", "/GisWeb_GradleEclipse/resource/svg/block/"+layer+"/"+1+"/"+1+"/"+timeStamp, true);
+					xmlHttp.open("GET", "/resource/svg/block/"+layer+"/"+1+"/"+1+"/"+timeStamp, true);
 					xmlHttp.send();
 				};
 
@@ -5232,7 +5232,7 @@
 					var layerName = localStorage.getItem('mapname');
 					var layerId = localStorage.getItem('layer');
 
-					var url =  "/GisWeb_GradleEclipse/resource/svg/block/"+layerId+"/1/1";
+					var url =  "/resource/svg/block/"+layerId+"/1/1";
 					var content = loadLayerXML(url);
 					//alert(content);
 					if(content){
@@ -5267,7 +5267,7 @@
 					var layerName = localStorage.getItem('mapname');
 					var layerId = localStorage.getItem('layer');
 					var version = localStorage.getItem('version');
-					var url = "/GisWeb_GradleEclipse/resource/svg/block/"+layerId+"/1/1/"+version;
+					var url = "/resource/svg/block/"+layerId+"/1/1/"+version;
 
 					var content = loadLayerXML(url);
 					//alert(content);

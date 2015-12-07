@@ -40,13 +40,13 @@ function loadBlock(root, x, y, toX, toY) {
 
 	switch(basetype){
 	case 0:
-		img.setAttributeNS(xlinkNS, "xlink:href", "api/resource/svg/block/base/"+x + "/" + y);
+		img.setAttributeNS(xlinkNS, "xlink:href", "resource/svg/block/base/"+x + "/" + y);
 		break;
 	case 1:
-		img.setAttributeNS(xlinkNS, "xlink:href", "api/resource/png/block/tiandi/"+x + "/" + y);
+		img.setAttributeNS(xlinkNS, "xlink:href", "resource/png/block/tiandi/"+x + "/" + y);
 		break;
 	case 2:
-		img.setAttributeNS(xlinkNS, "xlink:href", "api/resource/png/block/baidu/"+x + "/" + y);
+		img.setAttributeNS(xlinkNS, "xlink:href", "resource/png/block/baidu/"+x + "/" + y);
 		break;
 	}
 	img.async = true;
@@ -228,7 +228,7 @@ function loadLayer(root, layer){
 	    }
 	}
 
-	xmlHttp.open("GET", "api/resource/svg/block/"+layer+"/1/1"+"?r="+Math.random(), true);
+	xmlHttp.open("GET", "resource/svg/block/"+layer+"/1/1"+"?r="+Math.random(), true);
 	xmlHttp.send();
 }
 
@@ -253,7 +253,7 @@ function loadLayerBlock(root, layer, x, y){
 	    }
 	}
 
-	xmlHttp.open("GET", "api/resource/svg/block/"+layer+"/"+x+"/"+y+"?r="+Math.random(), true);
+	xmlHttp.open("GET", "resource/svg/block/"+layer+"/"+x+"/"+y+"?r="+Math.random(), true);
 	xmlHttp.send();
 }
 
@@ -308,7 +308,7 @@ function loadLayer(layer){
 	    }
 	}
 
-	xmlHttp.open("GET", "api/resource/svg/block/"+layer+"/1/1"+"?r="+Math.random(), true);
+	xmlHttp.open("GET", "resource/svg/block/"+layer+"/1/1"+"?r="+Math.random(), true);
 	xmlHttp.send();
 }
 
@@ -362,7 +362,7 @@ function loadLayerAndTime(layer,time){
 		}
 	}
 
-	xmlHttp.open("GET", "api/resource/svg/block/"+layer+"/1/1/"+time+"?r="+Math.random(), true);
+	xmlHttp.open("GET", "resource/svg/block/"+layer+"/1/1/"+time+"?r="+Math.random(), true);
 	xmlHttp.send();
 }
 
@@ -412,7 +412,7 @@ function loadLayerBlock(layer, x, y){
 	    }
 	}
 
-	xmlHttp.open("GET", "api/resource/svg/block/"+layer+"/"+x+"/"+y+"?r="+Math.random(), true);
+	xmlHttp.open("GET", "resource/svg/block/"+layer+"/"+x+"/"+y+"?r="+Math.random(), true);
 	xmlHttp.send();
 }
 

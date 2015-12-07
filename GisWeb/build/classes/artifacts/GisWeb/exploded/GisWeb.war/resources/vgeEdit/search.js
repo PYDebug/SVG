@@ -15,12 +15,12 @@ function search_content(){
   		{
   			if (xmlhttp.readyState==4 && xmlhttp.status==200)
    			{
-   			 	
+
             alert(xmlhttp.responseText);
-          
+
     		}
   		}
-  		xmlhttp.open("POST","/GisWeb_GradleEclipse/layerQuery/su",false);
+  		xmlhttp.open("POST","layerQuery/su",false);
 		  xmlhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded;charset=UTF-8");
 		  xmlhttp.send(search_input_value);
 

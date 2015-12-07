@@ -89,7 +89,7 @@ angular.module('app.module5', [
                                     var firstparam = oldversion;
                                     var secondparam = newversion
                                 }
-                                var diffxml=loadXMLDoc("../../api/resource/svg/block/matching/"+mapid+"/"+firstparam+"/"+secondparam);
+                                var diffxml=loadXMLDoc("resource/svg/block/matching/"+mapid+"/"+firstparam+"/"+secondparam);
                                 //alert(diffxml);
                                 //var path="/root/insert";
                                 if (window.ActiveXObject)
@@ -147,7 +147,7 @@ angular.module('app.module5', [
                                     var secondparam = newversion
                                 }
 
-                                var diffxml=loadXMLDoc("../../api/resource/svg/block/matching/"+mapid+"/"+firstparam+"/"+secondparam);
+                                var diffxml=loadXMLDoc("resource/svg/block/matching/"+mapid+"/"+firstparam+"/"+secondparam);
                                 //alert(diffxml);
                                 //var path="/root/insert";
                                 if (window.ActiveXObject)
@@ -199,7 +199,7 @@ angular.module('app.module5', [
                                     var version = oldversion;
                                 else
                                     var version = newversion;
-                                var url = "../../api/resource/svg/block/"+mapid+"/1/1/"+version;
+                                var url = "resource/svg/block/"+mapid+"/1/1/"+version;
                                 var xml=loadXMLDoc(url);
                                 //alert(xml);
                                 //var path="/svg:svg/svg:*[2]/svg:*[31]";
@@ -315,7 +315,7 @@ angular.module('app.module5', [
                                     var version = newversion;
                                 else
                                     var version = oldversion;
-                                var url = "../../api/resource/svg/block/"+mapid+"/1/1/"+version;
+                                var url = "resource/svg/block/"+mapid+"/1/1/"+version;
                                 var xml=loadXMLDoc(url);
                                 //alert(xml);
                                 //var path="/svg:svg/svg:*[2]/svg:*[31]";

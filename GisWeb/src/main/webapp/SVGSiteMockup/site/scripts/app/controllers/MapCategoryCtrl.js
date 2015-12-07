@@ -53,7 +53,7 @@ app.controller("MapCategoryCtrl",function ($scope,$http) {
 		    }
 		}
 
-		xmlHttp.open("GET", "api/resource/svg/"+mapid+"/"+time, true);
+		xmlHttp.open("GET", "resource/svg/"+mapid+"/"+time, true);
 		xmlHttp.send();
     };
 

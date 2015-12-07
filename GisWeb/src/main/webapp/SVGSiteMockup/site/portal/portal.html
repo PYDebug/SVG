@@ -75,13 +75,14 @@
         }
     </script>
     <!-- #section:basics/sidebar -->
-    <div id="sidebar" class="sidebar                  responsive">
-        <script type="text/javascript">
+    <div id="sidebar" class="sidebar">
+        <!-- <script type="text/javascript">
             try {
                 ace.settings.check('sidebar', 'fixed')
             } catch (e) {
+              alert(e);
             }
-        </script>
+        </script> -->
         <div class="sidebar-shortcuts" id="sidebar-shortcuts">
             <div class="sidebar-shortcuts-large" id="sidebar-shortcuts-large">
                 <button class="btn btn-success">
@@ -124,7 +125,7 @@
                     <b class="arrow fa fa-angle-down"></b>
                 </a>
                 <b class="arrow"></b>
-                <ul class="submenu">
+                <ul class="submenu" ng-style="">
                     <li class=""   >
                         <a class="dropdown-toggle" ui-sref="portal.module7" >
                             <i class="menu-icon fa fa-caret-right" ></i> 地图浏览
@@ -132,37 +133,30 @@
                         </a>
                         <b class="arrow"></b>
 
-						  <ul class="submenu">
+						            <ul class="submenu" ng-style="">
                             <li class="" ng-repeat="map in mapList" >
-                                <a href="#"  class="dropdown-toggle" ng-click="getmapyao(0,map.id ,'')" >
+                                <a class="dropdown-toggle" ng-click="getmapyao(0,map.id ,'')" >
                                     <i class="menu-icon fa fa-caret-right" ></i> {{map.name}}
                                 </a>
                                 <b class="arrow"></b>
-
-						 <ul class="submenu">
-                              <li class="" ng-repeat="date in map.tslist">
-                                <a href="#" ui-sref="portal.module7" class="dropdown-toggle"ng-click="getmapyao(0,map.id ,date.version)" >
-                                    <i class="menu-icon fa fa-caret-right"></i> {{date.date}}
-                                </a>
-                                <b class="arrow"></b>
-
-
-
+						                    <ul class="submenu" ng-style="">
+                                  <li class="" ng-repeat="date in map.tslist">
+                                    <a ui-sref="portal.module7" class="dropdown-toggle" ng-click="getmapyao(0,map.id ,date.version)" >
+                                        <i class="menu-icon fa fa-caret-right"></i> {{date.date}}
+                                    </a>
+                                    <b class="arrow"></b>
+                                  </li>
+                                </ul>
                             </li>
-                          </ul>
-
-
-                            </li>
-                          </ul>
-
+                        </ul>
                     </li>
                     <li class="">
-                        <a href="#" class="dropdown-toggle" >
+                        <a class="dropdown-toggle" >
                             <i class="menu-icon fa fa-caret-right"></i> 地图定制
                             <b class="arrow fa fa-angle-down"></b>
                         </a>
                         <b class="arrow"></b>
-                        <ul class="submenu">
+                        <ul class="submenu" ng-style="">
                             <li class="">
                                 <a ui-sref="portal.module8">
                                     <i class="menu-icon fa fa-caret-right"></i> 新建地图
@@ -170,49 +164,41 @@
                                 <b class="arrow"></b>
                             </li>
 
-                          <li class="">
+                            <li class="">
                                 <a  class="dropdown-toggle">
                                     <i class="menu-icon fa fa-caret-right"></i> 编辑地图
                                 </a>
                                 <b class="arrow"></b>
 
 
-						  <ul class="submenu">
-                              <li class="" ng-repeat="map in mapList" >
-                                <a href="#"  class="dropdown-toggle" >
-                                    <i class="menu-icon fa fa-caret-right" ></i> {{map.name}}
-                                </a>
-                                <b class="arrow"></b>
+						                    <ul class="submenu" ng-style="">
+                                  <li class="" ng-repeat="map in mapList" >
+                                    <a class="dropdown-toggle" >
+                                        <i class="menu-icon fa fa-caret-right" ></i> {{map.name}}
+                                    </a>
+                                    <b class="arrow"></b>
 
-						  <ul class="submenu">
-                               <li class="" ng-repeat="date in map.tslist">
-                                <a ui-sref="portal.module4({mapid:map.id,version:date.version,mapname:map.name,flag:2,timestamp:date.date})"  class="dropdown-toggle">
-                                    <i class="menu-icon fa fa-caret-right"></i> {{date.date}}
-                                </a>
-                                <b class="arrow"></b>
-
-
-
-                            </li>
-                          </ul>
-
-
-                            </li>
-                          </ul>
-
-
-
+    						                    <ul class="submenu" ng-style="">
+                                      <li class="" ng-repeat="date in map.tslist">
+                                        <a ui-sref="portal.module4({mapid:map.id,version:date.version,mapname:map.name,flag:2,timestamp:date.date})"  class="dropdown-toggle">
+                                            <i class="menu-icon fa fa-caret-right"></i> {{date.date}}
+                                        </a>
+                                        <b class="arrow"></b>
+                                      </li>
+                                    </ul>
+                                </li>
+                              </ul>
                             </li>
                         </ul>
                     </li>
                    <li class="">
-                        <a href="＃" class="dropdown-toggle">
+                        <a class="dropdown-toggle">
                             <i class="menu-icon fa fa-caret-right"></i> 地图比对
                         </a>
                         <b class="arrow"></b>
-                        <ul class="submenu">
+                        <ul class="submenu" ng-style="">
                             <li class="" ng-repeat="map in mapList">
-                                <a href="#" ui-sref="portal.module3({mapId:map.id})" class="dropdown-toggle">
+                                <a ui-sref="portal.module3({mapId:map.id})" class="dropdown-toggle">
                                     <i class="menu-icon fa fa-caret-right"></i> {{map.name}}
                                 </a>
                                 <b class="arrow"></b>
@@ -235,6 +221,7 @@
             try {
                 ace.settings.check('sidebar', 'fixed');
             } catch (e) {
+              alert(e);
             }
         </script>
     </div>
