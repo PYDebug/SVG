@@ -44,6 +44,7 @@
     <!-- inline styles related to this page -->
     <!-- ace settings handler -->
     <script src="./SVGSiteMockup/assets/js/ace-extra.js"></script>
+		<script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=9fmSpnUVpgjdeBMrDfMPP1lV"></script>
     <!-- HTML5shiv and Respond.js for IE8 to support HTML5 elements and media queries -->
     <!--[if lte IE 8]>
     <script src="../assets/js/html5shiv.js"></script>

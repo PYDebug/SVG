@@ -328,7 +328,8 @@
 					'image':'image.png',
 					//revise
 					'hotel': "134house.svg",
-					'zoom':'enlarge.png',
+					'zoom_out':'zoom_out.png',
+					'zoon_in':"zoom_in.png",
 					'user': 'user.png',
 					'batchImp': 'batchImp.png',
 					'locate': 'locate.png',
@@ -391,7 +392,8 @@
 					'#tool_image,#tools_image_show':'image',
 					//revise
 					'#tool_hotel':'hotel',
-					'#tool_zoom':'zoom',
+					'#tool_zoom_out':'zoom_out',
+					'#tool_zoom_in':'zoon_in',
 					"#tool_user":"user",
 					'#tool_batchImp':'batchImp',
 					'#tool_locate':'locate',
@@ -752,13 +754,13 @@
 
 				switch(type){
 				case "0":
-					url = "/api/savenew/"+localStorage.getItem('mapname')+"/"+localStorage.getItem('timestamp');
+					url = "/savenew/"+localStorage.getItem('mapname')+"/"+localStorage.getItem('timestamp');
 					break;
 				case "1":
-					url = "/api/savets/"+localStorage.getItem('layer')+"/"+localStorage.getItem('timestamp');
+					url = "/savets/"+localStorage.getItem('layer')+"/"+localStorage.getItem('timestamp');
 					break;
 				case "2":
-					url = "/api/save/"+localStorage.getItem('layer')+"/"+localStorage.getItem('version');
+					url = "/save/"+localStorage.getItem('layer')+"/"+localStorage.getItem('version');
 					break;
 				}
 
@@ -966,7 +968,7 @@
 					updateCanvas(false, {x: bb.x * zoomlevel + (bb.width * zoomlevel)/2, y: bb.y * zoomlevel + (bb.height * zoomlevel)/2});
 				}
 
-				if(svgCanvas.getMode() == 'zoom' && bb.width) {
+				if((svgCanvas.getMode() == 'zoom_in' || svgCanvas.getMode() == 'zoom_out')&& bb.width) {
 					// Go to select if a zoom box was drawn
 					setSelectMode();
 				}
@@ -2223,11 +2225,11 @@
 					evt.preventDefault();
 					svgCanvas.spaceKey = keypan = false;
 				}).bind('keydown', 'shift', function(evt) {
-					if(svgCanvas.getMode() === 'zoom') {
+					if(svgCanvas.getMode() === 'zoom_out') {
 						workarea.css('cursor', zoomOutIcon);
 					}
 				}).bind('keyup', 'shift', function(evt) {
-					if(svgCanvas.getMode() === 'zoom') {
+					if(svgCanvas.getMode() === 'zoom_in') {
 						workarea.css('cursor', zoomInIcon);
 					}
 				})
@@ -2623,14 +2625,28 @@
 			}
 
 			var clickZoom = function(){
-				if (toolButtonClick('#tool_zoom')) {
-					svgCanvas.setMode('zoom');
+				if (toolButtonClick('#tool_zoom_out')) {
+					svgCanvas.setMode('zoom_out');
+					workarea.css('cursor', zoomOutIcon);
+				}
+			};
+
+			var clickZoomIn = function() {
+				if (toolButtonClick('#tool_zoom_in')) {
+					svgCanvas.setMode('zoom_in');
 					workarea.css('cursor', zoomInIcon);
 				}
 			};
 
 			var dblclickZoom = function(){
-				if (toolButtonClick('#tool_zoom')) {
+				if (toolButtonClick('#tool_zoom_out')) {
+					zoomImage();
+					setSelectMode();
+				}
+			};
+
+			var dblclickZoomIn = function() {
+				if (toolButtonClick('#tool_zoom_in')) {
 					zoomImage();
 					setSelectMode();
 				}
@@ -3789,7 +3805,7 @@
 					zoomInIcon = zoom;
 					zoomOutIcon = pre + 'out';
 				}
-				workarea.css('cursor', 'auto');
+				workarea.css('cursor', 'default');
 			}());
 
 
@@ -4222,7 +4238,8 @@
 					{sel:'#tool_image', fn: clickImage, evt: 'mouseup', parent: '#tools_image'},
 					{sel:'#tool_hotel', fn: clickHotel, evt: 'mouseup', parent: '#tools_image', icon: 'hotel'},
 					{sel:'#tool_user', fn: clickUser, evt: 'mouseup', parent: '#tools_image', icon: 'user'},
-					{sel:'#tool_zoom', fn: clickZoom, evt: 'mouseup', key: ['Z', true]},
+					{sel:'#tool_zoom_out', fn: clickZoom, evt: 'mouseup', key: ['O', true]},
+					{sel:'#tool_zoom_in', fn: clickZoomIn, evt: 'mouseup', key: ['I', true]},
 					{sel:'#tool_clear', fn: clickClear, evt: 'mouseup', key: ['N', true]},
 					{sel:'#tool_save', fn: function() { editingsource?saveSourceEditor():clickSave()}, evt: 'mouseup', key: ['S', true]},
 					{sel:'#tool_export', fn: clickExport, evt: 'mouseup'},
@@ -4400,7 +4417,8 @@
 							}
 						});
 
-						$('#tool_zoom').dblclick(dblclickZoom);
+						$('#tool_zoom_out').dblclick(dblclickZoom);
+						$('#tool_zoom_in').dblclick(dblclickZoom);
 					},
 					setTitles: function() {
 						$.each(key_assocs, function(keyval, sel)  {

@@ -7,7 +7,7 @@ var baseLayerRoot;
 
 //mode-->0:use own maps 1:use Baidu maps
 //basetype-->0:svg map 1:tiandi png 2:baidu png
-var mode = 0;
+var mode = 1;
 var basetype = 1;
 
 //window attribute
@@ -196,10 +196,10 @@ function loadMapByRoot(root) {
 	}
 	else if(mode == 1){
 		//var map = new BMap.Map("allmap");  // 创建Map实例
-		var map = new BMap.Map("gs-mapContent");  // 创建Map实例
-		map.centerAndZoom("上海",15);
-		map.enableScrollWheelZoom(true);
-
+		// var map = new BMap.Map("gs-mapContent");  // 创建Map实例
+		// map.centerAndZoom("上海",15);
+		// map.enableScrollWheelZoom(true);
+		 var cur_z = 0;
 	}
 
 	//loadLayer(g,"sch");

@@ -9,7 +9,16 @@ var isBaseLoaded = false;
 var scrollLeftBase = null;
 var scrollTopBase = null;
 
+var Baidu = 0;
+
+
 function initBaseMap(){
+	if (Baidu == 0) {
+
+		// initMap();
+
+		return;
+	}
 	var zoom = 1;
 	edge = 50*zoom;
 
@@ -43,6 +52,9 @@ function initBaseMap(){
 }
 
 function initLocation(w_area){
+	if (Baidu == 0) {
+		return;
+	}
 	scrollLeftBase = w_area.scrollLeft;
 	scrollTopBase = w_area.scrollTop;
 	//alert(scrollLeftBase+" "+scrollTopBase)
@@ -50,6 +62,9 @@ function initLocation(w_area){
 }
 
 function resetWindowLocation(){
+	if (Baidu == 0) {
+		return;
+	}
 	offsetLeft = $('#workarea').width()/2;
 	offsetTop = $('#workarea').height()/2;
 	//console.log(offsetLeft+" "+waHeight);
@@ -57,60 +72,69 @@ function resetWindowLocation(){
 }
 
 function reloadBaseMap(w_area){
-	$('#canvasBackground').text('');
-	var zoom = svgCanvas.getZoom();
-	edge = 50*zoom;
-	xLen = w_area.scrollLeft/zoom - scrollLeftBase;
-	yLen = w_area.scrollTop/zoom - scrollTopBase;
-	console.log(xLen+" "+yLen);
-	if (xLen > 0) {
-		moveX = Math.ceil(xLen/50);
-	};
-		moveX = Math.floor(xLen/50);
-	if (yLen > 0) {
-		moveY = Math.ceil(yLen/50);
-	};
-		moveY = Math.floor(yLen/50);
-	x_base_left = x_base_zero + moveX;
-	if (x_base_left < x_base_min) {
-		x_base_left = x_base_min;
-	};
-	y_base_top = y_base_zero + moveY;
-	if (y_base_top < y_base_min) {
-		y_base_top = y_base_min;
-	};
-	if (x_base_left > x_base_max) {
-		x_base_left = x_base_max;
-	};
-	if (y_base_top > y_base_max) {
-		y_base_top = y_base_max;
-	};
-	waWidth = $('#workarea').width();
-	waHeight = $('#workarea').height();
-	//console.log(waWidth+" "+waHeight);
-	x_base_right = x_base_left + Math.ceil(waWidth/edge);
-	if (x_base_right > x_base_max) {
-		x_base_right = x_base_max;
-	};
-	y_base_bottom = y_base_top + Math.ceil(waHeight/edge);
-	if (y_base_bottom > y_base_max) {
-		y_base_bottom = y_base_max;
-	};
-	console.log(x_base_left+","+x_base_right+","+y_base_top+","+y_base_bottom);
-	for (var i = x_base_left; i <= x_base_right; i++)
-	for (var j = y_base_top; j <= y_base_bottom; j++) {
-		var img = document.createElementNS("http://www.w3.org/2000/svg", "image");
-		img.setAttributeNS(null, "x", "" + (i - x_base_zero) * (50 - 0));
-		img.setAttributeNS(null, "y", "" + (j - y_base_zero) * (50 - 0));
-		img.setAttributeNS(null, "width", "50");
-		img.setAttributeNS(null, "height", "50");
-		img.setAttributeNS("http://www.w3.org/1999/xlink", "xlink:href", "/resource/svg/block/base/"+i + "/" + j)
-		$('#canvasBackground').append(img);
-	};
-	hideSVGEntityText(zoom);
+	if(Baidu == 1)
+	{
+		$('#canvasBackground').text('');
+		var zoom = svgCanvas.getZoom();
+		edge = 50*zoom;
+		xLen = w_area.scrollLeft/zoom - scrollLeftBase;
+		yLen = w_area.scrollTop/zoom - scrollTopBase;
+		console.log(xLen+" "+yLen);
+		if (xLen > 0) {
+			moveX = Math.ceil(xLen/50);
+		};
+			moveX = Math.floor(xLen/50);
+		if (yLen > 0) {
+			moveY = Math.ceil(yLen/50);
+		};
+			moveY = Math.floor(yLen/50);
+		x_base_left = x_base_zero + moveX;
+		if (x_base_left < x_base_min) {
+			x_base_left = x_base_min;
+		};
+		y_base_top = y_base_zero + moveY;
+		if (y_base_top < y_base_min) {
+			y_base_top = y_base_min;
+		};
+		if (x_base_left > x_base_max) {
+			x_base_left = x_base_max;
+		};
+		if (y_base_top > y_base_max) {
+			y_base_top = y_base_max;
+		};
+		waWidth = $('#workarea').width();
+		waHeight = $('#workarea').height();
+		//console.log(waWidth+" "+waHeight);
+		x_base_right = x_base_left + Math.ceil(waWidth/edge);
+		if (x_base_right > x_base_max) {
+			x_base_right = x_base_max;
+		};
+		y_base_bottom = y_base_top + Math.ceil(waHeight/edge);
+		if (y_base_bottom > y_base_max) {
+			y_base_bottom = y_base_max;
+		};
+		console.log(x_base_left+","+x_base_right+","+y_base_top+","+y_base_bottom);
+		for (var i = x_base_left; i <= x_base_right; i++)
+		for (var j = y_base_top; j <= y_base_bottom; j++) {
+			var img = document.createElementNS("http://www.w3.org/2000/svg", "image");
+			img.setAttributeNS(null, "x", "" + (i - x_base_zero) * (50 - 0));
+			img.setAttributeNS(null, "y", "" + (j - y_base_zero) * (50 - 0));
+			img.setAttributeNS(null, "width", "50");
+			img.setAttributeNS(null, "height", "50");
+			img.setAttributeNS("http://www.w3.org/1999/xlink", "xlink:href", "/resource/svg/block/base/"+i + "/" + j)
+			$('#canvasBackground').append(img);
+		};
+		hideSVGEntityText(zoom);
+	}
+	else {
+		return;
+	}
 }
 
 function hideSVGEntityText(zoom){
+	if (Baidu == 0) {
+		return;
+	}
 	if(zoom < 3){
 
         $(".entity > text").css("fill-opacity", "0");

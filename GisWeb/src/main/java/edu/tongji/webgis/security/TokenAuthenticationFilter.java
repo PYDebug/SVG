@@ -41,6 +41,7 @@ public class TokenAuthenticationFilter extends GenericFilterBean {
 	private String signOutUrl;
 	private String signInUrl;
 	private String resourceUrl;
+	private String saveUrl;
 
 	public void doFilter(ServletRequest request, ServletResponse response,
 			FilterChain chain) throws IOException, ServletException {
@@ -101,6 +102,8 @@ public class TokenAuthenticationFilter extends GenericFilterBean {
 			}
 		}else if (currentUrl.startsWith(resourceUrl)) {
 			chain.doFilter(request, response);
+		}else if (currentUrl.startsWith(saveUrl)) {
+			chain.doFilter(request, response);
 		}else if (token != null) {
 			// check token
 			AccountUserDetails userDetails = tokenHandler
@@ -149,6 +152,8 @@ public class TokenAuthenticationFilter extends GenericFilterBean {
 	}
 
 	public void setResourceUrl(String resourceUrl){this.resourceUrl = resourceUrl;}
+
+	public void setSaveUrl(String saveUrl){this.saveUrl = saveUrl;}
 
 	// public void setSignUpUrl(String signUpUrl) {
 	// this.signUpUrl = signUpUrl;

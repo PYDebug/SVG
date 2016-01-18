@@ -48,31 +48,30 @@ import svg.VTDsvg;
 import edu.tongji.webgis.model.User.Role;
 
 @Controller
-@RequestMapping("/api")
 public class TransactionController {
 
 	// @Autowired
 	private HttpServletRequest request;
 
-	@RequestMapping("/home")
+	@RequestMapping("/api/home")
 	public String loadHomePage(Model m) {
 		// m.addAttribute("name", "CodeTutr");
 		return "index";
 	}
 
-	@RequestMapping("/uploadSuccess")
+	@RequestMapping("/api/uploadSuccess")
 	public String loadUploadSuccess(Model m) {
 		// m.addAttribute("name", "CodeTutr");
 		return "uploadSuccess";
 	}
 
-	@RequestMapping("/uploadFailed")
+	@RequestMapping("/api/uploadFailed")
 	public String loadUploadFailed(Model m) {
 		// m.addAttribute("name", "CodeTutr");
 		return "uploadFailed";
 	}
 
-	@RequestMapping(value = "/upload", method = RequestMethod.GET)
+	@RequestMapping(value = "/api/upload", method = RequestMethod.GET)
 	public String showUploadPage() {
 
 		return "upload";
@@ -135,7 +134,7 @@ public class TransactionController {
 //		}
 //	}
 
-	@RequestMapping(value = "/fuzzyQuery", method = RequestMethod.POST)
+	@RequestMapping(value = "/api/fuzzyQuery", method = RequestMethod.POST)
 	@RequiredRole({Role.ADMIN,Role.NORMAL_USER,Role.SPECIAL_USER})
 	public void fuzzyQuery(HttpServletRequest request/*
 													 * ,@RequestParam("msg")
@@ -280,7 +279,7 @@ public class TransactionController {
 		// return "uploadSuccess";
 	}
 	
-	@RequestMapping(value = "/layerQuery/{layer}", method = RequestMethod.POST)
+	@RequestMapping(value = "/api/layerQuery/{layer}", method = RequestMethod.POST)
 	public void layerQuery(@PathVariable String layer,HttpServletRequest request/*
 													 * ,@RequestParam("msg")
 													 * String msg

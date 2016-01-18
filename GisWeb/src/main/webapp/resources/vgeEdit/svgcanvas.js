@@ -2477,7 +2477,20 @@ var getMouseTarget = this.getMouseTarget = function(evt) {
 					}, 100);
 				}
 				break;
-			case "zoom":
+			case "zoom_out"://改了
+				started = true;
+				if (rubberBox == null) {
+					rubberBox = selectorManager.getRubberBandBox();
+				}
+				assignAttributes(rubberBox, {
+						'x': real_x * current_zoom,
+						'y': real_x * current_zoom,
+						'width': 0,
+						'height': 0,
+						'display': 'inline'
+				}, 100);
+				break;
+			case "zoom_in"://改了
 				started = true;
 				if (rubberBox == null) {
 					rubberBox = selectorManager.getRubberBandBox();
@@ -2950,7 +2963,17 @@ var getMouseTarget = this.getMouseTarget = function(evt) {
 				call("transition", selectedElements);
 
 				break;
-			case "zoom":
+			case "zoom_out":
+				real_x *= current_zoom;
+				real_y *= current_zoom;
+				assignAttributes(rubberBox, {
+					'x': Math.min(r_start_x*current_zoom, real_x),
+					'y': Math.min(r_start_y*current_zoom, real_y),
+					'width': Math.abs(real_x - r_start_x*current_zoom),
+					'height': Math.abs(real_y - r_start_y*current_zoom)
+				},100);
+				break;
+			case "zoom_in":
 				real_x *= current_zoom;
 				real_y *= current_zoom;
 				assignAttributes(rubberBox, {
@@ -3310,18 +3333,65 @@ var getMouseTarget = this.getMouseTarget = function(evt) {
 				}
 				return;
 				break;
-			case "zoom":
+			case "zoom_out":
 				if (rubberBox != null) {
 					rubberBox.setAttribute("display", "none");
 				}
-				var factor = evt.shiftKey?.5:2;
-				call("zoomed", {
-					'x': Math.min(r_start_x, real_x),
-					'y': Math.min(r_start_y, real_y),
-					'width': Math.abs(real_x - r_start_x),
-					'height': Math.abs(real_y - r_start_y),
-					'factor': factor
-				});
+				var factor = 2;
+				// call("zoomed", {
+				// 	'x': Math.min(r_start_x, real_x),
+				// 	'y': Math.min(r_start_y, real_y),
+				// 	'width': Math.abs(real_x - r_start_x),
+				// 	'height': Math.abs(real_y - r_start_y),
+				// 	'factor': factor
+				// });
+				if(!isBaseLoaded){
+					initLocation(workarea);
+				}
+
+				centerX = $('#workarea').width()*0.5+51;
+				centerY = $('#workarea').height()*0.5+80;
+				root_sctm = svgcontent.getScreenCTM().inverse();
+				var pt = transformPoint( centerX, centerY, root_sctm );
+				var bbox = {
+					'x': pt.x,
+					'y': pt.y,
+					'width': 0,
+					'height': 0
+				};
+				bbox.factor = 1.1;
+				call("zoomed", bbox);
+				reloadBaseMap(workarea);
+				return;
+			case "zoom_in":
+				if (rubberBox != null) {
+					rubberBox.setAttribute("display", "none");
+				}
+				var factor = 0.9;
+				// call("zoomed", {
+				// 	'x': Math.min(r_start_x, real_x),
+				// 	'y': Math.min(r_start_y, real_y),
+				// 	'width': Math.abs(real_x - r_start_x),
+				// 	'height': Math.abs(real_y - r_start_y),
+				// 	'factor': factor
+				// });
+				if(!isBaseLoaded){
+					initLocation(workarea);
+				}
+
+				centerX = $('#workarea').width()*0.5+51;
+				centerY = $('#workarea').height()*0.5+80;
+				root_sctm = svgcontent.getScreenCTM().inverse();
+				var pt = transformPoint( centerX, centerY, root_sctm );
+				var bbox = {
+					'x': pt.x,
+					'y': pt.y,
+					'width': 0,
+					'height': 0
+				};
+				bbox.factor = 0.9;
+				call("zoomed", bbox);
+				reloadBaseMap(workarea);
 				return;
 			case "fhpath":
 				// Check that the path contains at least 2 points; a degenerate one-point path

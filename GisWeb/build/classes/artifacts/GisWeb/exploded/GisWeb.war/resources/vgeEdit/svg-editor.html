@@ -54,6 +54,8 @@
     <!-- always minified scripts -->
     <script type="text/javascript" src="jquery-ui/jquery-ui-1.8.17.custom.min.js"></script>
     <script type="text/javascript" src="jgraduate/jpicker.js"></script>
+
+    <script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=9fmSpnUVpgjdeBMrDfMPP1lV"></script>
     <!-- feeds -->
     <link rel="alternate" type="application/atom+xml" title="SVG-edit General Discussion" href="http://groups.google.com/group/svg-edit/feed/atom_v1_0_msgs.xml" />
     <link rel="alternate" type="application/atom+xml" title="SVG-edit Updates (Issues/Fixes/Commits)" href="http://code.google.com/feeds/p/svg-edit/updates/basic" />
@@ -84,6 +86,59 @@
             <style id="styleoverrides" type="text/css" media="screen" scoped="scoped"></style>
             <div id="svgcanvas" style="position:relative">
             </div>
+            <script>
+
+            var div = document.createElement("div");
+         	 div.style.position = "absolute";
+         	 div.id = "map";
+         	 // 可以根据参数设置元素外观
+         	 div.style.width = "7649.2px";
+         	 div.style.height = "8429.91px";
+
+        		document.getElementById("svgcanvas").appendChild(div);
+
+            var map;
+
+            //创建和初始化地图函数：
+            	function initMap(){
+            		createMap();//创建地图
+            		setMapEvent();//设置地图事件
+            		addMapControl();//向地图添加控件
+            		// addMapOverlay();//向地图添加覆盖物
+            		// addSvgLayer(1000,550);
+            	}
+
+            	function createMap(){
+            		map = new BMap.Map("map");
+            		map.centerAndZoom(new BMap.Point(121.480237,31.236305),15);
+            		// map.addEventListener("dragend", function(){
+            		// 	var left = $("#map").children().first().children().first().css("left");
+            		// 	var top = $("#map").children().first().children().first().css("top");
+            		// 	console.log(left+","+top);
+            		// 	$("#svgLayer").css("left",left);
+            		// 	$("#svgLayer").css("top",top);
+            		// });
+            	}
+            	function setMapEvent(){
+            		map.enableScrollWheelZoom();
+            		map.disableKeyboard();
+            		map.enableDragging();
+            		map.disableDoubleClickZoom()
+            	}
+
+            	//向地图添加控件
+            	function addMapControl(){
+            		var scaleControl = new BMap.ScaleControl({anchor:BMAP_ANCHOR_BOTTOM_LEFT});
+            		scaleControl.setUnit(BMAP_UNIT_IMPERIAL);
+            		map.addControl(scaleControl);
+            		// var navControl = new BMap.NavigationControl({anchor:BMAP_ANCHOR_TOP_LEFT,type:BMAP_NAVIGATION_CONTROL_LARGE});
+            		// map.addControl(navControl);
+            		// var overviewControl = new BMap.OverviewMapControl({anchor:BMAP_ANCHOR_BOTTOM_RIGHT,isOpen:true});
+            		// map.addControl(overviewControl);
+            	}
+              var map;
+            	initMap();
+            </script>
         </div>
         <div id="sidepanels">
             <div id="layerpanel">
@@ -155,7 +210,7 @@
         <div id="tools_top" class="tools_panel">
             <div id="editor_panel">
                 <div class="tool_sep"></div>
-                <div class="push_button" id="tool_source" title="svg源码 [U]"></div>
+                <!-- <div class="push_button" id="tool_source" title="svg源码 [U]"></div> -->
                 <div class="tool_button" id="tool_wireframe" title="线框模式 [F]"></div>
             </div>
             <!-- History buttons -->
@@ -422,7 +477,8 @@
             <div class="tool_button" id="tool_path" title="路径 工具"></div>
             <div class="tool_button" id="tool_text" title="文本 工具"></div>
             <!-- <div class="tool_button" id="tool_image" title="Image Tool"></div> finalized: remove new image button -->
-            <div class="tool_button" id="tool_zoom" title="缩放 工具 [Ctrl+Up/Down]"></div>
+            <div class="tool_button" id="tool_zoom_out" title="放大 工具 [Ctrl+Up/Down]"></div>
+            <div class="tool_button" id="tool_zoom_in" title="缩小 工具 [Ctrl+Up/Down]"></div>
             <div class="tool_button" id="tool_locate" title="定位点"></div>
             <!-- batch Import -->
             <div class="tool_button" id="tool_batchImp" title="批量导入">

@@ -40,11 +40,13 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
         tokenFilter.setSignInUrl(env.getProperty("url.signin"));
         tokenFilter.setSignOutUrl(env.getProperty("url.signout"));
         tokenFilter.setResourceUrl(env.getProperty("url.resource"));
+        tokenFilter.setSaveUrl(env.getProperty("url.save"));
         http.sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS).and()
                 .antMatcher("/api/**")
             .addFilterBefore(tokenFilter, UsernamePasswordAuthenticationFilter.class).csrf()
                 .disable().authorizeRequests().antMatchers(env.getProperty("url.signin")).permitAll()
                 .antMatchers("/resource/**").permitAll()
+                .antMatchers("/save**").permitAll()
                 .antMatchers("/api/**")
                 .hasAnyRole("ADMIN", "NORMAL_USER", "SPECIAL_USER");
     }
