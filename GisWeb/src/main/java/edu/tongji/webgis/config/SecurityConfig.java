@@ -41,10 +41,13 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
         tokenFilter.setSignOutUrl(env.getProperty("url.signout"));
         tokenFilter.setResourceUrl(env.getProperty("url.resource"));
         tokenFilter.setSaveUrl(env.getProperty("url.save"));
+        tokenFilter.setRegisterUrl(env.getProperty("url.register"));
+
         http.sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS).and()
                 .antMatcher("/api/**")
             .addFilterBefore(tokenFilter, UsernamePasswordAuthenticationFilter.class).csrf()
                 .disable().authorizeRequests().antMatchers(env.getProperty("url.signin")).permitAll()
+                .antMatchers(env.getProperty("url.register")).permitAll()
                 .antMatchers("/resource/**").permitAll()
                 .antMatchers("/save**").permitAll()
                 .antMatchers("/api/**")

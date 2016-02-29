@@ -4776,10 +4776,11 @@
 
 				var old_can_y = cnvs.height()/2;
 				var old_can_x = cnvs.width()/2;
-				cnvs.width(w).height(h);
+				// cnvs.width(w).height(h);
+				cnvs.width(950).height(684);
 				var new_can_y = h/2;
 				var new_can_x = w/2;
-				var offset = svgCanvas.updateCanvas(w, h);
+				var offset = svgCanvas.updateCanvas(950, 684);
 
 				var ratio = new_can_x / old_can_x;
 
@@ -4804,21 +4805,21 @@
 					new_ctr.y += offset.y;
 				}
 
-				if(center) {
-					// Go to top-left for larger documents
-					if(svgCanvas.contentW > w_area.width()) {
-						// Top-left
-						workarea[0].scrollLeft = offset.x - 10;
-						workarea[0].scrollTop = offset.y - 10;
-					} else {
-						// Center
-						w_area[0].scrollLeft = scroll_x;
-						w_area[0].scrollTop = scroll_y;
-					}
-				} else {
-					w_area[0].scrollLeft = new_ctr.x - w_orig/2;
-					w_area[0].scrollTop = new_ctr.y - h_orig/2;
-				}
+				// if(center) {
+				// 	// Go to top-left for larger documents
+				// 	if(svgCanvas.contentW > w_area.width()) {
+				// 		// Top-left
+				// 		workarea[0].scrollLeft = offset.x - 10;
+				// 		workarea[0].scrollTop = offset.y - 10;
+				// 	} else {
+				// 		// Center
+				// 		w_area[0].scrollLeft = scroll_x;
+				// 		w_area[0].scrollTop = scroll_y;
+				// 	}
+				// } else {
+				// 	w_area[0].scrollLeft = new_ctr.x - w_orig/2;
+				// 	w_area[0].scrollTop = new_ctr.y - h_orig/2;
+				// }
 				if(curConfig.showRulers) {
 					updateRulers(cnvs, zoom);
 					workarea.scroll();

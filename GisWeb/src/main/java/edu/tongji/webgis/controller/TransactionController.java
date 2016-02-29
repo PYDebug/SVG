@@ -18,15 +18,16 @@ import javax.servlet.http.HttpServletResponse;
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.transform.TransformerException;
 
+import edu.tongji.webgis.form.UserForm;
 import edu.tongji.webgis.model.*;
+import edu.tongji.webgis.service.UserService;
+import edu.tongji.webgis.utils.DataWrapper;
 import edu.tongji.webgis.utils.RequiredRole;
 import org.apache.commons.io.FileUtils;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
-import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
 import org.xml.sax.SAXException;
 
@@ -49,6 +50,9 @@ import edu.tongji.webgis.model.User.Role;
 
 @Controller
 public class TransactionController {
+
+	@Autowired
+	UserService us;
 
 	// @Autowired
 	private HttpServletRequest request;
@@ -75,6 +79,15 @@ public class TransactionController {
 	public String showUploadPage() {
 
 		return "upload";
+	}
+
+	@RequestMapping(value = "/api/register", method = RequestMethod.POST)
+	@ResponseBody
+	public DataWrapper register(@RequestBody UserForm user){
+		DataWrapper dataWrapper = new DataWrapper();
+		User u = us.addUser(user.getUsername(), user.getPassword(), user.getRole());
+		dataWrapper.setData(u);
+		return dataWrapper;
 	}
 
 //	@RequestMapping(value = "uploadTS/{mapId}/{timeStamp}", method = RequestMethod.POST)

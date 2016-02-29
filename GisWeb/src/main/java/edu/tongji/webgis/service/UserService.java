@@ -9,4 +9,6 @@ public interface UserService {
 
     public User findUserByUsername(String username);
 
+    public User addUser(String username, String password, User.Role role);
+
 }

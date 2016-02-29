@@ -32,6 +32,7 @@ public class TokenAuthenticationFilter extends GenericFilterBean {
 	TokenHandler tokenHandler;
 	// @Autowired AccountService as;
 
+
 	private static final String HEADER_TOKEN = "X-Auth-Token";
 	private static final String HEADER_USERNAME = "X-Username";
 	private static final String HEADER_PASSWORD = "X-Password";
@@ -42,6 +43,11 @@ public class TokenAuthenticationFilter extends GenericFilterBean {
 	private String signInUrl;
 	private String resourceUrl;
 	private String saveUrl;
+	private String registerUrl;
+
+	public void setRegisterUrl(String registerUrl) {
+		this.registerUrl = registerUrl;
+	}
 
 	public void doFilter(ServletRequest request, ServletResponse response,
 			FilterChain chain) throws IOException, ServletException {
@@ -103,6 +109,8 @@ public class TokenAuthenticationFilter extends GenericFilterBean {
 		}else if (currentUrl.startsWith(resourceUrl)) {
 			chain.doFilter(request, response);
 		}else if (currentUrl.startsWith(saveUrl)) {
+			chain.doFilter(request, response);
+		}else if (currentUrl.equals(this.registerUrl)){
 			chain.doFilter(request, response);
 		}else if (token != null) {
 			// check token

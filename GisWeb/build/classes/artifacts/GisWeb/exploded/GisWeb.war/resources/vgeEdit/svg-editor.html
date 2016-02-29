@@ -84,7 +84,7 @@
         </div>
         <div id="workarea">
             <style id="styleoverrides" type="text/css" media="screen" scoped="scoped"></style>
-            <div id="svgcanvas" style="position:relative">
+            <div id="svgcanvas" style="position: absolute; width: 950px; height: 684px; z-index: 1; margin-left: -475px; background-color: transparent;">
             </div>
             <script>
 
@@ -92,12 +92,29 @@
          	 div.style.position = "absolute";
          	 div.id = "map";
          	 // 可以根据参数设置元素外观
-         	 div.style.width = "7649.2px";
-         	 div.style.height = "8429.91px";
+         	 div.style.width = "100%";
+         	 div.style.height = "100%";
 
-        		document.getElementById("svgcanvas").appendChild(div);
+        		document.getElementById("workarea").appendChild(div);
 
             var map;
+
+            $('#svgcanvas').bind("mousewheel",function(e, delta, deltaX, deltaY) {
+         		 if(e.originalEvent.wheelDelta) {
+          			if (e.originalEvent.wheelDelta >= 120) {
+         				map.setZoom(map.getZoom()+2);
+          			} else if (e.originalEvent.wheelDelta <= -120) {
+         				map.setZoom(map.getZoom()-2);
+          			}
+          		} else if(e.detail) {
+          			if (e.detail > 0) {
+         				map.setZoom(map.getZoom()+2);
+          			} else if (e.detail < 0) {
+         				map.setZoom(map.getZoom()-2);
+          			}
+          		}
+         	 });
+         	
 
             //创建和初始化地图函数：
             	function initMap(){

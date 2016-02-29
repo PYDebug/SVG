@@ -22,6 +22,8 @@
 // 10) draw.js
 // 11) path.js
 
+var cur_z = 0;
+
 if(!window.console) {
 	window.console = {};
 	window.console.log = function(str) {};
@@ -3679,17 +3681,44 @@ var getMouseTarget = this.getMouseTarget = function(evt) {
 
 		// Respond to mouse wheel in IE/Webkit/Opera.
 		// (It returns up/dn motion in multiples of 120)
+		var z;
 		if(e.originalEvent.wheelDelta) {
 			if (e.originalEvent.wheelDelta >= 120) {
-				bbox.factor = 1.1;
+				if (cur_z<2) {
+					bbox.factor = 1.1;
+					cur_z = cur_z+1;
+				}
+				else {
+					bbox.factor = 1;
+				}
+				// bbox.factor = 1.1;
 			} else if (e.originalEvent.wheelDelta <= -120) {
-				bbox.factor = .90;
+				if (cur_z >-6) {
+					bbox.factor = .90;
+					cur_z = cur_z-1;
+				}else {
+					bbox.factor = 1;
+				}
+				// bbox.factor = .90;
 			}
 		} else if(e.detail) {
 			if (e.detail > 0) {
-				bbox.factor = .5;
+				if (cur_z<2) {
+					bbox.factor = .5;
+					cur_z = cur_z+1;
+				}
+				else {
+					bbox.factor = 1;
+				}
+				// bbox.factor = .5;
 			} else if (e.detail < 0) {
-				bbox.factor = 2;
+				// bbox.factor = 2;
+				if (cur_z >-6) {
+					bbox.factor = 2;
+					cur_z = cur_z-1;
+				}else {
+					bbox.factor = 1;
+				}
 			}
 		}
 

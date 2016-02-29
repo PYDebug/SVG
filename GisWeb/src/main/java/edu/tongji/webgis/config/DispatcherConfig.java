@@ -5,13 +5,20 @@ import org.apache.log4j.Logger;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.http.MediaType;
+import org.springframework.http.converter.HttpMessageConverter;
+import org.springframework.http.converter.json.MappingJackson2HttpMessageConverter;
 import org.springframework.web.multipart.commons.CommonsMultipartResolver;
 import org.springframework.web.servlet.ViewResolver;
 import org.springframework.web.servlet.config.annotation.DefaultServletHandlerConfigurer;
 import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
+import org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter;
 import org.springframework.web.servlet.view.InternalResourceViewResolver;
+
+import java.util.ArrayList;
+import java.util.List;
 
 @Configuration
 @ComponentScan(basePackages = "edu.tongji.webgis.controller")
@@ -82,5 +89,22 @@ public class DispatcherConfig extends WebMvcConfigurerAdapter{
 	 public void configureDefaultServletHandling(DefaultServletHandlerConfigurer configurer) {
 		 configurer.enable();
 	 }
+
+
+	@Override
+	public void configureMessageConverters(List<HttpMessageConverter<?>> converters) {
+		converters.add(converter());
+	}
+	@Bean
+	MappingJackson2HttpMessageConverter converter() {
+		//Set HTTP Message converter using a JSON implementation.
+		MappingJackson2HttpMessageConverter jsonMessageConverter = new MappingJackson2HttpMessageConverter();
+		// Add supported media type returned by BI API.
+		List<MediaType> supportedMediaTypes = new ArrayList<MediaType>();
+		supportedMediaTypes.add(new MediaType("text", "plain"));
+		supportedMediaTypes.add(new MediaType("application", "json"));
+		jsonMessageConverter.setSupportedMediaTypes(supportedMediaTypes);
+		return jsonMessageConverter;
+	}
 
 }
