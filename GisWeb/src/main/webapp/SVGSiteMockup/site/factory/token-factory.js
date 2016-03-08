@@ -17,5 +17,12 @@ angular.module('app').factory('tokenFactory', function($resource) {
 			}
 		});
 	};
+	this.register = function(){
+		return $resource('/api/register', null, {
+			'post':{
+				method: 'POST'
+			}
+		})
+	}
   return this;
 });

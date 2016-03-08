@@ -7,22 +7,20 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<h2>Welcome To Join Us	</h2>
 	<form>
       <h4>Your Name</h4>
-		<input type="text" class="user active" value="example : John Doe" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'example : John Doe';}">
+		<input type="text" class="user active" ng-model="name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'example : John Doe';}">
       <h4>Your Password</h4>
-		<input type="text" class="tel" value="example : 0800.123.45678" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'example : 0800.123.45678';}">
-      <h4>Your Email</h4>
-		<input type="text" class="email" value="example : office@example.com" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'example : office@example.com';}">
+		<input type="text" class="tel" ng-model="password" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'example : 0800.123.45678';}">
       <h4>Your Role</h4>
 	  <p>
-	    <input type="radio" name="radio" id="普通用户" value="Normal">
+	    <input type="radio" ng-model="role" id="普通用户" value="NORMAL_USER">
 	    <label for="Normal"></label>
 	  Normal User
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	    <input type="radio" name="radio" id="特殊用户" value="Special">
+	    <input type="radio" ng-model="role" id="特殊用户" value="SPECIAL_USER">
 	  <label for="Special"></label>
 	  Special User</p>
 	  <p>
-			<a class="btn">注册</a>
+			<a class="btn" ng-click="register()">注册</a>
 			<a class="btn" ui-sref="login">登录</a>
 	  </p>
     </form>

@@ -8,7 +8,26 @@
  * Controller of the morningStudioApp
  */
 angular.module('app')
-  .controller('RegisterController', function($scope,$localStorage,$http,
+  .controller('RegisterController', function($scope,$state,$localStorage,$http,
     sessionService, tokenFactory, qService) {
 
+      $scope.name = "";
+
+      $scope.password = "";
+
+      $scope.role = "NORMAL_USER";
+
+      $scope.register = function(){
+        tokenFactory.register().post({
+          "username":$scope.name,
+          "password":$scope.password,
+          "role":$scope.role
+        },function success(data){
+          if (data.errorCode=='NO_ERROR') {
+            $state.go('login');
+          }
+        },function error(data){
+          alert(data.errorCode);
+        });
+      }
   });

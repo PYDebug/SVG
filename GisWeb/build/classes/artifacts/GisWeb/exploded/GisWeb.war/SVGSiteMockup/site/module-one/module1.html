@@ -75,9 +75,9 @@
 	 $("#gs-mapContent").mousemove(function(e){
 		 if (_move) {
 			// 	map.panTo(new BMap.Point(113.262232,23.154345));
-			m_off_x = e.clientX - m_mouse_x;
-			m_off_y = e.clientY - m_mouse_y;
-			map.panBy(-m_off_x, -m_off_y);
+			m_off_x = (e.clientX - m_mouse_x)/10;
+			m_off_y = (e.clientY - m_mouse_y)/10;
+			map.panBy(m_off_x, m_off_y);
 		 }
 	 }).mouseup(function(){
 
