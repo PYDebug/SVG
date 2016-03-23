@@ -104,7 +104,7 @@ angular.module('app', [
             //     enabled: false,
             //     requireBase: false
             // });
-            $locationProvider.html5Mode(true);
+            $locationProvider.html5Mode(false);
 
             // Use $urlRouterProvider to configure any redirects (when) and invalid urls (otherwise).
             $urlRouterProvider

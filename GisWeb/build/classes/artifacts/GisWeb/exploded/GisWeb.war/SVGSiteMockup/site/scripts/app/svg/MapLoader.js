@@ -258,7 +258,28 @@ function loadLayerBlock(root, layer, x, y){
 }
 
 function loadLayer(layer){
-	var xmlHttp = new XMLHttpRequest();
+	var xmlHttp = false;//new XMLHttpRequest();
+
+	try
+{
+ xmlHttp = new ActiveXObject("Msxml2.XMLHTTP");
+}
+catch(e)
+{
+ try
+ {
+	xmlHttp = new ActiveXObject("Microsoft.XMLHTTP");
+ }
+ catch(e2)
+ {
+	xmlHttp = false;
+ }
+}
+if (!xmlHttp && typeof XMLHttpRequest != 'undefined')
+{
+ xmlHttp = new XMLHttpRequest();
+}
+
 	//console.log("form outer "+outer);
 	xmlHttp.onreadystatechange = function() {
 
@@ -366,8 +387,43 @@ function loadLayerAndTime(layer,time){
 	xmlHttp.send();
 }
 
+function xmlParser(xmlStr){
+    if (window.DOMParser) {
+        return ( new window.DOMParser() ).parseFromString(xmlStr, "text/xml");
+    } else
+    if (window.ActiveXObject) {
+        var xmlDoc=new ActiveXObject("Microsoft.XMLDOM");
+        xmlDoc.async = false;
+        xmlDoc.loadXML(xmlStr);
+        return xmlDoc;
+    } else {
+        throw new Error("No XML parser found");
+    }
+}
+
 function loadLayerBlock(layer, x, y){
-	var xmlHttp = new XMLHttpRequest();
+	var xmlHttp = false;//new XMLHttpRequest();
+
+	try
+{
+ xmlHttp = new ActiveXObject("Msxml2.XMLHTTP");
+}
+catch(e)
+{
+ try
+ {
+	xmlHttp = new ActiveXObject("Microsoft.XMLHTTP");
+ }
+ catch(e2)
+ {
+	xmlHttp = false;
+ }
+}
+if (!xmlHttp && typeof XMLHttpRequest != 'undefined')
+{
+ xmlHttp = new XMLHttpRequest();
+}
+
 	//console.log("form outer "+outer);
 	xmlHttp.onreadystatechange = function() {
 

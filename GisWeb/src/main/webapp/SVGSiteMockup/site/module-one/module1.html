@@ -23,7 +23,8 @@
 </div>
 
 <div id = "mymap">
-<div style="width:1000px;height:550px;border:#ccc solid 1px;font-size:12px;position:absolute;" id="map"></div>
+<!-- <div style="width:1000px;height:550px;border:#ccc solid 1px;font-size:12px;position:absolute;" id="map"></div> -->
+<div style="width:1000px;height:550px;border:#ccc solid 1px;font-size:12px;position:absolute;" id="tmap"></div>
 </div>
 <script>
 
@@ -54,6 +55,7 @@
  	 // 可以根据参数设置元素外观
  	 div.style.width = width + "px";
  	 div.style.height = length + "px";
+	 div.style.zIndex = "9999";
  	//  div.style.background = this._color;
  	 div.innerHTML = svg;
 	 document.getElementById("mymap").appendChild(div);
@@ -75,37 +77,39 @@
 	 $("#gs-mapContent").mousemove(function(e){
 		 if (_move) {
 			// 	map.panTo(new BMap.Point(113.262232,23.154345));
-			m_off_x = (e.clientX - m_mouse_x)/10;
-			m_off_y = (e.clientY - m_mouse_y)/10;
-			map.panBy(m_off_x, m_off_y);
+			m_off_x = (e.clientX - m_mouse_x);
+			m_off_y = (e.clientY - m_mouse_y);
+			//map.panBy(m_off_x, m_off_y);
+			//tmap.panBy(new TSize(m_off_x, m_off_y));
 		 }
 	 }).mouseup(function(){
 
 		 _move = false;
 	 });
 
-	 $('#gs-mapContent').bind("mousewheel",function(e, delta, deltaX, deltaY) {
-		 if(e.originalEvent.wheelDelta) {
- 			if (e.originalEvent.wheelDelta >= 120) {
-				map.setZoom(map.getZoom()+2);
- 			} else if (e.originalEvent.wheelDelta <= -120) {
-				map.setZoom(map.getZoom()-2);
- 			}
- 		} else if(e.detail) {
- 			if (e.detail > 0) {
-				map.setZoom(map.getZoom()+2);
- 			} else if (e.detail < 0) {
-				map.setZoom(map.getZoom()-2);
- 			}
- 		}
-	 });
+	//  $('#gs-mapContent').bind("mousewheel",function(e, delta, deltaX, deltaY) {
+	// 	 if(e.originalEvent.wheelDelta) {
+ // 			if (e.originalEvent.wheelDelta >= 120) {
+	// 			map.setZoom(map.getZoom()+2);
+ // 			} else if (e.originalEvent.wheelDelta <= -120) {
+	// 			map.setZoom(map.getZoom()-2);
+ // 			}
+ // 		} else if(e.detail) {
+ // 			if (e.detail > 0) {
+	// 			map.setZoom(map.getZoom()+2);
+ // 			} else if (e.detail < 0) {
+	// 			map.setZoom(map.getZoom()-2);
+ // 			}
+ // 		}
+	//  });
 	}
 
 //创建和初始化地图函数：
 	function initMap(){
-		createMap();//创建地图
-		setMapEvent();//设置地图事件
-		addMapControl();//向地图添加控件
+		// createMap();//创建地图
+		// setMapEvent();//设置地图事件
+		// addMapControl();//向地图添加控件
+		createTMap();
 		// addMapOverlay();//向地图添加覆盖物
 		addSvgLayer(1000,550);
 	}
@@ -120,6 +124,11 @@
 		// 	$("#svgLayer").css("top",top);
 		// });
 	}
+	function createTMap(){
+		tmap=new TMap("tmap");
+    tmap.centerAndZoom(new TLngLat(121.37643814087016, 31.321206092834267),15);
+	}
+
 	function setMapEvent(){
 		map.enableScrollWheelZoom();
 		map.disableKeyboard();
@@ -202,6 +211,7 @@
 	}
 
 	var map;
+	var tmap;
 	initMap();
 
 		var root = document.getElementById("SVGMapContent");

@@ -117,9 +117,9 @@
                 <b class="arrow"></b>
             </li>
             <li class=""  ng-if ="currentUser.role == 'SPECIAL_USER'||currentUser.role == 'ADMIN'">
-                <a class="dropdown-toggle">
+                <a class="dropdown-toggle" id="dedicated-map">
                     <i class="menu-icon fa fa-desktop"></i>
-                        <span class="menu-text">
+                        <span class="menu-text" >
 							 专用地图
 							</span>
                     <b class="arrow fa fa-angle-down"></b>
@@ -296,3 +296,11 @@
         <i class="ace-icon fa fa-angle-double-up icon-only bigger-110"></i>
     </a>
 </div>
+<script type="text/javascript">
+   $(function () {
+        $("#sidebar-collapse").trigger('click');
+       $("#sidebar-collapse").trigger('click');
+
+
+   })
+</script>

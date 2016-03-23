@@ -72,6 +72,80 @@ var enableZoom = 1; // 1 or 0: enable or disable zooming (default enabled)
 var enableDrag = 0; // 1 or 0: enable or disable dragging (default disabled)
 var cur_z = 0;
 
+var x_base_zero = 27430;
+var y_base_zero = 5340;
+
+function transLonLatToCoordinate(lon,lat) {
+    var topTileFromX = -180;
+    var topTileFromY = 90;
+
+    var tdtScale = {
+        18: 5.36441802978515E-06,
+        17: 1.07288360595703E-05,
+        16: 2.1457672119140625E-05,
+        15: 4.29153442382814E-05,
+        14: 8.58306884765629E-05,
+        13: 0.000171661376953125,
+        12: 0.00034332275390625,
+        11: 0.0006866455078125,
+        10: 0.001373291015625,
+        9: 0.00274658203125,
+        8: 0.0054931640625,
+        7: 0.010986328125,
+        6: 0.02197265625,
+        5: 0.0439453125,
+        4: 0.087890625,
+        3: 0.17578125,
+        2: 0.3515625,
+        1: 0.703125
+    };
+    var coef = tdtScale[cur_z+15] * 256;
+
+    var x_num = (lon - topTileFromX) / coef;
+    var y_num = (topTileFromY - lat) / coef;
+
+    x_num = (x_num-x_base_zero)*256;
+    y_num = (y_num-y_base_zero)*256;
+    return {x:x_num,y:y_num};
+}
+
+/**根据行列号返回经纬度坐标
+ * Created by SHIKUN on 2015/10/11.
+ */
+function transCoordinateToLonLat(x_num,y_num) {
+    var topTileFromX = -180;
+    var topTileFromY = 90;
+    var tdtScale = {
+        18: 5.36441802978515E-06,
+        17: 1.07288360595703E-05,
+        16: 2.1457672119140625E-05,
+        15: 4.29153442382814E-05,
+        14: 8.58306884765629E-05,
+        13: 0.000171661376953125,
+        12: 0.00034332275390625,
+        11: 0.0006866455078125,
+        10: 0.001373291015625,
+        9: 0.00274658203125,
+        8: 0.0054931640625,
+        7: 0.010986328125,
+        6: 0.02197265625,
+        5: 0.0439453125,
+        4: 0.087890625,
+        3: 0.17578125,
+        2: 0.3515625,
+        1: 0.703125
+    };
+
+    x_num = x_num/256 + x_base_zero;
+    y_num = y_num/256 + y_base_zero;
+
+    var coef = tdtScale[cur_z+15] * 256;
+    var lon=x_num*coef+topTileFromX;
+    var lat=topTileFromY-y_num*coef;
+
+    return{lon:lon,lat:lat};
+}
+
 /// <====
 /// END OF CONFIGURATION
 
@@ -200,20 +274,22 @@ function handleMouseWheel(evt) {
 	var z;
 	if(delta>0){
 		// z = 1 + delta; // Zoom factor: 0.9/1.1
-		if (cur_z < 2) {
+		if (cur_z < 3) {
 			z = 2;
 			cur_z = cur_z+1;
 		}else {
 			z = 1;
 		}
+		tmap.zoomIn();
 	}else{
 		// z = 1/(1-delta);
-		if (cur_z >-6) {
+		if (cur_z >-14) {
 			z = 0.5;
 			cur_z = cur_z-1;
 		}else {
 			z = 1;
 		}
+		tmap.zoomOut();
 	}
 	var scaleBefore = scale;
 	scale=scale*z;
@@ -232,7 +308,8 @@ function handleMouseWheel(evt) {
 	p = p.matrixTransform(g.getCTM().inverse());
 
 	// Compute new scale matrix in current mouse position
-	var k = root.createSVGMatrix().translate(p.x, p.y).scale(z).translate(-p.x, -p.y);
+	//var k = root.createSVGMatrix().translate(p.x, p.y).scale(z).translate(-p.x, -p.y);
+	var k = root.createSVGMatrix().translate(500, 275).scale(z).translate(-500, -275);
 
         setCTM(g, g.getCTM().multiply(k));
 
@@ -249,6 +326,9 @@ function handleMouseWheel(evt) {
  var handler_y = 0;
  var isMoved = false;
 //
+
+ var pre_DeltaX = 0;
+ var pre_DeltaY = 0;
 
 function handleMouseMove(evt) {
 	if(evt.preventDefault)
@@ -271,7 +351,14 @@ function handleMouseMove(evt) {
 		offset_y = offset_y - deltaY;
 		isMoved = true;
 		//console.log("deltaX:"+deltaX+" deltaY:"+deltaY);
+		var result = transCoordinateToLonLat(x_base_zero - offset_x+500, y_base_zero + offset_y +275);
+		tmap.panBy(new TSize(-deltaX, -deltaY));
+		//tmap.panTo(new TLngLat(result.lon, -result.lat));
+		pre_DeltaX = p.x - stateOrigin.x;
+		pre_DeltaY = p.y - stateOrigin.y;
 		setCTM(g, stateTf.inverse().translate(p.x - stateOrigin.x, p.y - stateOrigin.y));
+		// setCTM(g, stateTf.translate(-deltaX, -deltaY));
+		console.log("deltaX:"+deltaX+" deltaY:"+deltaY+"    "+"px:"+(p.x - stateOrigin.x)+" py:"+(p.y - stateOrigin.y));
 	} else if(state == 'drag' && enableDrag) {
 		// Drag mode
 		var p = getEventPoint(evt).matrixTransform(g.getCTM().inverse());
@@ -343,4 +430,6 @@ function handleMouseUp(evt) {
 		reloadWindow();
 		isMoved = false;
 	}
+	pre_DeltaX = 0;
+	pre_DeltaY = 0;
 }
