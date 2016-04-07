@@ -289,8 +289,8 @@ if (!xmlHttp && typeof XMLHttpRequest != 'undefined')
 			var g = document.createElementNS(svgNS, "g");
 			g.setAttributeNS(null, "class", "layer");
 			g.setAttributeNS(null, "layerid", layer);
-			if(xmlHttp.responseXML.rootElement.tagName == "svg")
-				g.innerHTML = xmlHttp.responseXML.rootElement.innerHTML;
+			if(xmlHttp.responseXML.documentElement.tagName == "svg")
+				g.innerHTML = xmlHttp.responseXML.documentElement.innerHTML;
 			else
 				g.innerHTML=xmlHttp.responseText;
 			g.async = true;
@@ -344,8 +344,8 @@ function loadLayerAndTime(layer,time){
 			var g = document.createElementNS(svgNS, "g");
 			g.setAttributeNS(null, "class", "layer");
 			g.setAttributeNS(null, "layerid", layer);
-			if(xmlHttp.responseXML.rootElement.tagName == "svg")
-				g.innerHTML = xmlHttp.responseXML.rootElement.innerHTML;
+			if(xmlHttp.responseXML.documentElement.tagName == "svg")
+				g.innerHTML = xmlHttp.responseXML.documentElement.innerHTML;
 			else
 				g.innerHTML=xmlHttp.responseText;
 			g.async = true;
@@ -435,9 +435,9 @@ if (!xmlHttp && typeof XMLHttpRequest != 'undefined')
 			g.setAttributeNS(null, "layerid", layer);
 			//g.setAttributeNS(null,"transform",transform);
 			if(xmlHttp.responseXML){
-				if(xmlHttp.responseXML.rootElement){
-					if(xmlHttp.responseXML.rootElement.tagName == "svg")
-						g.innerHTML = xmlHttp.responseXML.rootElement.innerHTML;
+				if(xmlHttp.responseXML.documentElement){
+					if(xmlHttp.responseXML.documentElement.tagName == "svg")
+						g.innerHTML = xmlHttp.responseXML.documentElement.innerHTML;
 					else
 						g.innerHTML=xmlHttp.responseText;
 				}else

@@ -1,25 +1,210 @@
 <!--<iframe id="homeFrame" src="./homeFrame.html" width="100%" height="590px"></iframe>-->
-<div id="gs-mapContent"   style="height: 800px" >
-    <svg id = "SVGMapContent" xmlns="http://www.w3.org/2000/svg"
-         xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width = '100%' height='100%'
-            >
-        <!-- <script xlink:href="/GisWeb_GradleEclipse/resources/scripts/app/svg/SVGPan.js" /> -->
-        <g id='viewport'>
-            <g class="baseLayer"></g>>
-            <g class="content"></g>
-            <!-- <image xlink:href="{{svg}}" x="0" y="0" height="100%" width="100%" />
-            <g ng-include= "'./resource/svg/1/01'"></g>
-            {{svg}}
-            </g> -->
-        </g>
-    </svg>
+
+
+    <div id = "mymap">
+    <!-- <div style="width:1000px;height:550px;border:#ccc solid 1px;font-size:12px;position:absolute;" id="map"></div> -->
+    <div style="width:1000px;height:550px;border:#ccc solid 1px;font-size:12px;position:absolute;" id="tmap"></div>
+    </div>
     <script>
-        var root = document.getElementById("SVGMapContent");
+
+    	var svg = '<div id="gs-mapContent" style="pointer-events:inherit" >'+
+    	    '<svg id = "SVGMapContent" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width = \'100%\' height=\'550\' viewBox=\'0 0 1000 550\'>'+
+    	        '<g id=\'viewport\'>'+
+    	            '<g class="baseLayer"></g>'+
+    	            '<g class="content"></g>'+
+    	        '</g>'+
+    	    '</svg>'+
+    	'</div>';
+    	//
+    	// function fireClick(node, action){
+      //   if (document.createEvent) {
+      //       var evt = document.createEvent('MouseEvents');
+      //       evt.initEvent(action, true, false);
+      //       node.dispatchEvent(evt);
+      //   } else if(document.createEventObject) {
+      //       node.fireEvent('on'+action) ;
+      //   }
+    	// }
+
+
+    	function addSvgLayer(width, height){
+    		var div = document.createElement("div");
+     	 div.style.position = "absolute";
+     	 div.id = "svgLayer";
+     	 // 可以根据参数设置元素外观
+     	 div.style.width = width + "px";
+     	 div.style.height = length + "px";
+    	 div.style.zIndex = "9999";
+     	//  div.style.background = this._color;
+     	 div.innerHTML = svg;
+    	 document.getElementById("mymap").appendChild(div);
+
+    	 var _move = false;
+    	 var m_mouse_x = 0;
+    	 var m_mouse_y = 0;
+    	 var m_off_x = 0;
+    	 var m_off_y = 0;
+
+    	 $("#gs-mapContent").click(function(){
+
+    	 }).mousedown(function(e){
+    		 _move = true;
+    		 m_mouse_x = e.clientX;
+    		 m_mouse_x = e.clientY;
+    	 });
+
+    	 $("#gs-mapContent").mousemove(function(e){
+    		 if (_move) {
+    			// 	map.panTo(new BMap.Point(113.262232,23.154345));
+    			m_off_x = (e.clientX - m_mouse_x);
+    			m_off_y = (e.clientY - m_mouse_y);
+    			//map.panBy(m_off_x, m_off_y);
+    			//tmap.panBy(new TSize(m_off_x, m_off_y));
+    		 }
+    	 }).mouseup(function(){
+
+    		 _move = false;
+    	 });
+
+    	//  $('#gs-mapContent').bind("mousewheel",function(e, delta, deltaX, deltaY) {
+    	// 	 if(e.originalEvent.wheelDelta) {
+     // 			if (e.originalEvent.wheelDelta >= 120) {
+    	// 			map.setZoom(map.getZoom()+2);
+     // 			} else if (e.originalEvent.wheelDelta <= -120) {
+    	// 			map.setZoom(map.getZoom()-2);
+     // 			}
+     // 		} else if(e.detail) {
+     // 			if (e.detail > 0) {
+    	// 			map.setZoom(map.getZoom()+2);
+     // 			} else if (e.detail < 0) {
+    	// 			map.setZoom(map.getZoom()-2);
+     // 			}
+     // 		}
+    	//  });
+    	}
+
+    //创建和初始化地图函数：
+    	function initMap(){
+    		// createMap();//创建地图
+    		// setMapEvent();//设置地图事件
+    		// addMapControl();//向地图添加控件
+    		createTMap();
+    		// addMapOverlay();//向地图添加覆盖物
+    		addSvgLayer(1000,550);
+    	}
+    	function createMap(){
+    		map = new BMap.Map("map");
+    		map.centerAndZoom(new BMap.Point(121.480237,31.236305),15);
+    		// map.addEventListener("dragend", function(){
+    		// 	var left = $("#map").children().first().children().first().css("left");
+    		// 	var top = $("#map").children().first().children().first().css("top");
+    		// 	console.log(left+","+top);
+    		// 	$("#svgLayer").css("left",left);
+    		// 	$("#svgLayer").css("top",top);
+    		// });
+    	}
+    	function createTMap(){
+    		tmap=new TMap("tmap");
+        tmap.centerAndZoom(new TLngLat(121.37643814087016, 31.321206092834267),15);
+    	}
+
+    	function setMapEvent(){
+    		map.enableScrollWheelZoom();
+    		map.disableKeyboard();
+    		map.enableDragging();
+    		map.disableDoubleClickZoom()
+    	}
+    	function addClickHandler(target,window){
+    		target.addEventListener("click",function(){
+    			target.openInfoWindow(window);
+    		});
+    	}
+    	function addMapOverlay(){
+    		// var div = document.createElement("div");
+    		// div.style.cursor = "pointer";
+    		// div.style.border = "1px solid gray";
+    		// div.style.backgroundColor = "red";
+    		// div.innerHTML = "test";
+    		// map.getContainer().appendChild(div);
+    		var mySquare = new SquareOverlay(map.getCenter(), 550, 1000,"red");
+    		map.addOverlay(mySquare);
+    		mySquare.show();
+    	}
+    	//向地图添加控件
+    	function addMapControl(){
+    		var scaleControl = new BMap.ScaleControl({anchor:BMAP_ANCHOR_BOTTOM_LEFT});
+    		scaleControl.setUnit(BMAP_UNIT_IMPERIAL);
+    		map.addControl(scaleControl);
+    		// var navControl = new BMap.NavigationControl({anchor:BMAP_ANCHOR_TOP_LEFT,type:BMAP_NAVIGATION_CONTROL_LARGE});
+    		// map.addControl(navControl);
+    		// var overviewControl = new BMap.OverviewMapControl({anchor:BMAP_ANCHOR_BOTTOM_RIGHT,isOpen:true});
+    		// map.addControl(overviewControl);
+    	}
+
+    	// 定义自定义覆盖物的构造函数
+    	function SquareOverlay(center, length, width, color){
+    	 this._center = center;
+    	 this._length = length;
+    	 this._width = width;
+    	 this.defaultAnchor = BMAP_ANCHOR_TOP_LEFT;
+    	 this.defaultOffset = new BMap.Size(0, 0);
+    	//  this._color = color;
+    	}
+    	// 继承API的BMap.Overlay
+    	SquareOverlay.prototype = new BMap.Overlay();
+
+    	// 实现初始化方法
+    	SquareOverlay.prototype.initialize = function(map){
+    	// 保存map对象实例
+    	 this._map = map;
+    	 // 创建div元素，作为自定义覆盖物的容器
+    	 var div = document.createElement("div");
+    	 div.style.position = "absolute";
+    	 div.id = "svgLayer";
+    	 // 可以根据参数设置元素外观
+    	 div.style.width = this._width + "px";
+    	 div.style.height = this._length + "px";
+    	//  div.style.background = this._color;
+    	 div.innerHTML = svg;
+    	 // 将div添加到覆盖物容器中
+    	 map.getPanes().markerPane.appendChild(div);
+    	 // 保存div实例
+    	 this._div = div;
+    	 // 需要将div元素作为方法的返回值，当调用该覆盖物的show、
+    	 // hide方法，或者对覆盖物进行移除时，API都将操作此元素。
+    	 return div;
+    	}
+
+    	// 实现绘制方法
+    	SquareOverlay.prototype.draw = function(){
+    	// 根据地理坐标转换为像素坐标，并设置给容器
+    	//  var position = this._map.pointToOverlayPixel(this._center);
+    	//  this._div.style.left = position.x - this._length / 2 + "px";
+    	//  this._div.style.top = position.y - this._length / 2 + "px";
+    	}
+
+    	SquareOverlay.prototype.show = function(){
+    	 if (this._div){
+    		 this._div.style.display = "";
+    	 }
+    	}
+
+    	var map;
+    	var tmap;
+    	initMap();
+
+    		var root = document.getElementById("SVGMapContent");
+    		//var root = $('#SVGMapContent');
+    		loadMapByRoot(root);
+    		//loadLayer('su');
+    //</script>
+    //<script>
+        //var root = document.getElementById("SVGMapContent");
         //var root = $('#SVGMapContent');
 //        if(localStorage.layer == null &&localStorage.timestamp==null)
 //        {
 //            alert("yao");
-            loadMapByRoot(root);
+            //loadMapByRoot(root);
 //        }
 //        else(localStorage.layer)
 //        {
@@ -27,4 +212,3 @@
 //        }
 
     </script>
-</div>
