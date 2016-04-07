@@ -126,7 +126,8 @@ angular.module('app', [
                     // Use a url of "/" to set a state as the "index".
                     //abstract: "true",
                     url: "^/portal",
-                    templateUrl: 'SVGSiteMockup/site/portal/portal.html'
+                    templateUrl: 'SVGSiteMockup/site/portal/portal.html',
+                    controller: 'PortalController'
                 })
 
                 .state("login", {

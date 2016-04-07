@@ -9,7 +9,8 @@
  */
 angular.module('app')
   .controller('PortalController', function($scope,
-    sessionService) {
+    sessionService, $localStorage) {
+      $scope.currentUser = $localStorage.currentUser;
       $scope.logout = function() {
           sessionService.delToken();
         };
