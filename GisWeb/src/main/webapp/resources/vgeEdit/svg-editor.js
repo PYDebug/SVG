@@ -5255,10 +5255,10 @@
 					var content = loadLayerXML(url);
 					//alert(content);
 					if(content){
-						if(content.rootElement.tagName=="svg"){
-							loadSvgString(content.rootElement.outerHTML);
+						if(content.documentElement.tagName=="svg"){
+							loadSvgString(content.documentElement.outerHTML);
 						}else{
-							var content = content.rootElement.outerHTML;
+							var content = content.documentElement.outerHTML;
 							content = content + '<g layerid="'+layerId+'"><title>'+layerName+'</title>'+tempcontent+'</g>';
 							str =strSVGHead+content+strSVGTail;
 							loadSvgString(str);
@@ -5291,10 +5291,10 @@
 					var content = loadLayerXML(url);
 					//alert(content);
 					if(content){
-						if(content.rootElement.tagName=="svg"){
-							loadSvgString(content.rootElement.outerHTML);
+						if(content.documentElement.tagName=="svg"){
+							loadSvgString(content.documentElement.outerHTML);
 						}else{
-							var content = content.rootElement.outerHTML;
+							var content = content.documentElement.outerHTML;
 							content = content + '<g layerid="'+layer+'"><title>'+layer+'</title>'+tempcontent+'</g>';
 							str =strSVGHead+content+strSVGTail;
 							loadSvgString(str);
