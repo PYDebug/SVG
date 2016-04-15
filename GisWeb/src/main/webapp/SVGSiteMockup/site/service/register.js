@@ -25,9 +25,11 @@ angular.module('app')
         },function success(data){
           if (data.errorCode=='NO_ERROR') {
             $state.go('login');
+          }else if (data.errorCode=='DUPLICATION') {
+            alert(data.data);
           }
         },function error(data){
-          alert(data.errorCode);
+
         });
       }
   });

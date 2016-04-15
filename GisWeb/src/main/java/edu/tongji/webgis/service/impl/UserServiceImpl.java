@@ -1,10 +1,12 @@
 package edu.tongji.webgis.service.impl;
 
+import com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException;
 import edu.tongji.webgis.dao.mapper.UserMapper;
 import edu.tongji.webgis.model.User;
 import edu.tongji.webgis.service.UserService;
 import edu.tongji.webgis.utils.MD5Tool;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.dao.DataAccessException;
 import org.springframework.stereotype.Service;
 
 /**
@@ -23,13 +25,17 @@ public class UserServiceImpl implements UserService{
     }
 
     @Override
-    public User addUser(String username, String password, User.Role role) {
+    public User addUser(String username, String password, User.Role role) throws DataAccessException{
         User user = new User();
         user.setActive(true);
-        user.setPassword(MD5Tool.getMd5("222222"));
+        user.setPassword(MD5Tool.getMd5(password));
         user.setRole(role);
         user.setUsername(username);
-        userMapper.insertUser(user);
+        try {
+            userMapper.insertUser(user);
+        }catch (DataAccessException e){
+            throw e;
+        }
         return user;
     }
 }

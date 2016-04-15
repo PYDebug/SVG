@@ -85,85 +85,87 @@
         </div>
         <div id="workarea">
             <style id="styleoverrides" type="text/css" media="screen" scoped="scoped"></style>
-            <div id="svgcanvas" style="position:relative">
+            <div id="svgcanvas" style="position: absolute; width: 950px; height: 684px; z-index: 1; margin-left: -475px; background-color: transparent;">
             </div>
             <script>
 
-          //   var div = document.createElement("div");
-         // 	 div.style.position = "absolute";
-         // 	 div.id = "tmap";
-         // 	 // 可以根据参数设置元素外观
-         // 	 div.style.width = "100%";
-         // 	 div.style.height = "100%";
-          //  div.style.zIndex = "2";
-          //
-        	// 	document.getElementById("workarea").appendChild(div);
-          //
-          //   // var map;
-          //
-          //   $('#svgcanvas').bind("mousewheel",function(e, delta, deltaX, deltaY) {
-         // 	// 	 if(e.originalEvent.wheelDelta) {
-          // 	// 		if (e.originalEvent.wheelDelta >= 120) {
-         // 	// 			map.setZoom(map.getZoom()+2);
-          // 	// 		} else if (e.originalEvent.wheelDelta <= -120) {
-         // 	// 			map.setZoom(map.getZoom()-2);
-          // 	// 		}
-          // 	// 	} else if(e.detail) {
-          // 	// 		if (e.detail > 0) {
-         // 	// 			map.setZoom(map.getZoom()+2);
-          // 	// 		} else if (e.detail < 0) {
-         // 	// 			map.setZoom(map.getZoom()-2);
-          // 	// 		}
-          // 	// 	}
-         // 	 });
-          //
-          //
-          //   //创建和初始化地图函数：
-          //   	function initMap(){
-          //   		//createMap();//创建地图
-          //       createTMap();
-          //   		// setMapEvent();//设置地图事件
-          //   		// addMapControl();//向地图添加控件
-          //   		// addMapOverlay();//向地图添加覆盖物
-          //   		// addSvgLayer(1000,550);
-          //   	}
-          //
-          //   	function createMap(){
-          //   		map = new BMap.Map("map");
-          //   		map.centerAndZoom(new BMap.Point(121.480237,31.236305),15);
-          //   		// map.addEventListener("dragend", function(){
-          //   		// 	var left = $("#map").children().first().children().first().css("left");
-          //   		// 	var top = $("#map").children().first().children().first().css("top");
-          //   		// 	console.log(left+","+top);
-          //   		// 	$("#svgLayer").css("left",left);
-          //   		// 	$("#svgLayer").css("top",top);
-          //   		// });
-          //   	}
-          //     function createTMap(){
-          //   		tmap=new TMap("tmap");
-          //       tmap.centerAndZoom(new TLngLat(121.37643814087016, 31.321206092834267),15);
-          //   	}
-          //
-          //   	function setMapEvent(){
-          //   		map.enableScrollWheelZoom();
-          //   		map.disableKeyboard();
-          //   		map.enableDragging();
-          //   		map.disableDoubleClickZoom()
-          //   	}
-          //
-          //   	//向地图添加控件
-          //   	function addMapControl(){
-          //   		var scaleControl = new BMap.ScaleControl({anchor:BMAP_ANCHOR_BOTTOM_LEFT});
-          //   		scaleControl.setUnit(BMAP_UNIT_IMPERIAL);
-          //   		map.addControl(scaleControl);
-          //   		// var navControl = new BMap.NavigationControl({anchor:BMAP_ANCHOR_TOP_LEFT,type:BMAP_NAVIGATION_CONTROL_LARGE});
-          //   		// map.addControl(navControl);
-          //   		// var overviewControl = new BMap.OverviewMapControl({anchor:BMAP_ANCHOR_BOTTOM_RIGHT,isOpen:true});
-          //   		// map.addControl(overviewControl);
-          //   	}
-          //     var map;
-          //     var tmap;
-          //   	initMap();
+            var div = document.createElement("div");
+         	 div.style.position = "absolute";
+         	 div.id = "tmap";
+         	 // 可以根据参数设置元素外观
+         	 div.style.width = "100%";
+         	 div.style.height = "100%";
+           div.style.zIndex = "0";
+
+        		document.getElementById("workarea").appendChild(div);
+
+            // var map;
+
+            $('#svgcanvas').bind("mousewheel",function(evt) {
+
+              var delta;
+
+            	if(evt.wheelDelta)
+            		delta = evt.wheelDelta / 3600; // Chrome/Safari
+            	else
+            		delta = evt.detail / -90; // Mozilla
+            	delta = delta*6;
+
+         		 if(delta>0) {
+         				tmap.zoomIn();
+
+          		} else{
+         				tmap.zoomOut();
+          		}
+         	 });
+
+
+            //创建和初始化地图函数：
+            	function initMap(){
+            		//createMap();//创建地图
+                 createTMap();
+            		// setMapEvent();//设置地图事件
+            		// addMapControl();//向地图添加控件
+            		// addMapOverlay();//向地图添加覆盖物
+            		// addSvgLayer(1000,550);
+            	}
+
+            	function createMap(){
+            		map = new BMap.Map("map");
+            		map.centerAndZoom(new BMap.Point(121.480237,31.236305),15);
+            		// map.addEventListener("dragend", function(){
+            		// 	var left = $("#map").children().first().children().first().css("left");
+            		// 	var top = $("#map").children().first().children().first().css("top");
+            		// 	console.log(left+","+top);
+            		// 	$("#svgLayer").css("left",left);
+            		// 	$("#svgLayer").css("top",top);
+            		// });
+            	}
+              function createTMap(){
+            		tmap=new TMap("tmap");
+                tmap.centerAndZoom(new TLngLat(121.37643814087016, 31.321206092834267),15);
+            	}
+
+            	function setMapEvent(){
+            		map.enableScrollWheelZoom();
+            		map.disableKeyboard();
+            		map.enableDragging();
+            		map.disableDoubleClickZoom()
+            	}
+
+            	//向地图添加控件
+            	function addMapControl(){
+            		var scaleControl = new BMap.ScaleControl({anchor:BMAP_ANCHOR_BOTTOM_LEFT});
+            		scaleControl.setUnit(BMAP_UNIT_IMPERIAL);
+            		map.addControl(scaleControl);
+            		// var navControl = new BMap.NavigationControl({anchor:BMAP_ANCHOR_TOP_LEFT,type:BMAP_NAVIGATION_CONTROL_LARGE});
+            		// map.addControl(navControl);
+            		// var overviewControl = new BMap.OverviewMapControl({anchor:BMAP_ANCHOR_BOTTOM_RIGHT,isOpen:true});
+            		// map.addControl(overviewControl);
+            	}
+              var map;
+              var tmap;
+            	initMap();
             </script>
         </div>
         <div id="sidepanels">

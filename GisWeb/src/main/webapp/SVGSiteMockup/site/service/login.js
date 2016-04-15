@@ -32,6 +32,7 @@ angular.module('app')
         },
         function error(data) {
         //  modalService.signleConfirmInform('登录失败','用户名或密码错误','warning',function(){});
+          alert("用户名或密码错误");
         });
     };
 

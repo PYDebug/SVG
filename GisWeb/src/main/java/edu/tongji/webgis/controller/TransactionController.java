@@ -18,13 +18,16 @@ import javax.servlet.http.HttpServletResponse;
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.transform.TransformerException;
 
+import com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException;
 import edu.tongji.webgis.form.UserForm;
 import edu.tongji.webgis.model.*;
 import edu.tongji.webgis.service.UserService;
 import edu.tongji.webgis.utils.DataWrapper;
+import edu.tongji.webgis.utils.ErrorCode;
 import edu.tongji.webgis.utils.RequiredRole;
 import org.apache.commons.io.FileUtils;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.dao.DataAccessException;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
@@ -85,8 +88,16 @@ public class TransactionController {
 	@ResponseBody
 	public DataWrapper register(@RequestBody UserForm user){
 		DataWrapper dataWrapper = new DataWrapper();
-		User u = us.addUser(user.getUsername(), user.getPassword(), user.getRole());
-		dataWrapper.setData(u);
+		try {
+			User u = us.addUser(user.getUsername(), user.getPassword(), user.getRole());
+			dataWrapper.setData(u);
+		}catch (DataAccessException e){
+			final Throwable cause = e.getCause();
+			if( cause instanceof MySQLIntegrityConstraintViolationException ) {
+				dataWrapper.setErrorCode(ErrorCode.DUPLICATION);
+				dataWrapper.setData("已经存在该用户");
+			}
+		}
 		return dataWrapper;
 	}
 
