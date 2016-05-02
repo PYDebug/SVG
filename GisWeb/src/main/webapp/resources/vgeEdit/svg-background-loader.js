@@ -52,7 +52,7 @@ function initBaseMap(){
 }
 
 function initLocation(w_area){
-	if (Baidu == 0) {
+	if (Baidu == 1) {
 		return;
 	}
 	scrollLeftBase = w_area.scrollLeft;
@@ -114,16 +114,16 @@ function reloadBaseMap(w_area){
 			y_base_bottom = y_base_max;
 		};
 		console.log(x_base_left+","+x_base_right+","+y_base_top+","+y_base_bottom);
-		for (var i = x_base_left; i <= x_base_right; i++)
-		for (var j = y_base_top; j <= y_base_bottom; j++) {
-			var img = document.createElementNS("http://www.w3.org/2000/svg", "image");
-			img.setAttributeNS(null, "x", "" + (i - x_base_zero) * (50 - 0));
-			img.setAttributeNS(null, "y", "" + (j - y_base_zero) * (50 - 0));
-			img.setAttributeNS(null, "width", "50");
-			img.setAttributeNS(null, "height", "50");
-			img.setAttributeNS("http://www.w3.org/1999/xlink", "xlink:href", "/resource/svg/block/base/"+i + "/" + j)
-			$('#canvasBackground').append(img);
-		};
+		// for (var i = x_base_left; i <= x_base_right; i++)
+		// for (var j = y_base_top; j <= y_base_bottom; j++) {
+		// 	var img = document.createElementNS("http://www.w3.org/2000/svg", "image");
+		// 	img.setAttributeNS(null, "x", "" + (i - x_base_zero) * (50 - 0));
+		// 	img.setAttributeNS(null, "y", "" + (j - y_base_zero) * (50 - 0));
+		// 	img.setAttributeNS(null, "width", "50");
+		// 	img.setAttributeNS(null, "height", "50");
+		// 	img.setAttributeNS("http://www.w3.org/1999/xlink", "xlink:href", "/resource/svg/block/base/"+i + "/" + j)
+		// 	$('#canvasBackground').append(img);
+		// };
 		hideSVGEntityText(zoom);
 	}
 	else {

@@ -178,7 +178,7 @@ public class TransactionController {
 		String lexiconPath = request.getSession().getServletContext()
 				.getRealPath("/resources/lexicon");
 		System.out.println(lexiconPath);
-		Lexicon lex = new Lexicon(lexiconPath, true);
+		Lexicon lex = new Lexicon(lexiconPath+"/", true);
 
 		String resultsPath = request.getSession().getServletContext()
 				.getRealPath("/WEB-INF/resource/svg/blocks");
