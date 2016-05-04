@@ -3661,6 +3661,8 @@ var getMouseTarget = this.getMouseTarget = function(evt) {
 	$(container).mousedown(mouseDown).mousemove(mouseMove).click(handleLinkInCanvas).dblclick(dblClick).mouseup(mouseUp);
 //	$(window).mouseup(mouseUp);
 
+	//var editor_level = 1;
+
 	$(container).bind("mousewheel DOMMouseScroll", function(e){
 		/*if(!e.shiftKey) return;*/
 		e.preventDefault();
@@ -3692,29 +3694,6 @@ var getMouseTarget = this.getMouseTarget = function(evt) {
 		delta = delta*6;
 
 		var z;
-		// if(delta>0){
-		// 	// z = 1 + delta; // Zoom factor: 0.9/1.1
-		// 	if (cur_z < 3) {
-		// 		z = 2;
-		// 		cur_z = cur_z+1;
-	  //     // pre_level= level;
-	  //     level = level/2;
-		// 	}else {
-		// 		z = 1;
-		// 	}
-		// 	tmap.zoomIn();
-		// }else{
-		// 	// z = 1/(1-delta);
-		// 	if (cur_z >-14) {
-		// 		z = 0.5;
-		// 		cur_z = cur_z-1;
-	  //     // pre_level= level;
-	  //     level = level*2;
-		// 	}else {
-		// 		z = 1;
-		// 	}
-		// 	tmap.zoomOut();
-		// }
 
 		if(e.originalEvent.wheelDelta) {
 			if (e.originalEvent.wheelDelta >= 60) {

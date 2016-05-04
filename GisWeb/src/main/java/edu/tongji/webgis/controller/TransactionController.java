@@ -22,6 +22,9 @@ import com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationExceptio
 import edu.tongji.webgis.form.UserForm;
 import edu.tongji.webgis.model.*;
 import edu.tongji.webgis.service.UserService;
+import edu.tongji.webgis.svg.query.Lexicon;
+import edu.tongji.webgis.svg.query.ModeParser;
+import edu.tongji.webgis.svg.query.VTDsvg;
 import edu.tongji.webgis.utils.DataWrapper;
 import edu.tongji.webgis.utils.ErrorCode;
 import edu.tongji.webgis.utils.RequiredRole;
@@ -47,8 +50,6 @@ import edu.tongji.webgis.service.MatchingService;
 import edu.tongji.webgis.svg.layer.model.LayerShow;
 import edu.tongji.webgis.svg.matching.DiffSVG;
 import edu.tongji.webgis.utils.LogRecorder;
-import svg.Lexicon;
-import svg.VTDsvg;
 import edu.tongji.webgis.model.User.Role;
 
 @Controller
@@ -241,7 +242,7 @@ public class TransactionController {
 			String modeArr[] = mode.split("/+");
 			for (int i = 0; i < modeArr.length; i++) {
 				System.out.println(modeArr[i]);
-				svg.ModeParser parser = new svg.ModeParser(modeArr[i]);
+				ModeParser parser = new ModeParser(modeArr[i]);
 				String element = parser.getElement();
 				System.out.println(element);
 				if (parser.getElement() == "hospital") {

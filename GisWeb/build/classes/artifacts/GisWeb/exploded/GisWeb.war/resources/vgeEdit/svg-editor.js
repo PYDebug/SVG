@@ -2176,9 +2176,25 @@
 				return true;
 			};
 
+			function getEventPoint(evt) {
+				var p = root.createSVGPoint();
+
+				p.x = evt.clientX;
+				p.y = evt.clientY;
+
+				return p;
+			}
+
+			var total_x = 0 , total_y = 0;
+			//var editor_level = 1;
+
 			(function() {
 				var last_x = null, last_y = null, w_area = workarea[0],
 					panning = false, keypan = false, pre_x = null, pre_y = null;
+
+				$('#svgcanvas').bind('mousewheel DOMMouseScroll', function(evt) {
+
+				});
 
 				$('#svgcanvas').bind('mousemove mouseup', function(evt) {
 
@@ -2205,7 +2221,11 @@
 						if (w_area.scrollLeft!==scrollLeftBase && w_area.scrollTop!==scrollTopBase) {
 							reloadBaseMap(w_area);
 						};
-						tmap.panBy(new TSize(pre_x - evt.clientX, pre_y - evt.clientY));
+						var p = getEventPoint(evt);
+						tmap.panBy(new TSize(pre_x - p.x, pre_y - p.y));
+						total_x += ((pre_x - p.x)*level);
+						total_y += ((pre_y - p.y)*level);
+						svgMove(total_x, total_y);
 					}
 
 					return false;
@@ -2214,8 +2234,9 @@
 						panning = true;
 						last_x = evt.clientX;
 						last_y = evt.clientY;
-						pre_x = evt.clientX;
-						pre_y = evt.clientY;
+						var p = getEventPoint(evt);
+						pre_x = p.x;
+						pre_y = p.y;
 						return false;
 					}
 				});

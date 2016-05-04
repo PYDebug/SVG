@@ -11,8 +11,10 @@ var scrollTopBase = null;
 
 var Baidu = 0;
 
+var root;
 
 function initBaseMap(){
+	root = document.getElementById("svgcontent");
 	if (Baidu == 0) {
 
 		// initMap();
@@ -146,4 +148,22 @@ function hideSVGEntityText(zoom){
         $(".entity > text").css("fill-opacity", "1");
         console.log("show");
     }
+}
+
+function setCTM(element, matrix) {
+	var s = "matrix(" + matrix.a + "," + matrix.b + "," + matrix.c + "," + matrix.d + "," + matrix.e + "," + matrix.f + ")";
+
+	element.setAttribute("transform", s);
+}
+
+
+function svgMove(x, y){
+	g = document.getElementsByTagName('g')[0];
+	var k = root.createSVGMatrix().translate(-10, -10);
+	var s = "translate(" + (-x) + "," + (-y) + ")";
+	g.setAttribute("transform", s);
+  //setCTM(g, g.getCTM().multiply(k));
+
+//	alert(g.length);
+
 }
