@@ -1,0 +1,74 @@
+# ************************************************************
+# Sequel Pro SQL dump
+# Version 4096
+#
+# http://www.sequelpro.com/
+# http://code.google.com/p/sequel-pro/
+#
+# Host: 127.0.0.1 (MySQL 5.6.10)
+# Database: svg
+# Generation Time: 2016-05-06 04:15:21 +0000
+# ************************************************************
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+
+
+# Dump of table users
+# ------------------------------------------------------------
+
+DROP TABLE IF EXISTS `users`;
+
+CREATE TABLE `users` (
+  `username` varchar(50) CHARACTER SET latin1 NOT NULL,
+  `password` varchar(50) CHARACTER SET latin1 DEFAULT NULL,
+  `active` bit(1) DEFAULT b'1',
+  `role` varchar(50) CHARACTER SET latin1 DEFAULT NULL,
+  `icon_path` varchar(50) CHARACTER SET latin1 DEFAULT NULL,
+  `realname` varchar(50) DEFAULT NULL,
+  `email` varchar(50) CHARACTER SET latin1 DEFAULT NULL,
+  `phone` varchar(50) CHARACTER SET latin1 DEFAULT NULL,
+  PRIMARY KEY (`username`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+LOCK TABLES `users` WRITE;
+/*!40000 ALTER TABLE `users` DISABLE KEYS */;
+
+INSERT INTO `users` (`username`, `password`, `active`, `role`, `icon_path`, `realname`, `email`, `phone`)
+VALUES
+	('1234','e8f38dfc62f7b545e0f331ea35fe2b28',00000001,'SPECIAL_USER',NULL,NULL,NULL,NULL),
+	('1435870','e8f38dfc62f7b545e0f331ea35fe2b28',00000001,'NORMAL_USER',NULL,NULL,NULL,NULL),
+	('cloud_user1','e8f38dfc62f7b545e0f331ea35fe2b28',00000001,'SPECIAL_USER',NULL,NULL,NULL,NULL),
+	('cloud_user2','e8f38dfc62f7b545e0f331ea35fe2b28',00000001,'NORMAL_USER',NULL,NULL,NULL,NULL),
+	('cn_test','6574b3b1c56b2999689efe6ac21fe681',00000001,'SPECIAL_USER',NULL,'潘岩','panyan5617998@163.com','18801785239'),
+	('hahah','e8f38dfc62f7b545e0f331ea35fe2b28',00000001,'NORMAL_USER',NULL,NULL,NULL,NULL),
+	('newtest','2a463c19f393be0a7df4cba6825f7a80',00000001,'NORMAL_USER',NULL,'潘岩','fdasfa','1322'),
+	('new_test','6574b3b1c56b2999689efe6ac21fe681',00000001,'NORMAL_USER',NULL,'哦按眼','fdasfasfs','3133'),
+	('new_test2','9b35a59524ef64acc62a99a8a26eed78',00000001,'NORMAL_USER',NULL,'中文','fdsafa','18801'),
+	('panyan','e8f38dfc62f7b545e0f331ea35fe2b28',00000001,'ADMIN',NULL,NULL,NULL,NULL),
+	('pytest','6574b3b1c56b2999689efe6ac21fe681',00000001,'NORMAL_USER',NULL,NULL,NULL,NULL),
+	('test','e8f38dfc62f7b545e0f331ea35fe2b28',00000001,'ADMIN',NULL,NULL,NULL,NULL),
+	('test2','e8f38dfc62f7b545e0f331ea35fe2b28',00000001,'ADMIN',NULL,NULL,NULL,NULL),
+	('test3','e8f38dfc62f7b545e0f331ea35fe2b28',00000001,'NORMAL_USER',NULL,NULL,NULL,NULL),
+	('test4','e8f38dfc62f7b545e0f331ea35fe2b28',00000001,'SPECIAL_USER',NULL,NULL,NULL,NULL),
+	('vicky','e8f38dfc62f7b545e0f331ea35fe2b28',00000001,'NORMAL_USER',NULL,NULL,NULL,NULL),
+	('vicky1234','e8f38dfc62f7b545e0f331ea35fe2b28',00000001,'NORMAL_USER',NULL,NULL,NULL,NULL),
+	('yaoyao','e8f38dfc62f7b545e0f331ea35fe2b28',00000001,'SPECIAL_USER',NULL,NULL,NULL,NULL);
+
+/*!40000 ALTER TABLE `users` ENABLE KEYS */;
+UNLOCK TABLES;
+
+
+
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
