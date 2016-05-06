@@ -90,7 +90,7 @@ public class TransactionController {
 	public DataWrapper register(@RequestBody UserForm user){
 		DataWrapper dataWrapper = new DataWrapper();
 		try {
-			User u = us.addUser(user.getUsername(), user.getPassword(), user.getRole());
+			User u = us.addUser(user.getUsername(), user.getPassword(), user.getRole(), user.getEmail(), user.getRealName(), user.getPhone());
 			dataWrapper.setData(u);
 		}catch (DataAccessException e){
 			final Throwable cause = e.getCause();

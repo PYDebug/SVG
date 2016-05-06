@@ -21,7 +21,10 @@ angular.module('app')
         tokenFactory.register().post({
           "username":$scope.name,
           "password":$scope.password,
-          "role":$scope.role
+          "role":$scope.role,
+          "realName":$scope.realname,
+          "phone":$scope.phone,
+          "email":$scope.email
         },function success(data){
           if (data.errorCode=='NO_ERROR') {
             $state.go('login');
