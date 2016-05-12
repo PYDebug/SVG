@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <svg width="2660.171875" height="2822.296875" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">null
- <g layerid="hos">
+
+ <g layerid="hos" transform="translate(-66,12)">
   <title>医院</title>
   <g id="svg_1" class="entity">
    <image id="svg_2" xlink:href="/resource/icon/hos" y="77.611382" x="754.821167" height="20" width="20"/>
