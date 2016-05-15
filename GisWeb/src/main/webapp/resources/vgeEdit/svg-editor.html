@@ -17,6 +17,7 @@
 <!{else}-->
 <script type="text/javascript" src="http://api.map.baidu.com/api?v=1.5&ak=3RuFV3DzwmKG0oYMUlBcspRy"></script>
 <script src=" http://api.tianditu.com/js/maps.js" type="text/javascript"></script>
+    <script type="text/javascript" src="http://api.tianditu.com/js/maptools.js"></script>
     <script type="text/javascript" src="jquery.js"></script>
     <!--{endif}-->
     <script type="text/javascript" src="js-hotkeys/jquery.hotkeys.min.js"></script>
@@ -85,7 +86,7 @@
         </div>
         <div id="workarea">
             <style id="styleoverrides" type="text/css" media="screen" scoped="scoped"></style>
-            <div id="svgcanvas" style="position: absolute; width: 100%; height: 100%; z-index: 1; margin-left: -475px; background-color: transparent;">
+            <div id="svgcanvas" style="position: absolute; width: 950px; height: 684px; z-index: 1; margin-left: -475px; background-color: transparent;">
             </div>
             <script>
 
@@ -101,30 +102,31 @@
 
             // var map;
 
-          //   $('#svgcanvas').bind("mousewheel",function(evt) {
-           //
-          //     var delta;
-           //
-          //   	if(evt.wheelDelta)
-          //   		delta = evt.wheelDelta / 3600; // Chrome/Safari
-          //   	else
-          //   		delta = evt.detail / -90; // Mozilla
-          //   	delta = delta*6;
-           //
-         // 		 if(delta>0) {
-         // 				tmap.zoomIn();
-           //
-          // 		} else{
-         // 				tmap.zoomOut();
-          // 		}
-         // 	 });
+            $('#svgcanvas').bind("mousewheel",function(evt) {
+
+              var delta;
+
+            	if(evt.wheelDelta)
+            		delta = evt.wheelDelta / 3600; // Chrome/Safari
+            	else
+            		delta = evt.detail / -90; // Mozilla
+            	delta = delta*6;
+
+         		 if(delta>0) {
+         				tmap.zoomIn();
+
+          		} else{
+         				tmap.zoomOut();
+          		}
+         	 });
 
 
             //创建和初始化地图函数：
             	function initMap(){
             		//createMap();//创建地图
                  createTMap();
-            		// setMapEvent();//设置地图事件
+
+                    // setMapEvent();//设置地图事件
             		// addMapControl();//向地图添加控件
             		// addMapOverlay();//向地图添加覆盖物
             		// addSvgLayer(1000,550);
@@ -512,7 +514,9 @@
             <div class="tool_button" id="tool_batchImp" title="批量导入">
                 <input type="file" style="opacity:0;position:absolute;height:50px" onchange="batchImp(this)"/>
             </div>
+            <!--<div class="tool_button" id="tool_getColor" title="拾色器"></div>-->
             <div class="tool_button" id="tool_help" title="提示信息"></div>
+
             <div style="display: none">
                 <div id="tool_rect" title="矩形"></div>
                 <div id="tool_square" title="长方形"></div>
@@ -905,6 +909,52 @@
         }
     }
     </script>
+    <!--<script>-->
+        <!--var pickup_switch = false;-->
+        <!--var pickup = new TCoordinatePickup(tmap,{callback:getColor});-->
+        <!--$("#tool_getColor").click(function(){-->
+            <!--if(pickup_switch)-->
+            <!--{-->
+                <!--pickup.removeEvent();-->
+            <!--}-->
+            <!--else-->
+            <!--{-->
+                <!--pickup.addEvent();-->
+            <!--}-->
+            <!--pickup_switch = !pickup_switch;-->
+        <!--});-->
+        <!--function getColor(lnglat)-->
+        <!--{-->
+            <!--var lng = lnglat.getLng();-->
+            <!--var lat = lnglat.getLat();-->
+            <!--console.log(lng);-->
+            <!--console.log(lat);-->
+            <!--$.ajax({-->
+                <!--type: 'POST',-->
+                <!--url: "/api/getColor",-->
+                <!--data: {-->
+                    <!--lng:lng.toString(),-->
+                    <!--lat:lat.toString()-->
+                <!--},-->
+                <!--success: function(result){-->
+                    <!--var color = "rgb("+result.R+","+result.G+","+result.B+")";-->
+                    <!--console.log(color);-->
+                    <!--var R = document.getElementsByClassName('Red').lastChild.firstChild.value;-->
+                    <!--R = result.R;-->
+                    <!--var G = document.getElementsByClassName('Green').lastChild.firstChild.value;-->
+                    <!--G = result.G;-->
+                    <!--var B = document.getElementsByClassName('Blue').lastChild.firstChild.value;-->
+                    <!--B = result.B;-->
+
+                    <!--alert("r:"+result.R+"g:"+result.G+"b:"+result.B);-->
+                <!--},-->
+                <!--headers: {-->
+                    <!--"X-Auth-Token":"eyJhY2NvdW50Ijp7InVzZXJuYW1lIjoiY2xvdWRfdXNlcjEiLCJwYXNzd29yZCI6bnVsbCwiYWN0aXZlIjp0cnVlLCJyb2xlIjoiU1BFQ0lBTF9VU0VSIn0sImV4cGlyZXMiOjE0NjMyMTE1MTg5MzQsImdyYW50ZWRBdXRocyI6WyJST0xFX1NQRUNJQUxfVVNFUiJdLCJwYXNzd29yZCI6bnVsbCwiZW5hYmxlZCI6dHJ1ZSwidXNlcm5hbWUiOiJjbG91ZF91c2VyMSIsImFjY291bnROb25FeHBpcmVkIjp0cnVlLCJhY2NvdW50Tm9uTG9ja2VkIjp0cnVlLCJjcmVkZW50aWFsc05vbkV4cGlyZWQiOnRydWV9.7nUCQZ+OOpifPC1XQcUfb8oY+kAznIbBm68XmgRpN4I="-->
+                <!--}-->
+            <!--});-->
+
+        <!--}-->
+    <!--</script>-->
 </body>
 
 </html>

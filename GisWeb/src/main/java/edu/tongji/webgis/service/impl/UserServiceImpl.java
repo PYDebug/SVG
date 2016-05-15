@@ -25,15 +25,12 @@ public class UserServiceImpl implements UserService{
     }
 
     @Override
-    public User addUser(String username, String password, User.Role role, String email , String realName, String phone) throws DataAccessException{
+    public User addUser(String username, String password, User.Role role) throws DataAccessException{
         User user = new User();
         user.setActive(true);
         user.setPassword(MD5Tool.getMd5(password));
         user.setRole(role);
         user.setUsername(username);
-        user.setEmail(email);
-        user.setPhone(phone);
-        user.setRealName(realName);
         try {
             userMapper.insertUser(user);
         }catch (DataAccessException e){

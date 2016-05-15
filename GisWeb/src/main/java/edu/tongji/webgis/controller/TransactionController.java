@@ -1,5 +1,6 @@
 package edu.tongji.webgis.controller;
 
+import java.awt.image.BufferedImage;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
@@ -13,6 +14,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
+import javax.imageio.ImageIO;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.xml.parsers.ParserConfigurationException;
@@ -22,9 +24,6 @@ import com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationExceptio
 import edu.tongji.webgis.form.UserForm;
 import edu.tongji.webgis.model.*;
 import edu.tongji.webgis.service.UserService;
-import edu.tongji.webgis.svg.query.Lexicon;
-import edu.tongji.webgis.svg.query.ModeParser;
-import edu.tongji.webgis.svg.query.VTDsvg;
 import edu.tongji.webgis.utils.DataWrapper;
 import edu.tongji.webgis.utils.ErrorCode;
 import edu.tongji.webgis.utils.RequiredRole;
@@ -50,6 +49,8 @@ import edu.tongji.webgis.service.MatchingService;
 import edu.tongji.webgis.svg.layer.model.LayerShow;
 import edu.tongji.webgis.svg.matching.DiffSVG;
 import edu.tongji.webgis.utils.LogRecorder;
+import svg.Lexicon;
+import svg.VTDsvg;
 import edu.tongji.webgis.model.User.Role;
 
 @Controller
@@ -79,6 +80,63 @@ public class TransactionController {
 		return "uploadFailed";
 	}
 
+
+	public String getImagePixel(String image) throws Exception {
+		int[] rgb = new int[3];
+		File file = new File(image);
+		BufferedImage bi = null;
+		try {
+			bi = ImageIO.read(file);
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		int width = bi.getWidth();
+		int height = bi.getHeight();
+		int minx = bi.getMinX();
+		int miny = bi.getMinY();
+		int pixel = bi.getRGB(width/2, height/2); //下面三行代码将一个数字转换为RGB数字
+		rgb[0] = (pixel & 0xff0000) >> 16;
+		rgb[1] = (pixel & 0xff00) >> 8;
+		rgb[2] = (pixel & 0xff);
+		return ("{\"R\":"+rgb[0]+",\"G\":"+rgb[1]+",\"B\":"+rgb[2]+"}");
+	}
+
+	@RequestMapping(value = "/api/getColor",method = RequestMethod.POST)
+	public void getColor(HttpServletRequest request,HttpServletResponse response) throws Exception {
+		String s;
+		float lng = Float.parseFloat(request.getParameter("lng"));
+		float lat = Float.parseFloat(request.getParameter("lat"));
+		String phanthomPath = request.getSession().getServletContext()
+				.getRealPath("/resources/phantomjs.exe");
+		String rasterizePath = request.getSession().getServletContext()
+				.getRealPath("/resources/rasterize.js");
+		String phantomPicPath = request.getSession().getServletContext()
+				.getRealPath("/resources/phantomPic.png");
+		//执行phanthom.js 生成图片
+		Process process = Runtime.getRuntime().exec(phanthomPath + " " + rasterizePath +" \"http://localhost:8080/resources/getColor.html?lng="+lng+"&lat="+lat+"\" " + phantomPicPath + " 101px*101px");
+		process.waitFor();
+		//运行readColor java程序去读取图片中心点像素的颜色
+//		String readColorPath = request.getSession().getServletContext()
+//				.getRealPath("/resources/readColor.jar");
+		s = getImagePixel(phantomPicPath);
+//		process = Runtime.getRuntime().exec("java -jar " + readColorPath + " " + phantomPicPath);
+//		//将java程序的输出结果读出来
+//		BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(process.getInputStream()));
+//		s=bufferedReader.readLine();
+		response.setContentType("application/json; charset=utf-8");
+		PrintWriter out = response.getWriter();
+		out.println(s);
+		System.out.println(s);
+//		s=bufferedReader.readLine();
+//		System.out.println(s);
+		process.waitFor();
+
+	}
+
+
+
+
+
 	@RequestMapping(value = "/api/upload", method = RequestMethod.GET)
 	public String showUploadPage() {
 
@@ -90,7 +148,7 @@ public class TransactionController {
 	public DataWrapper register(@RequestBody UserForm user){
 		DataWrapper dataWrapper = new DataWrapper();
 		try {
-			User u = us.addUser(user.getUsername(), user.getPassword(), user.getRole(), user.getEmail(), user.getRealName(), user.getPhone());
+			User u = us.addUser(user.getUsername(), user.getPassword(), user.getRole());
 			dataWrapper.setData(u);
 		}catch (DataAccessException e){
 			final Throwable cause = e.getCause();
@@ -175,21 +233,35 @@ public class TransactionController {
 			buffer.append(line);
 		}
 		String data = buffer.toString();
-		System.out.println(data);
+		System.out.println("data = "+ data);
+		/*String lexiconPath = request.getSession().getServletContext()
+				.getRealPath(File.separator + "resources" + File.separator + "lexicon");*/
 		String lexiconPath = request.getSession().getServletContext()
-				.getRealPath("/resources/lexicon");
-		System.out.println(lexiconPath);
-		Lexicon lex = new Lexicon(lexiconPath+"/", true);
+				.getRealPath("/");
+		lexiconPath = lexiconPath + "resources" + File.separator + "lexicon"+File.separator;
+		/*String lexiconPath = request.getSession().getServletContext()
+				.getRealPath("/resources/lexicon");*/
+		System.out.println("lexiconpath="+lexiconPath);
+		Lexicon lex = new Lexicon(lexiconPath, true);
 
+		/*String resultsPath = request.getSession().getServletContext()
+				.getRealPath(File.separator +"WEB-INF" + File.separator + "resource" + File.separator + "svg" + File.separator + "blocks");*/
 		String resultsPath = request.getSession().getServletContext()
-				.getRealPath("/WEB-INF/resource/svg/blocks");
-		String hospital = resultsPath + "/hos/1_1.svg";
-		String hotel = resultsPath + "/hotel/1_1.svg";
-		String rest = resultsPath + "/rest/1_1.svg";
-		String sch = resultsPath + "/sch/1_1.svg";
-		String su = resultsPath + "/su/1_1.svg";
-		String cine = resultsPath + "/cine/1_1.svg";
-		String river = resultsPath + "/river/1_1.svg";
+				.getRealPath("/");
+		resultsPath = resultsPath + "WEB-INF" + File.separator + "resource" + File.separator + "svg" + File.separator + "blocks"+ File.separator;
+		String hospital = resultsPath +"hos" + File.separator + "1_1.svg";
+		String hotel = resultsPath +"hotel" + File.separator + "1_1.svg";
+		String rest = resultsPath + "rest" + File.separator + "1_1.svg";
+		String sch = resultsPath + "sch" + File.separator + "1_1.svg";
+		String su = resultsPath + "su" + File.separator + "1_1.svg";
+		String cine = resultsPath + "cine" + File.separator + "1_1.svg";
+		String river = resultsPath + "river" + File.separator + "1_1.svg";
+//		String hotel = resultsPath + "/hotel/1_1.svg";
+//		String rest = resultsPath + "/rest/1_1.svg";
+//		String sch = resultsPath + "/sch/1_1.svg";
+//		String su = resultsPath + "/su/1_1.svg";
+//		String cine = resultsPath + "/cine/1_1.svg";
+//		String river = resultsPath + "/river/1_1.svg";
 		
 		LinkedList<String> finalResult = new LinkedList<String>();
 		ArrayList<String> normalQueryResult = new ArrayList<String>();
@@ -242,7 +314,7 @@ public class TransactionController {
 			String modeArr[] = mode.split("/+");
 			for (int i = 0; i < modeArr.length; i++) {
 				System.out.println(modeArr[i]);
-				ModeParser parser = new ModeParser(modeArr[i]);
+				svg.ModeParser parser = new svg.ModeParser(modeArr[i]);
 				String element = parser.getElement();
 				System.out.println(element);
 				if (parser.getElement() == "hospital") {

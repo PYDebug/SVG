@@ -23,7 +23,6 @@
 // 11) path.js
 
 var cur_z = 0;
-var level = 1;
 
 if(!window.console) {
 	window.console = {};
@@ -3661,8 +3660,6 @@ var getMouseTarget = this.getMouseTarget = function(evt) {
 	$(container).mousedown(mouseDown).mousemove(mouseMove).click(handleLinkInCanvas).dblclick(dblClick).mouseup(mouseUp);
 //	$(window).mouseup(mouseUp);
 
-	//var editor_level = 1;
-
 	$(container).bind("mousewheel DOMMouseScroll", function(e){
 		/*if(!e.shiftKey) return;*/
 		e.preventDefault();
@@ -3684,78 +3681,44 @@ var getMouseTarget = this.getMouseTarget = function(evt) {
 
 		// Respond to mouse wheel in IE/Webkit/Opera.
 		// (It returns up/dn motion in multiples of 120)
-
-		var delta;
-
-		if(e.originalEvent.wheelDelta)
-			delta = e.originalEvent.wheelDelta / 3600; // Chrome/Safari
-		else
-			delta = e.originalEvent.detail / -90; // Mozilla
-		delta = delta*6;
-
 		var z;
-
 		if(e.originalEvent.wheelDelta) {
-			if (e.originalEvent.wheelDelta >= 60) {
-				if (cur_z < 3) {
-					bbox.factor = 2;
-					// cur_z = cur_z+1;z = 2;
-					z = 2;
+			if (e.originalEvent.wheelDelta >= 120) {
+				if (cur_z<2) {
+					bbox.factor = 1.1;
 					cur_z = cur_z+1;
-		      // pre_level= level;
-		      level = level/2;
 				}
 				else {
 					bbox.factor = 1;
-					z = 1;
 				}
-				tmap.zoomIn();
 				// bbox.factor = 1.1;
-			} else if (e.originalEvent.wheelDelta <= -60) {
-				if (cur_z >-14) {
-					bbox.factor = .5;
-					// cur_z = cur_z-1;
-					z = 0.5;
+			} else if (e.originalEvent.wheelDelta <= -120) {
+				if (cur_z >-6) {
+					bbox.factor = .90;
 					cur_z = cur_z-1;
-		      // pre_level= level;
-		      level = level*2;
 				}else {
 					bbox.factor = 1;
-					z = 1;
 				}
-				tmap.zoomOut();
 				// bbox.factor = .90;
 			}
 		} else if(e.detail) {
 			if (e.detail > 0) {
-				if (cur_z<3) {
+				if (cur_z<2) {
 					bbox.factor = .5;
-					// cur_z = cur_z+1;
-					z = 2;
 					cur_z = cur_z+1;
-					// pre_level= level;
-					level = level/2;
 				}
 				else {
 					bbox.factor = 1;
-					z = 1;
 				}
-				tmap.zoomIn();
 				// bbox.factor = .5;
 			} else if (e.detail < 0) {
 				// bbox.factor = 2;
-				if (cur_z >-14) {
+				if (cur_z >-6) {
 					bbox.factor = 2;
-					// cur_z = cur_z-1;
-					z = 0.5;
 					cur_z = cur_z-1;
-					// pre_level= level;
-					level = level*2;
 				}else {
 					bbox.factor = 1;
-					z = 1;
 				}
-				tmap.zoomOut();
 			}
 		}
 

@@ -11,6 +11,6 @@ public interface UserService {
 
     public User findUserByUsername(String username);
 
-    public User addUser(String username, String password, User.Role role, String email , String realName, String phone) throws DataAccessException;
+    public User addUser(String username, String password, User.Role role) throws DataAccessException;
 
 }

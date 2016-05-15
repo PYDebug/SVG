@@ -22,11 +22,11 @@
         var node = event.currentTarget.children.item(2).childNodes;
 
         var name = event.currentTarget.children.item(1).innerHTML;
-
+        
         for (var i = 0; i < node.length; i++) {
             if (node.item(i).localName == "address") {
                 var addressValue = node.item(i).innerHTML;
-            }
+            } 
             else if (node.item(i).localName == "phone") {
                 var phoneValue = node.item(i).innerHTML;
             }
@@ -45,7 +45,7 @@
         }
         var X = event.clientX;
         var Y = event.clientY;
-
+       
 
 
         $("#infoWin").html(s);
@@ -56,8 +56,7 @@
         $("#infoWin").css("opacity", "0.5");
         $("#infoWin").css("width", "150px");
         $("#infoWin").css("height", "75px");
-				$("#infoWin").css("z-index", "999999");
-
+        
         $("#infoWin").css({
             top: Y + "px",
             left: X + "px"

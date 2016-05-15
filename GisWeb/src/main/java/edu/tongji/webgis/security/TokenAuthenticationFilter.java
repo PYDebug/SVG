@@ -44,9 +44,14 @@ public class TokenAuthenticationFilter extends GenericFilterBean {
 	private String resourceUrl;
 	private String saveUrl;
 	private String registerUrl;
+	private String colorUrl;
 
 	public void setRegisterUrl(String registerUrl) {
 		this.registerUrl = registerUrl;
+	}
+
+	public void setColorUrl(String colorUrl) {
+		this.colorUrl = colorUrl;
 	}
 
 	public void doFilter(ServletRequest request, ServletResponse response,
@@ -109,6 +114,8 @@ public class TokenAuthenticationFilter extends GenericFilterBean {
 		}else if (currentUrl.startsWith(resourceUrl)) {
 			chain.doFilter(request, response);
 		}else if (currentUrl.startsWith(saveUrl)) {
+			chain.doFilter(request, response);
+		}else if (currentUrl.equals(colorUrl)) {
 			chain.doFilter(request, response);
 		}else if (currentUrl.equals(this.registerUrl)){
 			chain.doFilter(request, response);

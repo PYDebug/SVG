@@ -67,19 +67,13 @@ box-shadow: 0px 0px 4px 0px #3386E1;
   -o-transition: 0.5s all;
 }
 .contact input.user {
-  background: url(../images/svg_user.png)no-repeat 8px 8px;
+  background: url(../images/user.png)no-repeat 10px 8px;
 }
-input.password {
-  background: url(../images/svg_password.png)no-repeat 8px 8px;
+input.tel {
+  background: url(../images/lock1.png)no-repeat 8px 8px;
 }
 input.email {
-  background: url(../images/svg_email.png)no-repeat 8px 8px;
-}
-input.tel{
-  background: url(../images/svg_phone.png)no-repeat 8px 8px;
-}
-input.realname{
-  background: url(../images/svg_name.png)no-repeat 8px 8px;
+  background: url(../images/email.png)no-repeat 8px 8px;
 }
 .contact textarea {
   outline: none;
