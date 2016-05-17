@@ -8,7 +8,8 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
-import java.sql.Date;
+import java.util.Date;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
@@ -21,6 +22,7 @@ import javax.xml.transform.TransformerException;
 import com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException;
 import edu.tongji.webgis.form.UserForm;
 import edu.tongji.webgis.model.*;
+import edu.tongji.webgis.service.MapService;
 import edu.tongji.webgis.service.UserService;
 import edu.tongji.webgis.svg.query.Lexicon;
 import edu.tongji.webgis.svg.query.ModeParser;
@@ -57,6 +59,9 @@ public class TransactionController {
 
 	@Autowired
 	UserService us;
+
+	@Autowired
+	MapService ms;
 
 	// @Autowired
 	private HttpServletRequest request;
@@ -602,9 +607,10 @@ public class TransactionController {
 
 		/*ax
 		 */
-		int newVersion = -1;
+		int newVersion = 1;
 		try {
-			int newTs = MapCategory.getInstance().getMap(mapId).getTSList().size()+1;
+			//int newTs = MapCategory.getInstance().getMap(mapId).getTSList().size()+1;
+			int newTs = ms.getRecentMapVersion(mapId)+1;
 			
 			System.out.println("saving changes");
 			String realPath = request.getSession().getServletContext()
@@ -621,7 +627,12 @@ public class TransactionController {
 				fos.write(temp, 0, status);
 			}
 			is.close();
-			newVersion = MapCategory.getInstance().addTimeStamp(mapId, timeStamp);
+			//newVersion = MapCategory.getInstance().addTimeStamp(mapId, timeStamp);
+			String mapname = MapCategory.getInstance().getNameByTag(mapId);
+			SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
+			Date ts = sdf.parse(timeStamp);
+			ms.addNewMap(mapId, mapname, ts, ms.getRecentMapVersion(mapId) + 1, 1);
+
 			/*int count= 0;
 			List<String> layers = LayerShow.showLayer(realPath+ "/1_1.svg", realPath+"/temp/");
 			for(String layer: layers){
@@ -639,9 +650,11 @@ public class TransactionController {
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
+			newVersion = -1;
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
+			newVersion = -1;
 		}
 
 		String result;

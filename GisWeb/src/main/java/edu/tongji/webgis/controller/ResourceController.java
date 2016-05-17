@@ -9,6 +9,7 @@ import javax.servlet.ServletContextEvent;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import edu.tongji.webgis.service.MapService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpHeaders;
 import org.springframework.stereotype.Controller;
@@ -33,6 +34,9 @@ import edu.tongji.webgis.svg.matching.DiffSVG;
 @RequestMapping("/resource")
 public class ResourceController {
 
+
+	@Autowired
+	MapService mapService;
 
 	/**
 	 * Get the SVG map of the specified time
@@ -201,9 +205,10 @@ public class ResourceController {
 		if(layer.equals("base")||layer.equals("result"))
 			return "blocks/"+layer+"/"+ x + "_" + y +".svg";
 		else{
-			Map map = MapCategory.getInstance().getMap(layer);
-			System.out.println(layer+" versions:"+map.getTSList().size());
-			return "files/"+layer+"/"+x+"_"+y+"/"+map.getTSList().size()+".svg";
+			//Map map = MapCategory.getInstance().getMap(layer);
+			//System.out.println(layer+" versions:"+map.getTSList().size());
+			//return "files/"+layer+"/"+x+"_"+y+"/"+map.getTSList().size()+".svg";
+			return "files/"+layer+"/"+x+"_"+y+"/"+mapService.getRecentMapVersion(layer)+".svg";
 		}
 	}
 	

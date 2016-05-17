@@ -15,6 +15,7 @@ angular.module('app').controller("HomeCtrl",function ($scope,$http, sessionServi
     $scope.mapList = [];
     $http.get("api/getlayers",{headers:sessionService.headers()})
     .success(function(response) {
+			response = response.data;
     	$scope.aMapList[0].amapList = [];
     	$scope.aMapList[1].amapList = [];
 			$rootScope.mapList = response;
@@ -37,6 +38,7 @@ angular.module('app').controller("HomeCtrl",function ($scope,$http, sessionServi
     	console.log('get layers');
     	$http.get("api/getlayers?r="+Math.random(), {headers:sessionService.headers()})
         .success(function(response) {
+					response = response.data;
         	 $scope.aMapList[0].amapList = [];
         	 $scope.aMapList[1].amapList = [];
         	 //$scope.aMapList[0].amapList = response;

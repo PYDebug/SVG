@@ -17,6 +17,7 @@ angular.module('app').controller("MapCompareCtrl",function ($scope,$http,$sce,$s
 //    ];
     $http.get("api/getlayers", {headers:sessionService.headers()})
     .success(function(response) {
+      response = response.data
     	$scope.mapCategories = response;
     	 var mapid = $stateParams.mapId;
     	 var map;
@@ -54,6 +55,7 @@ angular.module('app').controller("MapCompareCtrl",function ($scope,$http,$sce,$s
     	console.log('get layers');
     	$http.get("api/getlayers?r="+Math.random())
         .success(function(response) {
+          response = response.data
         	$scope.mapCategories = response;
 
             var mapid = $stateParams.mapId;

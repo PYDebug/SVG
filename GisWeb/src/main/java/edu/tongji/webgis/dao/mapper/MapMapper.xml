@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="edu.tongji.webgis.dao.mapper.MapMapper">
+    <!--  查询多条记录  -->
+    <select id="selectMaps" resultType="edu.tongji.webgis.model.SMap">
+        select * from maps
+    </select>
+
+    <select id="selectMapsByTag" parameterType="String" resultType="edu.tongji.webgis.model.SMap">
+        select * from maps where tag = #{tag}
+    </select>
+
+    <!--  新增记录  -->
+    <insert id="insertMap" parameterType="edu.tongji.webgis.model.SMap">
+        insert into maps(tag,name,createtime,version,type) values(#{tag},#{name},#{createtime},#{version},#{type})
+    </insert>
+
+</mapper>

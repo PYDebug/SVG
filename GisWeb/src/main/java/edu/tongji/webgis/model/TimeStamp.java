@@ -1,24 +1,24 @@
 package edu.tongji.webgis.model;
 
-import java.sql.Date;
+import java.util.Date;
 
 public class TimeStamp {
 
-	private Date date;
+	private String date;
 	private int version;
 	private int mapId;
 	
-	public TimeStamp(Date date, int version, int mapId) {
+	public TimeStamp(String date, int version, int mapId) {
 		this.date = date;
 		this.version = version;
 		this.mapId = mapId;
 	}
 	
-	public Date getDate() {
+	public String getDate() {
 		return date;
 	}
 
-	public void setDate(Date date) {
+	public void setDate(String date) {
 		this.date = date;
 	}
 
