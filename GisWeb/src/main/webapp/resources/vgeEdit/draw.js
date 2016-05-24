@@ -54,7 +54,7 @@ svgedit.draw.Layer.prototype.getGroup = function() {
 
 // Called to ensure that drawings will or will not have randomized ids.
 // The current_drawing will have its nonce set if it doesn't already.
-// 
+//
 // Params:
 // enableRandomization - flag indicating if documents should have randomized ids
 svgedit.draw.randomizeIds = function(enableRandomization, current_drawing) {
@@ -89,19 +89,19 @@ svgedit.draw.Drawing = function(svgElem, opt_idPrefix) {
 	 * @type {SVGSVGElement}
 	 */
 	this.svgElem_ = svgElem;
-	
+
 	/**
 	 * The latest object number used in this drawing.
 	 * @type {number}
 	 */
 	this.obj_num = 0;
-	
+
 	/**
 	 * The prefix to prepend to each element id in the drawing.
 	 * @type {String}
 	 */
 	this.idPrefix = opt_idPrefix || "svg_";
-	
+
 	/**
 	 * An array of released element ids to immediately reuse.
 	 * @type {Array.<number>}
@@ -186,7 +186,7 @@ svgedit.draw.Drawing.prototype.getNextId = function() {
 	var oldObjNum = this.obj_num;
 	var restoreOldObjNum = false;
 
-	// If there are any released numbers in the release stack, 
+	// If there are any released numbers in the release stack,
 	// use the last one instead of the next obj_num.
 	// We need to temporarily use obj_num as that is what getId() depends on.
 	if (this.releasedNums.length > 0) {
@@ -238,7 +238,7 @@ svgedit.draw.Drawing.prototype.releaseId = function(id) {
 	if (typeof num != typeof 1 || num <= 0 || this.releasedNums.indexOf(num) != -1) {
 		return false;
 	}
-	
+
 	// push the released number into the released queue
 	this.releasedNums.push(num);
 
@@ -247,7 +247,7 @@ svgedit.draw.Drawing.prototype.releaseId = function(id) {
 
 // Function: svgedit.draw.Drawing.getNumLayers
 // Returns the number of layers in the current drawing.
-// 
+//
 // Returns:
 // The number of layers in the current drawing.
 svgedit.draw.Drawing.prototype.getNumLayers = function() {
@@ -269,7 +269,7 @@ svgedit.draw.Drawing.prototype.hasLayer = function(name) {
 //
 // Parameters:
 // i - the zero-based index of the layer you are querying.
-// 
+//
 // Returns:
 // The name of the ith layer
 svgedit.draw.Drawing.prototype.getLayerName = function(i) {
@@ -287,7 +287,7 @@ svgedit.draw.Drawing.prototype.getCurrentLayer = function() {
 };
 
 // Function: getCurrentLayerName
-// Returns the name of the currently selected layer. If an error occurs, an empty string 
+// Returns the name of the currently selected layer. If an error occurs, an empty string
 // is returned.
 //
 // Returns:
@@ -326,7 +326,7 @@ svgedit.draw.Drawing.prototype.setCurrentLayer = function(name) {
 
 
 // Function: svgedit.draw.Drawing.deleteCurrentLayer
-// Deletes the current layer from the drawing and then clears the selection. This function 
+// Deletes the current layer from the drawing and then clears the selection. This function
 // then calls the 'changed' handler.  This is an undoable action.
 // Returns:
 // The SVGGElement of the layer removed or null.
@@ -359,7 +359,7 @@ svgedit.draw.Drawing.prototype.identifyLayers = function() {
 			if (child.tagName == "g") {
 				childgroups = true;
 				var name = $("title",child).text();
-				
+
 				// Hack for Opera 10.60
 				if(!name && svgedit.browser.isOpera() && child.querySelectorAll) {
 					name = $(child.querySelectorAll('title')).text();
@@ -385,7 +385,7 @@ svgedit.draw.Drawing.prototype.identifyLayers = function() {
 			}
 		}
 	}
-	
+
 	// create a new layer and add all the orphans to it
 	var svgdoc = this.svgElem_.ownerDocument;
 	if (orphans.length > 0 || !childgroups) {
@@ -409,7 +409,7 @@ svgedit.draw.Drawing.prototype.identifyLayers = function() {
 };
 
 // Function: svgedit.draw.Drawing.createLayer
-// Creates a new top-level layer in the drawing with the given name and 
+// Creates a new top-level layer in the drawing with the given name and
 // sets the current layer to it.
 //
 // Parameters:
@@ -452,7 +452,7 @@ svgedit.draw.Drawing.prototype.getLayerVisibility = function(layername) {
 };
 
 // Function: svgedit.draw.Drawing.setLayerVisibility
-// Sets the visibility of the layer. If the layer name is not valid, this function return 
+// Sets the visibility of the layer. If the layer name is not valid, this function return
 // false, otherwise it returns true. This is an undo-able action.
 //
 // Parameters:
@@ -474,7 +474,7 @@ svgedit.draw.Drawing.prototype.setLayerVisibility = function(layername, bVisible
 		}
 	}
 	if (!layer) return null;
-	
+
 	var oldDisplay = layer.getAttribute("display");
 	if (!oldDisplay) oldDisplay = "inline";
 	layer.setAttribute("display", bVisible ? "inline" : "none");
@@ -485,7 +485,7 @@ svgedit.draw.Drawing.prototype.setLayerVisibility = function(layername, bVisible
 // Function: svgedit.draw.Drawing.getLayerOpacity
 // Returns the opacity of the given layer.  If the input name is not a layer, null is returned.
 //
-// Parameters: 
+// Parameters:
 // layername - name of the layer on which to get the opacity
 //
 // Returns:

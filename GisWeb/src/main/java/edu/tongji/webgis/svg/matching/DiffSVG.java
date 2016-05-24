@@ -25,6 +25,8 @@ public class DiffSVG implements MatchingAlgorithm {
 	 */
 	public String script = "";
 	
+	public SvgOneChangeLog changeLog;
+	
 	/* (non-Javadoc)
 	 * @see edu.tongji.webgis.svg.matching.MatchingAlgorithm#Matching(java.lang.String, java.lang.String, java.lang.String)
 	 */
@@ -138,10 +140,31 @@ public class DiffSVG implements MatchingAlgorithm {
 		return map;
 	}
 	public void  SVG_Script(IVTDGen SVG1,IVTDGen SVG2,Map<Integer,Integer> map){
+		this.changeLog = new SvgOneChangeLog(SVG1);
+		for(int j=0;j<SVG1.getLCCount();j++){
+			int VTD[][]=SVG1.getVTD();
+			int LC[][]=SVG1.getLC();
+			if(!map.containsKey(LC[j][0])){//delete
+				String str="";
+				str +=new String(SVG1.getB(),VTD[LC[j][0]][3],VTD[LC[j][0]][2]);
+	      		for (int i = LC[j][0] + 1;; i++) {
+	      			if (i == SVG1.getVTDLength() || VTD[i][0] == 0) {
+	      				break;
+	      			} else {
+	      				str+=" "+new String(SVG1.getB(),VTD[i][3],VTD[i][2]);
+	      			}
+	      		}//for i
+//	      		script +="<delete XPath='"+SVG1.getPosition(j)+"'>\n"+ str+"\n</delete>\n";//将要删除的节点也输出
+	      		String tempXPath = changeLog.getChangedPosition(SVG1.getPosition(j));
+	      		script +="<delete XPath='"+tempXPath+"'/>\n";
+	      		changeLog.addChangeLog(2, tempXPath);
+	      		//script +="<delete XPath='"+SVG1.getPosition(j)+"'/>\n";
+			}
+		}
 		for(int j=0;j<SVG2.getLCCount();j++){
 			int VTD[][]=SVG2.getVTD();
 			int LC[][]=SVG2.getLC();
-			int x=0;
+			int x = 0;
 			if(!map.containsValue(LC[j][0])){//insert
 				String str="<";
 				str +=new String(SVG2.getB(),VTD[LC[j][0]][3],VTD[LC[j][0]][2]);
@@ -157,11 +180,15 @@ public class DiffSVG implements MatchingAlgorithm {
 	      				break;
 	      			}
 	      		}//for i
-	      		
-	      		script +="<insert XPath='"+SVG2.getPosition(j)+"'>\n"+ str+"\n</insert>\n";
+	    		String tempXPath = SVG2.getPosition(j);
+	      		//tempXPath = changeLog.getChangedPosition(SVG2.getPosition(j));
+	      		script +="<insert XPath='"+tempXPath+"'>\n"+ str+"\n</insert>\n";
+	      		changeLog.addChangeLog(1, tempXPath);
+	      		//script +="<insert XPath='"+SVG2.getPosition(j)+"'>\n"+ str+"\n</insert>\n";
 			}else{//move
 				Iterator iter = map.entrySet().iterator(); 
 				Map.Entry entry;
+                /* Vendor edit by jaki
 				while (iter.hasNext()) { 
 				    entry = (Map.Entry) iter.next(); 
 				    if(j == (Integer)entry.getValue()){
@@ -169,6 +196,18 @@ public class DiffSVG implements MatchingAlgorithm {
 				    	break;
 				    }
 				}//while
+				*/
+				while (iter.hasNext()) {
+					entry = (Map.Entry) iter.next();
+					if (LC[j][0] == (Integer) entry.getValue()) {
+						for (x = 0; x < SVG1.getLCCount(); x++) {
+//							if (LC[x][0] == (Integer) entry.getKey()) {
+							if (SVG1.getLC()[x][0] == (Integer) entry.getKey()) {
+								break;
+							}
+						}
+					}
+				}
 				
 				if(x<SVG1.getLC().length){
 				if(!(SVG1.getLC()[x][2]>=0 && SVG2.getLC()[j][2]>=0)){
@@ -179,7 +218,8 @@ public class DiffSVG implements MatchingAlgorithm {
 //					script +="<move toXPath=\'"+SVG2.getPosition(j)+"\'></move>\n";
 ////					System.out.println("<move toXPath=\'"+SVG2.getPosition(j)+"\'></move>");
 //				}
-				else if(!SVG1.getPosition(x).equals(SVG2.getPosition(j))){
+				else if(!changeLog.getChangedPosition(SVG1.getPosition(x)).equals(SVG2.getPosition(j))){
+//				else if(!SVG1.getPosition(x).equals(SVG2.getPosition(j))){
 					/*Start..输出节点*/
 					String str="<";
 					str +=new String(SVG2.getB(),VTD[LC[j][0]][3],VTD[LC[j][0]][2]);
@@ -196,31 +236,32 @@ public class DiffSVG implements MatchingAlgorithm {
 		      			}
 		      		}//for i
 		      		/*End..输出节点*/
+		    		String tempXPath1 = changeLog.getChangedPosition(SVG1.getPosition(x));
+						int childCount = 0;
+//						changeLog.addChangeLog(2, tempXPath1);
+//						for (int k = x; k < SVG1.getLCCount(); k++) {
+//							String potentialChildXPath = SVG1.getPosition(k);
+//							if (potentialChildXPath.contains(tempXPath1) && potentialChildXPath.length() > tempXPath1.length()) {
+//								childCount++;
+//								// changeLog.adaptSVGTreeChanges(childCount,potentialChildXPath);
+//								changeLog.addChangeLog(2, potentialChildXPath);
+//								changeLog.addChangeLog(1, changeLog.getChangedPosition(potentialChildXPath));
+//							}
+//						}
+		    		String tempXPath2 = SVG2.getPosition(j);
 //					script +="<move XPath=\'"+SVG2.getPosition(j)+"\'>\n"+str+"\n</move>\n";
-					script +="<move FromXPath=\'"+SVG1.getPosition(x)+"\'"
-					            +" ToXPath=\'"+SVG2.getPosition(j)+"\'>\n"+str+"\n</move>\n";
+					script +="<move FromXPath=\'"+tempXPath1+"\'"
+				            +" ToXPath=\'"+tempXPath2+"\'>\n"+str+"\n</move>\n";
+					changeLog.addChangeLog(2, tempXPath1);
+					changeLog.addChangeLog(1, tempXPath2);
+//					script +="<move FromXPath=\'"+SVG1.getPosition(x)+"\'"
+//					            +" ToXPath=\'"+SVG2.getPosition(j)+"\'>\n"+str+"\n</move>\n";
 				}
 				}else{
 					System.out.println(x+" "+j+SVG1.getLC().length);
 				}
 			}
 		}
-		for(int j=0;j<SVG1.getLCCount();j++){
-			int VTD[][]=SVG1.getVTD();
-			int LC[][]=SVG1.getLC();
-			if(!map.containsKey(LC[j][0])){//delete
-				String str="";
-				str +=new String(SVG1.getB(),VTD[LC[j][0]][3],VTD[LC[j][0]][2]);
-	      		for (int i = LC[j][0] + 1;; i++) {
-	      			if (i == SVG1.getVTDLength() || VTD[i][0] == 0) {
-	      				break;
-	      			} else {
-	      				str+=" "+new String(SVG1.getB(),VTD[i][3],VTD[i][2]);
-	      			}
-	      		}//for i
-//	      		script +="<delete XPath='"+SVG1.getPosition(j)+"'>\n"+ str+"\n</delete>\n";//将要删除的节点也输出
-	      		script +="<delete XPath='"+SVG1.getPosition(j)+"'/>\n";
-			}
-		}
+// delete position
 	}
 }

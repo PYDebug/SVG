@@ -30,7 +30,7 @@ svgedit.browser.isTouch() ? gripRadius = 10 : gripRadius = 4;
 
 // Class: svgedit.select.Selector
 // Private class for DOM element selection boxes
-// 
+//
 // Parameters:
 // id - integer to internally indentify the selector
 // elem - DOM element associated with this selector
@@ -82,10 +82,10 @@ svgedit.select.Selector = function(id, elem) {
 };
 
 
-// Function: svgedit.select.Selector.reset 
+// Function: svgedit.select.Selector.reset
 // Used to reset the id and element that the selector is attached to
 //
-// Parameters: 
+// Parameters:
 // e - DOM element associated with this selector
 svgedit.select.Selector.prototype.reset = function(e) {
 	this.locked = true;
@@ -165,7 +165,7 @@ svgedit.select.Selector.prototype.resize = function() {
 	var bbox = svgedit.utilities.getBBox(selected);
 	if(tagName === 'g' && !$.data(selected, 'gsvg')) {
 		// The bbox for a group does not include stroke vals, so we
-		// get the bbox based on its children. 
+		// get the bbox based on its children.
 		var stroked_bbox = svgFactory_.getStrokedBBox(selected.childNodes);
 		if(stroked_bbox) {
 			bbox = stroked_bbox;
@@ -178,17 +178,17 @@ svgedit.select.Selector.prototype.resize = function() {
 
 	// we need to handle temporary transforms too
 	// if skewed, get its transformed box, then find its axis-aligned bbox
-	
+
 	//*
 	offset *= current_zoom;
-	
+
 	var nbox = svgedit.math.transformBox(l*current_zoom, t*current_zoom, w*current_zoom, h*current_zoom, m),
 		aabox = nbox.aabox,
 		nbax = aabox.x - offset,
 		nbay = aabox.y - offset,
 		nbaw = aabox.width + (offset * 2),
 		nbah = aabox.height + (offset * 2);
-		
+
 	// now if the shape is rotated, un-rotate it
 	var cx = nbax + nbaw/2,
 		cy = nbay + nbah/2;
@@ -229,7 +229,7 @@ svgedit.select.Selector.prototype.resize = function() {
 				+ ' ' + (nbax+nbaw) + ',' + (nbay+nbah)
 				+ ' ' + nbax + ',' + (nbay+nbah) + 'z';
 	selectedBox.setAttribute('d', dstr);
-	
+
 	var xform = angle ? 'rotate(' + [angle,cx,cy].join(',') + ')' : '';
 	this.selectorGroup.setAttribute('transform', xform);
 
@@ -258,7 +258,7 @@ svgedit.select.Selector.prototype.resize = function() {
 		mgr.rotateGripConnector.setAttribute('x2', nbax + (nbaw)/2);
 		mgr.rotateGripConnector.setAttribute('y2', nbay - (gripRadius*5));
 
-		mgr.rotateGrip.setAttribute('cx', nbax + (nbaw)/2); 
+		mgr.rotateGrip.setAttribute('cx', nbax + (nbaw)/2);
 		mgr.rotateGrip.setAttribute('cy', nbay - (gripRadius*5));
 //	}
 
@@ -340,7 +340,7 @@ svgedit.select.SelectorManager.prototype.initGroup = function() {
 				'pointer-events': 'all'
 			}
 		});
-		
+
 		$.data(grip, 'dir', dir);
 		$.data(grip, 'type', 'resize');
 		this.selectorGrips[dir] = this.selectorGripsGroup.appendChild(grip);
@@ -414,7 +414,7 @@ svgedit.select.SelectorManager.prototype.initGroup = function() {
 			'stroke-width': '5',
 			'style': 'pointer-events:inherit',
 			'd': 'M34,85 C 35,85,40.0543327331543,82.06281280517578,47,76 65.14339447021484,60.16279220581055,93.30240631103516,39.30833435058594,111,33 114.88375091552734,31.615631103515625,115.69611358642578,33.37775421142578,97,67 69.99407196044922,115.56623840332031,68.08007049560547,124.39208984375,69,124 100.88048553466797,110.4119644165039,138.8363800048828,62.290016174316406,201,42 231.21189880371094,32.1389274597168,234.55587768554688,37.290565490722656,223,57 181.52239990234375,127.7432632446289,103.45049285888672,176.4504852294922,106,179 108.54950714111328,181.5495147705078,131.19775390625,148.76235961914062,252,98 337.7131042480469,61.98245620727539,315.97906494140625,103.26083374023438,176,205 81.54768371582031,273.6495361328125,47.508209228515625,300.44573974609375,55,297 158.6063232421875,249.34783935546875,407.5743408203125,-2.0171124935150146,452,67 531.6396484375,190.72357177734375,94.69292449951172,323.3669128417969,85,364 82.3543701171875,375.090576171875,86.96968841552734,339.7176513671875,362,197 556.6640625,95.98567962646484,555.116943359375,139.00213623046875,468,223 336.2763977050781,350.0074462890625,226.2519073486328,417.544677734375,245,437 246.38780212402344,438.4401550292969,499.0508728027344,279.478271484375,662,149 674.7070922851562,138.82504272460938,638.4755859375,164.6313934326172,538,300 507.2321472167969,341.4528503417969,510.07611083984375,352.3826904296875,511,352 512.3065795898438,351.45880126953125,523.1173706054688,337.1275939941406,534,327 547.03369140625,314.87060546875,547,316,546,316 L 545,316'
-			
+
 		}
 	});
 	/*var bgSvg = svgFactory_.createSVGElement({
@@ -435,12 +435,12 @@ svgedit.select.SelectorManager.prototype.initGroup = function() {
 	// Both Firefox and WebKit are too slow with this filter region (especially at higher
 	// zoom levels) and Opera has at least one bug
 //	if (!svgedit.browser.isOpera()) rect.setAttribute('filter', 'url(#canvashadow)');
-	
+
 	//canvasbg.appendChild(rect);
 	//canvasbg.appendChild(bgSvg);
 	/*var mode =0;
 	if(mode==0){
-	
+
 	var loadMaps = function(){
 	var x_base = 27430;
 	var y_base = 5340;
@@ -456,33 +456,33 @@ svgedit.select.SelectorManager.prototype.initGroup = function() {
 				'x':''+(i - x_base) * (50 - 0),
 				'y':''+(j - y_base) * (50 - 0),
 				'xlink:href': '/GisWeb_GradleEclipse/resource/svg/block/base/'+i+'/'+j
-			}	
+			}
 		}
 		);
-		g.async = true; 
+		g.async = true;
 		canvasbg.appendChild(g);
 	}
 	};
 	//setTimeout(loadMaps, 2000);
 	loadMaps();
 	}else{
-		var map = new BMap.Map("svgcanvas");          // 创建地图实例  
-		var point = new BMap.Point(116.404, 39.915);  // 创建点坐标  
-		map.centerAndZoom(point, 15);                 // 初始化地图，设置中心点坐标和地图级别  
+		var map = new BMap.Map("svgcanvas");          // 创建地图实例
+		var point = new BMap.Point(116.404, 39.915);  // 创建点坐标
+		map.centerAndZoom(point, 15);                 // 初始化地图，设置中心点坐标和地图级别
 		map.enableScrollWheelZoom(true);
 	}*/
-	
+
 	svgFactory_.svgRoot().insertBefore(canvasbg, svgFactory_.svgContent());
 	/*var test = '<rect fill="#FF0000" stroke="#000000" stroke-width="5" style="pointer-events:inherit" x="537.248111291336" y="51.91793432992854" width="272.3364458667602" height="322.4643081554221" id="svg_78" fill-opacity="1" stroke-opacity="1"></rect>';
 	$("#canvasBackground").append(test);*/
-	
+
 	/*var layer = svgFactory_.createSVGElement(
 			{
 				'element': 'g',
 				'attr':{
 					'class': 'layer',
-				}	
-			}		
+				}
+			}
 	);
 	svgFactory_.svgContent().appendChild(layer);*/
 };
@@ -516,7 +516,7 @@ svgedit.select.SelectorManager.prototype.requestSelector = function(elem) {
 };
 
 // Function: svgedit.select.SelectorManager.releaseSelector
-// Removes the selector of the given element (hides selection box) 
+// Removes the selector of the given element (hides selection box)
 //
 // Parameters:
 // elem - DOM element to remove the selector for

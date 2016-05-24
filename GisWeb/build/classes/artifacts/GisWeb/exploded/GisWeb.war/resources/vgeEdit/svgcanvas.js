@@ -3695,8 +3695,8 @@ var getMouseTarget = this.getMouseTarget = function(evt) {
 
 		var z;
 
-		if(e.originalEvent.wheelDelta) {
-			if (e.originalEvent.wheelDelta >= 60) {
+		//if(e.originalEvent.wheelDelta) {
+			if (delta > 0) {
 				if (cur_z < 3) {
 					bbox.factor = 2;
 					// cur_z = cur_z+1;z = 2;
@@ -3711,7 +3711,7 @@ var getMouseTarget = this.getMouseTarget = function(evt) {
 				}
 				tmap.zoomIn();
 				// bbox.factor = 1.1;
-			} else if (e.originalEvent.wheelDelta <= -60) {
+			} else  {
 				if (cur_z >-14) {
 					bbox.factor = .5;
 					// cur_z = cur_z-1;
@@ -3726,38 +3726,38 @@ var getMouseTarget = this.getMouseTarget = function(evt) {
 				tmap.zoomOut();
 				// bbox.factor = .90;
 			}
-		} else if(e.detail) {
-			if (e.detail > 0) {
-				if (cur_z<3) {
-					bbox.factor = .5;
-					// cur_z = cur_z+1;
-					z = 2;
-					cur_z = cur_z+1;
-					// pre_level= level;
-					level = level/2;
-				}
-				else {
-					bbox.factor = 1;
-					z = 1;
-				}
-				tmap.zoomIn();
-				// bbox.factor = .5;
-			} else if (e.detail < 0) {
-				// bbox.factor = 2;
-				if (cur_z >-14) {
-					bbox.factor = 2;
-					// cur_z = cur_z-1;
-					z = 0.5;
-					cur_z = cur_z-1;
-					// pre_level= level;
-					level = level*2;
-				}else {
-					bbox.factor = 1;
-					z = 1;
-				}
-				tmap.zoomOut();
-			}
-		}
+		// } else if(e.detail) {
+		// 	if (e.detail > 0) {
+		// 		if (cur_z<3) {
+		// 			bbox.factor = .5;
+		// 			// cur_z = cur_z+1;
+		// 			z = 2;
+		// 			cur_z = cur_z+1;
+		// 			// pre_level= level;
+		// 			level = level/2;
+		// 		}
+		// 		else {
+		// 			bbox.factor = 1;
+		// 			z = 1;
+		// 		}
+		// 		tmap.zoomIn();
+		// 		// bbox.factor = .5;
+		// 	} else if (e.detail < 0) {
+		// 		// bbox.factor = 2;
+		// 		if (cur_z >-14) {
+		// 			bbox.factor = 2;
+		// 			// cur_z = cur_z-1;
+		// 			z = 0.5;
+		// 			cur_z = cur_z-1;
+		// 			// pre_level= level;
+		// 			level = level*2;
+		// 		}else {
+		// 			bbox.factor = 1;
+		// 			z = 1;
+		// 		}
+		// 		tmap.zoomOut();
+		// 	}
+		// }
 
 		if(!bbox.factor) return;
 		call("zoomed", bbox);
@@ -9123,7 +9123,7 @@ this.updateCanvas = function(w, h) {
 		$('#canvasBackground').append(img);
 		};*/
 	//Editor.updateCanvas(false, {x:"0",y:"0"});
-	initBaseMap();
+	//initBaseMap();
 
 	return {x:x, y:y, old_x:old_x, old_y:old_y, d_x:x - old_x, d_y:y - old_y};
 

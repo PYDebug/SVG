@@ -159,7 +159,7 @@ function setCTM(element, matrix) {
 
 function svgMove(x, y){
 	g = document.getElementsByTagName('g')[0];
-	var k = root.createSVGMatrix().translate(-10, -10);
+	var k = svgroot.createSVGMatrix().translate(-10, -10);
 	var s = "translate(" + (-x) + "," + (-y) + ")";
 	g.setAttribute("transform", s);
   //setCTM(g, g.getCTM().multiply(k));

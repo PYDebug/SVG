@@ -2177,7 +2177,7 @@
 			};
 
 			function getEventPoint(evt) {
-				var p = root.createSVGPoint();
+				var p = svgroot.createSVGPoint();
 
 				p.x = evt.clientX;
 				p.y = evt.clientY;
