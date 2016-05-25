@@ -41,46 +41,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ResourceController.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ResourceController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/tongji/webgis/controller/ResourceController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="167" column="5" selection-start-line="167" selection-start-column="5" selection-end-line="167" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.073891625">
+              <caret line="122" column="70" selection-start-line="122" selection-start-column="70" selection-end-line="122" selection-end-column="70" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="svg-editor.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build/classes/artifacts/GisWeb/exploded/GisWeb.war/resources/vgeEdit/svg-editor.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2179" column="31" selection-start-line="2179" selection-start-column="24" selection-end-line="2179" selection-end-column="31" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="svg-background-loader.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build/classes/artifacts/GisWeb/exploded/GisWeb.war/resources/vgeEdit/svg-background-loader.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="svgcanvas.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/build/classes/artifacts/GisWeb/exploded/GisWeb.war/resources/vgeEdit/svgcanvas.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.84236455">
-              <caret line="3665" column="29" selection-start-line="3665" selection-start-column="23" selection-end-line="3665" selection-end-column="29" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -2576,12 +2542,12 @@
       <workItem from="1463364425987" duration="10246000" />
       <workItem from="1463450087406" duration="5613000" />
       <workItem from="1463559078831" duration="5366000" />
-      <workItem from="1464071388574" duration="5285000" />
+      <workItem from="1464071388574" duration="5576000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149288000" />
+    <option name="totallyTimeSpent" value="149579000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -2596,7 +2562,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40547946" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40547946" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27059773" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -3162,14 +3128,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/tongji/webgis/controller/ResourceController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="167" column="5" selection-start-line="167" selection-start-column="5" selection-end-line="167" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build/classes/artifacts/GisWeb/exploded/GisWeb.war/resources/vgeEdit/svg-editor.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -3180,14 +3138,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/classes/artifacts/GisWeb/exploded/GisWeb.war/resources/vgeEdit/svg-background-loader.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build/classes/artifacts/GisWeb/exploded/GisWeb.war/resources/vgeEdit/svgcanvas.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.84236455">
@@ -3195,6 +3145,22 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/classes/artifacts/GisWeb/exploded/GisWeb.war/resources/vgeEdit/svg-background-loader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.544335">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/tongji/webgis/controller/ResourceController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.073891625">
+          <caret line="122" column="70" selection-start-line="122" selection-start-column="70" selection-end-line="122" selection-end-column="70" />
+          <folding />
         </state>
       </provider>
     </entry>
