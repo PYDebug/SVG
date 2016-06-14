@@ -532,14 +532,14 @@ public class TransactionController {
 
 		/*ax
 		 */
-		String newMapId = null;
+		int newMapId = 1;
 		try {
-			int newId = MapCategory.getInstance().getMaps().size()+1;
+			int newId = ms.getRecentMapVersion(mapId)+1;
 			
 			System.out.println("saving changes");
 			String realPath = request.getSession().getServletContext()
 					.getRealPath("/WEB-INF/resource/svg/files/");
-			String layerPath = realPath+"/"+newId+"/1_1";
+			String layerPath = realPath+"/"+mapId+"/1_1";
 			FileUtils.forceMkdir(new File(layerPath));
 			System.out.println(layerPath);
 			File file = new File(layerPath + "/"+1+".svg");
@@ -552,7 +552,10 @@ public class TransactionController {
 				fos.write(temp, 0, status);
 			}
 			is.close();
-			newMapId = MapCategory.getInstance().addMap(mapId, timeStamp);
+//			newMapId = MapCategory.getInstance().addMap(mapId, timeStamp);
+			SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
+			Date ts = sdf.parse(timeStamp);
+			ms.addNewMap(mapId, mapId, ts, newId, 1);
 			/*int count= 0;
 			List<String> layers = LayerShow.showLayer(realPath+ "/1_1.svg", realPath+"/temp/");
 			for(String layer: layers){
@@ -570,14 +573,16 @@ public class TransactionController {
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
+			newMapId = -1;
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
+			newMapId = -1;
 		}
 
 		String result;
 		
-		if(newMapId!=null){
+		if(newMapId!=-1){
 			result = "{\"result\":\"success\",\"mapid\":\""+newMapId+"\"}";
 		}else{
 			result = "{\"result\":\"failed\"}";

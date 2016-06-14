@@ -56,7 +56,7 @@ public class MapServiceImpl implements MapService{
     @Override
     public int getRecentMapVersion(String layer) {
         List<SMap> maps = mapMapper.selectMapsByTag(layer);
-        int version = 1;
+        int version = 0;
         for (SMap map : maps){
             if (map.getVersion() > version){
                 version = map.getVersion();

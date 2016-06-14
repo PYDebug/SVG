@@ -76,7 +76,7 @@ public class IVTDGen {
 			m++;
 		}
 		if (m > 0)
-			str += "/svg";
+			str += "/*[1]";
 		for (int i = m - 2; i >= 0; --i) {
 			str += "/*[" + (tCO[i] - LC[tCO[i + 1]][1]+1) + "]";
 		}
@@ -227,6 +227,9 @@ public class IVTDGen {
 		int qNamelen = 0;
 		int attrlen = 0;
 		int peri = i;
+		//Vendor Edit, Jaki 2016-06-02
+		boolean setStartElement = false;
+		//
 		// boolean elemEnd = false;
 		byte quotStack[] = new byte[11];// quotation nest eg. id='"a'b'c"dd'
 		for (;;) {
@@ -238,6 +241,7 @@ public class IVTDGen {
 			case '\t':
 				// element token is end and the attributes start
 				startElement(currentDepth, qNamelen, peri);
+				setStartElement = true;
 				int quotStackIndex = 0;
 				for (;;) {
 					int m = 0;
@@ -335,10 +339,14 @@ public class IVTDGen {
 					i--;
 				tokenType = -1;
 				bk = true;
+				if(!setStartElement){
+					startElement(currentDepth, qNamelen, peri);
+				}
 				break;
 			case '>':// >a text start
 				if (tokenType == 0) {
 					startElement(currentDepth, qNamelen, peri);
+					setStartElement = true;
 				}
 				tokenType = -1;
 				int textLen = 0;

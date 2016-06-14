@@ -7,7 +7,7 @@
 
 "use strict";
 
-/// CONFIGURATION 
+/// CONFIGURATION
 /// ====>
 
 var enablePanD = 1; // 1 or 0: enable or disable panning (default enabled)
@@ -15,7 +15,7 @@ var enableZoomD = 1; // 1 or 0: enable or disable zooming (default enabled)
 var enableDragD = 0; // 1 or 0: enable or disable dragging (default disabled)
 
 /// <====
-/// END OF CONFIGURATION 
+/// END OF CONFIGURATION
 
 var state = 'none', svgRoot, stateTarget, stateOrigin, stateTf;
 
@@ -32,22 +32,22 @@ var rootDR;
  */
 function initWithRootD(root){
 	//get rootL and rootR
-	
+
 	getRootD(root);
 	setupHandlersD(svgRootL);
 	setupHandlersD(svgRootR);
 }
 
 function initR(svgroot){
-	
+
 	svgRootR = svgroot;
 	rootDR = svgroot.parentNode;
-	setupHandlersD(svgRootR);
+	setupHandlersD(rootDR);
 }
 function initL(svgroot){
 	svgRootL = svgroot;
 	rootDL = svgroot.parentNode;
-	setupHandlersD(svgRootL);
+	setupHandlersD(rootDL);
 }
 
 /**
@@ -77,7 +77,7 @@ function getRootD(root) {
 	if(typeof(svgRootL) == "undefined") {
 		var gL = null;
 		gL = root.getElementById("viewportL");
-		
+
 		if(gL == null)
 			alert('Unable to obtain SVG rootL element');
 
@@ -87,11 +87,11 @@ function getRootD(root) {
 
 		svgRootL = gL;
 	}
-	
+
 	if(typeof(svgRootR) == "undefined") {
 		var gR = null;
 		gR = root.getElementById("viewportR");
-		
+
 		if(gR == null)
 			alert('Unable to obtain SVG rootL element');
 
@@ -101,7 +101,7 @@ function getRootD(root) {
 
 		svgRootL = gR;
 	}
-	
+
 	svgRoot[0] = svgRootL;
 	svgRoot[1] = svgRootR;
 
@@ -151,6 +151,7 @@ function setAttributesD(element, attributes){
  */
 function handleMouseWheelD(evt) {
 	if(!enableZoomD)
+
 		return;
 
 	if(evt.preventDefault)
@@ -178,7 +179,7 @@ function handleMouseWheelD(evt) {
 	scaleD=scaleD*z;
 
 	var p = getEventPointD(evt);
-	
+
 	offset_xD = offset_xD+p.x/scaleBefore-p.x/scaleD;
 	offset_yD = offset_yD+p.y/scaleBefore-p.y/scaleD;
 
@@ -188,7 +189,7 @@ function handleMouseWheelD(evt) {
 	var g = getRootD(svgDoc);
 	var gL = g[0];
 	var gR = g[1];
-	
+
 	var p = getEventPointD(evt);
 
 	p = p.matrixTransform(gL.getCTM().inverse());
@@ -224,8 +225,8 @@ function handleMouseMoveD(evt) {
 	var g = getRootD(svgDoc);
 	var gL = g[0];
 	var gR = g[1];
-	
-	
+
+
 	if(state == 'pan' && enablePan) {
 		// Pan mode
 		var p = getEventPointD(evt).matrixTransform(stateTf);
@@ -265,11 +266,11 @@ function handleMouseDownD(evt) {
 	var g = getRootD(svgDoc);
 	var gL = g[0];
 	var gR = g[1];
-	
-	
+
+
 	if(
-		evt.target.tagName == "svg" 
-		|| !enableDragD // Pan anyway when drag is disabled and the user clicked on an element 
+		evt.target.tagName == "svg"
+		|| !enableDragD // Pan anyway when drag is disabled and the user clicked on an element
 	) {
 		// Pan mode
 		state = 'pan';
@@ -314,4 +315,3 @@ function handleMouseUpD(evt) {
 		isMovedD = false;
 	}
 }
-

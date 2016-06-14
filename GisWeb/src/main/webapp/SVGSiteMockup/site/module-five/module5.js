@@ -58,14 +58,17 @@ angular.module('app.module5', [
 
                             function loadXMLDoc(dname)
                             {
-                            if (window.XMLHttpRequest)
-                              {
-                              var xhttp=new XMLHttpRequest();
-                              }
-                            else
-                              {
-                              xhttp=new ActiveXObject("Microsoft.XMLHTTP");
-                              }
+                            // if (window.XMLHttpRequest)
+                            //   {
+                            //   var xhttp=new XMLHttpRequest();
+                            //   }
+                            // else
+                            //   {
+                            //   xhttp=new ActiveXObject("Microsoft.XMLHTTP");
+                            //   }
+                            var xhttp = new XMLHttpRequest();
+                          	//console.log("form outer "+outer);
+
                             xhttp.open("GET",dname,false);
                             xhttp.send("");
                             return xhttp.responseXML;
@@ -79,7 +82,7 @@ angular.module('app.module5', [
 
                             var getInsertXML = function(mapid,newversion,oldversion){
                                 $scope.insertNode = [];
-                                if(newversion>oldversion)
+                                if(parseInt(newversion)>parseInt(oldversion))
                                 {
                                     var firstparam = newversion;
                                     var secondparam = oldversion;
@@ -136,7 +139,7 @@ angular.module('app.module5', [
 
                             var getDeleteXML = function(mapid,newversion,oldversion){
                                 $scope.deleteNode = [];
-                                if(newversion>oldversion)
+                                if(parseInt(newversion)>parseInt(oldversion))
                                 {
                                     var firstparam = newversion;
                                     var secondparam = oldversion;
@@ -195,7 +198,7 @@ angular.module('app.module5', [
                             $scope.svg2;
 
                             var loadSVG1 = function(mapid,newversion,oldversion){
-                                if(newversion > oldversion)
+                                if(parseInt(newversion) > parseInt(oldversion))
                                     var version = oldversion;
                                 else
                                     var version = newversion;
@@ -311,7 +314,7 @@ angular.module('app.module5', [
                             };
 
                             var loadSVG2 = function(mapid,newversion,oldversion){
-                                if(newversion > oldversion)
+                                if(parseInt(newversion) > parseInt(oldversion))
                                     var version = newversion;
                                 else
                                     var version = oldversion;
@@ -361,8 +364,10 @@ angular.module('app.module5', [
                                                 var x_coor = -10;
                                                 var y_coor = -20;
                                                 if(result.nodeName=="g"&&!result.hasAttribute("transform")){
-                                                	x_coor = result.getElementsByTagName("text")[0].getAttribute("x")-10;
-                                                	y_coor = result.getElementsByTagName("text")[0].getAttribute("y")-20;
+                                                  if(x_coor = result.getElementsByTagName("text").length != 0){
+                                                	   x_coor = result.getElementsByTagName("text")[0].getAttribute("x")-10;
+                                                	   y_coor = result.getElementsByTagName("text")[0].getAttribute("y")-20;
+                                                  }
                                                 }
 
                                                 if(result.nodeName=="g") {

@@ -70,9 +70,9 @@
 var enablePan = 1; // 1 or 0: enable or disable panning (default enabled)
 var enableZoom = 1; // 1 or 0: enable or disable zooming (default enabled)
 var enableDrag = 0; // 1 or 0: enable or disable dragging (default disabled)
-var cur_z = 0;
-var level = 1;
-var pre_level = 1;
+var _cur_z = 0;
+var _level = 1;
+var _pre_level = 1;
 
 var x_base_zero = 27430;
 var y_base_zero = 5340;
@@ -101,7 +101,7 @@ function transLonLatToCoordinate(lon,lat) {
         2: 0.3515625,
         1: 0.703125
     };
-    var coef = tdtScale[cur_z+15] * 256;
+    var coef = tdtScale[_cur_z+15] * 256;
 
     var x_num = (lon - topTileFromX) / coef;
     var y_num = (topTileFromY - lat) / coef;
@@ -141,7 +141,7 @@ function transCoordinateToLonLat(x_num,y_num) {
     x_num = x_num/256 + x_base_zero;
     y_num = y_num/256 + y_base_zero;
 
-    var coef = tdtScale[cur_z+15] * 256;
+    var coef = tdtScale[_cur_z+15] * 256;
     var lon=x_num*coef+topTileFromX;
     var lat=topTileFromY-y_num*coef;
 
@@ -166,7 +166,7 @@ function initHTML(){
 
 function initWithRoot(root){
 	setupHandlers(root);
-	cur_z = 0;
+	_cur_z = 0;
 }
 
 /**
@@ -282,22 +282,22 @@ function handleMouseWheel(evt) {
 	var z;
 	if(delta>0){
 		// z = 1 + delta; // Zoom factor: 0.9/1.1
-		if (cur_z < 3) {
+		if (_cur_z < 3) {
 			z = 2;
-			cur_z = cur_z+1;
-      pre_level= level;
-      level = level/2;
+			_cur_z = _cur_z+1;
+      _pre_level= _level;
+      _level = _level/2;
 		}else {
 			z = 1;
 		}
 		tmap.zoomIn();
 	}else{
 		// z = 1/(1-delta);
-		if (cur_z >-14) {
+		if (_cur_z >-14) {
 			z = 0.5;
-			cur_z = cur_z-1;
-      pre_level= level;
-      level = level*2;
+			_cur_z = _cur_z-1;
+      _pre_level= _level;
+      _level = _level*2;
 		}else {
 			z = 1;
 		}
@@ -335,16 +335,16 @@ function handleMouseWheel(evt) {
 /**
  * Handle mouse move event.
  */
- var handler_x = 0;
- var handler_y = 0;
- var isMoved = false;
+ var _handler_x = 0;
+ var _handler_y = 0;
+ var _isMoved = false;
 //
 
- var pre_DeltaX = 0;
- var pre_DeltaY = 0;
+ var _pre__deltaX = 0;
+ var _pre__deltaY = 0;
 
- var deltaX = 0;
- var deltaY = 0;
+ var _deltaX = 0;
+ var _deltaY = 0;
 
 function handleMouseMove(evt) {
 	if(evt.preventDefault)
@@ -359,30 +359,30 @@ function handleMouseMove(evt) {
 	if(state == 'pan' && enablePan) {
 		// Pan mode
 		var p = getEventPoint(evt).matrixTransform(stateTf);
-		deltaX = p.x - handler_x;
-		deltaY = p.y - handler_y;
-		handler_x = p.x;
-		handler_y = p.y;
-		offset_x = offset_x - deltaX;
-		offset_y = offset_y - deltaY;
-		isMoved = true;
-		//console.log("deltaX:"+deltaX+" deltaY:"+deltaY);
+		_deltaX = p.x - _handler_x;
+		_deltaY = p.y - _handler_y;
+		_handler_x = p.x;
+		_handler_y = p.y;
+		offset_x = offset_x - _deltaX;
+		offset_y = offset_y - _deltaY;
+		_isMoved = true;
+		//console.log("_deltaX:"+_deltaX+" _deltaY:"+_deltaY);
 		var result = transCoordinateToLonLat(x_base_zero - offset_x+500, y_base_zero + offset_y +275);
-		// tmap.panBy(new TSize(-deltaX, -deltaY));
+		// tmap.panBy(new TSize(-_deltaX, -_deltaY));
 		//tmap.panTo(new TLngLat(result.lon, -result.lat));
 
-		pre_DeltaX = p.x - stateOrigin.x;
-		pre_DeltaY = p.y - stateOrigin.y;
+		_pre__deltaX = p.x - stateOrigin.x;
+		_pre__deltaY = p.y - stateOrigin.y;
 		// setCTM(g, stateTf.inverse().translate(p.x - stateOrigin.x, p.y - stateOrigin.y));
-		// setCTM(g, stateTf.translate(-deltaX, -deltaY));
+		// setCTM(g, stateTf.translate(-_deltaX, -_deltaY));
 
-		console.log("deltaX:"+deltaX+" deltaY:"+deltaY+"    "+"px:"+(p.x - stateOrigin.x)+" py:"+(p.y - stateOrigin.y));
+		console.log("_deltaX:"+_deltaX+" _deltaY:"+_deltaY+"    "+"px:"+(p.x - stateOrigin.x)+" py:"+(p.y - stateOrigin.y));
 	} else if(state == 'drag' && enableDrag) {
 		// Drag mode
 		var p = getEventPoint(evt).matrixTransform(g.getCTM().inverse());
-		var deltaX = p.x - stateOrigin.x;
-		var deltaY = p.y - stateOrigin.y;
-		console.log("deltaX:"+deltaX+" deltaY:"+deltaY);
+		var _deltaX = p.x - stateOrigin.x;
+		var _deltaY = p.y - stateOrigin.y;
+		console.log("_deltaX:"+_deltaX+" _deltaY:"+_deltaY);
 		//setCTM(stateTarget, root.createSVGMatrix().translate(p.x - stateOrigin.x, p.y - stateOrigin.y).multiply(g.getCTM().inverse()).multiply(stateTarget.getCTM()));
 
 		stateOrigin = p;
@@ -420,10 +420,10 @@ function svgMove(g, x, y){
  * Handle click event.
  */
 
-var pre_dx = 0;
-var pre_dy = 0;
-var origin_dx = 0;
-var origin_dy = 0;
+var _pre_dx = 0;
+var _pre_dy = 0;
+var _origin_dx = 0;
+var _origin_dy = 0;
 
 function handleMouseDown(evt) {
 
@@ -438,8 +438,8 @@ function handleMouseDown(evt) {
 
   var p = getEventPoint(evt);
 
-  pre_dx = p.x;
-  pre_dy = p.y;
+  _pre_dx = p.x;
+  _pre_dy = p.y;
 
 	var g = getRoot(svgDoc);
 
@@ -454,8 +454,8 @@ function handleMouseDown(evt) {
 
 		stateOrigin = getEventPoint(evt).matrixTransform(stateTf);
 		//console.log("Point:"+getEventPoint(evt).x+" "+getEventPoint(evt).y);
-		handler_x = stateOrigin.x;
-		handler_y = stateOrigin.y;
+		_handler_x = stateOrigin.x;
+		_handler_y = stateOrigin.y;
 	} else {
 		// Drag mode
 		state = 'drag';
@@ -482,32 +482,32 @@ function handleMouseUp(evt) {
 
   var p = getEventPoint(evt);
 
-  tMapMove(pre_dx - p.x, pre_dy - p.y);
-  svgMove(g, (pre_dx - p.x)*level, (pre_dy - p.y)*level);
+  tMapMove(_pre_dx - p.x, _pre_dy - p.y);
+  svgMove(g, (_pre_dx - p.x)*_level, (_pre_dy - p.y)*_level);
 
-  origin_dx = origin_dx + (pre_dx - p.x);
-  origin_dy = origin_dy + (pre_dy - p.y);
+  _origin_dx = _origin_dx + (_pre_dx - p.x);
+  _origin_dy = _origin_dy + (_pre_dy - p.y);
 
   // tMapMove(-10, 0);
-  // svgMove(g, -10*level, 0*level);
+  // svgMove(g, -10*_level, 0*_level);
   //
-  // origin_dx = origin_dx - 10;
-  // origin_dy = origin_dy + 0;
+  // _origin_dx = _origin_dx - 10;
+  // _origin_dy = _origin_dy + 0;
 
-  console.log("dx:"+origin_dx+"   ,dy:"+origin_dy +"   ,level:"+level);
+  console.log("dx:"+_origin_dx+"   ,dy:"+_origin_dy +"   ,_level:"+_level);
 
 	if(state == 'pan' || state == 'drag') {
 		// Quit pan mode
 		state = '';
 	}
-	handler_x = 0;
-	handler_y = 0;
-	if(isMoved){
+	_handler_x = 0;
+	_handler_y = 0;
+	if(_isMoved){
 		reloadWindow();
-		isMoved = false;
+		_isMoved = false;
 	}
-	pre_DeltaX = 0;
-	pre_DeltaY = 0;
+	_pre__deltaX = 0;
+	_pre__deltaY = 0;
 
 
 }
