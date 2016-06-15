@@ -1,5 +1,5 @@
 /**
- *
+ * 
  */
 package edu.tongji.webgis.svg.matching;
 
@@ -24,11 +24,13 @@ public class DiffSVG implements MatchingAlgorithm {
 	 * The result script to be generated
 	 */
 	public String script = "";
+	
+	public String diffScript = "";
 
 	public SvgOneChangeLog changeLog;
-
+	
 	public boolean[] isTraversed;
-
+	
 	public SortedIVTD temp;
 
 	/*
@@ -51,15 +53,17 @@ public class DiffSVG implements MatchingAlgorithm {
 		ivg2.parse();
 
 		this.script += "<?xml version='1.0' encoding='UTF-8'?>\n<root xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n";
+        this.diffScript += "<?xml version='1.0' encoding='UTF-8'?>\n<root xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n";
 		SVG_Script(ivg, ivg2, SVG_Match(ivg, ivg2));
 		this.script += "\n</root>\n";
+		this.diffScript +="\n</root>\n";
 		// System.out.print(this.script);
-		return this.script;
+		return this.diffScript;
 
 	}
 
 	/**
-	 *
+	 * 
 	 * @param fn1
 	 *            File location of SVG1
 	 * @param fn2
@@ -201,10 +205,11 @@ public class DiffSVG implements MatchingAlgorithm {
 						str += " " + new String(SVG1.getB(), VTD[i][3], VTD[i][2]);
 					}
 				} // for i
-				// script +="<delete XPath='"+SVG1.getPosition(j)+"'>\n"+
-				// str+"\n</delete>\n";//将要删除的节点也输出
+					// script +="<delete XPath='"+SVG1.getPosition(j)+"'>\n"+
+					// str+"\n</delete>\n";//将要删除的节点也输出
 				String tempXPath = changeLog.getChangedPosition(SVG1.getPosition(j));
 				script += "<delete XPath='" + tempXPath + "'/>\n";
+				diffScript += "<delete XPath='" + SVG1.getPosition(j) + "'/>\n";
 				int tempChildNums = changeLog.childNums.get(SVG1.getPosition(j));
 				if(tempChildNums > 0){
 					String tempStr = getFirstChild(SVG1.getPosition(j));
@@ -214,6 +219,9 @@ public class DiffSVG implements MatchingAlgorithm {
 					//tempChildNums = getNextBrotherChildNums(SVG1.getPosition(j));
 				}
 				changeLog.childNodesNum.add(tempChildNums);
+//				if(tempXPath.equals("/svg")){
+//					tempXPath = tempXPath + "[1]";
+//				}
 				changeLog.addChangeLog(2, tempXPath);
 				// script +="<delete XPath='"+SVG1.getPosition(j)+"'/>\n";
 			}
@@ -243,6 +251,7 @@ public class DiffSVG implements MatchingAlgorithm {
 				// tempXPath =
 				// changeLog.getChangedPosition(SVG2.getPosition(j));
 				script += "<insert XPath='" + tempXPath + "'>\n" + str + "\n</insert>\n";
+				diffScript += "<insert XPath='" + tempXPath + "'>\n" + str + "\n</insert>\n";
 				changeLog.addChangeLog(1, tempXPath);
 				changeLog.childNodesNum.add(1);
 				// script +="<insert XPath='"+SVG2.getPosition(j)+"'>\n"+
@@ -318,6 +327,8 @@ public class DiffSVG implements MatchingAlgorithm {
 						// XPath=\'"+SVG2.getPosition(j)+"\'>\n"+str+"\n</move>\n";
 						script += "<move FromXPath=\'" + tempXPath1 + "\'" + " ToXPath=\'" + tempXPath2 + "\'>\n" + str
 								+ "\n</move>\n";
+						diffScript += "<move FromXPath=\'" + SVG1.getPosition(x) + "\'" + " ToXPath=\'" + tempXPath2 + "\'>\n" + str
+								+ "\n</move>\n";
 						changeLog.addChangeLog(2, tempXPath1);
 						int tempChildNums = changeLog.childNums.get(SVG1.getPosition(x));
 //						if (tempChildNums > 0) {
@@ -359,51 +370,51 @@ public class DiffSVG implements MatchingAlgorithm {
 	}
 
 	public Map<Integer,Integer> matchFragment(int posX, Integer posY, Map<Integer,Integer> map, Map<Integer,Integer> mMap,
-											  IVTDGen SVG1,IVTDGen SVG2, Vector<String> E1_s, Vector<String> E2_s){
+			IVTDGen SVG1,IVTDGen SVG2, Vector<String> E1_s, Vector<String> E2_s){
 		int LCposX = SVG1.getLC()[posX][0];
 		int LCposY = SVG2.getLC()[posY][0];
 		if(!map.containsKey(LCposX)&&!map.containsValue(LCposY)&&E1_s.get(posX).equals(E2_s.get(posY))){
 			mMap.put(LCposX, LCposY);
-			int childCountSVG1 = 0;
-			String oldXPath = SVG1.getPosition(posX);
-			Vector<Integer> childPosOfSVG1 = new Vector<Integer>();
-			for(int k=0; k<SVG1.getLCCount(); k++){
-				String potentialChildXPath = SVG1.getPosition(k);
+    		int childCountSVG1 = 0;
+    		String oldXPath = SVG1.getPosition(posX);
+    		Vector<Integer> childPosOfSVG1 = new Vector<Integer>();
+    		for(int k=0; k<SVG1.getLCCount(); k++){
+    			String potentialChildXPath = SVG1.getPosition(k);
 				if (potentialChildXPath.contains(oldXPath)
-						&& potentialChildXPath.length() > oldXPath.length()&& numsOfChar(potentialChildXPath,"]") ==
-						(numsOfChar(oldXPath,"]")+1)) {
+						&& potentialChildXPath.length() > oldXPath.length()&& numsOfChar(potentialChildXPath,"]") == 
+								(numsOfChar(oldXPath,"]")+1)) {
 					childPosOfSVG1.add(k);
 					childCountSVG1++;
 				}
-			}
-
-			int childCountSVG2 = 0;
-			oldXPath = SVG2.getPosition(posY);
-			Vector<Integer> childPosOfSVG2 = new Vector<Integer>();
-			for(int k=0; k<SVG2.getLCCount(); k++){
-				String potentialChildXPath = SVG2.getPosition(k);
+    		}
+    		
+    		int childCountSVG2 = 0;
+    		oldXPath = SVG2.getPosition(posY);
+    		Vector<Integer> childPosOfSVG2 = new Vector<Integer>();
+    		for(int k=0; k<SVG2.getLCCount(); k++){
+    			String potentialChildXPath = SVG2.getPosition(k);
 				if (potentialChildXPath.contains(oldXPath)
-						&& potentialChildXPath.length() > oldXPath.length()&& numsOfChar(potentialChildXPath,"]") ==
-						(numsOfChar(oldXPath,"]")+1)) {
+						&& potentialChildXPath.length() > oldXPath.length()&& numsOfChar(potentialChildXPath,"]") == 
+								(numsOfChar(oldXPath,"]")+1)) {
 					childPosOfSVG2.add(k);
 					childCountSVG2++;
 				}
-			}
-
-			int childCount = childCountSVG1 <= childCountSVG2 ? 1 : 2;
-			if(childCount == 1){
-				for(int i = 0;i<childCountSVG1;i++){
-					matchFragment(childPosOfSVG1.get(i),childPosOfSVG2.get(i),map,mMap,SVG1,SVG2,E1_s,E2_s);
-				}
-			}else{
-				for(int i = 0;i<childCountSVG2;i++){
-					matchFragment(childPosOfSVG2.get(i),childPosOfSVG1.get(i),map,mMap,SVG1,SVG2,E1_s,E2_s);
-				}
-			}
+    		}
+    		
+    		int childCount = childCountSVG1 <= childCountSVG2 ? 1 : 2;
+    		if(childCount == 1){
+    			for(int i = 0;i<childCountSVG1;i++){
+    				matchFragment(childPosOfSVG1.get(i),childPosOfSVG2.get(i),map,mMap,SVG1,SVG2,E1_s,E2_s);
+    			}
+    		}else{
+    			for(int i = 0;i<childCountSVG2;i++){
+    			  matchFragment(childPosOfSVG2.get(i),childPosOfSVG1.get(i),map,mMap,SVG1,SVG2,E1_s,E2_s);
+    			}
+    		}
 		}
 		return mMap;
 	}
-
+	
 	public int numsOfChar(String str, String ch){
 		int num = 0;
 		for(int index=0 ; index<str.length();index++){
@@ -413,7 +424,7 @@ public class DiffSVG implements MatchingAlgorithm {
 		}
 		return num;
 	}
-
+	
 	public int getNextBrotherChildNums(String str){
 		int index = changeLog.getFinalLayerIndex(str);
 		String nextBrotherIndex = str.substring(0,str.lastIndexOf('*')+1) + '[' + (index+1) + ']';
@@ -423,9 +434,9 @@ public class DiffSVG implements MatchingAlgorithm {
 			return 0;
 		}
 	}
-
+	
 	public String getFirstChild(String str){
-		str = str + "/*[1]";
+		str = str + "/*[1]"; 
 		return str;
 	}
 }

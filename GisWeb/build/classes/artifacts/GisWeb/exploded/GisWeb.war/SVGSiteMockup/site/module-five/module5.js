@@ -217,7 +217,7 @@ angular.module('app.module5', [
 
                                         for (i=0;i<nodes.length;i++)
                                         {
-                                            nodes[i].setAttribute("fill","red");
+                                            nodes[i].setAttribute("stroke","red");
                                         }
                             //          alert(nodes[0].childNodes[0].nodeValue);
                                     }
@@ -252,7 +252,7 @@ angular.module('app.module5', [
                                                     var p = document.createElement("text")
                                                     p.innerText = k;
                                                     p.setAttribute("font-size","20pt");
-                                                    p.setAttribute("fill","red");
+                                                    p.setAttribute("stroke","red");
                                                     p.setAttribute("x",x_coor);
                                                     p.setAttribute("y",y_coor);
                                                     p.setAttribute("text-anchor","end");
@@ -263,7 +263,7 @@ angular.module('app.module5', [
                                                     var p = document.createElement("text")
                                                     p.innerText = k;
                                                     p.setAttribute("font-size","20pt");
-                                                    p.setAttribute("fill","red");
+                                                    p.setAttribute("stroke","red");
                                                     p.setAttribute("x",x_coor);
                                                     p.setAttribute("y",y_coor);
                                                     p.setAttribute("text-anchor","end");
@@ -282,24 +282,24 @@ angular.module('app.module5', [
                                                 for(var j =0 ;j<attrs.length;j++)
                                                 {
                                                     if(attrs[j]!="")
-                                                    if(attrs[j].indexOf("fill:")==-1)
+                                                    if(attrs[j].indexOf("stroke:")==-1)
                                                     {
                                                         new_attr=new_attr+attrs[j]+";";
                                                     }
                                                     else
                                                     {
-                                                        new_attr=new_attr+"fill:red"+";";
+                                                        new_attr=new_attr+"stroke:red"+";";
                                                         isexist_attr=true;
                                                     }
 
                                                 }
                                                 if(!isexist_attr)
-                                                    new_attr=new_attr+"fill:red"+";";
+                                                    new_attr=new_attr+"stroke:red"+";";
                                                 result.setAttribute("style",new_attr);
                                             }
                                             else
                                             {
-                                                result.setAttribute("style","fill:red");
+                                                result.setAttribute("style","stroke:red");
                                             }
                                         	}
                                         }
@@ -334,7 +334,7 @@ angular.module('app.module5', [
 
                                         for (i=0;i<nodes.length;i++)
                                         {
-                                            nodes[i].setAttribute("fill","red");
+                                            nodes[i].setAttribute("stroke","red");
                                         }
                             //          alert(nodes[0].childNodes[0].nodeValue);
                                     }
@@ -374,7 +374,7 @@ angular.module('app.module5', [
                                                     var p = document.createElement("text")
                                                     p.innerText = k;
                                                     p.setAttribute("font-size","20pt");
-                                                    p.setAttribute("fill","blue");
+                                                    p.setAttribute("stroke","blue");
                                                     p.setAttribute("x", x_coor);
                                                     p.setAttribute("y", y_coor);
                                                     p.setAttribute("text-anchor","end");
@@ -385,7 +385,7 @@ angular.module('app.module5', [
                                                     var p = document.createElement("text")
                                                     p.innerText = k;
                                                     p.setAttribute("font-size","20pt");
-                                                    p.setAttribute("fill","blue");
+                                                    p.setAttribute("stroke","blue");
                                                     p.setAttribute("x", x_coor);
                                                     p.setAttribute("y", y_coor);
                                                     p.setAttribute("text-anchor","end");
@@ -410,19 +410,19 @@ angular.module('app.module5', [
                                                     }
                                                     else
                                                     {
-                                                        new_attr=new_attr+"fill:blue"+";";
+                                                        new_attr=new_attr+"stroke:blue"+";";
                                                         isexist_attr=true;
                                                     }
 
                                                 }
                                                 if(!isexist_attr)
-                                                    new_attr=new_attr+"fill:blue"+";";
+                                                    new_attr=new_attr+"stroke:blue"+";";
                                                 result.setAttribute("style",new_attr);
 
                                             }
                                             else
                                             {
-                                                result.setAttribute("style","fill:blue");
+                                                result.setAttribute("style","stroke:blue");
                                             }
 
                                         	}

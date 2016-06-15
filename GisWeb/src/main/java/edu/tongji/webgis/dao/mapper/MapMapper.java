@@ -16,4 +16,6 @@ public interface MapMapper {
     public List<SMap> selectMapsByTag(String tag);
 
     public void insertMap(SMap map) throws DataAccessException;
+
+    public String selectMapNameByTag(String tag);
 }

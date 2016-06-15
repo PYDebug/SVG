@@ -20,7 +20,8 @@ angular.module('app.module1', [
                         function ($scope, $state) {
 
                             //Content in controller
-
+                            _pre_level = 1;
+                            _level = 1;
                         }]
                 })
         }]

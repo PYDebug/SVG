@@ -139,8 +139,12 @@ function loadMap(evt) {
 
 function loadMapByRoot(root) {
 	g = root.getElementById("viewport");
+	//g.setAttributeNS(null, "transform", "matrix(0,0,0,0,500,500)")
+	if(typeof(stateTf) == "undefined")
+		stateTf = g.getCTM().inverse();
+	svgMove(g, 500,220)
 	svgRoot = g;
-	svgCanvasRoot = g.getElementsByClassName("content")[0];;
+	svgCanvasRoot = g.getElementsByClassName("content")[0];
 	var base = g.getElementsByClassName("baseLayer")[0];
 	baseLayerRoot = base;
 	var parent = root.parentNode;

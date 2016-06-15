@@ -80,4 +80,9 @@ public class MapServiceImpl implements MapService{
         }
     }
 
+    @Override
+    public String getMapnameByTag(String tag) {
+        return mapMapper.selectMapNameByTag(tag);
+    }
+
 }

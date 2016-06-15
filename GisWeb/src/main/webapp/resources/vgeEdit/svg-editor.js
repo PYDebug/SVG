@@ -28,7 +28,7 @@
 		var is_ready = false;
 
 		var defaultPrefs = {
-			lang:'en',
+			lang:'zh-CN',
 			iconsize:'m',
 			bkgd_color:'#FFF',
 			bkgd_url:'',
@@ -3995,6 +3995,7 @@
 
 			$('#tool_locate').click(function(){
 				$('#locateBox').css('display','block');
+				$('#locateBox').css('z-index','10000');
 				/*svgCanvas.call('zoomed',{
 					'x': 100,
 					'y': 100,

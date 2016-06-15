@@ -3362,7 +3362,21 @@ var getMouseTarget = this.getMouseTarget = function(evt) {
 					'width': 0,
 					'height': 0
 				};
-				bbox.factor = 1.1;
+				//bbox.factor = 2;
+				if (cur_z < 3) {
+					bbox.factor = 2;
+					// cur_z = cur_z+1;z = 2;
+					z = 2;
+					cur_z = cur_z+1;
+		      // pre_level= level;
+		      level = level/2;
+					tmap.zoomIn();
+				}
+				else {
+					bbox.factor = 1;
+					z = 1;
+				}
+
 				call("zoomed", bbox);
 				reloadBaseMap(workarea);
 				return;
@@ -3392,7 +3406,20 @@ var getMouseTarget = this.getMouseTarget = function(evt) {
 					'width': 0,
 					'height': 0
 				};
-				bbox.factor = 0.9;
+				// bbox.factor = 0.5;
+				if (cur_z >-10) {
+					bbox.factor = .5;
+					// cur_z = cur_z-1;
+					z = 0.5;
+					cur_z = cur_z-1;
+		      // pre_level= level;
+		      level = level*2;
+					tmap.zoomOut();
+				}else {
+					bbox.factor = 1;
+					z = 1;
+				}
+
 				call("zoomed", bbox);
 				reloadBaseMap(workarea);
 				return;
@@ -3704,26 +3731,28 @@ var getMouseTarget = this.getMouseTarget = function(evt) {
 					cur_z = cur_z+1;
 		      // pre_level= level;
 		      level = level/2;
+					tmap.zoomIn();
 				}
 				else {
 					bbox.factor = 1;
 					z = 1;
 				}
-				tmap.zoomIn();
+
 				// bbox.factor = 1.1;
 			} else  {
-				if (cur_z >-14) {
+				if (cur_z >-10) {
 					bbox.factor = .5;
 					// cur_z = cur_z-1;
 					z = 0.5;
 					cur_z = cur_z-1;
 		      // pre_level= level;
 		      level = level*2;
+					tmap.zoomOut();
 				}else {
 					bbox.factor = 1;
 					z = 1;
 				}
-				tmap.zoomOut();
+
 				// bbox.factor = .90;
 			}
 		// } else if(e.detail) {

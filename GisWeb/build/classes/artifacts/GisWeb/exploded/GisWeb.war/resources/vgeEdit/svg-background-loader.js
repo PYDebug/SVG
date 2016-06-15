@@ -64,13 +64,13 @@ function initLocation(w_area){
 }
 
 function resetWindowLocation(){
-	if (Baidu == 0) {
-		return;
-	}
+	// if (Baidu == 0) {
+	// 	return;
+	// }
 	offsetLeft = $('#workarea').width()/2;
 	offsetTop = $('#workarea').height()/2;
 	//console.log(offsetLeft+" "+waHeight);
-	svgEditor.updateCanvas(false,{x:offsetLeft,y:offsetTop});
+	svgEditor.updateCanvas(false,{x:10000,y:10000});
 }
 
 function reloadBaseMap(w_area){

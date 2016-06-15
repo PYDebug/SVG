@@ -17,4 +17,6 @@ public interface MapService {
     public int getRecentMapVersion(String layer);
 
     public void addNewMap(String tag, String name, Date ts, int version , int type) throws DataAccessException;
+
+    public String getMapnameByTag(String tag);
 }

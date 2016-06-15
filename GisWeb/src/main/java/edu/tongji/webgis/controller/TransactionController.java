@@ -633,7 +633,8 @@ public class TransactionController {
 			}
 			is.close();
 			//newVersion = MapCategory.getInstance().addTimeStamp(mapId, timeStamp);
-			String mapname = MapCategory.getInstance().getNameByTag(mapId);
+			//String mapname = MapCategory.getInstance().getNameByTag(mapId);
+			String mapname = ms.getMapnameByTag(mapId);
 			SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
 			Date ts = sdf.parse(timeStamp);
 			ms.addNewMap(mapId, mapname, ts, ms.getRecentMapVersion(mapId) + 1, 1);

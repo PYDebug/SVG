@@ -17,4 +17,8 @@
         insert into maps(tag,name,createtime,version,type) values(#{tag},#{name},#{createtime},#{version},#{type})
     </insert>
 
+    <select id="selectMapNameByTag" parameterType="String" resultType="String">
+        select name from (select * from maps group by tag) as tp where tag = #{tag}
+    </select>
+
 </mapper>
