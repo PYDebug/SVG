@@ -165,6 +165,12 @@
             	}
               var map;
               var tmap;
+              var delta_x = 0;
+              var delta_y = 0;
+              var dd_x = 0;
+              var dd_y = 0;
+              var total_x = 0, total_y =0;
+              var tmap_level = 15;
             	initMap();
             </script>
         </div>
@@ -480,8 +486,8 @@
             </div>
             <div style="float:right;">
 
-                <input id="tool_input" type="text"  placeholder="Serach" style="border-radius:5px;width:140px;">
-                <input id="tool_search" onclick="search_content()" class="btn btn-default" type="submit" value="search" style="height:23px;margin-top:5px;padding:2px;border-radius:5px;">
+                <!-- <input id="tool_input" type="text"  placeholder="Serach" style="border-radius:5px;width:140px;">
+                <input id="tool_search" onclick="search_content()" class="btn btn-default" type="submit" value="search" style="height:23px;margin-top:5px;padding:2px;border-radius:5px;"> -->
 
             </div>
         </div>
@@ -850,6 +856,7 @@
             $("#editBox").css("display","none");
         };
 
+
     function locatePt(){
     	if(!isBaseLoaded){
 			initLocation($('#workarea')[0]);
@@ -857,9 +864,29 @@
         var lon = $('#locateLon').val();
         var lat = $('#locateLat').val();
         if(lon!=""&&lat!=""){
-        	var coord = transLonLatToCoordinate(lon,lat);
-        	svgEditor.updateCanvas(false,{x:parseFloat(coord.x),y:parseFloat(coord.y)});
-        	reloadBaseMap($('#workarea')[0]);
+          // alert(lon);
+        	// var coord = transLonLatToCoordinate(lon,lat);
+        	// svgEditor.updateCanvas(false,{x:parseFloat(coord.x),y:parseFloat(coord.y)});
+        	// reloadBaseMap($('#workarea')[0]);
+          var new_ll = new TLngLat(lon, lat);//new TLngLat(116.40969,39.89945);new TLngLat(121.37643814087016, 31.321206092834267)
+
+          console.log("maplevel: "+tmap.getZoom());
+
+          var current_x = tmap.fromLngLatToContainerPixel(tmap.getCenter()).x;
+          var current_y = tmap.fromLngLatToContainerPixel(tmap.getCenter()).y;
+
+          var new_x = tmap.fromLngLatToContainerPixel(new_ll).x;
+          var new_y = tmap.fromLngLatToContainerPixel(new_ll).y;
+
+          //tmap.setCenterAtLngLat(new_ll);
+           tmap.panBy(new TSize(new_x - current_x, new_y - current_y));
+
+          total_x+= (new_x - current_x)*level;
+          total_y+= (new_y - current_y)*level;
+
+          svgMove(total_x, total_y, false);
+          console.log("move: "+ (new_x - current_x));
+
         }
         $('#locateBox').css('display','none');
     }

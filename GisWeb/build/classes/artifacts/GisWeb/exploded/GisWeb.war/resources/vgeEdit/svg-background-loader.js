@@ -156,14 +156,37 @@ function setCTM(element, matrix) {
 	element.setAttribute("transform", s);
 }
 
+var last_delta_x = 0, last_delta_y = 0;
 
-function svgMove(x, y){
-	g = document.getElementsByTagName('g')[0];
-	var k = svgroot.createSVGMatrix().translate(-10, -10);
-	var s = "translate(" + (-x) + "," + (-y) + ")";
-	g.setAttribute("transform", s);
+function svgMove(x, y, isscale){
+	// g = document.getElementsByTagName('g')[0];
+	// var k = svgroot.createSVGMatrix().translate(-10, -10);
+	// var s = "translate(" + (-x) + "," + (-y) + ")";
+	// g.setAttribute("transform", s);
   //setCTM(g, g.getCTM().multiply(k));
-
+	delta_x = x;
+	delta_y = y;
+	//document.setAttribute();
 //	alert(g.length);
+	var coor = $("#svgcontent")[0].getAttribute("viewBox");
+	var tx = parseInt(coor.split(' ')[0]);
+	var ty = parseInt(coor.split(' ')[1]);
 
+	$("#svgcontent")[0].setAttribute("viewBox",x+" "+y+" 2000 1000");
+
+	var tran = $("#selectorParentGroup")[0].getAttribute("transform").substring(10, $("#selectorParentGroup")[0].getAttribute("transform").length-1);
+	var tranx = parseInt(tran.split(',')[0]);
+	var trany = parseInt(tran.split(',')[1]);
+	if (isscale) {
+		var new_tranx = tranx-x/level;
+		var new_trany = trany-y/level;
+	}else{
+		var new_tranx = tranx+last_delta_x-x/level;
+		var new_trany = trany+last_delta_y-y/level;
+	}
+
+	last_delta_x = x/level;
+	last_delta_y = y/level;
+
+	$("#selectorParentGroup")[0].setAttribute("transform", "translate("+new_tranx+","+new_trany+")");
 }

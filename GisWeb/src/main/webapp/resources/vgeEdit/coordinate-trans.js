@@ -1,4 +1,4 @@
-var baseMapLevel = 15; 
+var baseMapLevel = 15;
 
 /**
  * Created by SHIKUN on 2015/10/10.
@@ -28,11 +28,11 @@ function transLonLatToCoordinate(lon,lat) {
         2: 0.3515625,
         1: 0.703125
     };
-    var coef = tdtScale[baseMapLevel] * 256;
+    var coef = tdtScale[tmap.getZoom()] * 256;
 
     var x_num = (lon - topTileFromX) / coef;
     var y_num = (topTileFromY - lat) / coef;
-    
+
     x_num = (x_num-x_base_zero)*50;
     y_num = (y_num-y_base_zero)*50;
     return {x:x_num,y:y_num};
@@ -64,7 +64,7 @@ function transCoordinateToLonLat(x_num,y_num) {
         2: 0.3515625,
         1: 0.703125
     };
-    
+
     x_num = x_num/50 + x_base_zero;
     y_num = y_num/50 + y_base_zero;
 

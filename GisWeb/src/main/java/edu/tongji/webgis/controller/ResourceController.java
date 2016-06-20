@@ -129,21 +129,28 @@ public class ResourceController {
 		if(to-from<=0) return false; 
 		String fileLocation = id + "_" + to + "_" + from + ".xml";
 		File file = new File(location,fileLocation);
-		if(file.exists()){
-			System.out.println("file " + fileLocation +" exists");
-			return true;
-		}else if(deepSearch){
-			if( getMap(location,id,to,false) && getMap(location,id,from,false)){
-				System.out.println(fileLocation + " has two maps");
-				MatchingService service = new MatchingService(location);
-				service.MatchSVG(id, from+"", to+"", new DiffSVG());
-			}
-			System.out.println("file " + fileLocation +" not exist");
-			return false;
-		}else{
-			System.out.println("file " + fileLocation +" not exist");
-			return false;
+//		if(file.exists()){
+//			System.out.println("file " + fileLocation +" exists");
+//			return true;
+//		}else if(deepSearch){
+//			if( getMap(location,id,to,false) && getMap(location,id,from,false)){
+//				System.out.println(fileLocation + " has two maps");
+//				MatchingService service = new MatchingService(location);
+//				service.MatchSVG(id, from+"", to+"", new DiffSVG());
+//			}
+//			System.out.println("file " + fileLocation +" not exist");
+//			return false;
+//		}else{
+//			System.out.println("file " + fileLocation +" not exist");
+//			return false;
+//		}
+		if( getMap(location,id,to,false) && getMap(location,id,from,false)){
+			System.out.println(fileLocation + " has two maps");
+			MatchingService service = new MatchingService(location);
+			service.MatchSVG(id, from+"", to+"", new DiffSVG());
 		}
+		System.out.println("file " + fileLocation +" not exist");
+		return false;
 	}
 	
 	public boolean getLayerDiff(String location,String layer, int to, int from, boolean deepSearch){

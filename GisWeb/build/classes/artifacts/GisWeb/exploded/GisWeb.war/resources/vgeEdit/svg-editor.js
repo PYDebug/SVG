@@ -2185,7 +2185,7 @@
 				return p;
 			}
 
-			var total_x = 0 , total_y = 0;
+			// var total_x = 0 , total_y = 0;
 			//var editor_level = 1;
 
 			(function() {
@@ -2225,7 +2225,7 @@
 						tmap.panBy(new TSize(pre_x - p.x, pre_y - p.y));
 						total_x += ((pre_x - p.x)*level);
 						total_y += ((pre_y - p.y)*level);
-						svgMove(total_x, total_y);
+						svgMove(total_x, total_y, false);
 					}
 
 					return false;

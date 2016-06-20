@@ -25,6 +25,7 @@
 var cur_z = 0;
 var level = 1;
 
+
 if(!window.console) {
 	window.console = {};
 	window.console.log = function(str) {};
@@ -280,6 +281,10 @@ var addSvgElementFromJson = this.addSvgElementFromJson = function(data) {
 	}
 	svgedit.utilities.assignAttributes(shape, data.attr, 100);
 	svgedit.utilities.cleanupElement(shape);
+	// svgedit.utilities.assignAttributes(shape, {
+	// 	"transform":"translate("+ (-delta_x) +","+ (-delta_y) +")"
+	// }, 100);
+	console.log("delta_x: "+delta_x+"     "+delta_y);
 	return shape;
 };
 
@@ -3379,6 +3384,7 @@ var getMouseTarget = this.getMouseTarget = function(evt) {
 
 				call("zoomed", bbox);
 				reloadBaseMap(workarea);
+				svgMove(delta_x, delta_y, true);
 				return;
 			case "zoom_in":
 				if (rubberBox != null) {
@@ -3422,6 +3428,7 @@ var getMouseTarget = this.getMouseTarget = function(evt) {
 
 				call("zoomed", bbox);
 				reloadBaseMap(workarea);
+				svgMove(delta_x, delta_y, true);
 				return;
 			case "fhpath":
 				// Check that the path contains at least 2 points; a degenerate one-point path
@@ -3755,6 +3762,7 @@ var getMouseTarget = this.getMouseTarget = function(evt) {
 
 				// bbox.factor = .90;
 			}
+
 		// } else if(e.detail) {
 		// 	if (e.detail > 0) {
 		// 		if (cur_z<3) {
@@ -3793,9 +3801,9 @@ var getMouseTarget = this.getMouseTarget = function(evt) {
 		//dynamic loading for mousewheel event
 
 		if (workarea.scrollLeft!==7065 && workarea.scrollTop!==5460) {
-
-							reloadBaseMap(workarea);
-						};
+			reloadBaseMap(workarea);
+		};
+		svgMove(delta_x, delta_y, true);
 	});
 
 }());
