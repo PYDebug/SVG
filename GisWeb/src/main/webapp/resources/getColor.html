@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src=" http://api.tianditu.com/js/maps.js" type="text/javascript"></script>
+    <script src="//cdn.bootcss.com/jquery/3.0.0-beta1/jquery.min.js"></script>
+    <script>
+        (function($) {
+            $.extend({
+                urlGet:function()
+                {
+                    var aQuery = window.location.href.split("?");  //取得Get参数
+                    var aGET = new Array();
+                    if(aQuery.length > 1)
+                    {
+                        var aBuf = aQuery[1].split("&");
+                        for(var i=0, iLoop = aBuf.length; i<iLoop; i++)
+                        {
+                            var aTmp = aBuf[i].split("=");  //分离key与Value
+                            aGET[aTmp[0]] = aTmp[1];
+                        }
+                    }
+                    return aGET;
+                }
+            })
+        })(jQuery);
+        var map;
+        var zoom = 15;
+        var lng,lat;
+    </script>
+</head>
+<body onload="onload()" style="margin: 0">
+    <div id="tmap" style="position:absolute;width:101px; height:101px"></div>
+    <script>
+        function onload()
+        {
+
+            var GET = $.urlGet();
+            lng = GET['lng'];
+            lat = GET['lat'];
+            map = new TMap('tmap');
+            //用传进来的经纬度作为参数 在天地图上定位
+            map.centerAndZoom(new TLngLat(lng,lat),zoom);
+        }
+    </script>
+</body>
+</html>

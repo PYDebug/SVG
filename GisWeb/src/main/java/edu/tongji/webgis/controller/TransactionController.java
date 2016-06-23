@@ -1,5 +1,6 @@
 package edu.tongji.webgis.controller;
 
+import java.awt.image.BufferedImage;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
@@ -14,6 +15,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
+import javax.imageio.ImageIO;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.xml.parsers.ParserConfigurationException;
@@ -684,6 +686,60 @@ public class TransactionController {
 	                out.close();  
 	            }  
 		}
+
+	}
+
+
+	public String getImagePixel(String image) throws Exception {
+		int[] rgb = new int[3];
+		File file = new File(image);
+		BufferedImage bi = null;
+		try {
+				bi = ImageIO.read(file);
+			} catch (Exception e) {
+				e.printStackTrace();
+			}
+		int width = bi.getWidth();
+		int height = bi.getHeight();
+		int minx = bi.getMinX();
+		int miny = bi.getMinY();
+		int pixel = bi.getRGB(width/2, height/2); //下面三行代码将一个数字转换为RGB数字
+		rgb[0] = (pixel & 0xff0000) >> 16;
+		rgb[1] = (pixel & 0xff00) >> 8;
+		rgb[2] = (pixel & 0xff);
+		return ("{\"R\":"+rgb[0]+",\"G\":"+rgb[1]+",\"B\":"+rgb[2]+"}");
+	}
+
+	@RequestMapping(value = "/api/getColor",method = RequestMethod.POST)
+	public void getColor(HttpServletRequest request,HttpServletResponse response) throws Exception {
+		String s="";
+		float lng = Float.parseFloat(request.getParameter("lng"));
+		float lat = Float.parseFloat(request.getParameter("lat"));
+		String phanthomPath = request.getSession().getServletContext()
+						.getRealPath("/resources/phantomjs");
+		String rasterizePath = request.getSession().getServletContext()
+						.getRealPath("/resources/rasterize.js");
+		String phantomPicPath = request.getSession().getServletContext()
+						.getRealPath("/resources/phantomPic.png");
+		//执行phanthom.js 生成图片
+		String command = "phantomjs" + " " + rasterizePath +" \"http://localhost:8080/resources/getColor.html?lng="+lng+"&lat="+lat+"\" " + phantomPicPath ;
+//					command = "touch "+phantomPicPath;
+		System.out.println(command);
+		try {
+			Process process = Runtime.getRuntime().exec(command);
+			int exitVal = process.waitFor();
+			System.out.println(exitVal);
+		}catch (Exception e){
+			System.out.println(e.toString());
+		}
+
+
+		s = getImagePixel(phantomPicPath);
+
+		response.setContentType("application/json; charset=utf-8");
+		PrintWriter out = response.getWriter();
+		out.println(s);
+		System.out.println(s);
 
 	}
 

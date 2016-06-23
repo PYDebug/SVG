@@ -42,12 +42,14 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
         tokenFilter.setResourceUrl(env.getProperty("url.resource"));
         tokenFilter.setSaveUrl(env.getProperty("url.save"));
         tokenFilter.setRegisterUrl(env.getProperty("url.register"));
+        tokenFilter.setColorUrl(env.getProperty("url.color"));
 
         http.sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS).and()
                 .antMatcher("/api/**")
-            .addFilterBefore(tokenFilter, UsernamePasswordAuthenticationFilter.class).csrf()
+                .addFilterBefore(tokenFilter, UsernamePasswordAuthenticationFilter.class).csrf()
                 .disable().authorizeRequests().antMatchers(env.getProperty("url.signin")).permitAll()
                 .antMatchers(env.getProperty("url.register")).permitAll()
+                .antMatchers(env.getProperty("url.color")).permitAll()
                 .antMatchers("/resource/**").permitAll()
                 .antMatchers("/save**").permitAll()
                 .antMatchers("/api/**")

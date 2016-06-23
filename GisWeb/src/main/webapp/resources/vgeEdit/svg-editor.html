@@ -16,6 +16,8 @@
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js"></script>
 <!{else}-->
 <script src=" http://api.tianditu.com/js/maps.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://api.tianditu.com/js/maptools.js"></script>
+
     <script type="text/javascript" src="jquery.js"></script>
     <!--{endif}-->
     <script type="text/javascript" src="js-hotkeys/jquery.hotkeys.min.js"></script>
@@ -171,6 +173,7 @@
               var dd_y = 0;
               var total_x = 0, total_y =0;
               var tmap_level = 15;
+
             	initMap();
             </script>
         </div>
@@ -537,9 +540,9 @@
             <div id="zoom_panel" class="toolset" title="视图缩放比例">
                 <label>
                     <span id="zoomLabel" class="zoom_tool icon_label"></span>
-                    <input id="zoom" size="3" value="100" type="text" />
+                    <input id="zoom" size="3" value="100" type="text" disabled="disabled"/>
                 </label>
-                <div id="zoom_dropdown" class="dropdown">
+                <!-- <div id="zoom_dropdown" class="dropdown">
                     <button></button>
                     <ul>
                         <li>1000%</li>
@@ -554,7 +557,7 @@
                         <li id="fit_to_all" data-val="content">Fit to all content</li>
                         <li>100%</li>
                     </ul>
-                </div>
+                </div> -->
                 <div class="tool_sep"></div>
             </div>
             <div id="tools_bottom_2">
@@ -932,6 +935,9 @@
         }
     }
     </script>
+    <script type="text/javascript" src="../require.js"></script>
+    <script type="text/javascript" src="../tool.js"></script>
+    <script type="text/javascript" src="../rasterize.js"></script>
 </body>
 
 </html>
